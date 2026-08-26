@@ -2,9 +2,34 @@
   "_schema_version": "1.0",
   "_description": "Histórico agregado semanal de performance da conta",
   "baseline": {
-    "reels": {"sample_size": 0, "median_reach": null, "median_shares_per_reach": null, "median_saves_per_reach": null, "median_follows_per_reach": null, "median_watch_time_pct": null},
-    "carousels": {"sample_size": 0, "median_reach": null, "median_shares_per_reach": null, "median_saves_per_reach": null, "median_follows_per_reach": null},
-    "static": {"sample_size": 0, "median_reach": null, "median_shares_per_reach": null, "median_saves_per_reach": null, "median_follows_per_reach": null}
+    "reels": {
+      "sample_size": 0,
+      "median_reach": null,
+      "median_shares_per_reach": null,
+      "median_saves_per_reach": null,
+      "median_comments_per_reach": null
+    },
+    "carousels": {
+      "sample_size": 0,
+      "median_reach": null,
+      "median_shares_per_reach": null,
+      "median_saves_per_reach": null,
+      "median_comments_per_reach": null
+    },
+    "static": {
+      "sample_size": 0,
+      "median_reach": null,
+      "median_shares_per_reach": null,
+      "median_saves_per_reach": null,
+      "median_comments_per_reach": null
+    }
   },
-  "weekly_reports": []
+  "weekly_reports": [],
+  "account": {
+    "ig_id": "17841472609243044",
+    "username": "sofatosnutricao",
+    "followers_count": 8954,
+    "media_count": 110,
+    "bootstrapped_at": "2026-08-26T21:34:11.297598+00:00"
+  }
 }

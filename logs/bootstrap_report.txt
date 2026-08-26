@@ -1,0 +1,39 @@
+============================================================
+BOOTSTRAP — Instagram Agent
+============================================================
+
+[1] Validando token...
+    token         : EAALzi...ZDZD (len=306)
+    tipo          : USER
+    valido        : True
+    expira em     : 2026-08-26T23:00:00+00:00
+    permissoes    : pages_show_list, business_management, instagram_basic, instagram_content_publish, pages_read_engagement, public_profile
+::warning::token expira em menos de 7 dias — gere um novo Long-Lived Token
+
+[2] Descobrindo Instagram Business Account...
+    paginas retornadas: 1
+      - Somente os Fatos Nutrição (id 1018555838016184) -> IG: sofatosnutricao
+    pagina FB     : Somente os Fatos Nutrição (1018555838016184)
+    instagram     : @sofatosnutricao (17841472609243044)
+    seguidores    : 8954
+    posts         : 110
+
+[3] Puxando historico de publicacoes...
+    131 publicacoes encontradas
+
+[4] Coletando insights (pode levar alguns minutos)...
+    25/131...
+    50/131...
+    75/131...
+    100/131...
+    125/131...
+    concluido (131 sem insights — normal em posts antigos)
+
+[5] Calculando baselines por formato...
+    reel      n=  0  reach_mediano=None
+    carousel  n=  0  reach_mediano=None
+    static    n=  0  reach_mediano=None
+
+============================================================
+BOOTSTRAP OK — @sofatosnutricao | 131 posts importados
+============================================================
