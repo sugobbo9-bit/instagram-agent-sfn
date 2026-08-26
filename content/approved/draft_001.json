@@ -1,0 +1,109 @@
+{
+  "local_id": "draft_001",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-08-26T00:00:00Z",
+  "topic": "carboidratos durante exercício",
+  "content_pillar": "fueling",
+  "hook": "Você provavelmente está ingerindo carboidrato errado durante o treino.",
+  "experiment_tags": [
+    "hook:curiosity",
+    "topic:carboidratos",
+    "format:carousel",
+    "first_post"
+  ],
+  "username": "@sfnnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Você provavelmente está ingerindo carboidrato errado durante o treino.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O PROBLEMA",
+      "headline": "A maioria ingere apenas glicose.",
+      "body": "Géis, sachês e bebidas esportivas comuns são baseados em glicose ou maltodextrina.\n\nO problema: o intestino tem um limite de absorção de glicose — cerca de 60 g/hora.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A CIÊNCIA",
+      "headline": "Adicionar frutose muda o jogo.",
+      "body": "Glicose e frutose usam transportadores intestinais diferentes (SGLT1 e GLUT5).\n\nCombinados, chegam a 90 g de carboidrato por hora — sem comprometer o intestino.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "O QUE DIZEM OS DADOS",
+      "headline": "Até +8% de performance em provas longas.",
+      "body": "Meta-análises mostram que a combinação glicose:frutose (2:1 ou 1:0,8) melhora performance em exercícios acima de 2 horas comparado à glicose isolada.\n\n(Jeukendrup, 2014 — Sports Medicine)",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que isso muda para você?",
+      "body": "Treinos < 60 min → não precisa de carbo\nTreinos 60–90 min → 30–60 g/h (qualquer fonte)\nTreinos > 90 min → 60–90 g/h com mistura glicose:frutose",
+      "divider": true
+    },
+    {
+      "type": "warning",
+      "label": "ATENÇÃO",
+      "headline": "Treinar o intestino é obrigatório.",
+      "body": "90 g/hora sem adaptação = cólica garantida.\n\nComece com 30–40 g/h e aumente gradualmente ao longo de semanas.\n\nO intestino é treinável — mas leva tempo.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Salva esse carrossel.",
+      "body": "Na próxima corrida ou pedal longo, você vai querer ter isso na mão.\n\nSe foi útil, manda para o seu parceiro de treino.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A maioria dos atletas limita a absorção de carboidrato sem saber — e paga o preço nos quilômetros finais.\n\nO intestino tem dois transportadores distintos: SGLT1 para glicose e GLUT5 para frutose. Usar os dois ao mesmo tempo praticamente dobra a capacidade de absorção.\n\nIsso não é hipótese. Está em meta-análises revisadas com centenas de sujeitos.\n\nA combinação funciona. O intestino precisa ser treinado para ela. E os resultados aparecem em provas acima de 90 minutos.\n\nFonte: Jeukendrup AE. A Step Towards Personalized Sports Nutrition: Carbohydrate Intake During Exercise. Sports Med. 2014;44(Suppl 1):25–33.",
+  "cta": "Salva e manda para seu parceiro de treino.",
+  "scientific_sources": [
+    {
+      "title": "A Step Towards Personalized Sports Nutrition: Carbohydrate Intake During Exercise",
+      "authors": "Jeukendrup AE",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "supplement": "Suppl 1",
+      "pages": "25–33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "level": "A"
+    },
+    {
+      "title": "Oxidation of combined ingestion of glucose and fructose during exercise",
+      "authors": "Wallis GA, Rowlands DS, Shaw C, Jentjens RL, Jeukendrup AE",
+      "journal": "Journal of Applied Physiology",
+      "year": 2005,
+      "volume": "99",
+      "pages": "1974–1984",
+      "doi": "10.1152/japplphysiol.00322.2005",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_01.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_02.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_03.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_04.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_05.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_06.png",
+    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_07.png"
+  ],
+  "post_id_is_unique": true,
+  "notes": ""
+}

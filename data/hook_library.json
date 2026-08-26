@@ -1,0 +1,26 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Biblioteca de hooks organizados por família e tópico",
+  "hooks": [
+    {"id": "h001", "family": "CURIOSITY", "text": "Você provavelmente está usando carboidrato errado.", "topic": "carboidratos", "times_used": 0, "performance": []},
+    {"id": "h002", "family": "CONTRARIAN", "text": "Mais eletrólitos nem sempre é melhor.", "topic": "eletrólitos", "times_used": 0, "performance": []},
+    {"id": "h003", "family": "MISTAKE", "text": "O erro que destrói a sua nutrição no km 30.", "topic": "maratona", "times_used": 0, "performance": []},
+    {"id": "h004", "family": "SPECIFICITY", "text": "90 g de carbo por hora: para quem isso realmente funciona?", "topic": "carboidratos", "times_used": 0, "performance": []},
+    {"id": "h005", "family": "MYTH", "text": "Não, cafeína não desidrata você desse jeito.", "topic": "cafeína", "times_used": 0, "performance": []},
+    {"id": "h006", "family": "COMPARISON", "text": "Gel vs bebida esportiva: quando usar cada um?", "topic": "fueling", "times_used": 0, "performance": []},
+    {"id": "h007", "family": "EXPERIMENT", "text": "O que acontece se você treinar seu intestino por 4 semanas?", "topic": "gut training", "times_used": 0, "performance": []},
+    {"id": "h008", "family": "QUESTION", "text": "Você realmente precisa de eletrólitos em todo treino?", "topic": "eletrólitos", "times_used": 0, "performance": []},
+    {"id": "h009", "family": "SURPRISE", "text": "O seu intestino também pode ser treinado.", "topic": "gut training", "times_used": 0, "performance": []},
+    {"id": "h010", "family": "SPECIFICITY", "text": "A diferença entre sódio e eletrólito que ninguém explica.", "topic": "hidratação", "times_used": 0, "performance": []},
+    {"id": "h011", "family": "MISTAKE", "text": "Por que você bate em cólicas e acha que é câimbra muscular.", "topic": "GI distress", "times_used": 0, "performance": []},
+    {"id": "h012", "family": "CURIOSITY", "text": "Creatina para atletas de endurance? A ciência mudou.", "topic": "creatina", "times_used": 0, "performance": []},
+    {"id": "h013", "family": "CONTRARIAN", "text": "Treinar em jejum não é para todo mundo.", "topic": "fasted training", "times_used": 0, "performance": []},
+    {"id": "h014", "family": "MYTH", "text": "Bonking não é falta de força mental.", "topic": "glycogen", "times_used": 0, "performance": []},
+    {"id": "h015", "family": "COMPARISON", "text": "Low-carb vs high-carb para endurance: o que os dados dizem.", "topic": "periodização", "times_used": 0, "performance": []},
+    {"id": "h016", "family": "SURPRISE", "text": "O nitrato da beterraba funciona — mas não do jeito que você pensa.", "topic": "nitrates", "times_used": 0, "performance": []},
+    {"id": "h017", "family": "QUESTION", "text": "Você sabe qual é a sua taxa de suor?", "topic": "hidratação", "times_used": 0, "performance": []},
+    {"id": "h018", "family": "MISTAKE", "text": "A proteína que você come pós-treino pode estar sendo desperdiçada.", "topic": "proteína", "times_used": 0, "performance": []},
+    {"id": "h019", "family": "CURIOSITY", "text": "Por que atletas de elite comem tanto carboidrato e não engordam?", "topic": "carboidratos", "times_used": 0, "performance": []},
+    {"id": "h020", "family": "SPECIFICITY", "text": "Cafeína 60 min antes ou 30 min? A diferença importa.", "topic": "cafeína", "times_used": 0, "performance": []}
+  ]
+}

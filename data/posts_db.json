@@ -1,0 +1,26 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Banco de dados central de todos os posts publicados",
+  "_fields": {
+    "post_id": "string — ID único do Instagram",
+    "publication_date": "ISO8601",
+    "format": "carousel | reel | static",
+    "topic": "string — tema principal",
+    "content_pillar": "string — pilar de conteúdo",
+    "hook": "string — texto do primeiro frame/abertura",
+    "caption": "string — legenda completa",
+    "cta": "string — chamada para ação",
+    "scientific_sources": "array de objetos {title, authors, journal, year, doi, level}",
+    "creative_files": "array de paths relativos",
+    "experiment_tags": "array de strings",
+    "metrics": {
+      "24h": {},
+      "72h": {},
+      "7d": {},
+      "30d": {}
+    },
+    "performance_tier": "null | top10 | top25 | median | bottom25",
+    "derivatives_created": "array de post_ids"
+  },
+  "posts": []
+}

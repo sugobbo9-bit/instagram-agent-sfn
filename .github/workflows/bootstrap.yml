@@ -1,0 +1,30 @@
+name: Bootstrap
+
+# Rode UMA vez, manualmente, na aba Actions.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install requests
+
+      - name: Validar token, descobrir conta e importar historico
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: python scripts/bootstrap.py
+
+      - name: Commit dos dados importados
+        run: |
+          git config user.name  "instagram-agent[bot]"
+          git config user.email "instagram-agent[bot]@users.noreply.github.com"
+          git add data/ logs/ || true
+          git diff --staged --quiet || git commit -m "bootstrap: importa historico e fixa baselines"
+          git push

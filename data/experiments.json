@@ -1,0 +1,16 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Registro de experimentos de conteúdo",
+  "_fields": {
+    "experiment_id": "string",
+    "hypothesis": "string",
+    "variable_changed": "topic|hook|format|creative_style|post_length|reel_length|opening_visual|cta|publish_time|technical_vs_simple",
+    "control_post_id": "string ou null",
+    "variant_post_id": "string",
+    "started_at": "ISO8601",
+    "concluded_at": "ISO8601 ou null",
+    "result": "null | variant_won | control_won | inconclusive",
+    "learning": "string"
+  },
+  "experiments": []
+}

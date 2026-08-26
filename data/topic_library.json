@@ -1,0 +1,31 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Biblioteca de tópicos com metadata de oportunidade e histórico",
+  "topics": [
+    {"id": "t001", "name": "carboidratos durante exercício", "pillar": "fueling", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t002", "name": "combinação glicose/frutose", "pillar": "fueling", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t003", "name": "gut training", "pillar": "fueling", "evidence_level": "B", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t004", "name": "glicogênio", "pillar": "fueling", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t005", "name": "nutrição pré-prova", "pillar": "race day", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t006", "name": "fueling durante a prova", "pillar": "race day", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t007", "name": "hidratação", "pillar": "hydration", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t008", "name": "sódio e eletrólitos", "pillar": "hydration", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t009", "name": "taxa de suor", "pillar": "hydration", "evidence_level": "B", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t010", "name": "cafeína", "pillar": "supplements", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t011", "name": "nitratos / beterraba", "pillar": "supplements", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t012", "name": "bicarbonato", "pillar": "supplements", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t013", "name": "creatina", "pillar": "supplements", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t014", "name": "beta-alanina", "pillar": "supplements", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t015", "name": "proteína e recuperação", "pillar": "recovery", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t016", "name": "periodização de carboidratos", "pillar": "strategy", "evidence_level": "B", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t017", "name": "low-carb vs high-carb", "pillar": "strategy", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t018", "name": "treino em jejum", "pillar": "strategy", "evidence_level": "B", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t019", "name": "distúrbios GI", "pillar": "fueling", "evidence_level": "B", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t020", "name": "bonking / hitting the wall", "pillar": "fueling", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t021", "name": "nutrição para maratona", "pillar": "race day", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t022", "name": "nutrição para ciclismo", "pillar": "race day", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t023", "name": "nutrição para triathlon", "pillar": "race day", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t024", "name": "mitos de suplementação", "pillar": "myth-busting", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null},
+    {"id": "t025", "name": "o que o estudo realmente diz", "pillar": "myth-busting", "evidence_level": "A", "audience_interest": null, "posts_created": 0, "last_used": null, "priority_score": null}
+  ]
+}
