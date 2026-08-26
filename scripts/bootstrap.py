@@ -31,6 +31,18 @@ def g(path, **params):
 def mask(s):
     return f"{s[:6]}...{s[-4:]} (len={len(s)})" if s else "(vazio)"
 
+_LOG = []
+_print = print
+def print(*a, **k):
+    _LOG.append(" ".join(str(x) for x in a)); _print(*a, **k)
+
+import atexit
+def _dump():
+    rep = ROOT / "logs" / "bootstrap_report.txt"
+    rep.parent.mkdir(exist_ok=True)
+    rep.write_text("\n".join(_LOG) + "\n")
+atexit.register(_dump)
+
 print("=" * 60)
 print("BOOTSTRAP — Instagram Agent")
 print("=" * 60)
@@ -62,6 +74,10 @@ print("\n[2] Descobrindo Instagram Business Account...")
 accounts = g("me/accounts",
     fields="id,name,instagram_business_account{id,username,name,followers_count,media_count,biography}")
 pages = accounts.get("data", [])
+print(f"    paginas retornadas: {len(pages)}")
+for _p in pages:
+    _ig = _p.get("instagram_business_account")
+    print(f"      - {_p.get('name')} (id {_p.get('id')}) -> IG: {_ig.get('username') if _ig else 'NENHUM'}")
 if not pages:
     print("::error::Nenhuma Pagina do Facebook vinculada a este token."); sys.exit(1)
 
