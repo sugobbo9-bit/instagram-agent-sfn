@@ -96,13 +96,13 @@
     }
   ],
   "creative_files": [
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_01.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_02.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_03.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_04.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_05.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_06.png",
-    "/sessions/rcw-01f8qtyuoic6fvsp2nr7bhva/mnt/Instagram Agent/content/drafts/draft_001/slide_07.png"
+    "content/drafts/draft_001/slide_01.png",
+    "content/drafts/draft_001/slide_02.png",
+    "content/drafts/draft_001/slide_03.png",
+    "content/drafts/draft_001/slide_04.png",
+    "content/drafts/draft_001/slide_05.png",
+    "content/drafts/draft_001/slide_06.png",
+    "content/drafts/draft_001/slide_07.png"
   ],
   "post_id_is_unique": true,
   "notes": ""
