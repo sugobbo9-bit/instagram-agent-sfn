@@ -69,9 +69,33 @@ if not art:
 
 log(f"Publicando no Ghost: {lid} — {art.get('title')}")
 
+# ── Diagnostico de credenciais ─────────────────────────────────────
+kid, _, sec = KEY.partition(":")
+log(f"site={SITE} | kid={kid[:8]}... ({len(kid)} chars) | secret={len(sec)} chars")
+if len(kid) != 24:
+    log(f"AVISO: o id da chave costuma ter 24 chars hex, este tem {len(kid)}", "WARN")
+try:
+    int(sec, 16)
+except ValueError:
+    log("ERRO: a parte apos ':' nao e hexadecimal — provavelmente e a Content API Key, "
+        "nao a Admin API Key", "ERROR")
+    print("::error::Chave invalida: use a Admin API Key (formato id:secret hex)")
+    sys.exit(1)
+
+try:
+    me = api("GET", "users/me/")
+    log(f"autenticado no Ghost como: {me['users'][0].get('email')}")
+except Exception as e:
+    log(f"FALHA de autenticacao no Ghost: {e}", "ERROR")
+    print(f"::error::{e}")
+    sys.exit(1)
+
 # ── Verifica duplicata por slug ────────────────────────────────────
 slug = art["slug"]
-existente = api("GET", "posts/", filter=f"slug:{slug}", fields="id,slug,status").get("posts", [])
+try:
+    existente = api("GET", "posts/", filter=f"slug:{slug}", fields="id,slug,status").get("posts", [])
+except Exception as e:
+    log(f"FALHA ao checar slug: {e}", "ERROR"); print(f"::error::{e}"); sys.exit(1)
 if existente:
     log(f"Ja existe post com slug '{slug}' (id {existente[0]['id']}). Nada a fazer.", "WARN")
     item["ghost_post_id"] = existente[0]["id"]
@@ -95,7 +119,10 @@ if DRY:
     log(f"DRY_RUN — payload validado, {len(art['html'])} chars de HTML. Nao publicado.")
     sys.exit(0)
 
-res = api("POST", "posts/", payload, source="html")
+try:
+    res = api("POST", "posts/", payload, source="html")
+except Exception as e:
+    log(f"FALHA ao criar post: {e}", "ERROR"); print(f"::error::{e}"); sys.exit(1)
 post = res["posts"][0]
 log(f"Ghost OK: id={post['id']} status={post['status']} url={post.get('url')}")
 
