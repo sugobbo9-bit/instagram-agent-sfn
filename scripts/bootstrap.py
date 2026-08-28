@@ -49,7 +49,12 @@ print("=" * 60)
 
 # ── 1. Valida token ────────────────────────────────────────────────
 print("\n[1] Validando token...")
-dbg = g("debug_token", input_token=TOK)["data"]
+try:
+    dbg = g("debug_token", input_token=TOK)["data"]
+except Exception as e:
+    print(f"    (debug_token indisponivel: {e})")
+    print("    seguindo — tokens de Pagina nao se auto-inspecionam")
+    dbg = {}
 exp = dbg.get("expires_at", 0)
 exp_h = "nunca expira" if exp == 0 else datetime.fromtimestamp(exp, timezone.utc).isoformat()
 print(f"    token         : {mask(TOK)}")
@@ -66,7 +71,7 @@ if not (need & have):
 if not (pub & have):
     print(f"::warning::sem permissao de publicacao ({' ou '.join(pub)}) — so leitura funcionara")
 
-if exp and (exp - time.time()) < 7 * 86400:
+if dbg and exp and (exp - time.time()) < 7 * 86400:
     print("::warning::token expira em menos de 7 dias — gere um novo Long-Lived Token")
 
 # ── 2. Descobre a conta ────────────────────────────────────────────

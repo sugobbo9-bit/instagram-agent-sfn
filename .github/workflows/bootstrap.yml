@@ -22,6 +22,7 @@ jobs:
         run: python scripts/bootstrap.py
 
       - name: Commit dos dados importados
+        if: always()
         run: |
           git config user.name  "instagram-agent[bot]"
           git config user.email "instagram-agent[bot]@users.noreply.github.com"
