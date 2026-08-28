@@ -27,6 +27,23 @@ print("=" * 58)
 print("TROCA DE TOKEN")
 print("=" * 58)
 
+# 0 — a qual app o token pertence?
+print("\n[0] Identificando o app dono do token...")
+_d = requests.get(f"{B}/debug_token",
+                  params={"input_token": SHORT, "access_token": SHORT}, timeout=45).json()
+_dd = _d.get("data", {})
+_owner = str(_dd.get("app_id", ""))
+print(f"    app_id do token : {_owner}")
+print(f"    nome do app     : {_dd.get('application')}")
+print(f"    app informado   : {APP_ID}")
+print(f"    tipo            : {_dd.get('type')}  | valido: {_dd.get('is_valid')}")
+print(f"    permissoes      : {', '.join(sorted(_dd.get('scopes', [])))}")
+if _owner and _owner != APP_ID:
+    print(f"::error::O token pertence ao app {_owner} ({_dd.get('application')}), "
+          f"nao ao app {APP_ID}. Use o App ID/Secret do app {_owner}, "
+          f"ou gere o token no Explorer com o app {APP_ID} selecionado.")
+    raise SystemExit(1)
+
 # 1 — curto -> longo (60 dias)
 print("\n[1] Trocando token curto por longo...")
 lng = get("oauth/access_token", grant_type="fb_exchange_token",
