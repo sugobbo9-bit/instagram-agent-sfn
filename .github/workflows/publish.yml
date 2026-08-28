@@ -36,7 +36,7 @@ jobs:
       - name: Publicar versao longa no Ghost
         if: success()
         env:
-          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
+          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY || secrets.GHOST_ADMIN_APIKEY }}
           GHOST_API_URL:       ${{ secrets.GHOST_API_URL }}
           GHOST_STATUS:        ${{ vars.GHOST_STATUS || 'draft' }}
           DRY_RUN:             ${{ inputs.dry_run }}
