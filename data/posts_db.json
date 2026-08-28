@@ -4623,6 +4623,46 @@
       "derivatives_created": [],
       "ghost_post_id": "6a91df4d68af5c000119cd2b",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-desidrata-o-que-a-evidencia-mostra/"
+    },
+    {
+      "post_id": "18622098112029887",
+      "local_id": "draft_003",
+      "publication_date": "2026-08-28T21:50:57.234473+00:00",
+      "format": "carousel",
+      "topic": "bonking / hitting the wall",
+      "content_pillar": "fueling",
+      "hook": "Bater na parede não é falta de preparo físico. É falta de glicogênio.",
+      "caption": "O bonking é uma das experiências mais frustrantes no endurance — e uma das mais evitáveis.\n\nNão tem a ver com preparo físico. Tem a ver com combustível.\n\nO glicogênio muscular tem capacidade limitada. Exercício intenso o consome rápido. Sem reposição, o ritmo colapsa — e não tem força de vontade que resolva isso, porque o problema é metabólico, não mental.\n\nA boa notícia: é completamente prevenível com estratégia de fueling adequada.\n\nFonte: Burke LM, van Loon LJC, Hawley JA. Carbohydrate metabolism during exercise. Compr Physiol. 2017;7(4):1243–1261.",
+      "cta": "Salva esse carrossel e manda para quem já bateu na parede.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate metabolism during exercise",
+          "authors": "Burke LM, van Loon LJC, Hawley JA",
+          "journal": "Comprehensive Physiology",
+          "year": 2017,
+          "volume": "7",
+          "issue": "4",
+          "pages": "1243–1261",
+          "doi": "10.1002/cphy.c160040",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_003/slide_01.png",
+        "content/drafts/draft_003/slide_02.png",
+        "content/drafts/draft_003/slide_03.png",
+        "content/drafts/draft_003/slide_04.png",
+        "content/drafts/draft_003/slide_05.png",
+        "content/drafts/draft_003/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:bonking",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
