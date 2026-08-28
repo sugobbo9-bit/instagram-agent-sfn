@@ -53,10 +53,20 @@ def log(m, lvl="INFO"):
 ph = json.load(open(DATA / "performance_history.json"))
 IG_ID = os.environ.get("IG_ID") or (ph.get("account") or {}).get("ig_id")
 if not IG_ID:
-    acc = g("me/accounts", fields="instagram_business_account{id,username}")
-    for p in acc.get("data", []):
-        if p.get("instagram_business_account"):
-            IG_ID = p["instagram_business_account"]["id"]; break
+    try:
+        me = g("me", fields="id,instagram_business_account{id,username}")
+        if me.get("instagram_business_account"):
+            IG_ID = me["instagram_business_account"]["id"]
+    except Exception:
+        pass
+if not IG_ID:
+    try:
+        acc = g("me/accounts", fields="instagram_business_account{id,username}")
+        for _p in acc.get("data", []):
+            if _p.get("instagram_business_account"):
+                IG_ID = _p["instagram_business_account"]["id"]; break
+    except Exception:
+        pass
 if not IG_ID: print("::error::Instagram Business Account nao encontrado"); sys.exit(1)
 
 # ── Pega o proximo da fila ─────────────────────────────────────────

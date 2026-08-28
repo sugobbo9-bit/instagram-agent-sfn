@@ -76,25 +76,28 @@ if dbg and exp and (exp - time.time()) < 7 * 86400:
 
 # ── 2. Descobre a conta ────────────────────────────────────────────
 print("\n[2] Descobrindo Instagram Business Account...")
-accounts = g("me/accounts",
-    fields="id,name,instagram_business_account{id,username,name,followers_count,media_count,biography}")
-pages = accounts.get("data", [])
-print(f"    paginas retornadas: {len(pages)}")
-for _p in pages:
-    _ig = _p.get("instagram_business_account")
-    print(f"      - {_p.get('name')} (id {_p.get('id')}) -> IG: {_ig.get('username') if _ig else 'NENHUM'}")
-if not pages:
-    print("::error::Nenhuma Pagina do Facebook vinculada a este token."); sys.exit(1)
+tipo_tok = (dbg.get("type") or "").upper()
+ig = page = None
 
-ig, page = None, None
-for p in pages:
-    if p.get("instagram_business_account"):
-        ig, page = p["instagram_business_account"], p
-        break
+if tipo_tok == "PAGE":
+    # Page Token: /me JA e a Pagina
+    me = g("me", fields="id,name,instagram_business_account{id,username,name,followers_count,media_count}")
+    print(f"    token de Pagina — /me = {me.get('name')} ({me.get('id')})")
+    if me.get("instagram_business_account"):
+        ig, page = me["instagram_business_account"], me
+else:
+    accounts = g("me/accounts",
+        fields="id,name,instagram_business_account{id,username,name,followers_count,media_count}")
+    pages = accounts.get("data", [])
+    print(f"    paginas retornadas: {len(pages)}")
+    for _p in pages:
+        _ig = _p.get("instagram_business_account")
+        print(f"      - {_p.get('name')} (id {_p.get('id')}) -> IG: {_ig.get('username') if _ig else 'NENHUM'}")
+        if _ig and not ig:
+            ig, page = _ig, _p
 
 if not ig:
-    print("::error::Nenhuma conta Instagram Business vinculada as Paginas.")
-    for p in pages: print(f"    pagina sem IG: {p.get('name')} ({p.get('id')})")
+    print("::error::Nenhuma conta Instagram Business vinculada.")
     sys.exit(1)
 
 print(f"    pagina FB     : {page.get('name')} ({page.get('id')})")
