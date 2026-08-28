@@ -1,0 +1,20 @@
+name: Token Exchange
+
+on:
+  workflow_dispatch:
+
+jobs:
+  exchange:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install requests
+      - name: Trocar token e gravar no Secret
+        env:
+          FB_APP_ID:      ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET:  ${{ secrets.FB_APP_SECRET }}
+          FB_SHORT_TOKEN: ${{ secrets.FB_SHORT_TOKEN }}
+          GH_PAT:         ${{ secrets.GH_PAT }}
+        run: python scripts/token_exchange.py
