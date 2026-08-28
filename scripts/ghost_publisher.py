@@ -12,6 +12,8 @@ ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
 KEY    = os.environ.get("GHOST_ADMIN_API_KEY", "").strip()
 SITE   = os.environ.get("GHOST_API_URL", "").strip().rstrip("/")
+if SITE and not SITE.startswith(("http://", "https://")):
+    SITE = "https://" + SITE
 STATUS = os.environ.get("GHOST_STATUS", "draft").strip()   # draft | published
 DRY    = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
 
