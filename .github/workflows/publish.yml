@@ -25,13 +25,27 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: pip install requests
+      - run: pip install requests pyjwt
 
       - name: Publicar proximo item da fila
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: python scripts/publisher.py
+
+      - name: Publicar versao longa no Ghost
+        if: success()
+        env:
+          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
+          GHOST_API_URL:       ${{ secrets.GHOST_API_URL }}
+          GHOST_STATUS:        ${{ vars.GHOST_STATUS || 'draft' }}
+          DRY_RUN:             ${{ inputs.dry_run }}
+        run: |
+          if [ -z "$GHOST_ADMIN_API_KEY" ]; then
+            echo "::warning::GHOST_ADMIN_API_KEY nao configurada — etapa do Ghost pulada"
+            exit 0
+          fi
+          python scripts/ghost_publisher.py
 
       - name: Commit do estado
         if: always()
