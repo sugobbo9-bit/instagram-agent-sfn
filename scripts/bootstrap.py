@@ -184,8 +184,21 @@ for f in ("reel", "carousel", "static"):
 
 # ── 6. Grava ───────────────────────────────────────────────────────
 db = json.load(open(DATA / "posts_db.json"))
-known = {p["post_id"] for p in db["posts"]}
-db["posts"].extend(r for r in rows if r["post_id"] not in known)
+idx = {p["post_id"]: p for p in db["posts"]}
+novos = atualizados = 0
+for r in rows:
+    ex = idx.get(r["post_id"])
+    if ex is None:
+        db["posts"].append(r); novos += 1
+    else:
+        # preserva o que o agente escreveu; atualiza metricas e campos da API
+        ex.setdefault("metrics", {})["import"] = r["metrics"]["import"]
+        ex["permalink"] = r.get("permalink")
+        ex["format"] = r["format"]
+        ex["publication_date"] = r["publication_date"]
+        if not ex.get("caption"): ex["caption"] = r["caption"]
+        atualizados += 1
+print(f"    banco: {novos} novos, {atualizados} atualizados")
 json.dump(db, open(DATA / "posts_db.json", "w"), indent=2, ensure_ascii=False)
 
 ph = json.load(open(DATA / "performance_history.json"))
