@@ -15,3 +15,8 @@
 {"ts": "2026-08-28T19:14:48.771981+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_003/slide_01.png"}
 {"ts": "2026-08-28T19:14:49.761442+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-08-28T19:14:49.761641+00:00", "level": "INFO", "msg": "DRY_RUN ativo \u2014 parando antes de publicar."}
+{"ts": "2026-08-28T19:16:09.771527+00:00", "level": "INFO", "msg": "Publicando draft_003 (carousel) \u2014 bonking"}
+{"ts": "2026-08-28T19:16:09.774435+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-08-28T19:16:09.774534+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_003/slide_01.png"}
+{"ts": "2026-08-28T19:16:10.559801+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-08-28T19:16:10.560001+00:00", "level": "INFO", "msg": "DRY_RUN ativo \u2014 parando antes de publicar."}
