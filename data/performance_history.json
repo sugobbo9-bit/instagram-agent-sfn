@@ -3,33 +3,33 @@
   "_description": "Histórico agregado semanal de performance da conta",
   "baseline": {
     "reels": {
-      "sample_size": 0,
-      "median_reach": null,
-      "median_shares_per_reach": null,
-      "median_saves_per_reach": null,
-      "median_comments_per_reach": null
+      "sample_size": 77,
+      "median_reach": 256,
+      "median_shares_per_reach": 0.0,
+      "median_saves_per_reach": 0.0052,
+      "median_comments_per_reach": 0.0
     },
     "carousels": {
-      "sample_size": 0,
-      "median_reach": null,
-      "median_shares_per_reach": null,
-      "median_saves_per_reach": null,
-      "median_comments_per_reach": null
+      "sample_size": 48,
+      "median_reach": 466.5,
+      "median_shares_per_reach": 0.0099,
+      "median_saves_per_reach": 0.0197,
+      "median_comments_per_reach": 0.0
     },
     "static": {
-      "sample_size": 0,
-      "median_reach": null,
-      "median_shares_per_reach": null,
-      "median_saves_per_reach": null,
-      "median_comments_per_reach": null
+      "sample_size": 6,
+      "median_reach": 330.5,
+      "median_shares_per_reach": 0.0093,
+      "median_saves_per_reach": 0.0143,
+      "median_comments_per_reach": 0.0008
     }
   },
   "weekly_reports": [],
   "account": {
     "ig_id": "17841472609243044",
     "username": "sofatosnutricao",
-    "followers_count": 8954,
+    "followers_count": 9006,
     "media_count": 110,
-    "bootstrapped_at": "2026-08-26T21:34:11.297598+00:00"
+    "bootstrapped_at": "2026-08-28T12:53:25.306930+00:00"
   }
 }
