@@ -50,11 +50,30 @@ def api(method, path, payload=None, **params):
         raise RuntimeError(f"{method} {path} -> HTTP {r.status_code}: {r.text[:300]}")
     return r.json()
 
+def upload_image(path: Path, alt: str = "") -> str | None:
+    """Sobe a capa para o Ghost e devolve a URL publica."""
+    if not path.exists():
+        log(f"capa nao encontrada: {path}", "WARN"); return None
+    with open(path, "rb") as fh:
+        r = requests.post(
+            f"{SITE}/ghost/api/admin/images/upload/",
+            headers={"Authorization": f"Ghost {token()}", "Accept-Version": "v5.0"},
+            files={"file": (path.name, fh, "image/png")},
+            data={"purpose": "image", "ref": path.name},
+            timeout=90)
+    if r.status_code >= 400:
+        log(f"falha no upload da capa: HTTP {r.status_code} {r.text[:200]}", "WARN"); return None
+    url = r.json()["images"][0]["url"]
+    log(f"capa enviada: {url}")
+    return url
+
+
 # ── Seleciona o item ───────────────────────────────────────────────
 # Publica no Ghost o artigo do post que acabou de sair no Instagram.
 q = json.load(open(DATA / "publishing_queue.json"))
 alvo = [i for i in q["queue"]
-        if i.get("status") == "published" and not i.get("ghost_post_id")]
+        if i.get("status") == "published"
+        and (not i.get("ghost_post_id") or i.get("ghost_status") != "published")]
 if not alvo:
     log("Nenhum post do Instagram aguardando versao no Ghost."); sys.exit(0)
 
@@ -98,11 +117,14 @@ try:
     existente = api("GET", "posts/", filter=f"slug:{slug}", fields="id,slug,status").get("posts", [])
 except Exception as e:
     log(f"FALHA ao checar slug: {e}", "ERROR"); print(f"::error::{e}"); sys.exit(1)
+ATUALIZAR = None
 if existente:
-    log(f"Ja existe post com slug '{slug}' (id {existente[0]['id']}). Nada a fazer.", "WARN")
-    item["ghost_post_id"] = existente[0]["id"]
-    json.dump(q, open(DATA / "publishing_queue.json", "w"), indent=2, ensure_ascii=False)
-    sys.exit(0)
+    ATUALIZAR = existente[0]
+    log(f"Post ja existe (id {ATUALIZAR['id']}, status {ATUALIZAR['status']}) — sera atualizado.")
+
+cover_url = None
+if art.get("cover"):
+    cover_url = upload_image(ROOT / art["cover"], art.get("cover_alt", ""))
 
 payload = {"posts": [{
     "title": art["title"],
@@ -115,6 +137,8 @@ payload = {"posts": [{
     "meta_description": art.get("excerpt"),
     # nao dispara newsletter para a lista de membros
     "email_only": False,
+    **({"feature_image": cover_url,
+        "feature_image_alt": art.get("cover_alt", "")[:125]} if cover_url else {}),
 }]}
 
 if DRY:
@@ -122,9 +146,14 @@ if DRY:
     sys.exit(0)
 
 try:
-    res = api("POST", "posts/", payload, source="html")
+    if ATUALIZAR:
+        atual = api("GET", f"posts/{ATUALIZAR['id']}/", fields="id,updated_at")["posts"][0]
+        payload["posts"][0]["updated_at"] = atual["updated_at"]
+        res = api("PUT", f"posts/{ATUALIZAR['id']}/", payload, source="html")
+    else:
+        res = api("POST", "posts/", payload, source="html")
 except Exception as e:
-    log(f"FALHA ao criar post: {e}", "ERROR"); print(f"::error::{e}"); sys.exit(1)
+    log(f"FALHA ao gravar post: {e}", "ERROR"); print(f"::error::{e}"); sys.exit(1)
 post = res["posts"][0]
 log(f"Ghost OK: id={post['id']} status={post['status']} url={post.get('url')}")
 
