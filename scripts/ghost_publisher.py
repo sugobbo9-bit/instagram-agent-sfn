@@ -47,7 +47,7 @@ def api(method, path, payload=None, **params):
                  "Content-Type": "application/json"},
         json=payload, params=params, timeout=60)
     if r.status_code >= 400:
-        raise RuntimeError(f"{method} {path} -> {r.status_code}: {r.text[:400]}")
+        raise RuntimeError(f"{method} {path} -> HTTP {r.status_code}: {r.text[:300]}")
     return r.json()
 
 # ── Seleciona o item ───────────────────────────────────────────────
@@ -73,7 +73,7 @@ log(f"Publicando no Ghost: {lid} — {art.get('title')}")
 
 # ── Diagnostico de credenciais ─────────────────────────────────────
 kid, _, sec = KEY.partition(":")
-log(f"site={SITE} | kid={kid[:8]}... ({len(kid)} chars) | secret={len(sec)} chars")
+log(f"site_host={SITE.split('//')[-1].split('/')[0]} | kid_len={len(kid)} | secret_len={len(sec)}")
 if len(kid) != 24:
     log(f"AVISO: o id da chave costuma ter 24 chars hex, este tem {len(kid)}", "WARN")
 try:
@@ -85,8 +85,8 @@ except ValueError:
     sys.exit(1)
 
 try:
-    me = api("GET", "users/me/")
-    log(f"autenticado no Ghost como: {me['users'][0].get('email')}")
+    site = api("GET", "site/")["site"]
+    log(f"autenticado no Ghost — site: {site.get('title')} (v{site.get('version')})")
 except Exception as e:
     log(f"FALHA de autenticacao no Ghost: {e}", "ERROR")
     print(f"::error::{e}")

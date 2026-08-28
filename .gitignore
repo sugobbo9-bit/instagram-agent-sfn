@@ -7,3 +7,4 @@ _slides.json
 _render.js
 scripts/package-lock.json
 content/drafts/**/*.html
+logs/*.jsonl
