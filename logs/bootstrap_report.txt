@@ -31,6 +31,7 @@ BOOTSTRAP — Instagram Agent
     reel      n= 77  reach_mediano=256
     carousel  n= 48  reach_mediano=466.5
     static    n=  6  reach_mediano=330.5
+    banco: 0 novos, 131 atualizados
 
 ============================================================
 BOOTSTRAP OK — @sofatosnutricao | 131 posts importados
