@@ -7,20 +7,65 @@ Faltam 3 passos. Levam ~10 minutos.
 
 ## Passo 1 — Gerar um token novo
 
-O token anterior foi exposto (chat + histórico do navegador). **Invalide-o.**
+O token anterior foi exposto (chat + histórico do navegador) e já expirou.
 
-1. https://developers.facebook.com/tools/explorer/
-2. Selecione seu app → gere um User Token com estas permissões:
-   - `instagram_basic`
-   - `instagram_content_publish`
-   - `instagram_business_content_publish`
-   - `instagram_manage_insights`
-   - `pages_read_engagement`
-   - `pages_show_list`
-3. Converta para Long-Lived (60 dias):
-   `https://graph.facebook.com/v21.0/oauth/access_token?grant_type=fb_exchange_token&client_id=APP_ID&client_secret=APP_SECRET&fb_exchange_token=TOKEN_CURTO`
+### 1.1 — Pegar App ID e App Secret
+https://developers.facebook.com/apps/ → seu app →
+**Configurações → Básico**. Copie o **ID do aplicativo** e a
+**Chave secreta do aplicativo** (botão "Mostrar").
 
-Guarde o token longo. Ele NÃO vai para arquivo nenhum — vai direto para os Secrets do GitHub.
+### 1.2 — Gerar token curto no Explorer
+https://developers.facebook.com/tools/explorer/
+
+- **Meta App**: selecione seu app
+- **User or Page**: `User Token`
+- Em **Permissions**, marque exatamente estas seis:
+
+```
+instagram_basic
+instagram_content_publish
+instagram_manage_insights     <-- a que faltava
+pages_read_engagement
+pages_show_list
+business_management
+```
+
+- Clique **Generate Access Token** e autorize.
+
+`instagram_manage_insights` é a permissão crítica. Sem ela, as 110
+publicações da conta voltam sem nenhuma métrica e o sistema de winners,
+percentis e derivativos não funciona.
+
+### 1.3 — Trocar por um token de 60 dias
+Cole no navegador, substituindo os três valores:
+
+```
+https://graph.facebook.com/v21.0/oauth/access_token?grant_type=fb_exchange_token&client_id=APP_ID&client_secret=APP_SECRET&fb_exchange_token=TOKEN_CURTO
+```
+
+A resposta traz `access_token` — esse é o token longo (60 dias).
+
+### 1.4 — (Recomendado) Converter para Page Token, que não expira
+Com o token longo do passo anterior:
+
+```
+https://graph.facebook.com/v21.0/me/accounts?access_token=TOKEN_LONGO
+```
+
+Na resposta, o campo `access_token` dentro da Página
+**"Somente os Fatos Nutrição"** é um Page Access Token **sem validade**.
+Use esse. Assim você nunca mais precisa renovar nada.
+
+### 1.5 — Cadastrar no GitHub
+https://github.com/sugobbo9-bit/instagram-agent-sfn/settings/secrets/actions
+
+Edite o secret `INSTAGRAM_ACCESS_TOKEN` e cole o token.
+Não coloque o token em nenhum arquivo do projeto.
+
+### 1.6 — Rodar
+- **Actions → Bootstrap → Run workflow** — preenche os baselines com as
+  métricas reais dos 110 posts
+- **Actions → Publish → Run workflow** — publica o primeiro carrossel
 
 ---
 
