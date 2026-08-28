@@ -1,0 +1,97 @@
+{
+  "local_id": "draft_002",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-08-26T00:00:00Z",
+  "topic": "cafeína",
+  "content_pillar": "supplements",
+  "hook": "Não, cafeína não desidrata você durante o exercício.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:cafeina",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Não, cafeína não desidrata você durante o exercício.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde veio essa ideia?",
+      "body": "Estudos antigos mostraram que cafeína tem efeito diurético.\n\nO problema: esses estudos foram feitos em repouso, com doses altas, em pessoas sem tolerância à cafeína.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A EVIDÊNCIA ATUAL",
+      "headline": "Durante o exercício, o efeito diurético some.",
+      "body": "O corpo retém fluidos em resposta ao esforço físico.\n\nMeta-análises robustas (Armstrong et al., ACSM) mostram que a ingestão de cafeína em doses esportivas (3–6 mg/kg) não compromete o balanço hídrico durante o treino.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "O QUE ELA DE FATO FAZ",
+      "headline": "Cafeína é um dos suplementos mais estudados do mundo.",
+      "body": "Reduz percepção de esforço (RPE)\nMelhora desempenho em endurance em 2–4%\nEfeito comprovado em corrida, ciclismo e triathlon\n\nNível de evidência: A (ISSN, ACSM, IOC)",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como usar de forma inteligente.",
+      "body": "Dose eficaz: 3–6 mg/kg de peso corporal\nTiming: 45–60 minutos antes do esforço\nCuidado com tolerância: se usa diariamente, o efeito cai\nPeriodização: reduza o consumo 5–7 dias antes de uma prova importante",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Cafeína funciona. Desidratação não é o problema.",
+      "body": "Salva esse carrossel para acabar com esse mito no seu grupo de corrida.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Esse mito persiste há décadas e ainda influencia atletas a evitarem cafeína antes de treinos ou provas.\n\nA evidência atual é clara: em doses esportivas, durante o exercício, cafeína não compromete a hidratação.\n\nO que ela faz — e muito bem — é reduzir a percepção de esforço e melhorar performance em endurance. Isso está em meta-análises, posicionamentos da ISSN e do ACSM e em centenas de estudos controlados.\n\nUse com estratégia. Funciona.\n\nFontes: Burke LM. Caffeine and sports performance. Appl Physiol Nutr Metab. 2008. | ISSN Position Stand: Caffeine and Exercise Performance. J Int Soc Sports Nutr. 2021.",
+  "cta": "Salva e manda pro grupo de corrida.",
+  "scientific_sources": [
+    {
+      "title": "ISSN exercise & sports nutrition review update: research & recommendations",
+      "authors": "Kerksick CM et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2018,
+      "doi": "10.1186/s12970-018-0242-y",
+      "level": "A"
+    },
+    {
+      "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+      "authors": "Guest NS et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "doi": "10.1186/s12970-020-00383-4",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/draft_002/slide_01.png",
+    "content/drafts/draft_002/slide_02.png",
+    "content/drafts/draft_002/slide_03.png",
+    "content/drafts/draft_002/slide_04.png",
+    "content/drafts/draft_002/slide_05.png",
+    "content/drafts/draft_002/slide_06.png"
+  ],
+  "post_id_is_unique": true,
+  "notes": "",
+  "post_id": "17903845509482466",
+  "published_at": "2026-08-28T13:00:38.625059+00:00"
+}

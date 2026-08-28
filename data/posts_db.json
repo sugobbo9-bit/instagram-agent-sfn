@@ -4576,6 +4576,51 @@
       },
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17903845509482466",
+      "local_id": "draft_002",
+      "publication_date": "2026-08-28T13:00:38.625059+00:00",
+      "format": "carousel",
+      "topic": "cafeína",
+      "content_pillar": "supplements",
+      "hook": "Não, cafeína não desidrata você durante o exercício.",
+      "caption": "Esse mito persiste há décadas e ainda influencia atletas a evitarem cafeína antes de treinos ou provas.\n\nA evidência atual é clara: em doses esportivas, durante o exercício, cafeína não compromete a hidratação.\n\nO que ela faz — e muito bem — é reduzir a percepção de esforço e melhorar performance em endurance. Isso está em meta-análises, posicionamentos da ISSN e do ACSM e em centenas de estudos controlados.\n\nUse com estratégia. Funciona.\n\nFontes: Burke LM. Caffeine and sports performance. Appl Physiol Nutr Metab. 2008. | ISSN Position Stand: Caffeine and Exercise Performance. J Int Soc Sports Nutr. 2021.",
+      "cta": "Salva e manda pro grupo de corrida.",
+      "scientific_sources": [
+        {
+          "title": "ISSN exercise & sports nutrition review update: research & recommendations",
+          "authors": "Kerksick CM et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2018,
+          "doi": "10.1186/s12970-018-0242-y",
+          "level": "A"
+        },
+        {
+          "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+          "authors": "Guest NS et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "doi": "10.1186/s12970-020-00383-4",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_002/slide_01.png",
+        "content/drafts/draft_002/slide_02.png",
+        "content/drafts/draft_002/slide_03.png",
+        "content/drafts/draft_002/slide_04.png",
+        "content/drafts/draft_002/slide_05.png",
+        "content/drafts/draft_002/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cafeina",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

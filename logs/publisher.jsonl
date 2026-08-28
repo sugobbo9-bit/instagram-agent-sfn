@@ -1,0 +1,7 @@
+{"ts": "2026-08-28T12:59:50.714370+00:00", "level": "INFO", "msg": "Publicando draft_002 (carousel) \u2014 cafe\u00edna"}
+{"ts": "2026-08-28T12:59:50.716564+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-08-28T12:59:50.716640+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_002/slide_01.png"}
+{"ts": "2026-08-28T12:59:52.037948+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-08-28T13:00:24.991669+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-08-28T13:00:38.624885+00:00", "level": "INFO", "msg": "PUBLICADO: draft_002 -> media_id 17903845509482466"}
+{"ts": "2026-08-28T13:00:38.634527+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

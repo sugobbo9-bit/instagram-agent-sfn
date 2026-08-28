@@ -7,11 +7,13 @@
       "format": "carousel",
       "topic": "cafeína",
       "hook": "Não, cafeína não desidrata você durante o exercício.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-08-26T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Myth-busting sobre topico ja provado (cafeina, 1558 de alcance) — derivativo de vencedor"
+      "notes": "Myth-busting sobre topico ja provado (cafeina, 1558 de alcance) — derivativo de vencedor",
+      "published_at": "2026-08-28T13:00:38.625059+00:00",
+      "post_id": "17903845509482466"
     },
     {
       "local_id": "draft_003",
