@@ -4663,6 +4663,65 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18035353262834479",
+      "local_id": "draft_004",
+      "publication_date": "2026-08-31T19:04:51.161441+00:00",
+      "format": "carousel",
+      "topic": "proteína por refeição",
+      "content_pillar": "nutrition",
+      "hook": "O corpo só absorve 30g de proteína por refeição? Esse número foi tirado do ar.",
+      "caption": "Esse mito prejudica atletas que comem menos proteína por medo de 'desperdiçar'. Não existe evidência científica para o limite de 30g por refeição.\n\nO que importa de verdade: dose total diária (1,6–2,2 g/kg) e atingir o limiar de leucina em cada refeição para ativar síntese proteica muscular.\n\nFontes: Moore et al. Am J Clin Nutr. 2009. | Witard et al. Am J Clin Nutr. 2014. | Morton et al. Am J Clin Nutr. 2018.",
+      "cta": "Salva e manda pra quem ainda acredita nesse mito.",
+      "scientific_sources": [
+        {
+          "title": "Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men",
+          "authors": "Moore DR, Robinson MJ, Fry JL, Tang JE, Glover EI, Wilkinson SB, Prior T, Tarnopolsky MA, Phillips SM",
+          "journal": "American Journal of Clinical Nutrition",
+          "year": 2009,
+          "volume": "89",
+          "issue": "1",
+          "pages": "161-168",
+          "doi": "10.3945/ajcn.2009.27517",
+          "level": "A"
+        },
+        {
+          "title": "Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise",
+          "authors": "Witard OC, Jackman SR, Breen L, Smith K, Selby A, Tipton KD",
+          "journal": "American Journal of Clinical Nutrition",
+          "year": 2014,
+          "volume": "99",
+          "issue": "1",
+          "pages": "86-95",
+          "doi": "10.3945/ajcn.112.055517",
+          "level": "A"
+        },
+        {
+          "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+          "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2018,
+          "doi": "10.1136/bjsports-2017-097608",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_004/slide_01.png",
+        "content/drafts/draft_004/slide_02.png",
+        "content/drafts/draft_004/slide_03.png",
+        "content/drafts/draft_004/slide_04.png",
+        "content/drafts/draft_004/slide_05.png",
+        "content/drafts/draft_004/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:proteina",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

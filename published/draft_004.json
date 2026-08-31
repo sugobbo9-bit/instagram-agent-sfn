@@ -1,0 +1,124 @@
+{
+  "local_id": "draft_004",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-08-31T00:00:00Z",
+  "topic": "proteína por refeição",
+  "content_pillar": "nutrition",
+  "hook": "O corpo só absorve 30g de proteína por refeição? Esse número foi tirado do ar.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:proteina",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "O corpo só absorve 30g de proteína por refeição? Esse número foi tirado do ar.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde veio esse número?",
+      "body": "Nenhum estudo estabeleceu '30g por refeição' como limite de absorção.\n\nO que a ciência mostrou: a síntese proteica muscular (MPS) tem um teto por hora. Esse teto foi mal-traduzido como limite de absorção.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "ABSORÇÃO vs UTILIZAÇÃO",
+      "headline": "O intestino absorve quase tudo. O músculo usa na janela que ele tem.",
+      "body": "Absorção (intestino): o corpo digere e absorve proteína de forma eficiente, mesmo em doses acima de 100g.\n\nUtilização para MPS: tem um pico por janela de tempo — mas doses maiores estendem o período de elevação, não são desperdiçadas.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Mais proteína por refeição não é proteína perdida.",
+      "body": "Moore et al. (Am J Clin Nutr, 2009): MPS aumenta de forma dose-dependente. Em atletas treinados, 40g supera 20g.\n\nWitard et al. (Am J Clin Nutr, 2014): 40g de whey gerou maior MPS do que 20g em atletas de força.\n\nConclusão: o teto de 30g não existe na literatura.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que realmente importa na distribuição de proteína.",
+      "body": "Dose total diária: 1,6–2,2 g/kg de peso corporal\nDistribuição: 3–5 refeições ao longo do dia\nPor refeição: mínimo de 20g para ativar MPS de forma robusta\nAtletas maiores ou em treino pesado: 40–50g por refeição é razoável\n\n→ Não existe dose que 'perde proteína' por ser grande demais",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Distribua proteína ao longo do dia. Mas não se preocupe com o limite por refeição.",
+      "body": "Salva esse carrossel pra próxima vez que ouvir esse mito.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Esse mito prejudica atletas que comem menos proteína por medo de 'desperdiçar'. Não existe evidência científica para o limite de 30g por refeição.\n\nO que importa de verdade: dose total diária (1,6–2,2 g/kg) e atingir o limiar de leucina em cada refeição para ativar síntese proteica muscular.\n\nFontes: Moore et al. Am J Clin Nutr. 2009. | Witard et al. Am J Clin Nutr. 2014. | Morton et al. Am J Clin Nutr. 2018.",
+  "cta": "Salva e manda pra quem ainda acredita nesse mito.",
+  "scientific_sources": [
+    {
+      "title": "Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men",
+      "authors": "Moore DR, Robinson MJ, Fry JL, Tang JE, Glover EI, Wilkinson SB, Prior T, Tarnopolsky MA, Phillips SM",
+      "journal": "American Journal of Clinical Nutrition",
+      "year": 2009,
+      "volume": "89",
+      "issue": "1",
+      "pages": "161-168",
+      "doi": "10.3945/ajcn.2009.27517",
+      "level": "A"
+    },
+    {
+      "title": "Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise",
+      "authors": "Witard OC, Jackman SR, Breen L, Smith K, Selby A, Tipton KD",
+      "journal": "American Journal of Clinical Nutrition",
+      "year": 2014,
+      "volume": "99",
+      "issue": "1",
+      "pages": "86-95",
+      "doi": "10.3945/ajcn.112.055517",
+      "level": "A"
+    },
+    {
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2018,
+      "doi": "10.1136/bjsports-2017-097608",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "O mito dos 30g de proteína por refeição",
+    "slug": "mito-30g-proteina-por-refeicao",
+    "excerpt": "Nenhum estudo estabeleceu 30g por refeição como limite de absorção de proteína. O que a evidência realmente mostra sobre dose, distribuição e síntese proteica muscular.",
+    "meta_title": "O mito dos 30g de proteína por refeição — o que diz a ciência",
+    "tags": [
+      "Proteína",
+      "Suplementação",
+      "Composição Corporal",
+      "Endurance"
+    ],
+    "html": "<p>Quase todo atleta já ouviu: <em>\"o corpo não absorve mais do que 30g de proteína por refeição\"</em>. Parece razoável. Virou regra nos grupos de treino. E é errado.</p>\n\n<h2>O número 30g não existe na literatura</h2>\n\n<p>Não existe estudo científico que estabeleceu 30g como limite de absorção de proteína por refeição. O que existe é uma série de estudos sobre síntese proteica muscular (MPS) — e uma tradução incorreta dos seus resultados.</p>\n\n<p>A confusão vem de misturar dois processos diferentes: <strong>absorção intestinal</strong> e <strong>utilização para síntese muscular</strong>.</p>\n\n<h2>Absorção intestinal vs. síntese proteica muscular</h2>\n\n<p>O trato gastrointestinal humano é altamente eficiente. Em condições normais, ele absorve praticamente toda a proteína consumida — mesmo em grandes doses. A questão não é se o intestino processa, mas o que acontece depois.</p>\n\n<p>A síntese proteica muscular (MPS) — o processo de construção e reparo do músculo — responde à proteína de forma dose-dependente, mas tem um teto por janela de tempo. Esse teto foi mal interpretado como limite de absorção.</p>\n\n<h2>O que os estudos mostram</h2>\n\n<p>Moore et al. (2009) publicaram na <em>American Journal of Clinical Nutrition</em> um estudo clássico de resposta à dose. Jovens receberam doses crescentes de proteína após exercício resistido. A MPS aumentou de forma dose-dependente — sem plateau claro em 20 ou 30g em todos os participantes.</p>\n\n<p>Witard et al. (2014) foram mais longe e testaram especificamente atletas treinados. Em homens com experiência em treino de força, 40g de proteína de whey gerou maior síntese proteica muscular do que 20g. Para atletas maiores ou em treino intenso, a dose eficaz é maior — não menor.</p>\n\n<p>O que acontece com doses ainda maiores? Elas são utilizadas de forma eficiente, mas ao longo de um período mais longo. Uma dose de 70–100g eleva os aminoácidos no sangue por mais horas do que 30g. Isso não é desperdício — é absorção com cinética diferente.</p>\n\n<h2>O que realmente importa na distribuição de proteína</h2>\n\n<p>A distribuição ao longo do dia importa, mas não pelo motivo que você imagina. O objetivo é ativar o limiar de leucina em cada refeição — a concentração mínima de leucina necessária para iniciar a síntese proteica de forma robusta. Para a maioria das pessoas, isso requer aproximadamente 20g de proteína de alta qualidade por refeição.</p>\n\n<p>Comer três refeições com 20–40g cada é melhor do que uma refeição com 60g ou seis refeições com 10g cada — não porque o corpo não consiga absorver mais de 30g, mas porque a frequência cria mais oportunidades de ativar MPS ao longo do dia.</p>\n\n<h2>Recomendações práticas</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose total diária</td><td>1,6–2,2 g/kg de peso corporal</td></tr>\n<tr><td>Número de refeições</td><td>3–5 refeições ao longo do dia</td></tr>\n<tr><td>Mínimo por refeição</td><td>~20g para ativar MPS de forma robusta</td></tr>\n<tr><td>Atletas maiores/treino intenso</td><td>40–50g por refeição é razoável</td></tr>\n</tbody>\n</table>\n\n<p>Não existe dose por refeição que 'perde proteína' por ser grande demais. O que existe é uma dose mínima para ativar a síntese proteica — e abaixo dela, você deixa de aproveitar o estímulo do treino.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Moore DR, Robinson MJ, Fry JL, et al. Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men. <em>Am J Clin Nutr</em>. 2009;89(1):161–168. doi:10.3945/ajcn.2009.27517</li>\n<li>Witard OC, Jackman SR, Breen L, et al. Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise. <em>Am J Clin Nutr</em>. 2014;99(1):86–95. doi:10.3945/ajcn.112.055517</li>\n<li>Morton RW, Murphy KT, McKellar SR, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. <em>Br J Sports Med</em>. 2018;52:376–384. doi:10.1136/bjsports-2017-097608</li>\n</ol>\n",
+    "cover": "content/drafts/draft_004/cover.png",
+    "cover_alt": "O mito dos 30g de proteína por refeição — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_004/slide_01.png",
+    "content/drafts/draft_004/slide_02.png",
+    "content/drafts/draft_004/slide_03.png",
+    "content/drafts/draft_004/slide_04.png",
+    "content/drafts/draft_004/slide_05.png",
+    "content/drafts/draft_004/slide_06.png"
+  ],
+  "post_id": "18035353262834479",
+  "published_at": "2026-08-31T19:04:51.161441+00:00"
+}

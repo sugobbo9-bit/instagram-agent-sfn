@@ -47,11 +47,13 @@
       "format": "carousel",
       "topic": "proteína por refeição",
       "hook": "O corpo só absorve 30g de proteína por refeição? Esse número foi tirado do ar.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-08-31T00:00:00Z",
       "scheduled_for": null,
       "priority": 4,
-      "notes": "Myth-busting: derruba o mito dos 30g por refeição com Moore 2009 e Witard 2014"
+      "notes": "Myth-busting: derruba o mito dos 30g por refeição com Moore 2009 e Witard 2014",
+      "published_at": "2026-08-31T19:04:51.161441+00:00",
+      "post_id": "18035353262834479"
     },
     {
       "local_id": "draft_005",
