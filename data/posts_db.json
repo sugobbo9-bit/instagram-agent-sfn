@@ -4722,6 +4722,57 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18130495681668951",
+      "local_id": "draft_005",
+      "publication_date": "2026-08-31T19:27:57.344303+00:00",
+      "format": "carousel",
+      "topic": "antioxidantes e adaptação ao treino",
+      "content_pillar": "supplements",
+      "hook": "Vitamina C pós-treino pode estar bloqueando sua evolução.",
+      "caption": "Antioxidantes parecem inofensivos. Em altas doses, ao redor do treino, a ciência mostra o contrário.\n\nO estresse oxidativo induzido pelo exercício não é um efeito colateral a corrigir — é parte do mecanismo de adaptação. Bloquear esse sinal com megadoses de vitamina C e E pode reduzir ganhos de força, densidade mitocondrial e resposta de insulina.\n\nA solução não é evitar antioxidantes. É saber a dose e o timing.\n\nFontes: Paulsen G et al. J Physiol. 2014. | Ristow M et al. PNAS. 2009.",
+      "cta": "Salva. Esse é o tipo de coisa que o suplemento não vai colocar na embalagem.",
+      "scientific_sources": [
+        {
+          "title": "Vitamin C and E supplementation hampers cellular adaptation to endurance training in humans: a double-blind, randomised, controlled trial",
+          "authors": "Paulsen G, Cumming KT, Holden G, Hallén J, Rønnestad BR, Sveen O, Skaug A, Paur I, Bastani NE, Østgaard HN, Buer C, Midttun M, Freuchen F, Wiig H, Ulseth ET, Garthe I, Blomhoff R, Benestad HB, Raastad T",
+          "journal": "Journal of Physiology",
+          "year": 2014,
+          "volume": "592",
+          "issue": "8",
+          "pages": "1887-1901",
+          "doi": "10.1113/jphysiol.2013.267419",
+          "level": "A"
+        },
+        {
+          "title": "Antioxidants prevent health-promoting effects of physical exercise in humans",
+          "authors": "Ristow M, Zarse K, Oberbach A, Klöting N, Birringer M, Kiehntopf M, Stumvoll M, Kahn CR, Blüher M",
+          "journal": "Proceedings of the National Academy of Sciences",
+          "year": 2009,
+          "volume": "106",
+          "issue": "21",
+          "pages": "8665-8670",
+          "doi": "10.1073/pnas.0903485106",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_005/slide_01.png",
+        "content/drafts/draft_005/slide_02.png",
+        "content/drafts/draft_005/slide_03.png",
+        "content/drafts/draft_005/slide_04.png",
+        "content/drafts/draft_005/slide_05.png",
+        "content/drafts/draft_005/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:antioxidantes",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

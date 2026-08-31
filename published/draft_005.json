@@ -1,0 +1,116 @@
+{
+  "local_id": "draft_005",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-08-31T00:00:00Z",
+  "topic": "antioxidantes e adaptação ao treino",
+  "content_pillar": "supplements",
+  "hook": "Vitamina C pós-treino pode estar bloqueando sua evolução.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:antioxidantes",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Vitamina C pós-treino pode estar bloqueando sua evolução.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O PARADOXO",
+      "headline": "O estresse do treino é um sinal, não um dano a corrigir.",
+      "body": "Quando você treina, o músculo produz radicais livres (ROS).\n\nEsses ROS não são apenas 'dano'. Eles são o sinal que ativa a maquinaria de adaptação — mitocôndrias, força, resistência.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O PROBLEMA COM MEGADOSES",
+      "headline": "Suplementos em altas doses neutralizam o sinal de adaptação.",
+      "body": "Paulsen et al. (J Physiol, 2014): 11 semanas de treino com 1.000mg de vitamina C + 235mg de vitamina E.\n\nResultado: menor atividade de citrato sintase, menor densidade capilar e pior desempenho muscular no grupo suplementado versus placebo.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "MAIS EVIDÊNCIA",
+      "headline": "O corpo tem suas próprias defesas — e você as está desativando.",
+      "body": "Ristow et al. (PNAS, 2009): antioxidantes em megadose bloquearam a melhora na sensibilidade à insulina induzida pelo exercício.\n\nMais grave: o grupo suplementado não desenvolveu as defesas antioxidantes naturais (SOD, GPx) que o placebo desenvolveu.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "A dose faz o veneno — e o timing também.",
+      "body": "Antioxidantes de alimentos: sem problema. Frutas, vegetais e azeite não bloqueiam adaptações.\n\nMegadose de suplemento (≥1g Vit C, ≥200mg Vit E): evite ao redor do treino, especialmente pós-treino.\n\n→ Se você usa por outro motivo, tome longe da janela pós-treino (preferência: pela manhã, treino à tarde).",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Deixe o treino fazer o trabalho. Inclusive o estresse oxidativo controlado.",
+      "body": "Salva esse carrossel antes da próxima vez que alguém te oferecer vitamina C depois do treino.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Antioxidantes parecem inofensivos. Em altas doses, ao redor do treino, a ciência mostra o contrário.\n\nO estresse oxidativo induzido pelo exercício não é um efeito colateral a corrigir — é parte do mecanismo de adaptação. Bloquear esse sinal com megadoses de vitamina C e E pode reduzir ganhos de força, densidade mitocondrial e resposta de insulina.\n\nA solução não é evitar antioxidantes. É saber a dose e o timing.\n\nFontes: Paulsen G et al. J Physiol. 2014. | Ristow M et al. PNAS. 2009.",
+  "cta": "Salva. Esse é o tipo de coisa que o suplemento não vai colocar na embalagem.",
+  "scientific_sources": [
+    {
+      "title": "Vitamin C and E supplementation hampers cellular adaptation to endurance training in humans: a double-blind, randomised, controlled trial",
+      "authors": "Paulsen G, Cumming KT, Holden G, Hallén J, Rønnestad BR, Sveen O, Skaug A, Paur I, Bastani NE, Østgaard HN, Buer C, Midttun M, Freuchen F, Wiig H, Ulseth ET, Garthe I, Blomhoff R, Benestad HB, Raastad T",
+      "journal": "Journal of Physiology",
+      "year": 2014,
+      "volume": "592",
+      "issue": "8",
+      "pages": "1887-1901",
+      "doi": "10.1113/jphysiol.2013.267419",
+      "level": "A"
+    },
+    {
+      "title": "Antioxidants prevent health-promoting effects of physical exercise in humans",
+      "authors": "Ristow M, Zarse K, Oberbach A, Klöting N, Birringer M, Kiehntopf M, Stumvoll M, Kahn CR, Blüher M",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2009,
+      "volume": "106",
+      "issue": "21",
+      "pages": "8665-8670",
+      "doi": "10.1073/pnas.0903485106",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Vitamina C pós-treino: o suplemento que pode bloquear sua evolução",
+    "slug": "vitamina-c-pos-treino-bloqueia-adaptacao",
+    "excerpt": "Em altas doses, vitamina C e E ao redor do treino podem bloquear adaptações mitocôndrias, ganhos de força e até melhora de sensibilidade à insulina. O que dois estudos controlados mostraram.",
+    "meta_title": "Vitamina C pós-treino pode bloquear adaptações? O que a ciência mostra",
+    "tags": [
+      "Antioxidantes",
+      "Vitamina C",
+      "Suplementação",
+      "Recuperação"
+    ],
+    "html": "<p>Tomar vitamina C depois do treino parece inofensivo — até benéfico. A narrativa padrão é: exercício cria radicais livres, radicais livres causam dano, antioxidantes neutralizam radicais livres, logo antioxidantes ajudam a recuperação. A lógica parece sólida. Os dados não concordam.</p>\n\n<h2>O que os radicais livres realmente fazem</h2>\n\n<p>Quando você treina com intensidade, o músculo produz espécies reativas de oxigênio (ROS) — os chamados radicais livres. Em excesso crônico, ROS causam dano celular. Mas em quantidade fisiológica, eles funcionam como sinais.</p>\n\n<p>ROS ativam vias de sinalização como AMPK e PGC-1α, que iniciam a biogênese mitocondrial — o processo pelo qual o músculo fabrica mais mitocôndrias, aumentando a capacidade aeróbia. Eles também estimulam a resposta antioxidante natural do organismo, elevando a atividade de enzimas como superóxido dismutase (SOD) e glutationa peroxidase (GPx).</p>\n\n<p>O estresse oxidativo controlado do exercício não é um efeito colateral indesejado. É parte do mecanismo de adaptação.</p>\n\n<h2>O estudo de Paulsen et al. (2014)</h2>\n\n<p>Publicado no <em>Journal of Physiology</em>, o estudo de Paulsen e colaboradores acompanhou 54 adultos jovens durante 11 semanas de treinamento de endurance. Metade recebeu 1.000mg de vitamina C + 235mg de vitamina E por dia. A outra metade recebeu placebo.</p>\n\n<p>Os resultados foram desfavoráveis para o grupo suplementado:</p>\n\n<ul>\n<li>Menor atividade de citrato sintase (marcador de densidade mitocondrial)</li>\n<li>Menor densidade capilar muscular</li>\n<li>Pior desempenho em testes de resistência muscular</li>\n</ul>\n\n<p>VO2max melhorou de forma similar nos dois grupos — mas os marcadores celulares de adaptação foram claramente atenuados com a suplementação.</p>\n\n<h2>O estudo de Ristow et al. (2009)</h2>\n\n<p>Publicado na PNAS, o estudo de Ristow e colaboradores foi ainda mais direto. 40 adultos, treinamento de 4 semanas, mesma suplementação (1.000mg Vit C + 400 UI Vit E).</p>\n\n<p>O grupo placebo melhorou a sensibilidade à insulina com o treino — uma das adaptações mais importantes para saúde metabólica. O grupo antioxidante não melhorou.</p>\n\n<p>O mecanismo: os suplementos bloquearam a ativação de PGC-1α e PGC-1β, coativadores transcricionais essenciais para as adaptações induzidas pelo exercício. Os autores concluíram que os antioxidantes \"preveniram os efeitos promotores de saúde do exercício físico\".</p>\n\n<h2>A nuance que importa: dose e timing</h2>\n\n<p>Isso não significa que antioxidantes são prejudiciais. A dose e o contexto determinam o efeito.</p>\n\n<ul>\n<li><strong>Antioxidantes de alimentos</strong> (frutas, vegetais, azeite, chá) — sem problema. As concentrações são fisiológicas e não bloqueiam adaptações.</li>\n<li><strong>Megadose de suplemento</strong> (≥1g vitamina C, ≥200mg vitamina E) ao redor do treino — é aí que os estudos mostram interferência.</li>\n</ul>\n\n<p>Se você usa vitamina C por algum motivo específico (imunidade em períodos de alta carga, por exemplo), tome longe da janela de treino. Preferência: manhã, com treino à tarde ou noite.</p>\n\n<h2>O que fica</h2>\n\n<p>A adaptação ao treino depende de uma cascata de sinalização que começa com o estresse do exercício — incluindo o estresse oxidativo. Suprimir esse sinal com megadoses de antioxidantes pode reduzir exatamente as adaptações que você treina para conseguir.</p>\n\n<p>Deixe o treino fazer o trabalho. O corpo humano tem mecanismos de defesa antioxidante próprios — e o exercício os fortalece, desde que você não os neutralize antes de funcionarem.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Paulsen G, Cumming KT, Holden G, et al. Vitamin C and E supplementation hampers cellular adaptation to endurance training in humans: a double-blind, randomised, controlled trial. <em>J Physiol</em>. 2014;592(8):1887–1901. doi:10.1113/jphysiol.2013.267419</li>\n<li>Ristow M, Zarse K, Oberbach A, et al. Antioxidants prevent health-promoting effects of physical exercise in humans. <em>PNAS</em>. 2009;106(21):8665–8670. doi:10.1073/pnas.0903485106</li>\n</ol>\n",
+    "cover": "content/drafts/draft_005/cover.png",
+    "cover_alt": "Vitamina C pós-treino pode bloquear adaptações ao treino — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_005/slide_01.png",
+    "content/drafts/draft_005/slide_02.png",
+    "content/drafts/draft_005/slide_03.png",
+    "content/drafts/draft_005/slide_04.png",
+    "content/drafts/draft_005/slide_05.png",
+    "content/drafts/draft_005/slide_06.png"
+  ],
+  "post_id": "18130495681668951",
+  "published_at": "2026-08-31T19:27:57.344303+00:00"
+}
