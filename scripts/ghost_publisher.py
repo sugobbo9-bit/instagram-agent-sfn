@@ -51,22 +51,32 @@ def api(method, path, payload=None, **params):
 # ── Seleciona o item ───────────────────────────────────────────────
 # Publica no Ghost o artigo do post que acabou de sair no Instagram.
 q = json.load(open(DATA / "publishing_queue.json"))
-alvo = [i for i in q["queue"]
-        if i.get("status") == "published" and not i.get("ghost_post_id")]
-if not alvo:
+candidatos = [i for i in q["queue"]
+              if i.get("status") == "published" and not i.get("ghost_post_id")]
+if not candidatos:
     log("Nenhum post do Instagram aguardando versao no Ghost."); sys.exit(0)
 
-item = alvo[0]
-lid  = item["local_id"]
-src  = ROOT / "published" / f"{lid}.json"
-if not src.exists():
-    src = ROOT / "content" / "approved" / f"{lid}.json"
-p = json.load(open(src))
+# Encontra o primeiro candidato que tem secao 'article'
+item = None
+p = None
+for c in candidatos:
+    _lid = c["local_id"]
+    _src = ROOT / "published" / f"{_lid}.json"
+    if not _src.exists():
+        _src = ROOT / "content" / "approved" / f"{_lid}.json"
+    if _src.exists():
+        _p = json.load(open(_src))
+        if _p.get("article"):
+            item = c
+            p = _p
+            break
+    log(f"{_lid} sem 'article' — pulando.", "WARN")
 
+if item is None:
+    log("Nenhum candidato com secao 'article' encontrado."); sys.exit(0)
+
+lid = item["local_id"]
 art = p.get("article")
-if not art:
-    log(f"{lid} nao tem secao 'article' — nada a publicar no Ghost.", "WARN"); sys.exit(0)
-
 log(f"Publicando no Ghost: {lid} — {art.get('title')}")
 
 # ── Verifica duplicata por slug ────────────────────────────────────
