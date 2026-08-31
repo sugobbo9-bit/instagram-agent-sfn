@@ -4576,6 +4576,93 @@
       },
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17903845509482466",
+      "local_id": "draft_002",
+      "publication_date": "2026-08-28T13:00:38.625059+00:00",
+      "format": "carousel",
+      "topic": "cafeína",
+      "content_pillar": "supplements",
+      "hook": "Não, cafeína não desidrata você durante o exercício.",
+      "caption": "Esse mito persiste há décadas e ainda influencia atletas a evitarem cafeína antes de treinos ou provas.\n\nA evidência atual é clara: em doses esportivas, durante o exercício, cafeína não compromete a hidratação.\n\nO que ela faz — e muito bem — é reduzir a percepção de esforço e melhorar performance em endurance. Isso está em meta-análises, posicionamentos da ISSN e do ACSM e em centenas de estudos controlados.\n\nUse com estratégia. Funciona.\n\nFontes: Burke LM. Caffeine and sports performance. Appl Physiol Nutr Metab. 2008. | ISSN Position Stand: Caffeine and Exercise Performance. J Int Soc Sports Nutr. 2021.",
+      "cta": "Salva e manda pro grupo de corrida.",
+      "scientific_sources": [
+        {
+          "title": "ISSN exercise & sports nutrition review update: research & recommendations",
+          "authors": "Kerksick CM et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2018,
+          "doi": "10.1186/s12970-018-0242-y",
+          "level": "A"
+        },
+        {
+          "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+          "authors": "Guest NS et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "doi": "10.1186/s12970-020-00383-4",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_002/slide_01.png",
+        "content/drafts/draft_002/slide_02.png",
+        "content/drafts/draft_002/slide_03.png",
+        "content/drafts/draft_002/slide_04.png",
+        "content/drafts/draft_002/slide_05.png",
+        "content/drafts/draft_002/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cafeina",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6a91df4d68af5c000119cd2b",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-desidrata-o-que-a-evidencia-mostra/"
+    },
+    {
+      "post_id": "18622098112029887",
+      "local_id": "draft_003",
+      "publication_date": "2026-08-28T21:50:57.234473+00:00",
+      "format": "carousel",
+      "topic": "bonking / hitting the wall",
+      "content_pillar": "fueling",
+      "hook": "Bater na parede não é falta de preparo físico. É falta de glicogênio.",
+      "caption": "O bonking é uma das experiências mais frustrantes no endurance — e uma das mais evitáveis.\n\nNão tem a ver com preparo físico. Tem a ver com combustível.\n\nO glicogênio muscular tem capacidade limitada. Exercício intenso o consome rápido. Sem reposição, o ritmo colapsa — e não tem força de vontade que resolva isso, porque o problema é metabólico, não mental.\n\nA boa notícia: é completamente prevenível com estratégia de fueling adequada.\n\nFonte: Burke LM, van Loon LJC, Hawley JA. Carbohydrate metabolism during exercise. Compr Physiol. 2017;7(4):1243–1261.",
+      "cta": "Salva esse carrossel e manda para quem já bateu na parede.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate metabolism during exercise",
+          "authors": "Burke LM, van Loon LJC, Hawley JA",
+          "journal": "Comprehensive Physiology",
+          "year": 2017,
+          "volume": "7",
+          "issue": "4",
+          "pages": "1243–1261",
+          "doi": "10.1002/cphy.c160040",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_003/slide_01.png",
+        "content/drafts/draft_003/slide_02.png",
+        "content/drafts/draft_003/slide_03.png",
+        "content/drafts/draft_003/slide_04.png",
+        "content/drafts/draft_003/slide_05.png",
+        "content/drafts/draft_003/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:bonking",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

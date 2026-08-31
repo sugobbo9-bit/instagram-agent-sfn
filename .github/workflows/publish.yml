@@ -10,6 +10,10 @@ on:
         description: 'Validar sem publicar'
         type: boolean
         default: false
+      skip_instagram:
+        description: 'Pular o Instagram (rodar so o Ghost)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,6 +32,7 @@ jobs:
       - run: pip install requests pyjwt
 
       - name: Publicar proximo item da fila
+        if: inputs.skip_instagram != true
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run }}
@@ -36,8 +41,8 @@ jobs:
       - name: Publicar versao longa no Ghost
         if: success()
         env:
-          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
-          GHOST_API_URL:       ${{ secrets.GHOST_API_URL }}
+          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY || secrets.GHOST_ADMIN_APIKEY }}
+          GHOST_API_URL:       ${{ vars.GHOST_API_URL || secrets.GHOST_API_URL }}
           GHOST_STATUS:        ${{ vars.GHOST_STATUS || 'draft' }}
           DRY_RUN:             ${{ inputs.dry_run }}
         run: |
