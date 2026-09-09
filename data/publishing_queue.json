@@ -73,6 +73,17 @@
       "ghost_post_id": "6a95d85897a0b10001f7d637",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/vitamina-c-pos-treino-bloqueia-adaptacao/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "draft_006",
+      "format": "carousel",
+      "topic": "cãibra muscular no exercício",
+      "hook": "Cãibra é falta de sal e água? A evidência diz outra coisa.",
+      "status": "published",
+      "created_at": "2026-09-09T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 2,
+      "notes": "Myth-busting: caibra e fadiga neuromuscular, nao eletrolito (Schwellnus 2011, Miller 2010)"
     }
   ]
 }
