@@ -40,17 +40,17 @@
       "permalink": "https://www.instagram.com/p/Dbv39f0oKiY/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:42.318980+00:00",
-          "reach": 100,
+          "collected_at": "2026-09-09T20:17:24.440823+00:00",
+          "reach": 103,
           "likes": 5,
           "comments": 0,
           "shares": 1,
           "saved": 2,
           "total_interactions": 8,
-          "shares_per_reach": 0.01,
-          "saves_per_reach": 0.02,
+          "shares_per_reach": 0.0097,
+          "saves_per_reach": 0.0194,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.05
+          "likes_per_reach": 0.0485
         }
       },
       "performance_tier": null,
@@ -73,17 +73,17 @@
       "permalink": "https://www.instagram.com/p/Dbv2utFoJ-F/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:43.694109+00:00",
-          "reach": 210,
+          "collected_at": "2026-09-09T20:17:25.617394+00:00",
+          "reach": 212,
           "likes": 13,
           "comments": 0,
           "shares": 0,
           "saved": 2,
           "total_interactions": 16,
           "shares_per_reach": 0.0,
-          "saves_per_reach": 0.0095,
+          "saves_per_reach": 0.0094,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0619
+          "likes_per_reach": 0.0613
         }
       },
       "performance_tier": null,
@@ -106,17 +106,17 @@
       "permalink": "https://www.instagram.com/p/Dbv1eIooO-Z/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:44.601214+00:00",
-          "reach": 264,
+          "collected_at": "2026-09-09T20:17:26.607886+00:00",
+          "reach": 268,
           "likes": 4,
           "comments": 0,
           "shares": 1,
-          "saved": 2,
-          "total_interactions": 7,
-          "shares_per_reach": 0.0038,
-          "saves_per_reach": 0.0076,
+          "saved": 3,
+          "total_interactions": 8,
+          "shares_per_reach": 0.0037,
+          "saves_per_reach": 0.0112,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0152
+          "likes_per_reach": 0.0149
         }
       },
       "performance_tier": null,
@@ -139,17 +139,17 @@
       "permalink": "https://www.instagram.com/p/Dbv0ICjmelq/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:45.506077+00:00",
-          "reach": 191,
+          "collected_at": "2026-09-09T20:17:27.544865+00:00",
+          "reach": 195,
           "likes": 9,
           "comments": 0,
           "shares": 3,
-          "saved": 4,
-          "total_interactions": 16,
-          "shares_per_reach": 0.0157,
-          "saves_per_reach": 0.0209,
+          "saved": 5,
+          "total_interactions": 17,
+          "shares_per_reach": 0.0154,
+          "saves_per_reach": 0.0256,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0471
+          "likes_per_reach": 0.0462
         }
       },
       "performance_tier": null,
@@ -172,8 +172,8 @@
       "permalink": "https://www.instagram.com/p/Dbvy1rHgNtA/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:46.474752+00:00",
-          "reach": 111,
+          "collected_at": "2026-09-09T20:17:28.528247+00:00",
+          "reach": 115,
           "likes": 6,
           "comments": 0,
           "shares": 0,
@@ -182,7 +182,7 @@
           "shares_per_reach": 0.0,
           "saves_per_reach": 0.0,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0541
+          "likes_per_reach": 0.0522
         }
       },
       "performance_tier": null,
@@ -205,17 +205,17 @@
       "permalink": "https://www.instagram.com/p/DbvxlHsAIC-/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:47.390278+00:00",
-          "reach": 213,
+          "collected_at": "2026-09-09T20:17:29.725388+00:00",
+          "reach": 215,
           "likes": 17,
           "comments": 2,
           "shares": 1,
           "saved": 4,
           "total_interactions": 24,
           "shares_per_reach": 0.0047,
-          "saves_per_reach": 0.0188,
-          "comments_per_reach": 0.0094,
-          "likes_per_reach": 0.0798
+          "saves_per_reach": 0.0186,
+          "comments_per_reach": 0.0093,
+          "likes_per_reach": 0.0791
         }
       },
       "performance_tier": null,
@@ -238,17 +238,17 @@
       "permalink": "https://www.instagram.com/p/DbvwNyygI9D/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:48.590507+00:00",
-          "reach": 157,
+          "collected_at": "2026-09-09T20:17:30.984994+00:00",
+          "reach": 159,
           "likes": 9,
           "comments": 0,
           "shares": 1,
           "saved": 0,
           "total_interactions": 10,
-          "shares_per_reach": 0.0064,
+          "shares_per_reach": 0.0063,
           "saves_per_reach": 0.0,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0573
+          "likes_per_reach": 0.0566
         }
       },
       "performance_tier": null,
@@ -271,7 +271,7 @@
       "permalink": "https://www.instagram.com/p/Dbvu47cAKNI/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:49.853612+00:00",
+          "collected_at": "2026-09-09T20:17:32.537004+00:00",
           "reach": 155,
           "likes": 11,
           "comments": 0,
@@ -304,7 +304,7 @@
       "permalink": "https://www.instagram.com/p/DbvtkxOgEaw/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:50.921172+00:00",
+          "collected_at": "2026-09-09T20:17:34.228315+00:00",
           "reach": 119,
           "likes": 8,
           "comments": 0,
@@ -337,7 +337,7 @@
       "permalink": "https://www.instagram.com/p/DbvsUOWAKRB/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:52.094498+00:00",
+          "collected_at": "2026-09-09T20:17:35.248938+00:00",
           "reach": 190,
           "likes": 4,
           "comments": 2,
@@ -370,7 +370,7 @@
       "permalink": "https://www.instagram.com/p/Dbvq85rAOt8/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:53.627955+00:00",
+          "collected_at": "2026-09-09T20:17:36.575368+00:00",
           "reach": 113,
           "likes": 8,
           "comments": 0,
@@ -403,7 +403,7 @@
       "permalink": "https://www.instagram.com/p/DbvpzDvAEHo/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:54.733868+00:00",
+          "collected_at": "2026-09-09T20:17:37.672765+00:00",
           "reach": 96,
           "likes": 4,
           "comments": 0,
@@ -436,7 +436,7 @@
       "permalink": "https://www.instagram.com/p/DbvoqbHAMZP/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:55.617622+00:00",
+          "collected_at": "2026-09-09T20:17:38.539659+00:00",
           "reach": 106,
           "likes": 1,
           "comments": 1,
@@ -469,17 +469,17 @@
       "permalink": "https://www.instagram.com/p/DbvnZXYoIVW/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:56.843634+00:00",
-          "reach": 346,
+          "collected_at": "2026-09-09T20:17:39.831582+00:00",
+          "reach": 349,
           "likes": 19,
           "comments": 0,
           "shares": 2,
           "saved": 14,
           "total_interactions": 35,
-          "shares_per_reach": 0.0058,
-          "saves_per_reach": 0.0405,
+          "shares_per_reach": 0.0057,
+          "saves_per_reach": 0.0401,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0549
+          "likes_per_reach": 0.0544
         }
       },
       "performance_tier": null,
@@ -502,7 +502,7 @@
       "permalink": "https://www.instagram.com/p/DbvmQCrACah/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:57.857506+00:00",
+          "collected_at": "2026-09-09T20:17:41.565635+00:00",
           "reach": 306,
           "likes": 8,
           "comments": 0,
@@ -535,7 +535,7 @@
       "permalink": "https://www.instagram.com/p/Dbvk4IHAERY/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:54:58.690439+00:00",
+          "collected_at": "2026-09-09T20:17:42.540939+00:00",
           "reach": 132,
           "likes": 10,
           "comments": 0,
@@ -568,7 +568,7 @@
       "permalink": "https://www.instagram.com/p/DbvkIu-gMWl/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:01.205446+00:00",
+          "collected_at": "2026-09-09T20:17:44.284289+00:00",
           "reach": 87,
           "likes": 4,
           "comments": 0,
@@ -601,7 +601,7 @@
       "permalink": "https://www.instagram.com/p/DaVddnnIDjv/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:02.498077+00:00",
+          "collected_at": "2026-09-09T20:17:45.556032+00:00",
           "reach": 2450,
           "likes": 101,
           "comments": 0,
@@ -634,7 +634,7 @@
       "permalink": "https://www.instagram.com/p/DaVdY4gmf6w/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:03.638882+00:00",
+          "collected_at": "2026-09-09T20:17:47.965841+00:00",
           "reach": 1046,
           "likes": 41,
           "comments": 1,
@@ -667,7 +667,7 @@
       "permalink": "https://www.instagram.com/p/DaVdUa-GSUK/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:05.137043+00:00",
+          "collected_at": "2026-09-09T20:17:48.896078+00:00",
           "reach": 901,
           "likes": 22,
           "comments": 0,
@@ -700,7 +700,7 @@
       "permalink": "https://www.instagram.com/p/DaVdQl1Ge-Q/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:07.006837+00:00",
+          "collected_at": "2026-09-09T20:17:49.750427+00:00",
           "reach": 760,
           "likes": 12,
           "comments": 0,
@@ -733,7 +733,7 @@
       "permalink": "https://www.instagram.com/p/DaVdJfPGaff/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:08.855815+00:00",
+          "collected_at": "2026-09-09T20:17:50.531056+00:00",
           "reach": 838,
           "likes": 30,
           "comments": 0,
@@ -766,7 +766,7 @@
       "permalink": "https://www.instagram.com/p/DaVdFZ5GYnj/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:10.043189+00:00",
+          "collected_at": "2026-09-09T20:17:51.471159+00:00",
           "reach": 828,
           "likes": 16,
           "comments": 0,
@@ -799,7 +799,7 @@
       "permalink": "https://www.instagram.com/p/DaVdCSimRuA/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:11.984719+00:00",
+          "collected_at": "2026-09-09T20:17:52.378431+00:00",
           "reach": 1245,
           "likes": 24,
           "comments": 0,
@@ -832,7 +832,7 @@
       "permalink": "https://www.instagram.com/p/DaVc9FYmS7W/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:13.650982+00:00",
+          "collected_at": "2026-09-09T20:17:53.875146+00:00",
           "reach": 1426,
           "likes": 53,
           "comments": 0,
@@ -865,7 +865,7 @@
       "permalink": "https://www.instagram.com/reel/DZtiMZ9EgQU/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:15.037177+00:00",
+          "collected_at": "2026-09-09T20:17:54.993124+00:00",
           "reach": 60,
           "likes": 1,
           "comments": 0,
@@ -901,7 +901,7 @@
       "permalink": "https://www.instagram.com/reel/DZlzO02kVmR/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:19.319453+00:00",
+          "collected_at": "2026-09-09T20:17:56.112708+00:00",
           "reach": 69,
           "likes": 0,
           "comments": 0,
@@ -937,7 +937,7 @@
       "permalink": "https://www.instagram.com/reel/DZTxGBBDu3k/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:20.668480+00:00",
+          "collected_at": "2026-09-09T20:17:57.200814+00:00",
           "reach": 200,
           "likes": 3,
           "comments": 0,
@@ -973,7 +973,7 @@
       "permalink": "https://www.instagram.com/reel/DZJeG_lFGNA/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:21.857288+00:00",
+          "collected_at": "2026-09-09T20:17:58.677940+00:00",
           "reach": 256,
           "likes": 5,
           "comments": 0,
@@ -1009,7 +1009,7 @@
       "permalink": "https://www.instagram.com/reel/DZJd75eD4F8/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:22.890079+00:00",
+          "collected_at": "2026-09-09T20:17:59.641958+00:00",
           "reach": 218,
           "likes": 1,
           "comments": 0,
@@ -1045,7 +1045,7 @@
       "permalink": "https://www.instagram.com/reel/DZEU1-QFaKW/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:24.307900+00:00",
+          "collected_at": "2026-09-09T20:18:01.161527+00:00",
           "reach": 194,
           "likes": 2,
           "comments": 0,
@@ -1081,7 +1081,7 @@
       "permalink": "https://www.instagram.com/reel/DZDjzj9CDrQ/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:25.638325+00:00",
+          "collected_at": "2026-09-09T20:18:02.225915+00:00",
           "reach": 193,
           "likes": 3,
           "comments": 0,
@@ -1117,7 +1117,7 @@
       "permalink": "https://www.instagram.com/p/DZDhj86oJmq/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:28.346728+00:00",
+          "collected_at": "2026-09-09T20:18:03.071005+00:00",
           "reach": 654,
           "likes": 9,
           "comments": 0,
@@ -1150,7 +1150,7 @@
       "permalink": "https://www.instagram.com/p/DZDhRqvoNps/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:30.188174+00:00",
+          "collected_at": "2026-09-09T20:18:03.968663+00:00",
           "reach": 764,
           "likes": 37,
           "comments": 3,
@@ -1183,15 +1183,15 @@
       "permalink": "https://www.instagram.com/p/DYxa1ojk-ww/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:31.980107+00:00",
-          "reach": 2434,
+          "collected_at": "2026-09-09T20:18:04.922909+00:00",
+          "reach": 2437,
           "likes": 66,
           "comments": 1,
           "shares": 46,
-          "saved": 48,
-          "total_interactions": 162,
+          "saved": 47,
+          "total_interactions": 161,
           "shares_per_reach": 0.0189,
-          "saves_per_reach": 0.0197,
+          "saves_per_reach": 0.0193,
           "comments_per_reach": 0.0004,
           "likes_per_reach": 0.0271
         }
@@ -1216,7 +1216,7 @@
       "permalink": "https://www.instagram.com/p/DYxavZ4kxmj/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:33.762959+00:00",
+          "collected_at": "2026-09-09T20:18:06.092805+00:00",
           "reach": 1558,
           "likes": 38,
           "comments": 1,
@@ -1249,7 +1249,7 @@
       "permalink": "https://www.instagram.com/p/DYxaKcIE_FF/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:34.823646+00:00",
+          "collected_at": "2026-09-09T20:18:07.332427+00:00",
           "reach": 1212,
           "likes": 29,
           "comments": 0,
@@ -1282,7 +1282,7 @@
       "permalink": "https://www.instagram.com/p/DYxZo_oE-M3/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:36.631898+00:00",
+          "collected_at": "2026-09-09T20:18:08.414548+00:00",
           "reach": 1054,
           "likes": 39,
           "comments": 0,
@@ -1315,7 +1315,7 @@
       "permalink": "https://www.instagram.com/reel/DYvuFCMkWJA/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:38.549123+00:00",
+          "collected_at": "2026-09-09T20:18:09.931990+00:00",
           "reach": 759,
           "likes": 1,
           "comments": 0,
@@ -1351,7 +1351,7 @@
       "permalink": "https://www.instagram.com/p/DYm_9AaHNt0/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:39.918555+00:00",
+          "collected_at": "2026-09-09T20:18:11.318648+00:00",
           "reach": 1249,
           "likes": 50,
           "comments": 2,
@@ -1384,7 +1384,7 @@
       "permalink": "https://www.instagram.com/reel/DYlG98QlH8M/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:41.114613+00:00",
+          "collected_at": "2026-09-09T20:18:13.328767+00:00",
           "reach": 786,
           "likes": 6,
           "comments": 0,
@@ -1420,7 +1420,7 @@
       "permalink": "https://www.instagram.com/reel/DYk5mQcDpdg/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:42.443174+00:00",
+          "collected_at": "2026-09-09T20:18:14.710129+00:00",
           "reach": 520,
           "likes": 4,
           "comments": 0,
@@ -1456,7 +1456,7 @@
       "permalink": "https://www.instagram.com/reel/DYi2N9kkWsE/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:44.302532+00:00",
+          "collected_at": "2026-09-09T20:18:15.845958+00:00",
           "reach": 349,
           "likes": 0,
           "comments": 0,
@@ -1492,7 +1492,7 @@
       "permalink": "https://www.instagram.com/reel/DYh5tECj97D/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:45.690839+00:00",
+          "collected_at": "2026-09-09T20:18:17.263155+00:00",
           "reach": 422,
           "likes": 1,
           "comments": 0,
@@ -1528,7 +1528,7 @@
       "permalink": "https://www.instagram.com/p/DYhs7T6kl8H/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:46.690325+00:00",
+          "collected_at": "2026-09-09T20:18:18.826291+00:00",
           "reach": 1164,
           "likes": 41,
           "comments": 4,
@@ -1561,7 +1561,7 @@
       "permalink": "https://www.instagram.com/reel/DYhaa4ZDXzg/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:47.941229+00:00",
+          "collected_at": "2026-09-09T20:18:19.852536+00:00",
           "reach": 511,
           "likes": 1,
           "comments": 0,
@@ -1597,7 +1597,7 @@
       "permalink": "https://www.instagram.com/reel/DYhYeKAlWoO/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:49.139359+00:00",
+          "collected_at": "2026-09-09T20:18:21.257610+00:00",
           "reach": 344,
           "likes": 5,
           "comments": 0,
@@ -1633,7 +1633,7 @@
       "permalink": "https://www.instagram.com/p/DYUyCCuDqvs/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:50.732274+00:00",
+          "collected_at": "2026-09-09T20:18:22.005476+00:00",
           "reach": 1516,
           "likes": 49,
           "comments": 1,
@@ -1666,7 +1666,7 @@
       "permalink": "https://www.instagram.com/p/DYNlp0Hj8O4/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:52.608647+00:00",
+          "collected_at": "2026-09-09T20:18:22.797713+00:00",
           "reach": 854,
           "likes": 30,
           "comments": 0,
@@ -1699,7 +1699,7 @@
       "permalink": "https://www.instagram.com/reel/DYM3I-yDJNn/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:54.061123+00:00",
+          "collected_at": "2026-09-09T20:18:23.872753+00:00",
           "reach": 508,
           "likes": 9,
           "comments": 0,
@@ -1735,7 +1735,7 @@
       "permalink": "https://www.instagram.com/reel/DYIP8CcDKgV/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:55.256655+00:00",
+          "collected_at": "2026-09-09T20:18:24.847719+00:00",
           "reach": 348,
           "likes": 5,
           "comments": 0,
@@ -1771,7 +1771,7 @@
       "permalink": "https://www.instagram.com/reel/DYHtfkPAjMK/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:56.478547+00:00",
+          "collected_at": "2026-09-09T20:18:25.777691+00:00",
           "reach": 381,
           "likes": 8,
           "comments": 1,
@@ -1807,7 +1807,7 @@
       "permalink": "https://www.instagram.com/reel/DYFqqvbAd8h/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:57.650209+00:00",
+          "collected_at": "2026-09-09T20:18:27.974090+00:00",
           "reach": 309,
           "likes": 2,
           "comments": 0,
@@ -1843,7 +1843,7 @@
       "permalink": "https://www.instagram.com/reel/DYFINdhgf-6/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:55:59.640260+00:00",
+          "collected_at": "2026-09-09T20:18:30.106788+00:00",
           "reach": 360,
           "likes": 9,
           "comments": 0,
@@ -1879,7 +1879,7 @@
       "permalink": "https://www.instagram.com/p/DYFHbkdDkHl/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:00.653896+00:00",
+          "collected_at": "2026-09-09T20:18:31.314884+00:00",
           "reach": 581,
           "likes": 25,
           "comments": 1,
@@ -1912,7 +1912,7 @@
       "permalink": "https://www.instagram.com/reel/DYDGcVPmrow/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:02.049852+00:00",
+          "collected_at": "2026-09-09T20:18:32.467229+00:00",
           "reach": 343,
           "likes": 1,
           "comments": 0,
@@ -1948,7 +1948,7 @@
       "permalink": "https://www.instagram.com/reel/DYCjMbQFMTR/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:04.277940+00:00",
+          "collected_at": "2026-09-09T20:18:33.526631+00:00",
           "reach": 312,
           "likes": 7,
           "comments": 0,
@@ -1984,7 +1984,7 @@
       "permalink": "https://www.instagram.com/reel/DYBYduljqUY/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:05.632628+00:00",
+          "collected_at": "2026-09-09T20:18:34.780357+00:00",
           "reach": 232,
           "likes": 3,
           "comments": 0,
@@ -2020,7 +2020,7 @@
       "permalink": "https://www.instagram.com/reel/DYAhrAagsAA/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:07.468426+00:00",
+          "collected_at": "2026-09-09T20:18:35.914135+00:00",
           "reach": 241,
           "likes": 2,
           "comments": 0,
@@ -2056,7 +2056,7 @@
       "permalink": "https://www.instagram.com/p/DYALbKkDo8V/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:08.674395+00:00",
+          "collected_at": "2026-09-09T20:18:36.758182+00:00",
           "reach": 1180,
           "likes": 31,
           "comments": 2,
@@ -2089,7 +2089,7 @@
       "permalink": "https://www.instagram.com/reel/DYADYLdj49w/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:09.854354+00:00",
+          "collected_at": "2026-09-09T20:18:38.941808+00:00",
           "reach": 343,
           "likes": 4,
           "comments": 5,
@@ -2125,7 +2125,7 @@
       "permalink": "https://www.instagram.com/reel/DX9882-G4nB/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:10.837706+00:00",
+          "collected_at": "2026-09-09T20:18:40.825690+00:00",
           "reach": 227,
           "likes": 2,
           "comments": 2,
@@ -2161,7 +2161,7 @@
       "permalink": "https://www.instagram.com/reel/DX9aZKNCCyP/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:12.242025+00:00",
+          "collected_at": "2026-09-09T20:18:41.914297+00:00",
           "reach": 211,
           "likes": 1,
           "comments": 0,
@@ -2197,7 +2197,7 @@
       "permalink": "https://www.instagram.com/reel/DX7XtzIDBKk/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:14.024555+00:00",
+          "collected_at": "2026-09-09T20:18:43.950848+00:00",
           "reach": 193,
           "likes": 2,
           "comments": 0,
@@ -2233,7 +2233,7 @@
       "permalink": "https://www.instagram.com/p/DX7SFq6CSUZ/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:15.179407+00:00",
+          "collected_at": "2026-09-09T20:18:44.946365+00:00",
           "reach": 283,
           "likes": 3,
           "comments": 0,
@@ -2266,7 +2266,7 @@
       "permalink": "https://www.instagram.com/reel/DXJl7GrCVTE/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:17.152164+00:00",
+          "collected_at": "2026-09-09T20:18:45.832534+00:00",
           "reach": 205,
           "likes": 3,
           "comments": 0,
@@ -2302,7 +2302,7 @@
       "permalink": "https://www.instagram.com/reel/DXIS8nhjw4N/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:18.609387+00:00",
+          "collected_at": "2026-09-09T20:18:47.447946+00:00",
           "reach": 161,
           "likes": 1,
           "comments": 0,
@@ -2338,7 +2338,7 @@
       "permalink": "https://www.instagram.com/reel/DXHAa5kDlsv/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:20.814986+00:00",
+          "collected_at": "2026-09-09T20:18:48.927683+00:00",
           "reach": 145,
           "likes": 2,
           "comments": 0,
@@ -2374,7 +2374,7 @@
       "permalink": "https://www.instagram.com/reel/DXFuI08kgzg/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:22.180018+00:00",
+          "collected_at": "2026-09-09T20:18:50.080072+00:00",
           "reach": 155,
           "likes": 2,
           "comments": 0,
@@ -2410,7 +2410,7 @@
       "permalink": "https://www.instagram.com/reel/DXEbpZiAvPl/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:23.386378+00:00",
+          "collected_at": "2026-09-09T20:18:51.294168+00:00",
           "reach": 129,
           "likes": 3,
           "comments": 0,
@@ -2446,7 +2446,7 @@
       "permalink": "https://www.instagram.com/reel/DXDJHkiD22y/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:24.791370+00:00",
+          "collected_at": "2026-09-09T20:18:52.561493+00:00",
           "reach": 117,
           "likes": 1,
           "comments": 1,
@@ -2482,7 +2482,7 @@
       "permalink": "https://www.instagram.com/reel/DXB3ET4FPxi/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:26.134451+00:00",
+          "collected_at": "2026-09-09T20:18:53.374473+00:00",
           "reach": 115,
           "likes": 2,
           "comments": 0,
@@ -2518,20 +2518,20 @@
       "permalink": "https://www.instagram.com/reel/DXAlWtyDgHV/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:27.616975+00:00",
+          "collected_at": "2026-09-09T20:18:54.638267+00:00",
           "reach": 107,
-          "likes": 2,
+          "likes": 3,
           "comments": 0,
           "shares": 0,
           "saved": 1,
-          "total_interactions": 3,
+          "total_interactions": 4,
           "views": 1006,
           "ig_reels_avg_watch_time": 6066,
           "ig_reels_video_view_total_time": 2833089,
           "shares_per_reach": 0.0,
           "saves_per_reach": 0.0093,
           "comments_per_reach": 0.0,
-          "likes_per_reach": 0.0187
+          "likes_per_reach": 0.028
         }
       },
       "performance_tier": null,
@@ -2554,7 +2554,7 @@
       "permalink": "https://www.instagram.com/reel/DW-b6MgjwL_/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:28.848712+00:00",
+          "collected_at": "2026-09-09T20:18:56.049824+00:00",
           "reach": 99,
           "likes": 4,
           "comments": 0,
@@ -2590,7 +2590,7 @@
       "permalink": "https://www.instagram.com/p/DW9uepqj-tb/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:30.717294+00:00",
+          "collected_at": "2026-09-09T20:18:57.183185+00:00",
           "reach": 171,
           "likes": 0,
           "comments": 0,
@@ -2623,7 +2623,7 @@
       "permalink": "https://www.instagram.com/reel/DW7Yp5ZDvXd/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:31.979631+00:00",
+          "collected_at": "2026-09-09T20:18:58.405665+00:00",
           "reach": 167,
           "likes": 1,
           "comments": 0,
@@ -2659,7 +2659,7 @@
       "permalink": "https://www.instagram.com/p/DWre2SXDlv5/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:34.053385+00:00",
+          "collected_at": "2026-09-09T20:18:59.720724+00:00",
           "reach": 263,
           "likes": 4,
           "comments": 0,
@@ -2692,7 +2692,7 @@
       "permalink": "https://www.instagram.com/p/DWremZzjloo/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:35.299811+00:00",
+          "collected_at": "2026-09-09T20:19:00.886954+00:00",
           "reach": 331,
           "likes": 5,
           "comments": 3,
@@ -2725,7 +2725,7 @@
       "permalink": "https://www.instagram.com/reel/DWrTlMOjjEl/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:37.291889+00:00",
+          "collected_at": "2026-09-09T20:19:01.779641+00:00",
           "reach": 385,
           "likes": 11,
           "comments": 4,
@@ -2761,7 +2761,7 @@
       "permalink": "https://www.instagram.com/reel/DWp1qLkD2bX/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:38.601349+00:00",
+          "collected_at": "2026-09-09T20:19:02.606474+00:00",
           "reach": 120,
           "likes": 0,
           "comments": 0,
@@ -2797,7 +2797,7 @@
       "permalink": "https://www.instagram.com/reel/DWkrRObjDgw/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:39.754850+00:00",
+          "collected_at": "2026-09-09T20:19:03.571206+00:00",
           "reach": 106,
           "likes": 2,
           "comments": 0,
@@ -2833,7 +2833,7 @@
       "permalink": "https://www.instagram.com/p/DWhbFYQDxqf/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:40.928248+00:00",
+          "collected_at": "2026-09-09T20:19:04.564216+00:00",
           "reach": 330,
           "likes": 8,
           "comments": 0,
@@ -2866,7 +2866,7 @@
       "permalink": "https://www.instagram.com/reel/DWfiQJriRRf/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:42.313354+00:00",
+          "collected_at": "2026-09-09T20:19:06.306228+00:00",
           "reach": 306,
           "likes": 20,
           "comments": 0,
@@ -2902,7 +2902,7 @@
       "permalink": "https://www.instagram.com/p/DWZe-vaDjS-/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:43.556408+00:00",
+          "collected_at": "2026-09-09T20:19:07.594962+00:00",
           "reach": 256,
           "likes": 7,
           "comments": 0,
@@ -2935,7 +2935,7 @@
       "permalink": "https://www.instagram.com/reel/DWX0IrkDVCa/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:44.950130+00:00",
+          "collected_at": "2026-09-09T20:19:09.597667+00:00",
           "reach": 319,
           "likes": 12,
           "comments": 0,
@@ -2971,7 +2971,7 @@
       "permalink": "https://www.instagram.com/reel/DWW84hICe5M/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:46.870580+00:00",
+          "collected_at": "2026-09-09T20:19:11.776468+00:00",
           "reach": 424,
           "likes": 7,
           "comments": 0,
@@ -3007,7 +3007,7 @@
       "permalink": "https://www.instagram.com/reel/DWVO8-EEqYG/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:48.848891+00:00",
+          "collected_at": "2026-09-09T20:19:12.634780+00:00",
           "reach": 248,
           "likes": 5,
           "comments": 1,
@@ -3043,7 +3043,7 @@
       "permalink": "https://www.instagram.com/reel/DWT8WCEDq5W/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:50.077491+00:00",
+          "collected_at": "2026-09-09T20:19:13.881596+00:00",
           "reach": 529,
           "likes": 26,
           "comments": 0,
@@ -3079,7 +3079,7 @@
       "permalink": "https://www.instagram.com/p/DWT4eSqDhie/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:52.309331+00:00",
+          "collected_at": "2026-09-09T20:19:14.893736+00:00",
           "reach": 259,
           "likes": 8,
           "comments": 0,
@@ -3112,7 +3112,7 @@
       "permalink": "https://www.instagram.com/reel/DWRZluaDpBo/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:55.170263+00:00",
+          "collected_at": "2026-09-09T20:19:16.826471+00:00",
           "reach": 713,
           "likes": 20,
           "comments": 5,
@@ -3148,7 +3148,7 @@
       "permalink": "https://www.instagram.com/reel/DWQFCWLDvzT/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:57.616504+00:00",
+          "collected_at": "2026-09-09T20:19:17.872521+00:00",
           "reach": 386,
           "likes": 5,
           "comments": 0,
@@ -3184,7 +3184,7 @@
       "permalink": "https://www.instagram.com/reel/DWPU7vsj1-k/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:56:58.731478+00:00",
+          "collected_at": "2026-09-09T20:19:18.764990+00:00",
           "reach": 671,
           "likes": 22,
           "comments": 1,
@@ -3220,7 +3220,7 @@
       "permalink": "https://www.instagram.com/reel/DWIXOL6ESUK/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:00.542377+00:00",
+          "collected_at": "2026-09-09T20:19:19.933185+00:00",
           "reach": 414,
           "likes": 11,
           "comments": 0,
@@ -3256,7 +3256,7 @@
       "permalink": "https://www.instagram.com/reel/DWDMtutihix/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:01.837102+00:00",
+          "collected_at": "2026-09-09T20:19:20.912136+00:00",
           "reach": 375,
           "likes": 5,
           "comments": 0,
@@ -3292,7 +3292,7 @@
       "permalink": "https://www.instagram.com/p/DWCYA5FifVU/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:03.089959+00:00",
+          "collected_at": "2026-09-09T20:19:21.848271+00:00",
           "reach": 535,
           "likes": 20,
           "comments": 2,
@@ -3325,7 +3325,7 @@
       "permalink": "https://www.instagram.com/reel/DV_zJBJD6pf/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:04.345184+00:00",
+          "collected_at": "2026-09-09T20:19:22.827926+00:00",
           "reach": 945,
           "likes": 24,
           "comments": 16,
@@ -3361,7 +3361,7 @@
       "permalink": "https://www.instagram.com/p/DV_uF58jmhx/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:05.717358+00:00",
+          "collected_at": "2026-09-09T20:19:23.625316+00:00",
           "reach": 630,
           "likes": 18,
           "comments": 1,
@@ -3394,7 +3394,7 @@
       "permalink": "https://www.instagram.com/reel/DV-DOu0F44x/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:06.810509+00:00",
+          "collected_at": "2026-09-09T20:19:24.761239+00:00",
           "reach": 385,
           "likes": 2,
           "comments": 0,
@@ -3430,7 +3430,7 @@
       "permalink": "https://www.instagram.com/reel/DVsIiFxjJrb/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:08.197615+00:00",
+          "collected_at": "2026-09-09T20:19:25.686182+00:00",
           "reach": 305,
           "likes": 4,
           "comments": 0,
@@ -3466,7 +3466,7 @@
       "permalink": "https://www.instagram.com/reel/DVsCA7iiLpy/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:09.846989+00:00",
+          "collected_at": "2026-09-09T20:19:27.406074+00:00",
           "reach": 252,
           "likes": 0,
           "comments": 0,
@@ -3502,7 +3502,7 @@
       "permalink": "https://www.instagram.com/reel/DVkhW3GlNwg/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:11.370655+00:00",
+          "collected_at": "2026-09-09T20:19:28.528495+00:00",
           "reach": 279,
           "likes": 2,
           "comments": 0,
@@ -3538,7 +3538,7 @@
       "permalink": "https://www.instagram.com/p/DVgdjjXju-t/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:12.519896+00:00",
+          "collected_at": "2026-09-09T20:19:29.719225+00:00",
           "reach": 197,
           "likes": 9,
           "comments": 0,
@@ -3571,7 +3571,7 @@
       "permalink": "https://www.instagram.com/reel/DVfYdSGk7NL/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:13.927587+00:00",
+          "collected_at": "2026-09-09T20:19:31.577174+00:00",
           "reach": 265,
           "likes": 2,
           "comments": 0,
@@ -3607,7 +3607,7 @@
       "permalink": "https://www.instagram.com/reel/DVfKJlPjzuJ/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:15.367535+00:00",
+          "collected_at": "2026-09-09T20:19:32.428807+00:00",
           "reach": 221,
           "likes": 0,
           "comments": 0,
@@ -3643,7 +3643,7 @@
       "permalink": "https://www.instagram.com/reel/DVck5wmAmHf/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:17.510957+00:00",
+          "collected_at": "2026-09-09T20:19:33.518230+00:00",
           "reach": 177,
           "likes": 0,
           "comments": 0,
@@ -3679,7 +3679,7 @@
       "permalink": "https://www.instagram.com/reel/DVaAvzJj5b9/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:19.985493+00:00",
+          "collected_at": "2026-09-09T20:19:34.756623+00:00",
           "reach": 168,
           "likes": 0,
           "comments": 0,
@@ -3715,7 +3715,7 @@
       "permalink": "https://www.instagram.com/p/DVYjm6ujuIr/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:21.924348+00:00",
+          "collected_at": "2026-09-09T20:19:35.721321+00:00",
           "reach": 160,
           "likes": 6,
           "comments": 0,
@@ -3748,7 +3748,7 @@
       "permalink": "https://www.instagram.com/reel/DVYduWtlRHh/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:24.050254+00:00",
+          "collected_at": "2026-09-09T20:19:36.707899+00:00",
           "reach": 159,
           "likes": 2,
           "comments": 0,
@@ -3784,7 +3784,7 @@
       "permalink": "https://www.instagram.com/reel/DVSRzD4DAkS/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:25.234564+00:00",
+          "collected_at": "2026-09-09T20:19:37.532938+00:00",
           "reach": 167,
           "likes": 0,
           "comments": 0,
@@ -3820,7 +3820,7 @@
       "permalink": "https://www.instagram.com/reel/DVPtErmEeUj/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:26.541349+00:00",
+          "collected_at": "2026-09-09T20:19:38.652249+00:00",
           "reach": 139,
           "likes": 0,
           "comments": 0,
@@ -3856,7 +3856,7 @@
       "permalink": "https://www.instagram.com/reel/DVNJQ6Qj_Bo/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:28.116858+00:00",
+          "collected_at": "2026-09-09T20:19:40.003871+00:00",
           "reach": 153,
           "likes": 1,
           "comments": 0,
@@ -3892,7 +3892,7 @@
       "permalink": "https://www.instagram.com/p/DVM8Q0IjqLD/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:29.230562+00:00",
+          "collected_at": "2026-09-09T20:19:41.349624+00:00",
           "reach": 459,
           "likes": 19,
           "comments": 0,
@@ -3925,7 +3925,7 @@
       "permalink": "https://www.instagram.com/reel/DVKjrcWmViM/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:31.640108+00:00",
+          "collected_at": "2026-09-09T20:19:42.401628+00:00",
           "reach": 181,
           "likes": 2,
           "comments": 0,
@@ -3961,7 +3961,7 @@
       "permalink": "https://www.instagram.com/reel/DVKjSF6jvR5/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:33.643205+00:00",
+          "collected_at": "2026-09-09T20:19:43.192033+00:00",
           "reach": 122,
           "likes": 0,
           "comments": 0,
@@ -3997,7 +3997,7 @@
       "permalink": "https://www.instagram.com/reel/DVH_PFuk0ij/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:34.811080+00:00",
+          "collected_at": "2026-09-09T20:19:44.107729+00:00",
           "reach": 141,
           "likes": 1,
           "comments": 0,
@@ -4033,7 +4033,7 @@
       "permalink": "https://www.instagram.com/reel/DU_zlGTDMFW/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:36.155391+00:00",
+          "collected_at": "2026-09-09T20:19:45.323110+00:00",
           "reach": 253,
           "likes": 0,
           "comments": 0,
@@ -4069,7 +4069,7 @@
       "permalink": "https://www.instagram.com/p/DU5bA7njjmr/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:37.527572+00:00",
+          "collected_at": "2026-09-09T20:19:46.347488+00:00",
           "reach": 601,
           "likes": 21,
           "comments": 1,
@@ -4102,7 +4102,7 @@
       "permalink": "https://www.instagram.com/reel/DU3kqdhiDJq/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:38.912549+00:00",
+          "collected_at": "2026-09-09T20:19:47.139273+00:00",
           "reach": 367,
           "likes": 5,
           "comments": 0,
@@ -4138,7 +4138,7 @@
       "permalink": "https://www.instagram.com/reel/DUzZGOGDnGo/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:40.111278+00:00",
+          "collected_at": "2026-09-09T20:19:49.009804+00:00",
           "reach": 328,
           "likes": 1,
           "comments": 0,
@@ -4174,7 +4174,7 @@
       "permalink": "https://www.instagram.com/reel/DUzZBCxDfwG/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:41.719405+00:00",
+          "collected_at": "2026-09-09T20:19:50.176932+00:00",
           "reach": 381,
           "likes": 27,
           "comments": 0,
@@ -4210,7 +4210,7 @@
       "permalink": "https://www.instagram.com/reel/DUzYSaFiR67/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:43.052019+00:00",
+          "collected_at": "2026-09-09T20:19:51.644265+00:00",
           "reach": 343,
           "likes": 2,
           "comments": 1,
@@ -4246,7 +4246,7 @@
       "permalink": "https://www.instagram.com/p/DUvEmEdjgsU/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:44.299440+00:00",
+          "collected_at": "2026-09-09T20:19:52.786323+00:00",
           "reach": 423,
           "likes": 23,
           "comments": 4,
@@ -4279,7 +4279,7 @@
       "permalink": "https://www.instagram.com/p/DUocm_ZD74l/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:45.532136+00:00",
+          "collected_at": "2026-09-09T20:19:53.804956+00:00",
           "reach": 366,
           "likes": 13,
           "comments": 5,
@@ -4312,7 +4312,7 @@
       "permalink": "https://www.instagram.com/p/DUnwZbSDmdP/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:47.358323+00:00",
+          "collected_at": "2026-09-09T20:19:54.853398+00:00",
           "reach": 736,
           "likes": 63,
           "comments": 5,
@@ -4345,7 +4345,7 @@
       "permalink": "https://www.instagram.com/reel/DUl20J7iCsX/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:48.555219+00:00",
+          "collected_at": "2026-09-09T20:19:57.154015+00:00",
           "reach": 568,
           "likes": 7,
           "comments": 0,
@@ -4381,7 +4381,7 @@
       "permalink": "https://www.instagram.com/reel/DUl2YoukZrK/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:50.254985+00:00",
+          "collected_at": "2026-09-09T20:19:59.040230+00:00",
           "reach": 418,
           "likes": 2,
           "comments": 0,
@@ -4417,7 +4417,7 @@
       "permalink": "https://www.instagram.com/p/DUlq4_ZD4eY/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:52.048824+00:00",
+          "collected_at": "2026-09-09T20:20:00.361877+00:00",
           "reach": 474,
           "likes": 31,
           "comments": 1,
@@ -4450,7 +4450,7 @@
       "permalink": "https://www.instagram.com/reel/DUlmBpHghTy/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:53.320438+00:00",
+          "collected_at": "2026-09-09T20:20:01.751416+00:00",
           "reach": 453,
           "likes": 6,
           "comments": 0,
@@ -4486,7 +4486,7 @@
       "permalink": "https://www.instagram.com/reel/DUlkjuQgdL2/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:54.454122+00:00",
+          "collected_at": "2026-09-09T20:20:03.145509+00:00",
           "reach": 265,
           "likes": 1,
           "comments": 0,
@@ -4522,7 +4522,7 @@
       "permalink": "https://www.instagram.com/reel/DUljtRMDgIM/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:56.583025+00:00",
+          "collected_at": "2026-09-09T20:20:04.284146+00:00",
           "reach": 214,
           "likes": 2,
           "comments": 0,
@@ -4558,7 +4558,7 @@
       "permalink": "https://www.instagram.com/reel/DUljmcqgZEb/",
       "metrics": {
         "import": {
-          "collected_at": "2026-08-28T12:57:58.474883+00:00",
+          "collected_at": "2026-09-09T20:20:05.446978+00:00",
           "reach": 192,
           "likes": 2,
           "comments": 0,
@@ -4580,7 +4580,7 @@
     {
       "post_id": "17903845509482466",
       "local_id": "draft_002",
-      "publication_date": "2026-08-28T13:00:38.625059+00:00",
+      "publication_date": "2026-08-28T13:00:35+0000",
       "format": "carousel",
       "topic": "cafeína",
       "content_pillar": "supplements",
@@ -4618,16 +4618,31 @@
         "topic:cafeina",
         "format:carousel"
       ],
-      "metrics": {},
+      "metrics": {
+        "import": {
+          "collected_at": "2026-09-09T20:17:23.402415+00:00",
+          "reach": 515,
+          "likes": 29,
+          "comments": 0,
+          "shares": 13,
+          "saved": 6,
+          "total_interactions": 49,
+          "shares_per_reach": 0.0252,
+          "saves_per_reach": 0.0117,
+          "comments_per_reach": 0.0,
+          "likes_per_reach": 0.0563
+        }
+      },
       "performance_tier": null,
       "derivatives_created": [],
       "ghost_post_id": "6a91df4d68af5c000119cd2b",
-      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-desidrata-o-que-a-evidencia-mostra/"
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-desidrata-o-que-a-evidencia-mostra/",
+      "permalink": "https://www.instagram.com/p/Dcla3pUIJNm/"
     },
     {
       "post_id": "18622098112029887",
       "local_id": "draft_003",
-      "publication_date": "2026-08-28T21:50:57.234473+00:00",
+      "publication_date": "2026-08-28T21:50:52+0000",
       "format": "carousel",
       "topic": "bonking / hitting the wall",
       "content_pillar": "fueling",
@@ -4660,14 +4675,29 @@
         "topic:bonking",
         "format:carousel"
       ],
-      "metrics": {},
+      "metrics": {
+        "import": {
+          "collected_at": "2026-09-09T20:17:22.521059+00:00",
+          "reach": 493,
+          "likes": 18,
+          "comments": 1,
+          "shares": 3,
+          "saved": 9,
+          "total_interactions": 31,
+          "shares_per_reach": 0.0061,
+          "saves_per_reach": 0.0183,
+          "comments_per_reach": 0.002,
+          "likes_per_reach": 0.0365
+        }
+      },
       "performance_tier": null,
-      "derivatives_created": []
+      "derivatives_created": [],
+      "permalink": "https://www.instagram.com/p/DcmXjoGmu6V/"
     },
     {
       "post_id": "18035353262834479",
       "local_id": "draft_004",
-      "publication_date": "2026-08-31T19:04:51.161441+00:00",
+      "publication_date": "2026-08-31T19:04:47+0000",
       "format": "carousel",
       "topic": "proteína por refeição",
       "content_pillar": "nutrition",
@@ -4719,16 +4749,31 @@
         "topic:proteina",
         "format:carousel"
       ],
-      "metrics": {},
+      "metrics": {
+        "import": {
+          "collected_at": "2026-09-09T20:17:21.094377+00:00",
+          "reach": 672,
+          "likes": 28,
+          "comments": 0,
+          "shares": 6,
+          "saved": 12,
+          "total_interactions": 47,
+          "shares_per_reach": 0.0089,
+          "saves_per_reach": 0.0179,
+          "comments_per_reach": 0.0,
+          "likes_per_reach": 0.0417
+        }
+      },
       "performance_tier": null,
       "derivatives_created": [],
       "ghost_post_id": "6a95d7f497a0b10001f7d62c",
-      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/mito-30g-proteina-por-refeicao/"
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/mito-30g-proteina-por-refeicao/",
+      "permalink": "https://www.instagram.com/p/Dcty7vSoMhZ/"
     },
     {
       "post_id": "18130495681668951",
       "local_id": "draft_005",
-      "publication_date": "2026-08-31T19:27:57.344303+00:00",
+      "publication_date": "2026-08-31T19:27:52+0000",
       "format": "carousel",
       "topic": "antioxidantes e adaptação ao treino",
       "content_pillar": "supplements",
@@ -4772,11 +4817,26 @@
         "topic:antioxidantes",
         "format:carousel"
       ],
-      "metrics": {},
+      "metrics": {
+        "import": {
+          "collected_at": "2026-09-09T20:17:19.582387+00:00",
+          "reach": 200,
+          "likes": 8,
+          "comments": 0,
+          "shares": 0,
+          "saved": 5,
+          "total_interactions": 13,
+          "shares_per_reach": 0.0,
+          "saves_per_reach": 0.025,
+          "comments_per_reach": 0.0,
+          "likes_per_reach": 0.04
+        }
+      },
       "performance_tier": null,
       "derivatives_created": [],
       "ghost_post_id": "6a95d85897a0b10001f7d637",
-      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/vitamina-c-pos-treino-bloqueia-adaptacao/"
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/vitamina-c-pos-treino-bloqueia-adaptacao/",
+      "permalink": "https://www.instagram.com/p/Dct1kn7o7Nm/"
     }
   ]
 }
