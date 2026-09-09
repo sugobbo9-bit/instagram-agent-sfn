@@ -1,0 +1,142 @@
+{
+  "local_id": "draft_006",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-09T00:00:00Z",
+  "topic": "cãibra muscular no exercício",
+  "content_pillar": "hydration",
+  "hook": "Cãibra é falta de sal e água? A evidência diz outra coisa.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:caibra",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Cãibra é falta de sal e água? A evidência diz outra coisa.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "A teoria do sal e da água",
+      "body": "A ideia popular: você sua muito, perde sódio e líquido, e o músculo trava. Logo, a solução seria mais sal e isotônico.\n\nO problema: essa teoria nasceu de observações antigas, sem grupo de comparação. Quando foi testada em atletas de verdade, ela não se sustentou.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE OS DADOS MOSTRAM",
+      "headline": "Quem teve cãibra não estava mais desidratado nem com menos sódio.",
+      "body": "Estudos que mediram sangue e peso antes e depois de provas longas compararam quem teve cãibra com quem não teve.\n\nResultado: nenhuma diferença consistente em sódio, eletrólitos ou perda de peso entre os dois grupos.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O que realmente prevê a cãibra é a intensidade — não o eletrólito.",
+      "body": "Schwellnus et al. (Br J Sports Med, 2011): em 210 triatletas de Ironman, não houve diferença de eletrólitos nem de peso entre quem teve e quem não teve cãibra. O que previu foi ritmo mais rápido e histórico de cãibra.\n\nMiller et al. (Med Sci Sports Exerc, 2010): suco de picles alivia a cãibra em ~85 segundos — rápido demais para repor eletrólito. O efeito é um reflexo neural, não química do sangue.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "A cãibra é mais fadiga do que falta de sal.",
+      "body": "→ Treine na intensidade e na duração da prova: o gatilho principal é exigir do músculo mais do que ele foi preparado para aguentar.\n→ Largue num ritmo condizente com o seu preparo, não mais rápido.\n→ Na hora da cãibra: alongamento passivo do músculo é o que corta mais rápido (inibição reflexa).\n\nSódio e hidratação seguem importantes — para desempenho e para evitar hiponatremia. Só não são o gatilho da cãibra.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Sal não é o vilão nem o herói da cãibra. Treine para o ritmo que você vai correr.",
+      "body": "Salva esse carrossel e manda pra quem enche o bolso de sal antes da prova.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Poucos mitos do endurance são tão repetidos quanto \"cãibra é falta de sal e água\". A evidência de campo, porém, aponta para outro lado.\n\nQuando pesquisadores compararam atletas que tiveram cãibra com os que não tiveram, não acharam diferença consistente de sódio, eletrólitos ou desidratação. O que separou os grupos foi a intensidade do esforço e o histórico de cãibra — ou seja, fadiga neuromuscular, o músculo exigido além do que foi treinado.\n\nIsso não significa abandonar sódio e hidratação: os dois importam para desempenho e para prevenir hiponatremia. Significa que encher o bolso de sal não vai te proteger de uma cãibra causada por largar rápido demais. A ciência da cãibra ainda tem perguntas em aberto, mas o modelo simples do \"sal e água\" não é o que a melhor evidência sustenta.\n\nFontes: Schwellnus et al. Br J Sports Med. 2011. | Sulzer et al. Med Sci Sports Exerc. 2005. | Miller et al. Med Sci Sports Exerc. 2010. | Schwellnus. Br J Sports Med. 2009.",
+  "cta": "Salva e manda pra quem ainda enche o bolso de sal antes da prova.",
+  "scientific_sources": [
+    {
+      "title": "Increased running speed and previous cramps rather than dehydration or serum sodium changes predict exercise-associated muscle cramping: a prospective cohort study in 210 Ironman triathletes",
+      "authors": "Schwellnus MP, Drew N, Collins M",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2011,
+      "volume": "45",
+      "issue": "8",
+      "pages": "650-656",
+      "doi": "10.1136/bjsm.2010.078535",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21148567/",
+      "level": "A"
+    },
+    {
+      "title": "Serum electrolytes in Ironman triathletes with exercise-associated muscle cramping",
+      "authors": "Sulzer NU, Schwellnus MP, Noakes TD",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2005,
+      "volume": "37",
+      "issue": "7",
+      "pages": "1081-1085",
+      "doi": "10.1249/01.mss.0000169723.79558.cf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16015122/",
+      "level": "B"
+    },
+    {
+      "title": "Reflex inhibition of electrically induced muscle cramps in hypohydrated humans",
+      "authors": "Miller KC, Mack GW, Knight KL, Hopkins JT, Draper DO, Fields PJ, Hunter I",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2010,
+      "volume": "42",
+      "issue": "5",
+      "pages": "953-961",
+      "doi": "10.1249/MSS.0b013e3181c0647e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19997012/",
+      "level": "B"
+    },
+    {
+      "title": "Cause of exercise associated muscle cramps (EAMC) — altered neuromuscular control, dehydration or electrolyte depletion?",
+      "authors": "Schwellnus MP",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2009,
+      "volume": "43",
+      "issue": "6",
+      "pages": "401-408",
+      "doi": "10.1136/bjsm.2008.050401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18981039/",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Cãibra no exercício: falta de sal e água ou fadiga?",
+    "slug": "caibra-exercicio-sal-agua-ou-fadiga",
+    "excerpt": "A ideia de que cãibra é causada por desidratação e perda de sódio é popular — mas a evidência de campo em atletas de endurance aponta para a fadiga neuromuscular. O que a ciência mostra sobre causa, prevenção e o que fazer na hora.",
+    "meta_title": "Cãibra no exercício: falta de sal e água ou fadiga? — o que diz a ciência",
+    "tags": [
+      "Hidratação",
+      "Eletrólitos",
+      "Endurance",
+      "Fisiologia"
+    ],
+    "html": "<p>Todo mundo que corre, pedala ou faz triatlo já ouviu — ou viveu — a cena: no meio do esforço, o músculo trava numa cãibra. E a explicação que sempre aparece é a mesma: <em>\"você perdeu muito sal e água\"</em>. A recomendação vem em seguida: mais isotônico, mais sal, cápsulas de sódio. Parece lógico. Mas quando essa ideia é testada em atletas de verdade, ela não se sustenta.</p>\n\n<h2>De onde veio a teoria do sal e da água</h2>\n\n<p>A hipótese de que a cãibra associada ao exercício (EAMC, na sigla em inglês) seria causada por desidratação e perda de eletrólitos nasceu de observações antigas, no início do século XX, em trabalhadores expostos ao calor. Eram relatos sem grupo de comparação e sem medidas controladas. A ideia pegou, virou senso comum — e foi vendida junto com uma indústria inteira de reposição.</p>\n\n<h2>O que acontece quando a teoria é testada</h2>\n\n<p>Quando pesquisadores mediram sangue e peso corporal antes e depois de provas longas, comparando quem teve cãibra com quem não teve, o resultado desafiou o senso comum.</p>\n\n<p>Sulzer, Schwellnus e Noakes (2005) analisaram triatletas de Ironman e não encontraram sódio sérico mais baixo nos atletas que tiveram cãibra — se algo, os valores tendiam ao contrário do previsto pela teoria da depleção.</p>\n\n<p>Poucos anos depois, Schwellnus, Drew e Collins (2011) acompanharam prospectivamente <strong>210 triatletas de Ironman</strong>. Não houve diferença significativa em nenhuma concentração de eletrólitos nem na variação de peso corporal entre quem teve e quem não teve cãibra. Os fatores que realmente previram a cãibra foram outros: <strong>ritmo de prova mais rápido</strong> e <strong>histórico de cãibra nas provas anteriores</strong>. Em outras palavras, exercício em intensidade alta demais para o preparo do atleta.</p>\n\n<h2>A pista do suco de picles</h2>\n\n<p>Um experimento engenhoso reforçou a mudança de paradigma. Miller et al. (2010) induziram cãibras eletricamente em pessoas desidratadas e deram suco de picles. A cãibra cedeu em cerca de <strong>85 segundos</strong> — rápido demais para que o líquido fosse digerido, absorvido e alterasse a concentração de eletrólitos no sangue. A explicação mais provável é um <strong>reflexo neural</strong>: o sabor forte na boca e na garganta dispara receptores (canais TRP) que inibem a hiperatividade do neurônio motor. É controle nervoso, não química do sangue.</p>\n\n<h2>O modelo atual: fadiga neuromuscular</h2>\n\n<p>A explicação que melhor se sustenta hoje é a do <strong>controle neuromuscular alterado</strong> (Schwellnus, 2009). Com a fadiga, o equilíbrio entre os sinais excitatórios (fusos musculares) e inibitórios (órgãos tendinosos de Golgi) se desregula, deixando o motoneurônio hiperexcitável. O músculo mais suscetível é justamente aquele que cruza duas articulações e trabalha em posição encurtada — como a panturrilha no fim de uma prova. Por isso a cãibra aparece quando você extrapola o ritmo ou a distância que treinou.</p>\n\n<h2>O que fazer com isso na prática</h2>\n\n<table>\n<thead><tr><th>Situação</th><th>O que a evidência sugere</th></tr></thead>\n<tbody>\n<tr><td>Prevenir</td><td>Treinar na intensidade e na duração da prova; respeitar o ritmo compatível com o preparo</td></tr>\n<tr><td>Largada</td><td>Não sair mais rápido do que treinou — a cãibra segue o excesso de intensidade</td></tr>\n<tr><td>Na hora da cãibra</td><td>Alongamento passivo do músculo afetado — é o que interrompe mais rápido, via inibição reflexa</td></tr>\n<tr><td>Sódio e hidratação</td><td>Continuam importantes para desempenho e para prevenir hiponatremia — mas não são o gatilho da cãibra</td></tr>\n</tbody>\n</table>\n\n<h2>O que isso não significa</h2>\n\n<p>Nada disso quer dizer que sódio e hidratação sejam irrelevantes. Eles são decisivos para o desempenho em provas longas e para evitar a hiponatremia (sódio baixo demais por excesso de água), que é um problema sério e diferente. A mensagem é mais específica: <strong>encher o bolso de sal não vai te proteger de uma cãibra causada por largar rápido demais.</strong> E vale a honestidade científica — a fisiologia da cãibra ainda tem perguntas em aberto, e provavelmente há mais de um mecanismo em jogo. Mas o modelo simples de \"sal e água\" não é o que a melhor evidência de campo sustenta.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Schwellnus MP, Drew N, Collins M. Increased running speed and previous cramps rather than dehydration or serum sodium changes predict exercise-associated muscle cramping: a prospective cohort study in 210 Ironman triathletes. <em>Br J Sports Med</em>. 2011;45(8):650&ndash;656. doi:10.1136/bjsm.2010.078535</li>\n<li>Sulzer NU, Schwellnus MP, Noakes TD. Serum electrolytes in Ironman triathletes with exercise-associated muscle cramping. <em>Med Sci Sports Exerc</em>. 2005;37(7):1081&ndash;1085. doi:10.1249/01.mss.0000169723.79558.cf</li>\n<li>Miller KC, Mack GW, Knight KL, et al. Reflex inhibition of electrically induced muscle cramps in hypohydrated humans. <em>Med Sci Sports Exerc</em>. 2010;42(5):953&ndash;961. doi:10.1249/MSS.0b013e3181c0647e</li>\n<li>Schwellnus MP. Cause of exercise associated muscle cramps (EAMC) &mdash; altered neuromuscular control, dehydration or electrolyte depletion? <em>Br J Sports Med</em>. 2009;43(6):401&ndash;408. doi:10.1136/bjsm.2008.050401</li>\n</ol>\n",
+    "cover": "content/drafts/draft_006/cover.png",
+    "cover_alt": "Cãibra no exercício: falta de sal e água ou fadiga? — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_006/slide_01.png",
+    "content/drafts/draft_006/slide_02.png",
+    "content/drafts/draft_006/slide_03.png",
+    "content/drafts/draft_006/slide_04.png",
+    "content/drafts/draft_006/slide_05.png",
+    "content/drafts/draft_006/slide_06.png"
+  ],
+  "post_id": "18107842385597925",
+  "published_at": "2026-09-09T20:40:30.483920+00:00"
+}

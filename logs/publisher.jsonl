@@ -63,3 +63,10 @@
 {"ts": "2026-09-09T20:33:37.338903+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-09-09T20:37:25.798127+00:00", "level": "INFO", "msg": "Publicando draft_006 (carousel) \u2014 c\u00e3ibra muscular no exerc\u00edcio"}
 {"ts": "2026-09-09T20:37:25.799812+00:00", "level": "ERROR", "msg": "Quality gate REPROVOU draft_006: ['CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_01.png', 'CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_02.png', 'CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_03.png', 'CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_04.png', 'CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_05.png', 'CRIATIVO: arquivo n\u00e3o encontrado: /tmp/renders/draft_006/slide_06.png']"}
+{"ts": "2026-09-09T20:39:35.222181+00:00", "level": "INFO", "msg": "Publicando draft_006 (carousel) \u2014 c\u00e3ibra muscular no exerc\u00edcio"}
+{"ts": "2026-09-09T20:39:35.224361+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-09T20:39:35.224426+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_006/slide_01.png"}
+{"ts": "2026-09-09T20:39:35.958354+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-09T20:40:14.345877+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-09T20:40:30.483751+00:00", "level": "INFO", "msg": "PUBLICADO: draft_006 -> media_id 18107842385597925"}
+{"ts": "2026-09-09T20:40:30.492111+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

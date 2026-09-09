@@ -4837,6 +4837,83 @@
       "ghost_post_id": "6a95d85897a0b10001f7d637",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/vitamina-c-pos-treino-bloqueia-adaptacao/",
       "permalink": "https://www.instagram.com/p/Dct1kn7o7Nm/"
+    },
+    {
+      "post_id": "18107842385597925",
+      "local_id": "draft_006",
+      "publication_date": "2026-09-09T20:40:30.483920+00:00",
+      "format": "carousel",
+      "topic": "cãibra muscular no exercício",
+      "content_pillar": "hydration",
+      "hook": "Cãibra é falta de sal e água? A evidência diz outra coisa.",
+      "caption": "Poucos mitos do endurance são tão repetidos quanto \"cãibra é falta de sal e água\". A evidência de campo, porém, aponta para outro lado.\n\nQuando pesquisadores compararam atletas que tiveram cãibra com os que não tiveram, não acharam diferença consistente de sódio, eletrólitos ou desidratação. O que separou os grupos foi a intensidade do esforço e o histórico de cãibra — ou seja, fadiga neuromuscular, o músculo exigido além do que foi treinado.\n\nIsso não significa abandonar sódio e hidratação: os dois importam para desempenho e para prevenir hiponatremia. Significa que encher o bolso de sal não vai te proteger de uma cãibra causada por largar rápido demais. A ciência da cãibra ainda tem perguntas em aberto, mas o modelo simples do \"sal e água\" não é o que a melhor evidência sustenta.\n\nFontes: Schwellnus et al. Br J Sports Med. 2011. | Sulzer et al. Med Sci Sports Exerc. 2005. | Miller et al. Med Sci Sports Exerc. 2010. | Schwellnus. Br J Sports Med. 2009.",
+      "cta": "Salva e manda pra quem ainda enche o bolso de sal antes da prova.",
+      "scientific_sources": [
+        {
+          "title": "Increased running speed and previous cramps rather than dehydration or serum sodium changes predict exercise-associated muscle cramping: a prospective cohort study in 210 Ironman triathletes",
+          "authors": "Schwellnus MP, Drew N, Collins M",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2011,
+          "volume": "45",
+          "issue": "8",
+          "pages": "650-656",
+          "doi": "10.1136/bjsm.2010.078535",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21148567/",
+          "level": "A"
+        },
+        {
+          "title": "Serum electrolytes in Ironman triathletes with exercise-associated muscle cramping",
+          "authors": "Sulzer NU, Schwellnus MP, Noakes TD",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2005,
+          "volume": "37",
+          "issue": "7",
+          "pages": "1081-1085",
+          "doi": "10.1249/01.mss.0000169723.79558.cf",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16015122/",
+          "level": "B"
+        },
+        {
+          "title": "Reflex inhibition of electrically induced muscle cramps in hypohydrated humans",
+          "authors": "Miller KC, Mack GW, Knight KL, Hopkins JT, Draper DO, Fields PJ, Hunter I",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2010,
+          "volume": "42",
+          "issue": "5",
+          "pages": "953-961",
+          "doi": "10.1249/MSS.0b013e3181c0647e",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19997012/",
+          "level": "B"
+        },
+        {
+          "title": "Cause of exercise associated muscle cramps (EAMC) — altered neuromuscular control, dehydration or electrolyte depletion?",
+          "authors": "Schwellnus MP",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2009,
+          "volume": "43",
+          "issue": "6",
+          "pages": "401-408",
+          "doi": "10.1136/bjsm.2008.050401",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18981039/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_006/slide_01.png",
+        "content/drafts/draft_006/slide_02.png",
+        "content/drafts/draft_006/slide_03.png",
+        "content/drafts/draft_006/slide_04.png",
+        "content/drafts/draft_006/slide_05.png",
+        "content/drafts/draft_006/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:caibra",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
