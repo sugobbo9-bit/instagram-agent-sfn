@@ -1,7 +1,7 @@
 {
   "local_id": "draft_006",
   "format": "carousel",
-  "status": "rendered",
+  "status": "approved",
   "created_at": "2026-09-09T00:00:00Z",
   "topic": "cãibra muscular no exercício",
   "content_pillar": "hydration",
@@ -130,11 +130,11 @@
     "cover_alt": "Cãibra no exercício: falta de sal e água ou fadiga? — Somente os Fatos Nutrição"
   },
   "creative_files": [
-    "/tmp/renders/draft_006/slide_01.png",
-    "/tmp/renders/draft_006/slide_02.png",
-    "/tmp/renders/draft_006/slide_03.png",
-    "/tmp/renders/draft_006/slide_04.png",
-    "/tmp/renders/draft_006/slide_05.png",
-    "/tmp/renders/draft_006/slide_06.png"
+    "content/drafts/draft_006/slide_01.png",
+    "content/drafts/draft_006/slide_02.png",
+    "content/drafts/draft_006/slide_03.png",
+    "content/drafts/draft_006/slide_04.png",
+    "content/drafts/draft_006/slide_05.png",
+    "content/drafts/draft_006/slide_06.png"
   ]
 }
