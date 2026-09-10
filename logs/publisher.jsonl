@@ -70,3 +70,10 @@
 {"ts": "2026-09-09T20:40:14.345877+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-09-09T20:40:30.483751+00:00", "level": "INFO", "msg": "PUBLICADO: draft_006 -> media_id 18107842385597925"}
 {"ts": "2026-09-09T20:40:30.492111+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-10T11:29:39.261731+00:00", "level": "INFO", "msg": "Publicando draft_007 (carousel) \u2014 BCAA"}
+{"ts": "2026-09-10T11:29:39.264025+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-10T11:29:39.264093+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_007/slide_01.png"}
+{"ts": "2026-09-10T11:29:40.001636+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-10T11:30:15.729833+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-10T11:30:30.710390+00:00", "level": "INFO", "msg": "PUBLICADO: draft_007 -> media_id 17879239395535396"}
+{"ts": "2026-09-10T11:30:30.718746+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

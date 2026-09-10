@@ -95,11 +95,16 @@
       "format": "carousel",
       "topic": "BCAA",
       "hook": "Você gasta com BCAA? Ele é só 3 dos 9 aminoácidos essenciais.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-10T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Myth-busting: BCAA sao 3 dos 9 essenciais; resposta anabolica submaxima (Wolfe 2017, Jackman 2017); DOMS modesto/condicional (Fedewa 2019, Weber 2021)"
+      "notes": "Myth-busting: BCAA sao 3 dos 9 essenciais; resposta anabolica submaxima (Wolfe 2017, Jackman 2017); DOMS modesto/condicional (Fedewa 2019, Weber 2021)",
+      "published_at": "2026-09-10T11:30:30.710560+00:00",
+      "post_id": "17879239395535396",
+      "ghost_post_id": "6aa294d762bd040001047064",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bcaa-o-que-a-ciencia-diz/",
+      "ghost_status": "published"
     }
   ]
 }

@@ -4914,6 +4914,95 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17879239395535396",
+      "local_id": "draft_007",
+      "publication_date": "2026-09-10T11:30:30.710560+00:00",
+      "format": "carousel",
+      "topic": "BCAA",
+      "content_pillar": "supplements",
+      "hook": "Você gasta com BCAA? Ele é só 3 dos 9 aminoácidos essenciais.",
+      "caption": "BCAA (leucina, isoleucina e valina) viraram um dos suplementos mais vendidos do mundo fitness. Mas eles são apenas 3 dos 9 aminoácidos essenciais — e o músculo precisa dos 9 ao mesmo tempo para ser construído.\n\nO que a evidência mostra: BCAA sozinho eleva a síntese muscular de forma submáxima (cerca de 22%, contra ~50% da proteína completa), e o efeito sobre dor muscular é modesto e depende de dose, nível de treino e intensidade do dano. Se a sua proteína diária já está em 1,6–2,2 g/kg com fontes completas, o BCAA não adiciona nada que a comida não dê — porque essas fontes já contêm os próprios BCAA.\n\nNão é veneno nem milagre. É proteína pela metade, mais cara.\n\nFontes: Wolfe RR. J Int Soc Sports Nutr. 2017;14:30. | Jackman et al. Front Physiol. 2017;8:390. | Fedewa et al. Int J Vitam Nutr Res. 2019;89(5-6):348-356. | Weber et al. Amino Acids. 2021;53(11):1663-1678. | Jäger et al. (ISSN). J Int Soc Sports Nutr. 2017;14:20.",
+      "cta": "Salva e manda pra quem ainda gasta com BCAA.",
+      "scientific_sources": [
+        {
+          "title": "Branched-chain amino acids and muscle protein synthesis in humans: myth or reality?",
+          "authors": "Wolfe RR",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "30",
+          "doi": "10.1186/s12970-017-0184-9",
+          "pmid": "28852372",
+          "level": "A"
+        },
+        {
+          "title": "Branched-Chain Amino Acid Ingestion Stimulates Muscle Myofibrillar Protein Synthesis following Resistance Exercise in Humans",
+          "authors": "Jackman SR, Witard OC, Philp A, Wallis GA, Baar K, Tipton KD",
+          "journal": "Frontiers in Physiology",
+          "year": 2017,
+          "volume": "8",
+          "pages": "390",
+          "doi": "10.3389/fphys.2017.00390",
+          "pmid": "28638350",
+          "level": "B"
+        },
+        {
+          "title": "Effect of Branched-Chain Amino Acid Supplementation on Muscle Soreness following Exercise: A Meta-Analysis",
+          "authors": "Fedewa MV, Spencer SO, Williams TD, Becker ZE, Fuqua CA",
+          "journal": "International Journal for Vitamin and Nutrition Research",
+          "year": 2019,
+          "volume": "89",
+          "issue": "5-6",
+          "pages": "348-356",
+          "doi": "10.1024/0300-9831/a000543",
+          "pmid": "30938579",
+          "level": "A"
+        },
+        {
+          "title": "The use of BCAA to decrease delayed-onset muscle soreness after a single bout of exercise: a systematic review and meta-analysis",
+          "authors": "Weber MG, Dias SS, de Angelis TR, Fernandes EV, Bernardes AG, Milanez VF, Jussiani EI, de Paula Ramos S",
+          "journal": "Amino Acids",
+          "year": 2021,
+          "volume": "53",
+          "issue": "11",
+          "pages": "1663-1678",
+          "doi": "10.1007/s00726-021-03089-2",
+          "pmid": "34669012",
+          "level": "A"
+        },
+        {
+          "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+          "authors": "Jäger R, Kerksick CM, Campbell BI, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "20",
+          "doi": "10.1186/s12970-017-0177-8",
+          "pmid": "28642676",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_007/slide_01.png",
+        "content/drafts/draft_007/slide_02.png",
+        "content/drafts/draft_007/slide_03.png",
+        "content/drafts/draft_007/slide_04.png",
+        "content/drafts/draft_007/slide_05.png",
+        "content/drafts/draft_007/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:bcaa",
+        "format:carousel",
+        "angle:product-cost"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aa294d762bd040001047064",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bcaa-o-que-a-ciencia-diz/"
     }
   ]
 }

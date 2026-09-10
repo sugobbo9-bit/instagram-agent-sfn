@@ -1,0 +1,153 @@
+{
+  "local_id": "draft_007",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-10T00:00:00Z",
+  "topic": "BCAA",
+  "content_pillar": "supplements",
+  "hook": "Você gasta com BCAA? Ele é só 3 dos 9 aminoácidos essenciais.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:bcaa",
+    "format:carousel",
+    "angle:product-cost"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Você gasta com BCAA? Ele é só 3 dos 9 aminoácidos essenciais.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "BCAA é essencial pra ganhar músculo?",
+      "body": "A indústria transformou os aminoácidos de cadeia ramificada — leucina, isoleucina e valina — num suplemento de milhões.\n\nA promessa: tomar BCAA sozinho aumenta a síntese muscular e acelera a recuperação.\n\nO detalhe que a embalagem não conta: BCAA são apenas 3 dos 9 aminoácidos essenciais.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "POR QUE A CONTA NÃO FECHA",
+      "headline": "Músculo se constrói com os 9 essenciais — não com 3.",
+      "body": "Para sintetizar proteína muscular nova, o corpo precisa dos 9 aminoácidos essenciais ao mesmo tempo.\n\nCom só os 3 do BCAA, os outros 6 têm que sair da quebra do seu próprio músculo — o que limita o ganho líquido.\n\nÉ como tentar erguer uma parede com 3 dos 9 tijolos que ela precisa.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O que os estudos realmente mostram.",
+      "body": "Jackman et al. (Front Physiol, 2017): 5,6 g de BCAA após o treino elevaram a síntese muscular em 22% — mas proteína completa (whey) chega perto de 50%.\n\nWolfe (J Int Soc Sports Nutr, 2017): a alegação de que BCAA sozinho gera resposta anabólica robusta é considerada sem fundamento.\n\nPara dor muscular, o efeito é modesto e depende de condições (Fedewa 2019; Weber 2021).",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Se a sua proteína já está em dia, BCAA é redundante.",
+      "body": "Whey, ovos, carne, leite e soja já contêm todos os BCAA — junto com os outros 6 essenciais.\n\nDose diária de proteína: 1,6–2,2 g/kg (ISSN, 2017)\nPor refeição: 20–40 g de proteína completa\n\n→ Bater a proteína total entrega o que o BCAA promete — e sai mais barato.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Não é que BCAA não faça nada. É que você provavelmente não precisa dele.",
+      "body": "Salva e manda pro parceiro de treino que ainda gasta com BCAA.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "BCAA (leucina, isoleucina e valina) viraram um dos suplementos mais vendidos do mundo fitness. Mas eles são apenas 3 dos 9 aminoácidos essenciais — e o músculo precisa dos 9 ao mesmo tempo para ser construído.\n\nO que a evidência mostra: BCAA sozinho eleva a síntese muscular de forma submáxima (cerca de 22%, contra ~50% da proteína completa), e o efeito sobre dor muscular é modesto e depende de dose, nível de treino e intensidade do dano. Se a sua proteína diária já está em 1,6–2,2 g/kg com fontes completas, o BCAA não adiciona nada que a comida não dê — porque essas fontes já contêm os próprios BCAA.\n\nNão é veneno nem milagre. É proteína pela metade, mais cara.\n\nFontes: Wolfe RR. J Int Soc Sports Nutr. 2017;14:30. | Jackman et al. Front Physiol. 2017;8:390. | Fedewa et al. Int J Vitam Nutr Res. 2019;89(5-6):348-356. | Weber et al. Amino Acids. 2021;53(11):1663-1678. | Jäger et al. (ISSN). J Int Soc Sports Nutr. 2017;14:20.",
+  "cta": "Salva e manda pra quem ainda gasta com BCAA.",
+  "scientific_sources": [
+    {
+      "title": "Branched-chain amino acids and muscle protein synthesis in humans: myth or reality?",
+      "authors": "Wolfe RR",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "30",
+      "doi": "10.1186/s12970-017-0184-9",
+      "pmid": "28852372",
+      "level": "A"
+    },
+    {
+      "title": "Branched-Chain Amino Acid Ingestion Stimulates Muscle Myofibrillar Protein Synthesis following Resistance Exercise in Humans",
+      "authors": "Jackman SR, Witard OC, Philp A, Wallis GA, Baar K, Tipton KD",
+      "journal": "Frontiers in Physiology",
+      "year": 2017,
+      "volume": "8",
+      "pages": "390",
+      "doi": "10.3389/fphys.2017.00390",
+      "pmid": "28638350",
+      "level": "B"
+    },
+    {
+      "title": "Effect of Branched-Chain Amino Acid Supplementation on Muscle Soreness following Exercise: A Meta-Analysis",
+      "authors": "Fedewa MV, Spencer SO, Williams TD, Becker ZE, Fuqua CA",
+      "journal": "International Journal for Vitamin and Nutrition Research",
+      "year": 2019,
+      "volume": "89",
+      "issue": "5-6",
+      "pages": "348-356",
+      "doi": "10.1024/0300-9831/a000543",
+      "pmid": "30938579",
+      "level": "A"
+    },
+    {
+      "title": "The use of BCAA to decrease delayed-onset muscle soreness after a single bout of exercise: a systematic review and meta-analysis",
+      "authors": "Weber MG, Dias SS, de Angelis TR, Fernandes EV, Bernardes AG, Milanez VF, Jussiani EI, de Paula Ramos S",
+      "journal": "Amino Acids",
+      "year": 2021,
+      "volume": "53",
+      "issue": "11",
+      "pages": "1663-1678",
+      "doi": "10.1007/s00726-021-03089-2",
+      "pmid": "34669012",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+      "authors": "Jäger R, Kerksick CM, Campbell BI, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "20",
+      "doi": "10.1186/s12970-017-0177-8",
+      "pmid": "28642676",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "BCAA: o que a ciência realmente diz sobre o suplemento",
+    "slug": "bcaa-o-que-a-ciencia-diz",
+    "excerpt": "BCAA são apenas 3 dos 9 aminoácidos essenciais — e o músculo precisa dos 9 ao mesmo tempo. O que a evidência mostra sobre síntese proteica, recuperação e se vale a pena gastar.",
+    "meta_title": "BCAA vale a pena? O que a ciência diz sobre o suplemento",
+    "tags": [
+      "BCAA",
+      "Suplementação",
+      "Proteína",
+      "Recuperação",
+      "Endurance"
+    ],
+    "html": "<p>O BCAA é um dos suplementos mais vendidos do mundo fitness. A promessa é sedutora: tomar aminoácidos de cadeia ramificada — leucina, isoleucina e valina — aumentaria a construção muscular e aceleraria a recuperação. Parece fazer sentido. E é, na melhor das hipóteses, meia verdade.</p>\n\n<h2>O que é o BCAA</h2>\n\n<p>BCAA é a sigla para <em>branched-chain amino acids</em>, os três aminoácidos de cadeia ramificada: leucina, isoleucina e valina. Eles são aminoácidos essenciais — ou seja, o corpo não produz e você precisa obter pela dieta. Até aqui, tudo certo. O problema começa quando o suplemento é vendido como se esses três fossem suficientes para construir músculo.</p>\n\n<h2>Por que 3 aminoácidos não bastam</h2>\n\n<p>Existem 9 aminoácidos essenciais. Para sintetizar proteína muscular nova, o corpo precisa de todos os 9 disponíveis ao mesmo tempo. Quando você ingere apenas os 3 do BCAA, os outros 6 têm que vir de algum lugar — e esse lugar é a quebra do seu próprio tecido muscular.</p>\n\n<p>Robert Wolfe, um dos pesquisadores mais respeitados na área de metabolismo proteico, revisou toda a literatura sobre o tema em 2017 (<em>Journal of the International Society of Sports Nutrition</em>). A conclusão é direta: a alegação de que o consumo de BCAA sozinho estimula a síntese proteica muscular ou produz uma resposta anabólica robusta em humanos é, nas palavras dele, <strong>sem fundamento</strong>. O aumento teórico máximo é limitado justamente porque os demais aminoácidos essenciais precisariam ser 'roubados' da degradação muscular.</p>\n\n<h2>Mas alguns estudos mostram aumento na síntese</h2>\n\n<p>Sim — e é importante ser honesto sobre isso. Jackman e colaboradores (<em>Frontiers in Physiology</em>, 2017) deram 5,6 g de BCAA a homens treinados após o exercício resistido e mediram um aumento de <strong>22%</strong> na síntese proteica muscular em relação ao placebo. Ou seja: BCAA sozinho não é inerte.</p>\n\n<p>O ponto é a comparação. Uma dose equivalente de proteína completa, como whey, produz uma resposta na faixa de 50% — mais que o dobro. Faz sentido: a proteína completa entrega os 3 BCAA <em>e</em> os outros 6 essenciais. O BCAA isolado ativa a maquinaria (a via mTOR), mas faltam os tijolos para terminar a obra.</p>\n\n<h2>E a recuperação muscular?</h2>\n\n<p>Esse é o outro grande argumento de venda: BCAA reduziria a dor muscular tardia (DOMS). A evidência aqui é mista e precisa de contexto.</p>\n\n<p>Uma meta-análise de Fedewa e colaboradores (2019) encontrou redução da dor muscular com BCAA. Já uma revisão sistemática e meta-análise mais recente, de Weber e colaboradores (<em>Amino Acids</em>, 2021), concluiu que o benefício aparece apenas sob condições específicas — em pessoas treinadas, com doses baixas (até ~255 mg/kg/dia) e dano muscular leve a moderado — com alta variabilidade entre os estudos. Um detalhe metodológico importante: na maioria desses estudos, o grupo placebo consumiu menos proteína total, o que confunde o que é 'efeito do BCAA' com o que é simplesmente 'efeito de comer mais proteína'.</p>\n\n<h2>O que fazer na prática</h2>\n\n<p>A pergunta certa não é 'BCAA funciona?', e sim 'BCAA adiciona algo que a minha dieta já não dá?'. Para quem já consome proteína suficiente, a resposta é praticamente não — porque whey, ovos, carne, peixe, leite e soja já contêm todos os BCAA, junto com os outros 6 aminoácidos essenciais.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Proteína total diária</td><td>1,6–2,2 g/kg de peso corporal</td></tr>\n<tr><td>Por refeição</td><td>20–40 g de proteína completa</td></tr>\n<tr><td>Fontes que já contêm BCAA</td><td>whey, ovos, carne, peixe, leite, soja</td></tr>\n<tr><td>BCAA isolado</td><td>redundante se a proteína total está adequada</td></tr>\n</tbody>\n</table>\n\n<p>Existe um cenário em que o BCAA pode ter algum papel: dietas com proteína muito baixa, jejum prolongado ou situações clínicas específicas. Para o atleta amador que treina e se alimenta bem, ele é, na prática, uma versão incompleta e mais cara de algo que já está no prato.</p>\n\n<h2>Conclusão</h2>\n\n<p>BCAA não é veneno nem milagre. É proteína pela metade. Se a sua meta é construir músculo e recuperar melhor, o dinheiro rende mais garantindo a proteína total do dia com alimentos completos — que entregam os 9 aminoácidos essenciais de uma vez.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Wolfe RR. Branched-chain amino acids and muscle protein synthesis in humans: myth or reality? <em>J Int Soc Sports Nutr</em>. 2017;14:30. doi:10.1186/s12970-017-0184-9</li>\n<li>Jackman SR, Witard OC, Philp A, Wallis GA, Baar K, Tipton KD. Branched-Chain Amino Acid Ingestion Stimulates Muscle Myofibrillar Protein Synthesis following Resistance Exercise in Humans. <em>Front Physiol</em>. 2017;8:390. doi:10.3389/fphys.2017.00390</li>\n<li>Fedewa MV, Spencer SO, Williams TD, Becker ZE, Fuqua CA. Effect of Branched-Chain Amino Acid Supplementation on Muscle Soreness following Exercise: A Meta-Analysis. <em>Int J Vitam Nutr Res</em>. 2019;89(5-6):348–356. doi:10.1024/0300-9831/a000543</li>\n<li>Weber MG, Dias SS, de Angelis TR, et al. The use of BCAA to decrease delayed-onset muscle soreness after a single bout of exercise: a systematic review and meta-analysis. <em>Amino Acids</em>. 2021;53(11):1663–1678. doi:10.1007/s00726-021-03089-2</li>\n<li>Jäger R, Kerksick CM, Campbell BI, et al. International Society of Sports Nutrition Position Stand: protein and exercise. <em>J Int Soc Sports Nutr</em>. 2017;14:20. doi:10.1186/s12970-017-0177-8</li>\n</ol>\n",
+    "cover": "content/drafts/draft_007/cover.png",
+    "cover_alt": "BCAA: o que a ciência realmente diz sobre o suplemento — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_007/slide_01.png",
+    "content/drafts/draft_007/slide_02.png",
+    "content/drafts/draft_007/slide_03.png",
+    "content/drafts/draft_007/slide_04.png",
+    "content/drafts/draft_007/slide_05.png",
+    "content/drafts/draft_007/slide_06.png"
+  ],
+  "post_id": "17879239395535396",
+  "published_at": "2026-09-10T11:30:30.710560+00:00"
+}
