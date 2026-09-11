@@ -5003,6 +5003,70 @@
       "derivatives_created": [],
       "ghost_post_id": "6aa294d762bd040001047064",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bcaa-o-que-a-ciencia-diz/"
+    },
+    {
+      "post_id": "17877335895548338",
+      "local_id": "draft_008",
+      "publication_date": "2026-09-11T18:36:40.936507+00:00",
+      "format": "carousel",
+      "topic": "hipoglicemia de rebote pré-exercício",
+      "content_pillar": "fueling",
+      "hook": "Carbo antes da largada causa hipoglicemia de rebote? Quase nunca.",
+      "caption": "Esse mito faz atleta largar em jejum por medo de 'quebrar' com hipoglicemia de rebote. A evidência não sustenta esse medo.\n\nA glicose pode cair de forma transitória em algumas pessoas, mas os sintomas raramente coincidem com glicose baixa de verdade — e não pioram o desempenho. Quem é sensível pode comer mais perto da largada ou já no aquecimento, quando a adrenalina reduz a resposta da insulina.\n\nO que realmente importa: chegar à prova com energia disponível. Largar em jejum prolongado por medo de um mito custa mais caro que a suposta 'pane'.\n\nFontes: Jeukendrup & Killer, Ann Nutr Metab. 2010. | Burdon et al., Sports Medicine. 2017 (revisão sistemática e meta-análise). | Bourdas et al., Nutrients. 2021 (meta-análise).",
+      "cta": "Salva e manda pra quem larga em jejum com medo desse mito.",
+      "scientific_sources": [
+        {
+          "title": "The Myths Surrounding Pre-Exercise Carbohydrate Feeding",
+          "authors": "Jeukendrup AE, Killer SC",
+          "journal": "Annals of Nutrition and Metabolism",
+          "year": 2010,
+          "volume": "57",
+          "issue": "Suppl 2",
+          "pages": "18-25",
+          "doi": "10.1159/000322698",
+          "level": "A"
+        },
+        {
+          "title": "Effect of Glycemic Index of a Pre-exercise Meal on Endurance Exercise Performance: A Systematic Review and Meta-analysis",
+          "authors": "Burdon CA, Spronk I, Cheng HL, O'Connor HT",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "6",
+          "pages": "1087-1101",
+          "doi": "10.1007/s40279-016-0632-8",
+          "level": "A"
+        },
+        {
+          "title": "Meta-Analysis of Carbohydrate Solution Intake during Prolonged Exercise in Adults: From the Last 45+ Years' Perspective",
+          "authors": "Bourdas DI, Souglis A, Zacharakis ED, Geladas ND, Travlos AK",
+          "journal": "Nutrients",
+          "year": 2021,
+          "volume": "13",
+          "issue": "12",
+          "pages": "4223",
+          "doi": "10.3390/nu13124223",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_008/slide_01.png",
+        "content/drafts/draft_008/slide_02.png",
+        "content/drafts/draft_008/slide_03.png",
+        "content/drafts/draft_008/slide_04.png",
+        "content/drafts/draft_008/slide_05.png",
+        "content/drafts/draft_008/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:pre-exercise-cho",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aa44a3cc75c500001afaac8",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hipoglicemia-rebote-carboidrato-antes-da-prova/"
     }
   ]
 }

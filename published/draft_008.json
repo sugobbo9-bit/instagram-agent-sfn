@@ -1,0 +1,127 @@
+{
+  "local_id": "draft_008",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-11T00:00:00Z",
+  "topic": "hipoglicemia de rebote pré-exercício",
+  "content_pillar": "fueling",
+  "hook": "Carbo antes da largada causa hipoglicemia de rebote? Quase nunca.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:pre-exercise-cho",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Carbo antes da largada causa hipoglicemia de rebote? Quase nunca.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde veio esse medo?",
+      "body": "A ideia: comer carboidrato 30 a 60 min antes de largar dispara insulina, derruba a glicose no início do esforço e te faz 'quebrar'.\n\nVirou regra nos grupos de treino: 'não coma açúcar perto da largada'. O medo nasceu de um estudo dos anos 1970 — e a ciência seguiu em frente.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE ACONTECE DE VERDADE",
+      "headline": "A glicose pode cair um pouco. O desempenho não cai junto.",
+      "body": "Em algumas pessoas a glicose tem uma queda transitória nos primeiros minutos. Mas assim que o esforço começa, o músculo capta glicose e o fígado libera mais.\n\nOs sintomas parecidos com 'hipoglicemia' raramente coincidem com glicose de fato baixa — e não se relacionam com a performance.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Revisão e meta-análises apontam para o mesmo lugar.",
+      "body": "Jeukendrup & Killer (Ann Nutr Metab, 2010): o conselho de evitar carbo na hora antes do exercício é infundado; os sintomas não se ligam à glicose baixa nem à performance.\n\nBurdon et al. (Sports Medicine, 2017): meta-análise de 19 estudos — o índice glicêmico da refeição pré-treino não muda o desempenho de endurance.\n\nBourdas et al. (Nutrients, 2021): meta-análise de 96 estudos — carbo durante o esforço é ergogênico.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como comer antes de largar sem medo.",
+      "body": "• Precisa de energia? Coma o carbo — inclusive de alto índice glicêmico.\n• É sensível à queda? Coma bem perto da largada (0 a 15 min) ou já no aquecimento: a adrenalina segura a insulina.\n• Ou escolha um carbo de liberação mais lenta.\n→ O erro real é largar em jejum prolongado por causa de um mito.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Não largue com o tanque vazio por causa de um mito dos anos 70.",
+      "body": "Salva pra próxima prova e manda pro parceiro de treino que evita comer antes de correr.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Esse mito faz atleta largar em jejum por medo de 'quebrar' com hipoglicemia de rebote. A evidência não sustenta esse medo.\n\nA glicose pode cair de forma transitória em algumas pessoas, mas os sintomas raramente coincidem com glicose baixa de verdade — e não pioram o desempenho. Quem é sensível pode comer mais perto da largada ou já no aquecimento, quando a adrenalina reduz a resposta da insulina.\n\nO que realmente importa: chegar à prova com energia disponível. Largar em jejum prolongado por medo de um mito custa mais caro que a suposta 'pane'.\n\nFontes: Jeukendrup & Killer, Ann Nutr Metab. 2010. | Burdon et al., Sports Medicine. 2017 (revisão sistemática e meta-análise). | Bourdas et al., Nutrients. 2021 (meta-análise).",
+  "cta": "Salva e manda pra quem larga em jejum com medo desse mito.",
+  "scientific_sources": [
+    {
+      "title": "The Myths Surrounding Pre-Exercise Carbohydrate Feeding",
+      "authors": "Jeukendrup AE, Killer SC",
+      "journal": "Annals of Nutrition and Metabolism",
+      "year": 2010,
+      "volume": "57",
+      "issue": "Suppl 2",
+      "pages": "18-25",
+      "doi": "10.1159/000322698",
+      "level": "A"
+    },
+    {
+      "title": "Effect of Glycemic Index of a Pre-exercise Meal on Endurance Exercise Performance: A Systematic Review and Meta-analysis",
+      "authors": "Burdon CA, Spronk I, Cheng HL, O'Connor HT",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "6",
+      "pages": "1087-1101",
+      "doi": "10.1007/s40279-016-0632-8",
+      "level": "A"
+    },
+    {
+      "title": "Meta-Analysis of Carbohydrate Solution Intake during Prolonged Exercise in Adults: From the Last 45+ Years' Perspective",
+      "authors": "Bourdas DI, Souglis A, Zacharakis ED, Geladas ND, Travlos AK",
+      "journal": "Nutrients",
+      "year": 2021,
+      "volume": "13",
+      "issue": "12",
+      "pages": "4223",
+      "doi": "10.3390/nu13124223",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "O mito da hipoglicemia de rebote antes da prova",
+    "slug": "hipoglicemia-rebote-carboidrato-antes-da-prova",
+    "excerpt": "Comer carboidrato pouco antes de largar não causa a 'pane' por hipoglicemia de rebote que muitos atletas temem. O que a revisão de mitos e as meta-análises realmente mostram sobre carbo pré-prova, índice glicêmico e desempenho.",
+    "meta_title": "Hipoglicemia de rebote antes da prova — o que a ciência mostra",
+    "tags": [
+      "Carboidrato",
+      "Nutrição pré-prova",
+      "Fueling",
+      "Endurance"
+    ],
+    "html": "<p>Quase todo corredor já ouviu o alerta: <em>\"não come nada doce perto da largada, senão a insulina sobe, a glicose despenca e você quebra\"</em>. É a chamada hipoglicemia de rebote (ou reativa). Parece lógico. E, para a maioria dos atletas, está errado.</p>\n\n<h2>De onde veio o medo</h2>\n\n<p>A preocupação nasceu de estudos do início dos anos 1970, quando se observou que ingerir carboidrato pouco antes do exercício elevava a insulina e podia reduzir a glicemia nos primeiros minutos de esforço. A conclusão apressada foi: isso prejudica a performance. A recomendação de evitar carboidrato na hora anterior ao exercício virou folclore — e sobreviveu décadas depois de a ciência tê-la revisado.</p>\n\n<h2>O que realmente acontece no corpo</h2>\n\n<p>Duas coisas mudam quando o exercício começa. Primeiro, a contração muscular aumenta a captação de glicose por vias independentes de insulina. Segundo, o fígado passa a liberar mais glicose. O resultado é que a queda inicial da glicemia, quando ocorre, tende a ser transitória e sem consequência funcional.</p>\n\n<p>Na revisão <em>The Myths Surrounding Pre-Exercise Carbohydrate Feeding</em> (Jeukendrup & Killer, 2010), os autores mostram que alguns indivíduos até desenvolvem sintomas parecidos com os de hipoglicemia — mas esses sintomas <strong>raramente coincidem com glicose de fato baixa</strong> e <strong>não se relacionam com o desempenho</strong>. A susceptibilidade é individual: algumas pessoas apresentam a queda em praticamente qualquer condição, outras nunca — e isso não é previsto pela sensibilidade à insulina.</p>\n\n<h2>O que dizem as meta-análises</h2>\n\n<p>Se o \"tipo\" de carboidrato antes da prova fosse decisivo, o índice glicêmico da refeição pré-treino mudaria o resultado. A revisão sistemática e meta-análise de Burdon et al. (<em>Sports Medicine</em>, 2017), com 19 estudos e 188 participantes, não encontrou efeito significativo: consumir uma refeição de baixo índice glicêmico não trouxe vantagem de desempenho em relação a uma de alto índice glicêmico, com ou sem carboidrato durante o exercício.</p>\n\n<p>E o carboidrato em si? Longe de atrapalhar, ele ajuda. A meta-análise de Bourdas et al. (<em>Nutrients</em>, 2021), reunindo 96 estudos, confirmou que soluções de carboidrato ingeridas durante o esforço têm ação ergogênica clara (diferença média padronizada de 0,43), especialmente em esforços de 1 a 4 horas.</p>\n\n<h2>Como aplicar na prática</h2>\n\n<table>\n<thead><tr><th>Situação</th><th>O que fazer</th></tr></thead>\n<tbody>\n<tr><td>Você precisa de energia antes de largar</td><td>Coma o carboidrato — inclusive de alto índice glicêmico</td></tr>\n<tr><td>Você é sensível à queda de glicose</td><td>Coma bem perto da largada (0 a 15 min) ou já durante o aquecimento</td></tr>\n<tr><td>Quer minimizar o pico de insulina</td><td>Prefira um carboidrato de liberação mais lenta</td></tr>\n<tr><td>Prova ou treino longo</td><td>Continue ingerindo carboidrato durante o esforço</td></tr>\n</tbody>\n</table>\n\n<p>A adrenalina liberada no aquecimento e no início da prova reduz a resposta da insulina, o que explica por que comer imediatamente antes de largar praticamente elimina a queda transitória. O erro que custa caro não é comer perto da largada — é largar em jejum prolongado por medo de um mito.</p>\n\n<h2>Conclusão</h2>\n\n<p>Para a grande maioria dos atletas, comer carboidrato antes da prova é seguro e frequentemente vantajoso. A hipoglicemia de rebote existe como fenômeno metabólico em algumas pessoas, mas não como o vilão de desempenho que a cultura de treino pintou. Se você tem sintomas, ajuste o timing — não corte a energia.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Jeukendrup AE, Killer SC. The myths surrounding pre-exercise carbohydrate feeding. <em>Ann Nutr Metab</em>. 2010;57(Suppl 2):18–25. doi:10.1159/000322698</li>\n<li>Burdon CA, Spronk I, Cheng HL, O'Connor HT. Effect of glycemic index of a pre-exercise meal on endurance exercise performance: a systematic review and meta-analysis. <em>Sports Med</em>. 2017;47(6):1087–1101. doi:10.1007/s40279-016-0632-8</li>\n<li>Bourdas DI, Souglis A, Zacharakis ED, Geladas ND, Travlos AK. Meta-analysis of carbohydrate solution intake during prolonged exercise in adults. <em>Nutrients</em>. 2021;13(12):4223. doi:10.3390/nu13124223</li>\n</ol>\n",
+    "cover": "content/drafts/draft_008/cover.png",
+    "cover_alt": "O mito da hipoglicemia de rebote antes da prova — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_008/slide_01.png",
+    "content/drafts/draft_008/slide_02.png",
+    "content/drafts/draft_008/slide_03.png",
+    "content/drafts/draft_008/slide_04.png",
+    "content/drafts/draft_008/slide_05.png",
+    "content/drafts/draft_008/slide_06.png"
+  ],
+  "post_id": "17877335895548338",
+  "published_at": "2026-09-11T18:36:40.936507+00:00"
+}

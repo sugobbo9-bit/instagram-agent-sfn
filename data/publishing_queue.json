@@ -111,10 +111,15 @@
       "format": "carousel",
       "topic": "hipoglicemia de rebote pré-exercício",
       "hook": "Carbo antes da largada causa hipoglicemia de rebote? Quase nunca.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-11T00:00:00Z",
       "priority": 1,
-      "notes": "Myth-busting: hipoglicemia de rebote pre-exercicio (Jeukendrup & Killer 2010; Burdon 2017 meta-analise; Bourdas 2021 meta-analise)"
+      "notes": "Myth-busting: hipoglicemia de rebote pre-exercicio (Jeukendrup & Killer 2010; Burdon 2017 meta-analise; Bourdas 2021 meta-analise)",
+      "published_at": "2026-09-11T18:36:40.936507+00:00",
+      "post_id": "17877335895548338",
+      "ghost_post_id": "6aa44a3cc75c500001afaac8",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hipoglicemia-rebote-carboidrato-antes-da-prova/",
+      "ghost_status": "published"
     }
   ]
 }

@@ -79,3 +79,10 @@
 {"ts": "2026-09-10T11:30:30.718746+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-10T12:12:33.507190+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-09-11T12:12:41.453160+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-11T18:35:53.586410+00:00", "level": "INFO", "msg": "Publicando draft_008 (carousel) \u2014 hipoglicemia de rebote pr\u00e9-exerc\u00edcio"}
+{"ts": "2026-09-11T18:35:53.589110+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-11T18:35:53.589195+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_008/slide_01.png"}
+{"ts": "2026-09-11T18:35:54.601735+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-11T18:36:26.755559+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-11T18:36:40.936320+00:00", "level": "INFO", "msg": "PUBLICADO: draft_008 -> media_id 17877335895548338"}
+{"ts": "2026-09-11T18:36:40.947165+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
