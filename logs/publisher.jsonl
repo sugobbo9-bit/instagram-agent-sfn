@@ -78,3 +78,4 @@
 {"ts": "2026-09-10T11:30:30.710390+00:00", "level": "INFO", "msg": "PUBLICADO: draft_007 -> media_id 17879239395535396"}
 {"ts": "2026-09-10T11:30:30.718746+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-10T12:12:33.507190+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-11T12:12:41.453160+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
