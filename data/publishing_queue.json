@@ -120,6 +120,16 @@
       "ghost_post_id": "6aa44a3cc75c500001afaac8",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hipoglicemia-rebote-carboidrato-antes-da-prova/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_001",
+      "format": "static",
+      "topic": "glicose + frutose (múltiplos transportadores)",
+      "hook": "Sozinho, seu corpo aproveita ~60 g de carbo por hora. Misturando glicose + frutose, chega a ~90 g/h.",
+      "status": "approved",
+      "created_at": "2026-09-11T00:00:00Z",
+      "priority": 1,
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Glicose+frutose (Currell & Jeukendrup 2008)."
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "local_id": "vsabia_001",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-11T00:00:00Z",
+  "topic": "glicose + frutose (múltiplos transportadores)",
+  "content_pillar": "fueling",
+  "hook": "Sozinho, seu corpo aproveita ~60 g de carbo por hora. Misturando glicose + frutose, chega a ~90 g/h.",
+  "subtext": "A glicose satura um transportador no intestino (SGLT1). A frutose entra por outra porta (GLUT5) — e o total absorvido sobe.",
+  "source_line": "Currell & Jeukendrup, Med Sci Sports Exerc, 2008 (glicose+frutose = 8% mais rápido no time trial).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:glicose-frutose"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Existe um teto para o quanto de carboidrato você absorve por hora — mas dá pra levantar esse teto.\n\nA glicose depende do transportador SGLT1, que satura perto de 60 g/h. A frutose usa outro transportador (GLUT5). Combinando os dois, a oxidação de carboidrato de fonte externa sobe para ~90 g/h (e até ~105 g/h em alguns estudos). Na prática: em provas longas, bebidas e géis com glicose + frutose entregam mais energia com menos desconforto do que só glicose.\n\nFonte: Currell & Jeukendrup, Med Sci Sports Exerc, 2008; Jentjens & Jeukendrup, 2005.",
+  "cta": "Salva pra montar seu fueling da próxima prova longa.",
+  "scientific_sources": [
+    {
+      "title": "Superior endurance performance with ingestion of multiple transportable carbohydrates",
+      "authors": "Currell K, Jeukendrup AE",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2008,
+      "volume": "40",
+      "issue": "2",
+      "pages": "275-281",
+      "doi": "10.1249/mss.0b013e31815adf19",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_001/card.png"
+  ]
+}
