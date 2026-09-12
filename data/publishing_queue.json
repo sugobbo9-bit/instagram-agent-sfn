@@ -126,10 +126,12 @@
       "format": "static",
       "topic": "glicose + frutose (múltiplos transportadores)",
       "hook": "Sozinho, seu corpo aproveita ~60 g de carbo por hora. Misturando glicose + frutose, chega a ~90 g/h.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-11T00:00:00Z",
       "priority": 1,
-      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Glicose+frutose (Currell & Jeukendrup 2008)."
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Glicose+frutose (Currell & Jeukendrup 2008).",
+      "published_at": "2026-09-12T12:11:29.399459+00:00",
+      "post_id": "18103823387349645"
     }
   ]
 }
