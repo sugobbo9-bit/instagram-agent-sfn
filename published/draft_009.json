@@ -1,0 +1,132 @@
+{
+  "local_id": "draft_009",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-14T00:00:00Z",
+  "topic": "treino em jejum",
+  "content_pillar": "strategy",
+  "hook": "Treinar em jejum queima mais gordura — mas não te faz perder mais.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:jejum",
+    "format:carousel",
+    "angle:contrarian"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Treinar em jejum queima mais gordura — mas não te faz perder mais.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Jejum antes do cardio derrete a gordura?",
+      "body": "A ideia parece lógica: sem comida, o corpo recorreria à gordura como combustível.\n\nE tem um fundo de verdade — treinar em jejum realmente aumenta a queima de gordura durante a sessão.\n\nO problema é confundir o que acontece no treino com o que acontece na balança.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O PULO DO GATO",
+      "headline": "Queimar gordura no treino não é perder gordura.",
+      "body": "O que você oxida durante o exercício é só uma fração da história.\n\nEmagrecer depende do balanço calórico ao longo do dia e da semana — não do combustível usado naquela hora.\n\nQueimar mais gordura agora costuma significar queimar menos depois. O corpo compensa.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O que os estudos realmente mostram.",
+      "body": "Vieira et al. (Br J Nutr, 2016), meta-análise de 27 estudos: em jejum, a oxidação de gordura durante o treino é maior. Isso é verdade.\n\nSchoenfeld et al. (2014): 4 semanas, jejum vs alimentado com dieta controlada — a perda de gordura foi igual.\n\nAird et al. (2018), meta-análise: comer antes melhora o desempenho em treinos longos.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Jejum é uma opção — não um atalho.",
+      "body": "Quem decide o emagrecimento é o déficit calórico e a proteína do dia, não o horário da refeição.\n\nTreinar em jejum é válido por conveniência ou estratégia pontual.\n\n→ Mas não sabote treino longo ou intenso indo sem combustível: aí o custo é rendimento.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Emagrecer é sobre o dia inteiro — não sobre treinar com fome.",
+      "body": "Salva e manda pra quem acorda cedo pra fazer cardio em jejum.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "\"Treinar em jejum emagrece mais\" é uma das crenças mais resistentes da academia. E ela tem um fundo de verdade que confunde todo mundo: em jejum, você realmente oxida mais gordura durante o treino (meta-análise de Vieira et al., 2016, com 27 estudos).\n\nO problema é que queimar gordura durante o exercício não é o mesmo que perder gordura corporal. Isso depende do balanço calórico ao longo do tempo — e o corpo compensa o que você queima. Num ensaio controlado de 4 semanas, jejum e alimentado produziram a mesma perda de gordura (Schoenfeld et al., 2014).\n\nPara endurance tem um detalhe a mais: comer antes melhora o desempenho em esforços prolongados (meta-análise de Aird et al., 2018). Treinar em jejum não é \"errado\" — é uma opção de conveniência —, mas não é atalho para emagrecer e pode custar rendimento nos treinos longos e intensos.\n\nFontes: Vieira et al. Br J Nutr. 2016;116(7):1153-1164. | Schoenfeld et al. J Int Soc Sports Nutr. 2014;11(1):54. | Aird et al. Scand J Med Sci Sports. 2018;28(5):1476-1493.",
+  "cta": "Salva e manda pra quem faz cardio em jejum achando que queima mais.",
+  "scientific_sources": [
+    {
+      "title": "Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism in adults: a systematic review and meta-analysis",
+      "authors": "Vieira AF, Costa RR, Macedo RC, Coconcelli L, Kruel LF",
+      "journal": "British Journal of Nutrition",
+      "year": 2016,
+      "volume": "116",
+      "issue": "7",
+      "pages": "1153-1164",
+      "doi": "10.1017/S0007114516003160",
+      "pmid": "27609363",
+      "level": "A"
+    },
+    {
+      "title": "Body composition changes associated with fasted versus non-fasted aerobic exercise",
+      "authors": "Schoenfeld BJ, Aragon AA, Wilborn CD, Krieger JW, Sonmez GT",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2014,
+      "volume": "11",
+      "issue": "1",
+      "pages": "54",
+      "doi": "10.1186/s12970-014-0054-7",
+      "pmid": "25429252",
+      "level": "B"
+    },
+    {
+      "title": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "authors": "Aird TP, Davies RW, Carson BP",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports",
+      "year": 2018,
+      "volume": "28",
+      "issue": "5",
+      "pages": "1476-1493",
+      "doi": "10.1111/sms.13054",
+      "pmid": "29315892",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Treino em jejum queima mais gordura? O que a ciência realmente diz",
+    "slug": "treino-em-jejum-queima-mais-gordura",
+    "excerpt": "Treinar em jejum aumenta a queima de gordura durante o exercício — mas isso não significa perder mais gordura. O que a evidência mostra sobre jejum, emagrecimento e desempenho.",
+    "meta_title": "Treino em jejum queima mais gordura? O que diz a ciência",
+    "tags": [
+      "Treino em jejum",
+      "Emagrecimento",
+      "Metabolismo",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Poucas ideias sobrevivem tanto na academia quanto esta: fazer cardio em jejum, logo cedo, derreteria a gordura mais rápido. A lógica parece impecável — sem comida por perto, o corpo teria que usar a própria gordura como combustível. E, ao contrário de muitos mitos, este tem um fundo real de verdade. É justamente isso que o torna tão difícil de derrubar.</p>\n\n<h2>A parte que é verdade</h2>\n\n<p>Quando você treina em jejum, o corpo de fato oxida mais gordura durante a sessão. Uma revisão sistemática e meta-análise de Vieira e colaboradores (<em>British Journal of Nutrition</em>, 2016), reunindo 27 estudos e 273 participantes, confirmou: a oxidação de gordura durante o exercício é significativamente maior no estado de jejum do que no estado alimentado.</p>\n\n<p>Então o mito está certo? Não tão rápido. Aqui mora a confusão que sustenta a crença.</p>\n\n<h2>Queimar gordura no treino ≠ perder gordura</h2>\n\n<p>O que você oxida durante uma hora de exercício é apenas um instantâneo. Emagrecer — reduzir a gordura corporal ao longo de semanas — depende do balanço energético total: quanto você ingere versus quanto gasta ao longo do dia e da semana. O substrato que você queimou às 6h da manhã não define o resultado na balança.</p>\n\n<p>E o corpo é um sistema que se ajusta. Quando você queima mais gordura durante o treino em jejum, tende a queimar proporcionalmente menos gordura no resto do dia. O organismo compensa. No fim, o que sobra é o saldo calórico — não o momento em que a gordura foi usada.</p>\n\n<h2>O que acontece quando você mede semanas, não minutos</h2>\n\n<p>É exatamente isso que um ensaio controlado de Schoenfeld e colaboradores (<em>Journal of the International Society of Sports Nutrition</em>, 2014) mostrou. Vinte mulheres foram divididas em dois grupos — treino aeróbico em jejum ou alimentado — durante quatro semanas, todas sob a mesma dieta hipocalórica e o mesmo volume de treino. Ambos os grupos perderam peso e gordura de forma significativa. E a diferença entre eles? Nenhuma estatisticamente relevante. Jejum ou não, a perda de gordura foi equivalente.</p>\n\n<h2>Para quem treina endurance, tem um detalhe a mais</h2>\n\n<p>Se você corre, pedala ou nada distâncias longas, o jejum pode cobrar um preço diferente: desempenho. Uma revisão sistemática e meta-análise de Aird e colaboradores (<em>Scandinavian Journal of Medicine &amp; Science in Sports</em>, 2018), com 46 estudos, encontrou que comer antes do exercício melhora o desempenho em esforços aeróbicos prolongados — embora não faça diferença em sessões curtas. Ou seja: para o treino longo ou intenso, chegar abastecido rende mais.</p>\n\n<h2>Então o jejum é inútil?</h2>\n\n<p>Não. Treinar em jejum não é um erro. Para muita gente é simplesmente conveniente — treinar antes do café da manhã encaixa melhor na rotina. E existe um uso estratégico legítimo (\"train low\") para estimular certas adaptações metabólicas em atletas, sob planejamento. O que ele não é: um atalho para queimar gordura.</p>\n\n<table>\n<thead><tr><th>Pergunta</th><th>O que a evidência diz</th></tr></thead>\n<tbody>\n<tr><td>Queima mais gordura durante o treino?</td><td>Sim (Vieira, 2016)</td></tr>\n<tr><td>Faz perder mais gordura corporal?</td><td>Não — igual ao alimentado (Schoenfeld, 2014)</td></tr>\n<tr><td>Afeta o desempenho?</td><td>Comer antes melhora esforços longos (Aird, 2018)</td></tr>\n<tr><td>O que realmente define o emagrecimento?</td><td>Déficit calórico e proteína ao longo do tempo</td></tr>\n</tbody>\n</table>\n\n<h2>Conclusão</h2>\n\n<p>Fazer cardio em jejum queima mais gordura na hora — e isso é real. Mas emagrecer é sobre o dia inteiro, não sobre treinar com fome. Se o jejum te é confortável, siga. Se você espera que ele acelere a perda de gordura, a ciência não apoia. E se o treino é longo ou intenso, comer antes provavelmente vai te fazer render mais.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Vieira AF, Costa RR, Macedo RC, Coconcelli L, Kruel LF. Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism in adults: a systematic review and meta-analysis. <em>Br J Nutr</em>. 2016;116(7):1153–1164. doi:10.1017/S0007114516003160</li>\n<li>Schoenfeld BJ, Aragon AA, Wilborn CD, Krieger JW, Sonmez GT. Body composition changes associated with fasted versus non-fasted aerobic exercise. <em>J Int Soc Sports Nutr</em>. 2014;11(1):54. doi:10.1186/s12970-014-0054-7</li>\n<li>Aird TP, Davies RW, Carson BP. Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis. <em>Scand J Med Sci Sports</em>. 2018;28(5):1476–1493. doi:10.1111/sms.13054</li>\n</ol>\n",
+    "cover": "content/drafts/draft_009/cover.png",
+    "cover_alt": "Treino em jejum queima mais gordura? O que a ciência realmente diz — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_009/slide_01.png",
+    "content/drafts/draft_009/slide_02.png",
+    "content/drafts/draft_009/slide_03.png",
+    "content/drafts/draft_009/slide_04.png",
+    "content/drafts/draft_009/slide_05.png",
+    "content/drafts/draft_009/slide_06.png"
+  ],
+  "post_id": "18101091566123268",
+  "published_at": "2026-09-14T14:23:48.401596+00:00"
+}

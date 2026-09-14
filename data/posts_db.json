@@ -5102,6 +5102,74 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18101091566123268",
+      "local_id": "draft_009",
+      "publication_date": "2026-09-14T14:23:48.401596+00:00",
+      "format": "carousel",
+      "topic": "treino em jejum",
+      "content_pillar": "strategy",
+      "hook": "Treinar em jejum queima mais gordura — mas não te faz perder mais.",
+      "caption": "\"Treinar em jejum emagrece mais\" é uma das crenças mais resistentes da academia. E ela tem um fundo de verdade que confunde todo mundo: em jejum, você realmente oxida mais gordura durante o treino (meta-análise de Vieira et al., 2016, com 27 estudos).\n\nO problema é que queimar gordura durante o exercício não é o mesmo que perder gordura corporal. Isso depende do balanço calórico ao longo do tempo — e o corpo compensa o que você queima. Num ensaio controlado de 4 semanas, jejum e alimentado produziram a mesma perda de gordura (Schoenfeld et al., 2014).\n\nPara endurance tem um detalhe a mais: comer antes melhora o desempenho em esforços prolongados (meta-análise de Aird et al., 2018). Treinar em jejum não é \"errado\" — é uma opção de conveniência —, mas não é atalho para emagrecer e pode custar rendimento nos treinos longos e intensos.\n\nFontes: Vieira et al. Br J Nutr. 2016;116(7):1153-1164. | Schoenfeld et al. J Int Soc Sports Nutr. 2014;11(1):54. | Aird et al. Scand J Med Sci Sports. 2018;28(5):1476-1493.",
+      "cta": "Salva e manda pra quem faz cardio em jejum achando que queima mais.",
+      "scientific_sources": [
+        {
+          "title": "Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism in adults: a systematic review and meta-analysis",
+          "authors": "Vieira AF, Costa RR, Macedo RC, Coconcelli L, Kruel LF",
+          "journal": "British Journal of Nutrition",
+          "year": 2016,
+          "volume": "116",
+          "issue": "7",
+          "pages": "1153-1164",
+          "doi": "10.1017/S0007114516003160",
+          "pmid": "27609363",
+          "level": "A"
+        },
+        {
+          "title": "Body composition changes associated with fasted versus non-fasted aerobic exercise",
+          "authors": "Schoenfeld BJ, Aragon AA, Wilborn CD, Krieger JW, Sonmez GT",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2014,
+          "volume": "11",
+          "issue": "1",
+          "pages": "54",
+          "doi": "10.1186/s12970-014-0054-7",
+          "pmid": "25429252",
+          "level": "B"
+        },
+        {
+          "title": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+          "authors": "Aird TP, Davies RW, Carson BP",
+          "journal": "Scandinavian Journal of Medicine & Science in Sports",
+          "year": 2018,
+          "volume": "28",
+          "issue": "5",
+          "pages": "1476-1493",
+          "doi": "10.1111/sms.13054",
+          "pmid": "29315892",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_009/slide_01.png",
+        "content/drafts/draft_009/slide_02.png",
+        "content/drafts/draft_009/slide_03.png",
+        "content/drafts/draft_009/slide_04.png",
+        "content/drafts/draft_009/slide_05.png",
+        "content/drafts/draft_009/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:jejum",
+        "format:carousel",
+        "angle:contrarian"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aa8037e332bee000171d43c",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/treino-em-jejum-queima-mais-gordura/"
     }
   ]
 }

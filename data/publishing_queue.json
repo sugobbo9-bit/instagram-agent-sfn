@@ -138,11 +138,16 @@
       "format": "carousel",
       "topic": "treino em jejum",
       "hook": "Treinar em jejum queima mais gordura — mas não te faz perder mais.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-14T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Myth-busting: treino em jejum aumenta oxidacao de gordura DURANTE (Vieira 2016) mas nao perde mais gordura (Schoenfeld 2014); comer antes melhora desempenho prolongado (Aird 2018)"
+      "notes": "Myth-busting: treino em jejum aumenta oxidacao de gordura DURANTE (Vieira 2016) mas nao perde mais gordura (Schoenfeld 2014); comer antes melhora desempenho prolongado (Aird 2018)",
+      "published_at": "2026-09-14T14:23:48.401596+00:00",
+      "post_id": "18101091566123268",
+      "ghost_post_id": "6aa8037e332bee000171d43c",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/treino-em-jejum-queima-mais-gordura/",
+      "ghost_status": "published"
     }
   ]
 }
