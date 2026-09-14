@@ -101,3 +101,9 @@
 {"ts": "2026-09-14T14:23:37.988553+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-09-14T14:23:48.401393+00:00", "level": "INFO", "msg": "PUBLICADO: draft_009 -> media_id 18101091566123268"}
 {"ts": "2026-09-14T14:23:48.412745+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-14T20:12:05.019581+00:00", "level": "INFO", "msg": "Publicando vsabia_002 (static) \u2014 nitrato da beterraba e custo de oxig\u00eanio"}
+{"ts": "2026-09-14T20:12:05.021669+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-14T20:12:05.021756+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_002/card.png"}
+{"ts": "2026-09-14T20:12:05.252191+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-14T20:12:18.951277+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_002 -> media_id 18341043862283196"}
+{"ts": "2026-09-14T20:12:18.962249+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

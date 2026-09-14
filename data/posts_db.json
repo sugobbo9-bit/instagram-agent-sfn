@@ -5170,6 +5170,52 @@
       "derivatives_created": [],
       "ghost_post_id": "6aa8037e332bee000171d43c",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/treino-em-jejum-queima-mais-gordura/"
+    },
+    {
+      "post_id": "18341043862283196",
+      "local_id": "vsabia_002",
+      "publication_date": "2026-09-14T20:12:18.951450+00:00",
+      "format": "static",
+      "topic": "nitrato da beterraba e custo de oxigênio",
+      "content_pillar": "ergogenicos",
+      "hook": "Suco de beterraba pode reduzir em ~3–5% o oxigênio que você gasta no mesmo ritmo de treino.",
+      "caption": "Parece papo de nutricionista xiita, mas tem ciência séria por trás.\n\nO nitrato da beterraba é convertido em óxido nítrico no organismo. Com isso, os músculos passam a fazer o mesmo trabalho gastando cerca de 3 a 5% menos oxigênio — mais economia no mesmo ritmo. Em testes de tolerância e provas curtas, isso costuma aparecer como um pequeno ganho de desempenho.\n\nUm detalhe honesto: o efeito tende a ser menor (ou até sumir) em atletas de endurance muito treinados. Para a maioria de nós, porém, é uma das ajudas ergogênicas mais baratas e mais bem estudadas que existem.\n\nFonte: Bailey et al., J Appl Physiol, 2009; Larsen et al., Acta Physiol, 2007.",
+      "cta": "Salva e testa 2–3h antes do próximo treino longo.",
+      "scientific_sources": [
+        {
+          "title": "Dietary nitrate supplementation reduces the O2 cost of low-intensity exercise and enhances tolerance to high-intensity exercise in humans",
+          "authors": "Bailey SJ, Winyard P, Vanhatalo A, et al.",
+          "journal": "Journal of Applied Physiology",
+          "year": 2009,
+          "volume": "107",
+          "issue": "4",
+          "pages": "1144-1155",
+          "doi": "10.1152/japplphysiol.00722.2009",
+          "level": "B"
+        },
+        {
+          "title": "Effects of dietary nitrate on oxygen cost during exercise",
+          "authors": "Larsen FJ, Weitzberg E, Lundberg JO, Ekblom B",
+          "journal": "Acta Physiologica (Oxford)",
+          "year": 2007,
+          "volume": "191",
+          "issue": "1",
+          "pages": "59-66",
+          "doi": "10.1111/j.1748-1716.2007.01713.x",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_002/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:nitrato-beterraba"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
