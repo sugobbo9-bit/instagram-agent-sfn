@@ -115,3 +115,9 @@
 {"ts": "2026-09-15T11:17:47.632058+00:00", "level": "INFO", "msg": "PUBLICADO: draft_010 -> media_id 18023882831702914"}
 {"ts": "2026-09-15T11:17:47.643245+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-15T12:11:59.823105+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-15T20:10:53.782638+00:00", "level": "INFO", "msg": "Publicando vsabia_003 (static) \u2014 bochecho de carboidrato (carbohydrate mouth rinse)"}
+{"ts": "2026-09-15T20:10:53.784716+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-15T20:10:53.784780+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_003/card.png"}
+{"ts": "2026-09-15T20:10:53.981703+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-15T20:11:08.087088+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_003 -> media_id 18169221943460947"}
+{"ts": "2026-09-15T20:11:08.095967+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

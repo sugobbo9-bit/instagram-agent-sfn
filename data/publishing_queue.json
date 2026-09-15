@@ -180,9 +180,11 @@
       "format": "static",
       "topic": "bochecho de carboidrato (carbohydrate mouth rinse)",
       "hook": "Você nem precisa engolir: só bochechar carboidrato já melhorou ~2–3% o desempenho num contrarrelógio de 1h.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-15T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "published_at": "2026-09-15T20:11:08.087262+00:00",
+      "post_id": "18169221943460947"
     }
   ]
 }

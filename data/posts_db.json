@@ -5270,6 +5270,52 @@
       "derivatives_created": [],
       "ghost_post_id": "6aa9295d7202e600019d35a7",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hiponatremia-beber-agua-demais-na-prova/"
+    },
+    {
+      "post_id": "18169221943460947",
+      "local_id": "vsabia_003",
+      "publication_date": "2026-09-15T20:11:08.087262+00:00",
+      "format": "static",
+      "topic": "bochecho de carboidrato (carbohydrate mouth rinse)",
+      "content_pillar": "fueling",
+      "hook": "Você nem precisa engolir: só bochechar carboidrato já melhorou ~2–3% o desempenho num contrarrelógio de 1h.",
+      "caption": "Carboidrato funciona antes mesmo de virar energia no músculo. 🤯\n\nNum estudo clássico, ciclistas em jejum fizeram um contrarrelógio de ~1h apenas bochechando uma solução de carboidrato por 5 segundos e cuspindo — sem engolir nada. Mesmo assim, o desempenho melhorou ~2% com glicose e ~3,1% com maltodextrina. Nas imagens de ressonância, o carboidrato na boca acendeu regiões do cérebro ligadas a recompensa e controle motor. O detalhe que fecha a conta: a maltodextrina não tem gosto doce, então não é a doçura — existem sensores orais que reconhecem carboidrato e mandam um sinal de \"tá vindo energia\", reduzindo a percepção de esforço.\n\nUtilidade real: em provas curtas e intensas (até ~1h), quando engolir gel dá enjoo, bochechar carbo é uma alternativa apoiada por evidência. Em provas longas, continua valendo engolir o carboidrato de verdade.\n\nFonte: Chambers, Bridge & Jones, J Physiol, 2009; Carter, Jeukendrup & Jones, Med Sci Sports Exerc, 2004.",
+      "cta": "Salva pra testar num treino curto e intenso.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate sensing in the human mouth: effects on exercise performance and brain activity",
+          "authors": "Chambers ES, Bridge MW, Jones DA",
+          "journal": "The Journal of Physiology",
+          "year": 2009,
+          "volume": "587",
+          "issue": "8",
+          "pages": "1779-1794",
+          "doi": "10.1113/jphysiol.2008.164285",
+          "level": "B"
+        },
+        {
+          "title": "The effect of carbohydrate mouth rinse on 1-h cycle time trial performance",
+          "authors": "Carter JM, Jeukendrup AE, Jones DA",
+          "journal": "Medicine and Science in Sports and Exercise",
+          "year": 2004,
+          "volume": "36",
+          "issue": "12",
+          "pages": "2107-2111",
+          "doi": "10.1249/01.mss.0000147585.65709.6f",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_003/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:mouth-rinse"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
