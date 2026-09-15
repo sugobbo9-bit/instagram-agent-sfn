@@ -159,6 +159,16 @@
       "priority": 1,
       "published_at": "2026-09-14T20:12:18.951450+00:00",
       "post_id": "18341043862283196"
+    },
+    {
+      "local_id": "draft_010",
+      "format": "carousel",
+      "topic": "hiponatremia associada ao exercício (excesso de água)",
+      "hook": "Beber o máximo de água possível na prova pode te derrubar.",
+      "status": "approved",
+      "created_at": "2026-09-15T00:00:00Z",
+      "priority": 1,
+      "notes": "Myth-busting: beber agua demais na prova causa hiponatremia (Almond 2005 NEJM; 3o Consenso Internacional Hew-Butler 2015). Beber pela sede; sodio nao previne excesso."
     }
   ]
 }
