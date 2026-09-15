@@ -5216,6 +5216,60 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18023882831702914",
+      "local_id": "draft_010",
+      "publication_date": "2026-09-15T11:17:47.632245+00:00",
+      "format": "carousel",
+      "topic": "hiponatremia associada ao exercício (excesso de água)",
+      "content_pillar": "hydration",
+      "hook": "Beber o máximo de água possível na prova pode te derrubar.",
+      "caption": "O medo da desidratação faz muita gente beber além da conta em prova longa, e isso tem nome: hiponatremia associada ao exercício. O sódio do sangue cai porque entra mais líquido do que o corpo consegue eliminar.\n\nNa maratona de Boston (488 corredores), 13% terminaram com hiponatremia e o principal fator de risco foi ganhar peso durante a prova, ou seja, beber mais do que se perdeu. O 3º Consenso Internacional (2015) é direto: beba de acordo com a sede e evite o excesso. Repor sódio ajuda, mas não protege quem bebe demais, porque toda bebida esportiva é mais diluída que o sangue.\n\nIsso não é desculpa para desidratar: o objetivo é repor o que falta, guiado pela sede. Nem de menos, nem de mais.\n\nFontes: Hew-Butler et al. Clin J Sport Med. 2015 (3º Consenso Internacional de Hiponatremia Associada ao Exercício). | Almond et al. N Engl J Med. 2005.",
+      "cta": "Salva e manda pro parceiro que enche o cinto de água na prova.",
+      "scientific_sources": [
+        {
+          "title": "Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015",
+          "authors": "Hew-Butler T, Rosner MH, Fowkes-Godek S, Dugas JP, Hoffman MD, Lewis DP, Maughan RJ, Miller KC, Montain SJ, Rehrer NJ, Roberts WO, Rogers IR, Siegel AJ, Stuempfle KJ, Winger JM, Verbalis JG",
+          "journal": "Clinical Journal of Sport Medicine",
+          "year": 2015,
+          "volume": "25",
+          "issue": "4",
+          "pages": "303-320",
+          "doi": "10.1097/JSM.0000000000000221",
+          "level": "A"
+        },
+        {
+          "title": "Hyponatremia among runners in the Boston Marathon",
+          "authors": "Almond CS, Shin AY, Fortescue EB, Mannix RC, Wypij D, Binstadt BA, Duncan CN, Olson DP, Salerno AE, Newburger JW, Greenes DS",
+          "journal": "New England Journal of Medicine",
+          "year": 2005,
+          "volume": "352",
+          "issue": "15",
+          "pages": "1550-1556",
+          "doi": "10.1056/NEJMoa043901",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_010/slide_01.png",
+        "content/drafts/draft_010/slide_02.png",
+        "content/drafts/draft_010/slide_03.png",
+        "content/drafts/draft_010/slide_04.png",
+        "content/drafts/draft_010/slide_05.png",
+        "content/drafts/draft_010/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:hidratacao",
+        "format:carousel",
+        "angle:hiponatremia"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aa9295d7202e600019d35a7",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hiponatremia-beber-agua-demais-na-prova/"
     }
   ]
 }

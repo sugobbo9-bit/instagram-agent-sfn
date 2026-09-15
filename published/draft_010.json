@@ -1,0 +1,117 @@
+{
+  "local_id": "draft_010",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-15T00:00:00Z",
+  "topic": "hiponatremia associada ao exercício (excesso de água)",
+  "content_pillar": "hydration",
+  "hook": "Beber o máximo de água possível na prova pode te derrubar.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:hidratacao",
+    "format:carousel",
+    "angle:hiponatremia"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Beber o máximo de água possível na prova pode te derrubar.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "\"Beba o máximo que aguentar pra não desidratar.\"",
+      "body": "Virou regra em prova longa: quanto mais água, mais protegido contra desidratação e câimbra.\n\nMas o corpo tem um limite para eliminar líquido. Beber além da sede, hora após hora, deixa de ser segurança e vira risco.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O MECANISMO",
+      "headline": "Água demais dilui o sódio do sangue.",
+      "body": "Hiponatremia associada ao exercício: o sódio no sangue cai abaixo de 135 mmol/L.\n\nA causa principal não é perder sódio no suor. É ingerir líquido em volume maior do que o corpo elimina. O sangue fica diluído.\n\nOs sintomas vão de náusea e dor de cabeça a, nos casos graves, convulsão e risco de morte.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Não é raro. E o peso denuncia.",
+      "body": "Boston 2005 (Almond, NEJM): de 488 corredores, 13% terminaram com hiponatremia e 0,6% em nível grave. O maior fator de risco foi ganhar peso na prova, sinal de beber mais do que se perde.\n\n3º Consenso Internacional (2015): a causa de todos os casos fatais foi a superingestão de líquido hipotônico.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Beba pela sede. E cuidado com o excesso.",
+      "body": "→ Use a sede como guia: ela regula bem a hidratação na maioria das provas\n→ Não force líquido em horário fixo só por precaução\n→ Ganhar peso durante a prova é alerta: você está bebendo demais\n→ Sódio ajuda, mas não anula o excesso: toda bebida esportiva é mais diluída que o sangue",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Hidratar não é encher. É repor o que falta.",
+      "body": "Salva pra lembrar antes da próxima prova longa.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "O medo da desidratação faz muita gente beber além da conta em prova longa, e isso tem nome: hiponatremia associada ao exercício. O sódio do sangue cai porque entra mais líquido do que o corpo consegue eliminar.\n\nNa maratona de Boston (488 corredores), 13% terminaram com hiponatremia e o principal fator de risco foi ganhar peso durante a prova, ou seja, beber mais do que se perdeu. O 3º Consenso Internacional (2015) é direto: beba de acordo com a sede e evite o excesso. Repor sódio ajuda, mas não protege quem bebe demais, porque toda bebida esportiva é mais diluída que o sangue.\n\nIsso não é desculpa para desidratar: o objetivo é repor o que falta, guiado pela sede. Nem de menos, nem de mais.\n\nFontes: Hew-Butler et al. Clin J Sport Med. 2015 (3º Consenso Internacional de Hiponatremia Associada ao Exercício). | Almond et al. N Engl J Med. 2005.",
+  "cta": "Salva e manda pro parceiro que enche o cinto de água na prova.",
+  "scientific_sources": [
+    {
+      "title": "Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015",
+      "authors": "Hew-Butler T, Rosner MH, Fowkes-Godek S, Dugas JP, Hoffman MD, Lewis DP, Maughan RJ, Miller KC, Montain SJ, Rehrer NJ, Roberts WO, Rogers IR, Siegel AJ, Stuempfle KJ, Winger JM, Verbalis JG",
+      "journal": "Clinical Journal of Sport Medicine",
+      "year": 2015,
+      "volume": "25",
+      "issue": "4",
+      "pages": "303-320",
+      "doi": "10.1097/JSM.0000000000000221",
+      "level": "A"
+    },
+    {
+      "title": "Hyponatremia among runners in the Boston Marathon",
+      "authors": "Almond CS, Shin AY, Fortescue EB, Mannix RC, Wypij D, Binstadt BA, Duncan CN, Olson DP, Salerno AE, Newburger JW, Greenes DS",
+      "journal": "New England Journal of Medicine",
+      "year": 2005,
+      "volume": "352",
+      "issue": "15",
+      "pages": "1550-1556",
+      "doi": "10.1056/NEJMoa043901",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Beber água demais na prova: o risco silencioso da hiponatremia",
+    "slug": "hiponatremia-beber-agua-demais-na-prova",
+    "excerpt": "Beber o máximo de água possível para não desidratar é um dos conselhos mais perigosos do endurance. Entenda a hiponatremia associada ao exercício e o que a evidência recomenda.",
+    "meta_title": "Hiponatremia no exercício: por que beber água demais é perigoso",
+    "tags": [
+      "Hidratação",
+      "Sódio",
+      "Endurance",
+      "Maratona"
+    ],
+    "html": "<p>O conselho parece seguro: <em>\"beba o máximo de água que conseguir para não desidratar\"</em>. Em prova longa, virou quase um mandamento. E, levado ao pé da letra, é um dos conselhos mais perigosos do endurance.</p>\n\n<h2>O corpo tem um limite para eliminar líquido</h2>\n\n<p>Hidratar bem não é encher o estômago de água. Os rins têm uma taxa máxima de eliminação de líquido, e durante o exercício ela cai ainda mais por causa de hormônios que retêm água. Quando a ingestão supera de forma sustentada aquilo que o corpo perde e consegue eliminar, o excesso se acumula.</p>\n\n<h2>O que é hiponatremia associada ao exercício</h2>\n\n<p>A hiponatremia associada ao exercício (HAE) é a queda do sódio do sangue para abaixo de 135 mmol/L durante ou logo após o esforço. O ponto contraintuitivo: na grande maioria dos casos, ela não é causada por perder sódio no suor, e sim por beber líquido hipotônico em volume maior do que o corpo elimina. O sangue literalmente fica diluído.</p>\n\n<p>Os sintomas iniciais são inespecíficos, náusea, dor de cabeça, inchaço, e podem ser confundidos com desidratação, levando a pessoa a beber ainda mais. Nos casos graves, a água migra para dentro das células, inclusive do cérebro, e o quadro pode evoluir para convulsão, edema cerebral e morte.</p>\n\n<h2>O que a evidência mostra</h2>\n\n<p>Almond e colegas (<em>New England Journal of Medicine</em>, 2005) coletaram sangue de 488 corredores ao final da Maratona de Boston. Cerca de 13% terminaram com hiponatremia e 0,6% em nível grave. O achado mais revelador: o principal fator de risco foi ganhar peso durante a prova. Como só é possível ganhar peso correndo se você ingere mais líquido do que perde, o peso a mais funcionou como uma assinatura direta da superingestão. Correr por mais de quatro horas e ingerir três ou mais litros também se associaram ao risco.</p>\n\n<p>O Terceiro Consenso Internacional sobre Hiponatremia Associada ao Exercício (Hew-Butler et al., <em>Clinical Journal of Sport Medicine</em>, 2015) é categórico: a etiologia primária da HAE, e de todas as fatalidades conhecidas, é a superingestão de fluidos hipotônicos. A recomendação central é beber de acordo com a sede, um mecanismo fisiológico bem calibrado para a maioria das situações.</p>\n\n<h2>E o sódio não resolve?</h2>\n\n<p>Repor sódio durante o esforço pode atenuar a queda da concentração sanguínea, mas não previne a HAE em quem bebe em excesso. O motivo é simples: toda bebida esportiva tem concentração de sódio bem menor do que a do sangue. Ou seja, ela ainda dilui. O que determina o sódio final do sangue é, sobretudo, o volume de líquido ingerido, não a quantidade de sódio.</p>\n\n<h2>Na prática</h2>\n\n<table>\n<thead><tr><th>Recomendação</th><th>Por quê</th></tr></thead>\n<tbody>\n<tr><td>Beba de acordo com a sede</td><td>Regula bem a hidratação na maioria das provas</td></tr>\n<tr><td>Não force líquido em horário fixo \"por precaução\"</td><td>É assim que o excesso se acumula</td></tr>\n<tr><td>Ganhar peso na prova é sinal de alerta</td><td>Indica que você bebeu mais do que perdeu</td></tr>\n<tr><td>Sódio ajuda, mas não anula o excesso</td><td>Bebidas esportivas são mais diluídas que o sangue</td></tr>\n</tbody>\n</table>\n\n<p>Nada disso é um convite a desidratar. Desidratação significativa também prejudica o desempenho e a saúde. O ponto é que a segurança não está no \"quanto mais, melhor\", e sim em repor o que falta, guiado pela sede. Nem de menos, nem de mais.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. <em>Clin J Sport Med</em>. 2015;25(4):303–320. doi:10.1097/JSM.0000000000000221</li>\n<li>Almond CS, Shin AY, Fortescue EB, et al. Hyponatremia among runners in the Boston Marathon. <em>N Engl J Med</em>. 2005;352(15):1550–1556. doi:10.1056/NEJMoa043901</li>\n</ol>\n",
+    "cover": "content/drafts/draft_010/cover.png",
+    "cover_alt": "Beber água demais na prova e o risco da hiponatremia — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_010/slide_01.png",
+    "content/drafts/draft_010/slide_02.png",
+    "content/drafts/draft_010/slide_03.png",
+    "content/drafts/draft_010/slide_04.png",
+    "content/drafts/draft_010/slide_05.png",
+    "content/drafts/draft_010/slide_06.png"
+  ],
+  "post_id": "18023882831702914",
+  "published_at": "2026-09-15T11:17:47.632245+00:00"
+}

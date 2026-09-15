@@ -107,3 +107,10 @@
 {"ts": "2026-09-14T20:12:05.252191+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-14T20:12:18.951277+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_002 -> media_id 18341043862283196"}
 {"ts": "2026-09-14T20:12:18.962249+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-15T11:16:55.011667+00:00", "level": "INFO", "msg": "Publicando draft_010 (carousel) \u2014 hiponatremia associada ao exerc\u00edcio (excesso de \u00e1gua)"}
+{"ts": "2026-09-15T11:16:55.014341+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-15T11:16:55.014426+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_010/slide_01.png"}
+{"ts": "2026-09-15T11:16:55.970984+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-15T11:17:27.617921+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-15T11:17:47.632058+00:00", "level": "INFO", "msg": "PUBLICADO: draft_010 -> media_id 18023882831702914"}
+{"ts": "2026-09-15T11:17:47.643245+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
