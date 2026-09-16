@@ -5380,6 +5380,41 @@
       "derivatives_created": [],
       "ghost_post_id": "6aaa7abd3b90600001249176",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-faz-mal-para-os-rins-o-que-a-ciencia-mostra/"
+    },
+    {
+      "post_id": "18215128195354044",
+      "local_id": "vsabia_004",
+      "publication_date": "2026-09-16T20:10:52.279825+00:00",
+      "format": "static",
+      "topic": "slushie de gelo (ice slurry) / pré-resfriamento interno no calor",
+      "content_pillar": "strategy",
+      "hook": "Um slushie de gelo antes de correr no calor rendeu ~19% mais tempo até a exaustão: 50 vs 41 min.",
+      "caption": "Beber uma 'raspadinha' antes da prova parece brincadeira — mas no calor é ciência. 🥶\n\nEngolir gelo picado (ice slurry) resfria você por dentro: o gelo precisa de energia pra derreter e puxa esse calor do próprio corpo, derrubando a temperatura central antes mesmo da largada. Num estudo com corredores no calor, quem tomou slushie de gelo aguentou 50 minutos até a exaustão contra 41 do grupo controle — cerca de 19% a mais — com a temperatura central ~0,6°C mais baixa no início da corrida.\n\nNa prática: em provas quentes, tomar cerca de 7,5 g de gelo picado por kg de peso ao longo da meia hora antes da largada pode comprar alguns minutos preciosos. Só não exagere a ponto de esfriar demais e prejudicar o aquecimento muscular.\n\nFonte: Siegel et al., Medicine & Science in Sports & Exercise, 2010.",
+      "cta": "Salva pra sua próxima prova no calor. 🧊",
+      "scientific_sources": [
+        {
+          "title": "Ice slurry ingestion increases core temperature capacity and running time in the heat",
+          "authors": "Siegel R, Mate J, Brearley MB, Watson G, Nosaka K, Laursen PB",
+          "journal": "Medicine and Science in Sports and Exercise",
+          "year": 2010,
+          "volume": "42",
+          "issue": "4",
+          "pages": "717-725",
+          "doi": "10.1249/MSS.0b013e3181bf257a",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_004/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:ice-slurry-precooling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

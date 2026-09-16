@@ -129,3 +129,9 @@
 {"ts": "2026-09-16T11:17:09.489405+00:00", "level": "INFO", "msg": "PUBLICADO: draft_011 -> media_id 18132937189657953"}
 {"ts": "2026-09-16T11:17:09.498304+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-16T12:12:15.186182+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-16T20:10:36.561837+00:00", "level": "INFO", "msg": "Publicando vsabia_004 (static) \u2014 slushie de gelo (ice slurry) / pr\u00e9-resfriamento interno no calor"}
+{"ts": "2026-09-16T20:10:36.563690+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-16T20:10:36.563754+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_004/card.png"}
+{"ts": "2026-09-16T20:10:36.789569+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-16T20:10:52.279654+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_004 -> media_id 18215128195354044"}
+{"ts": "2026-09-16T20:10:52.288436+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
