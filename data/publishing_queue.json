@@ -200,6 +200,15 @@
       "ghost_post_id": "6aaa7abd3b90600001249176",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-faz-mal-para-os-rins-o-que-a-ciencia-mostra/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_004",
+      "format": "static",
+      "topic": "slushie de gelo (ice slurry) / pré-resfriamento interno no calor",
+      "hook": "Um slushie de gelo antes de correr no calor rendeu ~19% mais tempo até a exaustão: 50 vs 41 min.",
+      "status": "approved",
+      "created_at": "2026-09-16T00:00:00Z",
+      "priority": 1
     }
   ]
 }
