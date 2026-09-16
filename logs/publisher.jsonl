@@ -121,3 +121,10 @@
 {"ts": "2026-09-15T20:10:53.981703+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-15T20:11:08.087088+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_003 -> media_id 18169221943460947"}
 {"ts": "2026-09-15T20:11:08.095967+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-16T11:16:31.332918+00:00", "level": "INFO", "msg": "Publicando draft_011 (carousel) \u2014 creatina e fun\u00e7\u00e3o renal (mito dos rins)"}
+{"ts": "2026-09-16T11:16:31.334662+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-16T11:16:31.334722+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_011/slide_01.png"}
+{"ts": "2026-09-16T11:16:32.217149+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-16T11:17:02.077139+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-16T11:17:09.489405+00:00", "level": "INFO", "msg": "PUBLICADO: draft_011 -> media_id 18132937189657953"}
+{"ts": "2026-09-16T11:17:09.498304+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

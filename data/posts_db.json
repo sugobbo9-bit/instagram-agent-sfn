@@ -5316,6 +5316,70 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18132937189657953",
+      "local_id": "draft_011",
+      "publication_date": "2026-09-16T11:17:09.489569+00:00",
+      "format": "carousel",
+      "topic": "creatina e função renal (mito dos rins)",
+      "content_pillar": "supplements",
+      "hook": "Creatina não destrói seus rins. E a ciência já sabe disso há 20 anos.",
+      "caption": "Esse é provavelmente o mito mais teimoso da suplementação esportiva. A confusão nasce de um detalhe: a creatina vira creatinina no corpo — o mesmo marcador que o exame usa para estimar a função renal. Suplementar eleva um pouco esse número, mas isso reflete o metabolismo do suplemento, não lesão nos rins. A filtração real, medida de forma direta, segue normal.\n\nO que a evidência mostra em pessoas saudáveis: doses de 3–5 g/dia (e até muito acima disso, em estudos) não prejudicam a função renal.\n\nDica prática: ao fazer exame de sangue, avise que toma creatina. E quem tem doença renal pré-existente deve conversar com o médico antes.\n\nFontes: de Souza e Silva et al. J Ren Nutr. 2019. | Kreider et al. (ISSN Position Stand). J Int Soc Sports Nutr. 2017. | Antonio et al. J Int Soc Sports Nutr. 2021.",
+      "cta": "Salva e manda pra quem ainda tem medo de tomar creatina.",
+      "scientific_sources": [
+        {
+          "title": "Effects of Creatine Supplementation on Renal Function: A Systematic Review and Meta-Analysis",
+          "authors": "de Souza e Silva A, Pertille A, Reis Barbosa CG, Aparecida de Oliveira Silva J, de Jesus DV, Ribeiro AGSV, Baganha RJ, de Oliveira JJ",
+          "journal": "Journal of Renal Nutrition",
+          "year": 2019,
+          "volume": "29",
+          "issue": "6",
+          "pages": "480-488",
+          "doi": "10.1053/j.jrn.2019.05.004",
+          "level": "A"
+        },
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "authors": "Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R, Candow DG, Kleiner SM, Almada AL, Lopez HL",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "issue": "1",
+          "pages": "18",
+          "doi": "10.1186/s12970-017-0173-z",
+          "level": "A"
+        },
+        {
+          "title": "Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?",
+          "authors": "Antonio J, Candow DG, Forbes SC, Gualano B, Jagim AR, Kreider RB, Rawson ES, Smith-Ryan AE, VanDusseldorp TA, Willoughby DS, Ziegenfuss TN",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "volume": "18",
+          "issue": "1",
+          "pages": "13",
+          "doi": "10.1186/s12970-021-00412-w",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_011/slide_01.png",
+        "content/drafts/draft_011/slide_02.png",
+        "content/drafts/draft_011/slide_03.png",
+        "content/drafts/draft_011/slide_04.png",
+        "content/drafts/draft_011/slide_05.png",
+        "content/drafts/draft_011/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:creatina",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aaa7abd3b90600001249176",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-faz-mal-para-os-rins-o-que-a-ciencia-mostra/"
     }
   ]
 }

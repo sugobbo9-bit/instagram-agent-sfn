@@ -191,10 +191,15 @@
       "format": "carousel",
       "topic": "creatina e função renal (mito dos rins)",
       "hook": "Creatina não destrói seus rins. E a ciência já sabe disso há 20 anos.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-16T00:00:00Z",
       "priority": 1,
-      "notes": "Myth-busting: creatina nao prejudica funcao renal em pessoas saudaveis (de Souza e Silva 2019 meta-analise; ISSN Kreider 2017 position stand; Antonio 2021 misconceptions)"
+      "notes": "Myth-busting: creatina nao prejudica funcao renal em pessoas saudaveis (de Souza e Silva 2019 meta-analise; ISSN Kreider 2017 position stand; Antonio 2021 misconceptions)",
+      "published_at": "2026-09-16T11:17:09.489569+00:00",
+      "post_id": "18132937189657953",
+      "ghost_post_id": "6aaa7abd3b90600001249176",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-faz-mal-para-os-rins-o-que-a-ciencia-mostra/",
+      "ghost_status": "published"
     }
   ]
 }

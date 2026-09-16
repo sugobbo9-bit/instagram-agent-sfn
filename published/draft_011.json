@@ -1,0 +1,127 @@
+{
+  "local_id": "draft_011",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-16T00:00:00Z",
+  "topic": "creatina e função renal (mito dos rins)",
+  "content_pillar": "supplements",
+  "hook": "Creatina não destrói seus rins. E a ciência já sabe disso há 20 anos.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:creatina",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Creatina não destrói seus rins. E a ciência já sabe disso há 20 anos.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde veio esse medo?",
+      "body": "A creatina eleva um pouco a creatinina do sangue — justamente o marcador que o exame usa para avaliar os rins.\n\nResultado: o exame pode 'assustar', e a conclusão apressada vira \"creatina sobrecarrega o rim\". O medo também se apoia em pouquíssimos relatos isolados, nunca confirmados em estudos controlados.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O MECANISMO",
+      "headline": "Creatinina alta aqui não é lesão. É metabolismo.",
+      "body": "A creatina é convertida em creatinina, seu resíduo natural. Quem suplementa (e tem mais massa muscular) produz mais creatinina — sem que o rim esteja falhando.\n\nOu seja: a creatinina sobe de forma esperada. A filtração real, medida por métodos diretos, continua normal.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "20 anos de pesquisa apontam para o mesmo lugar.",
+      "body": "Meta-análise (de Souza e Silva, J Renal Nutr, 2019): 15 estudos, doses de 4–20 g/dia por até 2 anos — sem dano à função renal em pessoas saudáveis.\n\nPosicionamento da ISSN (Kreider, 2017): \"não há evidência convincente de efeitos prejudiciais\" em indivíduos saudáveis, mesmo até 30 g/dia por 5 anos.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como usar sem sustos.",
+      "body": "Dose: 3–5 g/dia de creatina monohidratada. Não precisa de 'saturação'.\n\nExame de sangue: avise o laboratório e o médico que você suplementa — a creatinina levemente alta é esperada.\n\nQuem tem doença renal pré-existente deve conversar com o médico antes. E não: creatina não é só para fisiculturista — ajuda também em esforços repetidos e recuperação.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "O rim saudável dá conta da creatina. O mito é que não.",
+      "body": "Salva pra lembrar e manda pra quem ainda tem medo de tomar creatina.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Esse é provavelmente o mito mais teimoso da suplementação esportiva. A confusão nasce de um detalhe: a creatina vira creatinina no corpo — o mesmo marcador que o exame usa para estimar a função renal. Suplementar eleva um pouco esse número, mas isso reflete o metabolismo do suplemento, não lesão nos rins. A filtração real, medida de forma direta, segue normal.\n\nO que a evidência mostra em pessoas saudáveis: doses de 3–5 g/dia (e até muito acima disso, em estudos) não prejudicam a função renal.\n\nDica prática: ao fazer exame de sangue, avise que toma creatina. E quem tem doença renal pré-existente deve conversar com o médico antes.\n\nFontes: de Souza e Silva et al. J Ren Nutr. 2019. | Kreider et al. (ISSN Position Stand). J Int Soc Sports Nutr. 2017. | Antonio et al. J Int Soc Sports Nutr. 2021.",
+  "cta": "Salva e manda pra quem ainda tem medo de tomar creatina.",
+  "scientific_sources": [
+    {
+      "title": "Effects of Creatine Supplementation on Renal Function: A Systematic Review and Meta-Analysis",
+      "authors": "de Souza e Silva A, Pertille A, Reis Barbosa CG, Aparecida de Oliveira Silva J, de Jesus DV, Ribeiro AGSV, Baganha RJ, de Oliveira JJ",
+      "journal": "Journal of Renal Nutrition",
+      "year": 2019,
+      "volume": "29",
+      "issue": "6",
+      "pages": "480-488",
+      "doi": "10.1053/j.jrn.2019.05.004",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "authors": "Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R, Candow DG, Kleiner SM, Almada AL, Lopez HL",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "issue": "1",
+      "pages": "18",
+      "doi": "10.1186/s12970-017-0173-z",
+      "level": "A"
+    },
+    {
+      "title": "Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?",
+      "authors": "Antonio J, Candow DG, Forbes SC, Gualano B, Jagim AR, Kreider RB, Rawson ES, Smith-Ryan AE, VanDusseldorp TA, Willoughby DS, Ziegenfuss TN",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "13",
+      "doi": "10.1186/s12970-021-00412-w",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Creatina faz mal para os rins? O que a ciência realmente mostra",
+    "slug": "creatina-faz-mal-para-os-rins-o-que-a-ciencia-mostra",
+    "excerpt": "A creatina eleva a creatinina do sangue — mas isso reflete o metabolismo do suplemento, não lesão renal. O que meta-análises e o posicionamento da ISSN dizem sobre creatina e função dos rins em pessoas saudáveis.",
+    "meta_title": "Creatina faz mal para os rins? O que a evidência mostra",
+    "tags": [
+      "Creatina",
+      "Suplementação",
+      "Função Renal",
+      "Endurance"
+    ],
+    "html": "<p>Poucas frases são repetidas com tanta convicção nas academias e nos grupos de corrida quanto <em>\"creatina sobrecarrega os rins\"</em>. É provavelmente o mito mais teimoso da suplementação esportiva. E, depois de mais de duas décadas de pesquisa em pessoas saudáveis, ele continua sem sustentação.</p>\n\n<h2>De onde nasce a confusão</h2>\n\n<p>O mito tem uma origem quase compreensível. A creatina que você ingere é metabolizada no corpo e transformada em <strong>creatinina</strong> — exatamente o marcador que os laboratórios usam para estimar a função dos rins. Quem suplementa creatina (e quem tem mais massa muscular) produz mais creatinina e, portanto, pode apresentar um valor um pouco mais alto no exame de sangue.</p>\n\n<p>O problema é a interpretação. Uma creatinina levemente elevada, nesse contexto, não significa que o rim está filtrando pior. Significa que há mais creatina no sistema sendo convertida em creatinina. É metabolismo do suplemento, não lesão.</p>\n\n<h2>Creatinina alta não é o mesmo que dano renal</h2>\n\n<p>A taxa de filtração glomerular estimada (a famosa eGFR) é calculada a partir da creatinina. Quando a creatinina sobe por causa da suplementação, a eGFR calculada pode parecer mais baixa — sem que a capacidade real de filtração tenha mudado. Quando a filtração é medida por métodos diretos, e não estimada pela creatinina, ela se mantém normal em pessoas saudáveis.</p>\n\n<p>O medo também se apoia em pouquíssimos relatos de caso isolados, envolvendo pessoas com condições prévias ou outros fatores. Relatos isolados geram hipóteses; não estabelecem causa. E os estudos controlados que vieram depois não confirmaram esse risco na população saudável.</p>\n\n<h2>O que a evidência acumulada mostra</h2>\n\n<p>Uma revisão sistemática com meta-análise publicada no <em>Journal of Renal Nutrition</em> (de Souza e Silva et al., 2019) reuniu estudos com doses de 4 a 20 g/dia, por períodos que iam de poucos dias a cerca de dois anos. A conclusão foi direta: a suplementação de creatina não induziu dano à função renal em pessoas saudáveis, sem efeito adverso relevante sobre creatinina sérica, clearance de creatinina/filtração glomerular ou ureia.</p>\n\n<p>O posicionamento oficial da <em>International Society of Sports Nutrition</em> (Kreider et al., 2017) é ainda mais categórico: <em>\"não há evidência científica convincente de que o uso de creatina monohidratada a curto ou longo prazo (até 30 g/dia por 5 anos) tenha qualquer efeito prejudicial em indivíduos saudáveis\"</em>.</p>\n\n<p>A revisão de misconceptions da mesma sociedade (Antonio et al., 2021) reforça o ponto e derruba de passagem outros mitos: nas doses recomendadas, a creatina não causa disfunção renal em indivíduos saudáveis, não provoca desidratação nem cãibras (há dados sugerindo até menos cãibras), e não aumenta DHT nem causa queda de cabelo.</p>\n\n<h2>Na prática</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose de manutenção</td><td>3–5 g/dia de creatina monohidratada</td></tr>\n<tr><td>Fase de saturação</td><td>Opcional; não é necessária para o benefício</td></tr>\n<tr><td>Exame de sangue</td><td>Avise médico e laboratório que você suplementa</td></tr>\n<tr><td>Doença renal pré-existente</td><td>Converse com o médico antes de suplementar</td></tr>\n</tbody>\n</table>\n\n<p>Um ponto importante e honesto: nada disso é conselho médico individual. A evidência tranquilizadora se refere a pessoas saudáveis. Quem já tem doença renal ou fatores de risco deve individualizar a decisão com um profissional. E, ao fazer exames, vale mencionar o uso de creatina para que a creatinina levemente alta seja interpretada corretamente.</p>\n\n<h2>O resumo</h2>\n\n<p>Em rins saudáveis, a evidência de mais de 20 anos aponta na mesma direção: creatina nas doses usuais não prejudica a função renal. O que ela faz é elevar um marcador — a creatinina — de forma esperada, o que exige apenas interpretação correta do exame, não medo do suplemento.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>de Souza e Silva A, Pertille A, Reis Barbosa CG, et al. Effects of Creatine Supplementation on Renal Function: A Systematic Review and Meta-Analysis. <em>J Ren Nutr</em>. 2019;29(6):480–488. doi:10.1053/j.jrn.2019.05.004</li>\n<li>Kreider RB, Kalman DS, Antonio J, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. <em>J Int Soc Sports Nutr</em>. 2017;14:18. doi:10.1186/s12970-017-0173-z</li>\n<li>Antonio J, Candow DG, Forbes SC, et al. Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show? <em>J Int Soc Sports Nutr</em>. 2021;18(1):13. doi:10.1186/s12970-021-00412-w</li>\n</ol>\n",
+    "cover": "content/drafts/draft_011/cover.png",
+    "cover_alt": "Creatina faz mal para os rins? — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_011/slide_01.png",
+    "content/drafts/draft_011/slide_02.png",
+    "content/drafts/draft_011/slide_03.png",
+    "content/drafts/draft_011/slide_04.png",
+    "content/drafts/draft_011/slide_05.png",
+    "content/drafts/draft_011/slide_06.png"
+  ],
+  "post_id": "18132937189657953",
+  "published_at": "2026-09-16T11:17:09.489569+00:00"
+}
