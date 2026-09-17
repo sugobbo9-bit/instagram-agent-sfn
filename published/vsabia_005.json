@@ -1,0 +1,43 @@
+{
+  "local_id": "vsabia_005",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-09-17T00:00:00Z",
+  "topic": "índice de hidratação de bebidas (leite retém mais líquido que água)",
+  "content_pillar": "hydration",
+  "hook": "Água não é a bebida que mais hidrata: o leite desnatado retém ~50% mais líquido no corpo.",
+  "subtext": "Sódio, proteína e lactose desaceleram o esvaziamento do estômago e a perda pela urina. Café, chá e isotônico ficaram iguais à água.",
+  "source_line": "Maughan et al., Am J Clin Nutr, 2016 (índice de hidratação: leite 1,58 vs água 1,0).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:hidratacao-leite"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Beber litros de água nem sempre é o jeito mais eficiente de se manter hidratado.\n\nPesquisadores de Loughborough criaram um \"índice de hidratação de bebidas\": deram 1 litro de cada bebida a 72 pessoas e mediram quanto líquido o corpo retinha nas 4 horas seguintes. O leite (desnatado e integral) e o soro de reidratação venceram a água com folga — nas 4h, saíram só ~1.050 g de urina contra ~1.340 g da água. Ou seja: você faz menos xixi e retém mais. O motivo é a combinação de sódio, proteína, lactose e um pouco de gordura, que desacelera o esvaziamento gástrico e a perda urinária.\n\nJá café, chá, refrigerante e até o isotônico? Estatisticamente iguais à água nesse teste (feito em repouso, já hidratado). Isso não anula o papel do isotônico durante o exercício longo, quando carboidrato e sódio contam por outros motivos.\n\nNa prática pós-treino: leite (ou um achocolatado) reidrata melhor que só água — e ainda entrega proteína pra recuperação.\n\nFonte: Maughan et al., Am J Clin Nutr, 2016.",
+  "cta": "Salva pra lembrar na hora de repor líquido depois do treino.",
+  "scientific_sources": [
+    {
+      "title": "A randomized trial to assess the potential of different beverages to affect hydration status: development of a beverage hydration index",
+      "authors": "Maughan RJ, Watson P, Cordery PA, Walsh NP, Oliver SJ, Dolci A, Rodriguez-Sanchez N, Galloway SD",
+      "journal": "The American Journal of Clinical Nutrition",
+      "year": 2016,
+      "volume": "103",
+      "issue": "3",
+      "pages": "717-723",
+      "doi": "10.3945/ajcn.115.114769",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_005/card.png"
+  ],
+  "post_id": "18282794059288727",
+  "published_at": "2026-09-17T20:13:33.304978+00:00"
+}

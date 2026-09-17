@@ -143,3 +143,9 @@
 {"ts": "2026-09-17T11:14:46.098923+00:00", "level": "INFO", "msg": "PUBLICADO: draft_012 -> media_id 18124912636798415"}
 {"ts": "2026-09-17T11:14:46.110034+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-17T12:12:18.085923+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-17T20:13:18.952392+00:00", "level": "INFO", "msg": "Publicando vsabia_005 (static) \u2014 \u00edndice de hidrata\u00e7\u00e3o de bebidas (leite ret\u00e9m mais l\u00edquido que \u00e1gua)"}
+{"ts": "2026-09-17T20:13:18.954895+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-17T20:13:18.954987+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_005/card.png"}
+{"ts": "2026-09-17T20:13:19.089791+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-17T20:13:33.304826+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_005 -> media_id 18282794059288727"}
+{"ts": "2026-09-17T20:13:33.315979+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
