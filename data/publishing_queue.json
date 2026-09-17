@@ -211,6 +211,16 @@
       "priority": 1,
       "published_at": "2026-09-16T20:10:52.279825+00:00",
       "post_id": "18215128195354044"
+    },
+    {
+      "local_id": "draft_012",
+      "format": "carousel",
+      "topic": "cafeína, horário e sono/recuperação",
+      "hook": "Cafeína 6 horas antes de dormir ainda rouba seu sono. Sem você notar.",
+      "status": "approved",
+      "created_at": "2026-09-17T00:00:00Z",
+      "priority": 1,
+      "notes": "Myth-busting: cafeina tarde encurta o sono mesmo 6h antes (Drake 2013); meta-analise 24 estudos ~45min e -7% eficiencia (Gardiner 2023). Familia de conteudo sobre cafeina (vencedor) + sono (melhor categoria por alcance)."
     }
   ]
 }

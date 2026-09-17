@@ -1,0 +1,114 @@
+{
+  "local_id": "draft_012",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-09-17T00:00:00Z",
+  "topic": "cafeína, horário e sono/recuperação",
+  "content_pillar": "recovery",
+  "hook": "Cafeína 6 horas antes de dormir ainda rouba seu sono. Sem você notar.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:cafeina-sono",
+    "format:carousel",
+    "category:recuperacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Cafeína 6 horas antes de dormir ainda rouba seu sono. Sem você notar.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "\"À tarde eu tomo café e durmo normal.\"",
+      "body": "É o que quase todo atleta acha. O problema: você julga pelo sono que sente, não pelo sono que teve.\n\nA cafeína tem meia-vida de cerca de 5 horas. Metade da dose que você tomou às 15h ainda está circulando quando você deita.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "POR QUE ACONTECE",
+      "headline": "A cafeína bloqueia a adenosina — a molécula que te dá sono.",
+      "body": "Ao longo do dia a adenosina se acumula no cérebro e cria a pressão para dormir.\n\nA cafeína ocupa os receptores dela e abafa esse sinal. Você pode até pegar no sono, mas ele fica mais raso e curto — mesmo quando a sensação é de que dormiu bem.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Mesmo horas antes, o sono encurta.",
+      "body": "Drake et al. (2013): 400 mg de cafeína tomados 6 horas antes de dormir reduziram o sono total em mais de 1 hora — medido por aparelho. Os participantes não perceberam a diferença.\n\nGardiner et al. (2023), meta-análise de 24 estudos: a cafeína corta em média 45 min de sono e derruba cerca de 7% da eficiência do sono.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Onde manter — e onde cortar — a cafeína.",
+      "body": "Café padrão (~100 mg): pelo menos 9 horas antes de dormir\nPré-treino forte (~200 mg): pelo menos 13 horas antes\nTreino no fim do dia? Prefira cafeína de manhã ou início da tarde\nSensibilidade varia (genética do CYP1A2): ajuste ao seu caso\n\n→ O problema nunca foi a cafeína. É o horário.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "A cafeína funciona. Mas é dormindo que você recupera.",
+      "body": "Salva pra acertar o horário do seu pré-treino. E manda pra quem treina à noite.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A cafeína é o ergogênico mais bem documentado do esporte. O problema nunca foi a substância — é o horário.\n\nA adenosina se acumula ao longo do dia e cria a pressão de sono. A cafeína bloqueia esse sinal, e com meia-vida de cerca de 5 horas, metade da dose que você tomou às 15h ainda está ativa quando você deita.\n\nDrake et al. (2013): 400 mg de cafeína tomados 6 horas antes de dormir reduziram o sono total em mais de 1 hora — medido objetivamente. E os participantes nem perceberam. Gardiner et al. (2023), meta-análise de 24 estudos: em média a cafeína corta 45 min de sono e derruba cerca de 7% da eficiência.\n\nNa prática: café padrão (~100 mg) pelo menos 9h antes de dormir; pré-treino forte (~200 mg) pelo menos 13h antes. A sensibilidade individual varia (genética do CYP1A2), então ajuste — mas \"eu durmo normal\" costuma ser percepção, não medida. E o sono é onde a adaptação ao treino acontece.\n\nFontes: Gardiner et al. Sleep Med Rev. 2023. | Drake et al. J Clin Sleep Med. 2013.",
+  "cta": "Salva pra acertar o horário do pré-treino. Manda pra quem treina à noite.",
+  "scientific_sources": [
+    {
+      "title": "The effect of caffeine on subsequent sleep: A systematic review and meta-analysis",
+      "authors": "Gardiner C, Weakley J, Burke LM, Roach GD, Miller DJ, Maniar N, Windt J, Halson SL",
+      "journal": "Sleep Medicine Reviews",
+      "year": 2023,
+      "volume": "69",
+      "pages": "101764",
+      "doi": "10.1016/j.smrv.2023.101764",
+      "level": "A"
+    },
+    {
+      "title": "Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed",
+      "authors": "Drake C, Roehrs T, Shambroom J, Roth T",
+      "journal": "Journal of Clinical Sleep Medicine",
+      "year": 2013,
+      "volume": "9",
+      "issue": "11",
+      "pages": "1195-1200",
+      "doi": "10.5664/jcsm.3170",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Cafeína e sono: por que o horário importa mais do que você pensa",
+    "slug": "cafeina-horario-sono-recuperacao",
+    "excerpt": "A cafeína é um ergogênico comprovado, mas tomada tarde demais ela encurta o sono — mesmo 6 horas antes de dormir e mesmo sem você perceber. O que a evidência mostra sobre horário, dose e recuperação.",
+    "meta_title": "Cafeína e sono: o horário que protege sua recuperação",
+    "tags": [
+      "Cafeína",
+      "Sono",
+      "Recuperação",
+      "Endurance"
+    ],
+    "html": "<p>A cafeína é, provavelmente, o suplemento ergogênico mais bem documentado do esporte. ISSN, IOC e ACSM convergem sobre o efeito dela no desempenho. Só que a maioria dos atletas ignora a variável que decide se ela ajuda ou atrapalha: <strong>o horário</strong>.</p>\n\n<h2>\"Eu tomo café à tarde e durmo normal\"</h2>\n\n<p>Essa frase é quase universal — e é aí que mora o erro. Você avalia o próprio sono pela sensação que teve ao acordar, não pelo que realmente aconteceu durante a noite. E as duas coisas nem sempre coincidem.</p>\n\n<p>A cafeína tem meia-vida de aproximadamente 5 horas. Isso significa que metade da dose que você tomou às 15h ainda está circulando por volta das 20h. Se o pré-treino foi mais forte, o resíduo é maior e dura mais.</p>\n\n<h2>Por que a cafeína rouba o sono</h2>\n\n<p>Ao longo do dia, uma molécula chamada adenosina se acumula no cérebro. É ela que cria a chamada pressão de sono — a sensação crescente de cansaço que te faz querer deitar. A cafeína age justamente ocupando os receptores de adenosina, abafando esse sinal.</p>\n\n<p>O resultado não é só demorar mais para pegar no sono. Mesmo quando você adormece, o sono tende a ficar mais raso, mais fragmentado e mais curto — sem que a sua percepção acuse a diferença.</p>\n\n<h2>O que a evidência mostra</h2>\n\n<p>Drake e colaboradores (2013), no <em>Journal of Clinical Sleep Medicine</em>, testaram 400 mg de cafeína (o equivalente a cerca de 2 a 3 xícaras de café) tomados imediatamente antes de dormir, 3 horas antes e 6 horas antes. Mesmo na condição de <strong>6 horas antes</strong> — quando muita gente jura que já passou o efeito — o tempo total de sono caiu em mais de uma hora, medido objetivamente por monitor de sono. Detalhe importante: os participantes não perceberam essa perda.</p>\n\n<p>Gardiner e colaboradores (2023) foram além e publicaram na <em>Sleep Medicine Reviews</em> uma revisão sistemática com meta-análise de 24 estudos. Em média, a cafeína reduziu o tempo total de sono em cerca de 45 minutos, diminuiu a eficiência do sono em torno de 7% e aumentou o tempo necessário para adormecer.</p>\n\n<h2>Onde manter e onde cortar a cafeína</h2>\n\n<p>A partir dos dados da própria meta-análise, os autores propuseram janelas práticas para proteger o sono:</p>\n\n<table>\n<thead><tr><th>Dose</th><th>Antecedência mínima antes de dormir</th></tr></thead>\n<tbody>\n<tr><td>Café padrão (~100 mg)</td><td>~9 horas</td></tr>\n<tr><td>Pré-treino forte (~200 mg)</td><td>~13 horas</td></tr>\n</tbody>\n</table>\n\n<p>Na prática, isso significa concentrar a cafeína na primeira metade do dia. Se o seu treino é no fim da tarde ou à noite, vale rever o pré-treino: a dose que melhora o desempenho da sessão pode estar cobrando o preço na recuperação da noite.</p>\n\n<p>Vale lembrar que a sensibilidade à cafeína varia bastante entre pessoas, em parte por diferenças genéticas na enzima que a metaboliza (CYP1A2). Metabolizadores lentos sentem o efeito por mais tempo. Por isso, as janelas acima são um ponto de partida — ajuste ao seu caso observando o próprio sono.</p>\n\n<h2>A conclusão</h2>\n\n<p>Não se trata de abandonar a cafeína. Ela funciona, e a evidência sustenta o seu uso como recurso de desempenho. O ponto é outro: o sono é onde as adaptações ao treino se consolidam. Trocar minutos de sono profundo por um empurrão de cafeína tarde demais é um péssimo negócio de longo prazo. O problema nunca foi a cafeína. É o horário.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Gardiner C, Weakley J, Burke LM, et al. The effect of caffeine on subsequent sleep: A systematic review and meta-analysis. <em>Sleep Med Rev</em>. 2023;69:101764. doi:10.1016/j.smrv.2023.101764</li>\n<li>Drake C, Roehrs T, Shambroom J, Roth T. Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. <em>J Clin Sleep Med</em>. 2013;9(11):1195–1200. doi:10.5664/jcsm.3170</li>\n</ol>\n",
+    "cover": "content/drafts/draft_012/cover.png",
+    "cover_alt": "Cafeína e sono: por que o horário importa — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_012/slide_01.png",
+    "content/drafts/draft_012/slide_02.png",
+    "content/drafts/draft_012/slide_03.png",
+    "content/drafts/draft_012/slide_04.png",
+    "content/drafts/draft_012/slide_05.png",
+    "content/drafts/draft_012/slide_06.png"
+  ]
+}
