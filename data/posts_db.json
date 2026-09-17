@@ -5415,6 +5415,59 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18124912636798415",
+      "local_id": "draft_012",
+      "publication_date": "2026-09-17T11:14:46.099097+00:00",
+      "format": "carousel",
+      "topic": "cafeína, horário e sono/recuperação",
+      "content_pillar": "recovery",
+      "hook": "Cafeína 6 horas antes de dormir ainda rouba seu sono. Sem você notar.",
+      "caption": "A cafeína é o ergogênico mais bem documentado do esporte. O problema nunca foi a substância — é o horário.\n\nA adenosina se acumula ao longo do dia e cria a pressão de sono. A cafeína bloqueia esse sinal, e com meia-vida de cerca de 5 horas, metade da dose que você tomou às 15h ainda está ativa quando você deita.\n\nDrake et al. (2013): 400 mg de cafeína tomados 6 horas antes de dormir reduziram o sono total em mais de 1 hora — medido objetivamente. E os participantes nem perceberam. Gardiner et al. (2023), meta-análise de 24 estudos: em média a cafeína corta 45 min de sono e derruba cerca de 7% da eficiência.\n\nNa prática: café padrão (~100 mg) pelo menos 9h antes de dormir; pré-treino forte (~200 mg) pelo menos 13h antes. A sensibilidade individual varia (genética do CYP1A2), então ajuste — mas \"eu durmo normal\" costuma ser percepção, não medida. E o sono é onde a adaptação ao treino acontece.\n\nFontes: Gardiner et al. Sleep Med Rev. 2023. | Drake et al. J Clin Sleep Med. 2013.",
+      "cta": "Salva pra acertar o horário do pré-treino. Manda pra quem treina à noite.",
+      "scientific_sources": [
+        {
+          "title": "The effect of caffeine on subsequent sleep: A systematic review and meta-analysis",
+          "authors": "Gardiner C, Weakley J, Burke LM, Roach GD, Miller DJ, Maniar N, Windt J, Halson SL",
+          "journal": "Sleep Medicine Reviews",
+          "year": 2023,
+          "volume": "69",
+          "pages": "101764",
+          "doi": "10.1016/j.smrv.2023.101764",
+          "level": "A"
+        },
+        {
+          "title": "Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed",
+          "authors": "Drake C, Roehrs T, Shambroom J, Roth T",
+          "journal": "Journal of Clinical Sleep Medicine",
+          "year": 2013,
+          "volume": "9",
+          "issue": "11",
+          "pages": "1195-1200",
+          "doi": "10.5664/jcsm.3170",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_012/slide_01.png",
+        "content/drafts/draft_012/slide_02.png",
+        "content/drafts/draft_012/slide_03.png",
+        "content/drafts/draft_012/slide_04.png",
+        "content/drafts/draft_012/slide_05.png",
+        "content/drafts/draft_012/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cafeina-sono",
+        "format:carousel",
+        "category:recuperacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aabcbafb9f9b9000121b140",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-horario-sono-recuperacao/"
     }
   ]
 }
