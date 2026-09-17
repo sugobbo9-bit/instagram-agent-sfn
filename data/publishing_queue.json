@@ -226,6 +226,15 @@
       "ghost_post_id": "6aabcbafb9f9b9000121b140",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-horario-sono-recuperacao/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_005",
+      "format": "static",
+      "topic": "índice de hidratação de bebidas (leite retém mais líquido que água)",
+      "hook": "Água não é a bebida que mais hidrata: o leite desnatado retém ~50% mais líquido no corpo.",
+      "status": "approved",
+      "created_at": "2026-09-17T00:00:00Z",
+      "priority": 1
     }
   ]
 }
