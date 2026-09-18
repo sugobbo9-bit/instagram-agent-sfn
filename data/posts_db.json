@@ -5503,6 +5503,70 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18557828602077115",
+      "local_id": "draft_013",
+      "publication_date": "2026-09-18T11:18:53.457639+00:00",
+      "format": "carousel",
+      "topic": "cetonas exógenas (ketone esters/salts) e desempenho de endurance",
+      "content_pillar": "supplements",
+      "hook": "Cetona exógena turbina sua prova? A meta-análise diz que não.",
+      "caption": "As cetonas exógenas viraram o suplemento da moda no endurance depois de aparecerem em times do ciclismo profissional. O marketing fala em 'quarto combustível'. A evidência conta outra história.\n\nA meta-análise de Brooks et al. (2022) reuniu os estudos controlados e não encontrou melhora significativa de desempenho. A revisão sistemática de Margolis & O'Fallon (2020) achou 10 resultados nulos, 3 negativos e só 3 positivos. E em ciclistas profissionais, a cetona chegou a PIORAR o contrarrelógio e causar desconforto gastrointestinal (Leckey et al., 2017).\n\nElevar o beta-hidroxibutirato no sangue é real. Transformar isso em mais velocidade, não. O que move o ponteiro continua sendo carboidrato, cafeína, nitrato e treino.\n\nFontes: Brooks et al. Int J Sport Nutr Exerc Metab. 2022. | Margolis & O'Fallon. Adv Nutr. 2020. | Leckey et al. Front Physiol. 2017.",
+      "cta": "Salva e manda pra quem ia gastar em cetona antes da prova.",
+      "scientific_sources": [
+        {
+          "title": "Acute Ingestion of Ketone Monoesters and Precursors Do Not Enhance Endurance Exercise Performance: A Systematic Review and Meta-Analysis",
+          "authors": "Brooks E, Lamothe G, Nagpal TS, Imbeault P, Adamo K, Kara J, Doucet É",
+          "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+          "year": 2022,
+          "volume": 32,
+          "issue": 3,
+          "pages": "214-225",
+          "doi": "10.1123/ijsnem.2021-0280",
+          "level": "A"
+        },
+        {
+          "title": "Utility of Ketone Supplementation to Enhance Physical Performance: A Systematic Review",
+          "authors": "Margolis LM, O'Fallon KS",
+          "journal": "Advances in Nutrition",
+          "year": 2020,
+          "volume": 11,
+          "issue": 2,
+          "pages": "412-419",
+          "doi": "10.1093/advances/nmz104",
+          "level": "A"
+        },
+        {
+          "title": "Ketone Diester Ingestion Impairs Time-Trial Performance in Professional Cyclists",
+          "authors": "Leckey JJ, Ross ML, Quod M, Hawley JA, Burke LM",
+          "journal": "Frontiers in Physiology",
+          "year": 2017,
+          "volume": 8,
+          "issue": null,
+          "pages": "806",
+          "doi": "10.3389/fphys.2017.00806",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_013/slide_01.png",
+        "content/drafts/draft_013/slide_02.png",
+        "content/drafts/draft_013/slide_03.png",
+        "content/drafts/draft_013/slide_04.png",
+        "content/drafts/draft_013/slide_05.png",
+        "content/drafts/draft_013/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cetonas",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aad1e202a33d60001d9c190",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cetonas-exogenas-endurance-o-que-diz-a-ciencia/"
     }
   ]
 }

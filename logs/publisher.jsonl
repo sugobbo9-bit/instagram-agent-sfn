@@ -149,3 +149,10 @@
 {"ts": "2026-09-17T20:13:19.089791+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-17T20:13:33.304826+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_005 -> media_id 18282794059288727"}
 {"ts": "2026-09-17T20:13:33.315979+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-18T11:18:11.742208+00:00", "level": "INFO", "msg": "Publicando draft_013 (carousel) \u2014 cetonas ex\u00f3genas (ketone esters/salts) e desempenho de endurance"}
+{"ts": "2026-09-18T11:18:11.744701+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-18T11:18:11.744788+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_013/slide_01.png"}
+{"ts": "2026-09-18T11:18:13.041402+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-18T11:18:43.929597+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-18T11:18:53.457485+00:00", "level": "INFO", "msg": "PUBLICADO: draft_013 -> media_id 18557828602077115"}
+{"ts": "2026-09-18T11:18:53.468898+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

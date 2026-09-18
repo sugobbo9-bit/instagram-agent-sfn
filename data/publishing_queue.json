@@ -243,8 +243,13 @@
       "format": "carousel",
       "topic": "cetonas exógenas (ketone esters/salts) e desempenho de endurance",
       "hook": "Cetona exógena turbina sua prova? A meta-análise diz que não.",
-      "status": "approved",
-      "created_at": "2026-09-18T00:00:00Z"
+      "status": "published",
+      "created_at": "2026-09-18T00:00:00Z",
+      "published_at": "2026-09-18T11:18:53.457639+00:00",
+      "post_id": "18557828602077115",
+      "ghost_post_id": "6aad1e202a33d60001d9c190",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cetonas-exogenas-endurance-o-que-diz-a-ciencia/",
+      "ghost_status": "published"
     }
   ]
 }

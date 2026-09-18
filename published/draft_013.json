@@ -1,0 +1,127 @@
+{
+  "local_id": "draft_013",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-18T00:00:00Z",
+  "topic": "cetonas exógenas (ketone esters/salts) e desempenho de endurance",
+  "content_pillar": "supplements",
+  "hook": "Cetona exógena turbina sua prova? A meta-análise diz que não.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:cetonas",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Cetona exógena turbina sua prova? A meta-análise diz que não.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "headline": "De onde veio o hype das cetonas.",
+      "body": "Depois que times do World Tour começaram a usar, o suplemento de cetona virou o 'quarto combustível' — vendido a peso de ouro para quem corre, pedala e faz triathlon.\n\nA promessa: poupar glicogênio e entregar energia extra no fim da prova.",
+      "label": "O HYPE",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "headline": "Elevar cetona no sangue não é o mesmo que ir mais rápido.",
+      "body": "O que a cetona faz: eleva o beta-hidroxibutirato (BHB) no sangue em minutos. Isso é real.\n\nO que ela NÃO faz de forma confiável: aumentar sua potência. O corpo continua dependendo de carboidrato em alta intensidade — e a cetona pode até competir com esse combustível.",
+      "label": "BHB NO SANGUE vs DESEMPENHO",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "headline": "A melhor evidência disponível não mostra ganho.",
+      "body": "Brooks et al. (IJSNEM, 2022): meta-análise de estudos controlados. Efeito no desempenho praticamente nulo (Hedges g = 0,136; sem significância).\n\nMargolis & O'Fallon (Adv Nutr, 2020): 10 de 16 resultados foram nulos, 3 negativos, 3 positivos.\n\nLeckey et al. (Front Physiol, 2017): em ciclistas profissionais, a cetona PIOROU o contrarrelógio em 2% e causou desconforto gastrointestinal.",
+      "label": "A EVIDÊNCIA",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "headline": "O que realmente move o ponteiro no endurance.",
+      "body": "Carboidrato durante a prova: 60-90 g/h com intestino treinado\nCafeína: 3-6 mg/kg antes do esforço\nNitrato (beterraba): dose e timing corretos\nTreino e periodização: o que nenhum pó substitui\n\n→ Antes de gastar em cetona, garanta o básico que a ciência já provou.",
+      "label": "NA PRÁTICA",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Cetona eleva um número no sangue. Não a sua velocidade.",
+      "body": "Salva esse carrossel pra antes da próxima 'novidade milagrosa'.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "As cetonas exógenas viraram o suplemento da moda no endurance depois de aparecerem em times do ciclismo profissional. O marketing fala em 'quarto combustível'. A evidência conta outra história.\n\nA meta-análise de Brooks et al. (2022) reuniu os estudos controlados e não encontrou melhora significativa de desempenho. A revisão sistemática de Margolis & O'Fallon (2020) achou 10 resultados nulos, 3 negativos e só 3 positivos. E em ciclistas profissionais, a cetona chegou a PIORAR o contrarrelógio e causar desconforto gastrointestinal (Leckey et al., 2017).\n\nElevar o beta-hidroxibutirato no sangue é real. Transformar isso em mais velocidade, não. O que move o ponteiro continua sendo carboidrato, cafeína, nitrato e treino.\n\nFontes: Brooks et al. Int J Sport Nutr Exerc Metab. 2022. | Margolis & O'Fallon. Adv Nutr. 2020. | Leckey et al. Front Physiol. 2017.",
+  "cta": "Salva e manda pra quem ia gastar em cetona antes da prova.",
+  "scientific_sources": [
+    {
+      "title": "Acute Ingestion of Ketone Monoesters and Precursors Do Not Enhance Endurance Exercise Performance: A Systematic Review and Meta-Analysis",
+      "authors": "Brooks E, Lamothe G, Nagpal TS, Imbeault P, Adamo K, Kara J, Doucet É",
+      "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+      "year": 2022,
+      "volume": 32,
+      "issue": 3,
+      "pages": "214-225",
+      "doi": "10.1123/ijsnem.2021-0280",
+      "level": "A"
+    },
+    {
+      "title": "Utility of Ketone Supplementation to Enhance Physical Performance: A Systematic Review",
+      "authors": "Margolis LM, O'Fallon KS",
+      "journal": "Advances in Nutrition",
+      "year": 2020,
+      "volume": 11,
+      "issue": 2,
+      "pages": "412-419",
+      "doi": "10.1093/advances/nmz104",
+      "level": "A"
+    },
+    {
+      "title": "Ketone Diester Ingestion Impairs Time-Trial Performance in Professional Cyclists",
+      "authors": "Leckey JJ, Ross ML, Quod M, Hawley JA, Burke LM",
+      "journal": "Frontiers in Physiology",
+      "year": 2017,
+      "volume": 8,
+      "issue": null,
+      "pages": "806",
+      "doi": "10.3389/fphys.2017.00806",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Cetonas exógenas: o suplemento da moda que a ciência não confirma",
+    "slug": "cetonas-exogenas-endurance-o-que-diz-a-ciencia",
+    "excerpt": "As cetonas exógenas foram vendidas como o 'quarto combustível' do endurance. A meta-análise e as revisões sistemáticas contam outra história sobre desempenho.",
+    "meta_title": "Cetonas exógenas e endurance — o que diz a ciência",
+    "tags": [
+      "Cetonas",
+      "Suplementação",
+      "Endurance",
+      "Ciclismo"
+    ],
+    "html": "<p>Elas apareceram nas garrafas de times do ciclismo profissional e, de repente, estavam em todo grupo de treino: as <strong>cetonas exógenas</strong> viraram o suplemento da moda no endurance. O marketing as chama de \"quarto combustível\". Mas o que a ciência realmente mostra?</p>\n\n<h2>A promessa</h2>\n\n<p>Suplementos de cetona (ésteres e sais de beta-hidroxibutirato) prometem elevar rapidamente as cetonas no sangue, poupar glicogênio muscular e fornecer uma fonte extra de energia nos momentos finais de uma prova longa. Some a isso o uso por equipes de elite e o preço alto, e está montado o hype.</p>\n\n<h2>Elevar o BHB no sangue é real — o ganho de desempenho, não</h2>\n\n<p>Ingerir cetona de fato eleva o beta-hidroxibutirato (BHB) circulante em poucos minutos. Esse efeito bioquímico não está em disputa. O problema é o salto lógico seguinte: assumir que mais BHB no sangue significa, automaticamente, mais velocidade. Em intensidades altas, o músculo continua fortemente dependente de carboidrato — e há sinais de que a cetona pode competir com a oxidação desse combustível, além de causar desconforto gastrointestinal.</p>\n\n<h2>O que os estudos mostram</h2>\n\n<p>A evidência mais robusta até hoje é a meta-análise de <strong>Brooks et al. (2022)</strong>, publicada no <em>International Journal of Sport Nutrition and Exercise Metabolism</em>. Reunindo estudos controlados de ingestão aguda de ésteres e precursores de cetona, os autores não encontraram melhora significativa de desempenho de endurance (Hedges g = 0,136; intervalo de confiança de 95% cruzando o zero; p = 0,42). Nem no tempo até a exaustão, nem em contrarrelógio.</p>\n\n<p>A revisão sistemática de <strong>Margolis & O'Fallon (2020)</strong>, na <em>Advances in Nutrition</em>, chegou à mesma direção: dos 16 desfechos de desempenho analisados em 10 ensaios randomizados, <strong>10 foram nulos, 3 negativos e apenas 3 positivos</strong>. A conclusão dos autores foi direta: não há evidência suficiente para recomendar cetona exógena com o objetivo de melhorar o desempenho físico.</p>\n\n<p>E há o caso que mais incomoda o marketing: <strong>Leckey et al. (2017)</strong>, na <em>Frontiers in Physiology</em>, testaram um diéster de cetona em ciclistas profissionais. O resultado não foi neutro — foi <strong>pior</strong>: uma piora de cerca de 2% no contrarrelógio, acompanhada de desconforto gastrointestinal e maior percepção de esforço. Todos os atletas foram mais rápidos com placebo.</p>\n\n<h2>O que realmente move o ponteiro</h2>\n\n<p>Nenhum pó substitui o básico que a ciência já provou. Antes de considerar cetona, o atleta de endurance ganha muito mais garantindo os fundamentos:</p>\n\n<table>\n<thead><tr><th>Estratégia</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Carboidrato durante a prova</td><td>60–90 g/h, com intestino treinado</td></tr>\n<tr><td>Cafeína</td><td>3–6 mg/kg antes do esforço</td></tr>\n<tr><td>Nitrato (beterraba)</td><td>dose e timing corretos</td></tr>\n<tr><td>Treino e periodização</td><td>o que nenhum suplemento substitui</td></tr>\n</tbody>\n</table>\n\n<p>Cetona exógena eleva um número no seu exame de sangue. Até agora, não eleva de forma confiável a sua velocidade. Para a grande maioria dos atletas, o dinheiro rende mais em carboidrato, cafeína, nitrato e horas de treino.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Brooks E, Lamothe G, Nagpal TS, et al. Acute Ingestion of Ketone Monoesters and Precursors Do Not Enhance Endurance Exercise Performance: A Systematic Review and Meta-Analysis. <em>Int J Sport Nutr Exerc Metab</em>. 2022;32(3):214–225. doi:10.1123/ijsnem.2021-0280</li>\n<li>Margolis LM, O'Fallon KS. Utility of Ketone Supplementation to Enhance Physical Performance: A Systematic Review. <em>Adv Nutr</em>. 2020;11(2):412–419. doi:10.1093/advances/nmz104</li>\n<li>Leckey JJ, Ross ML, Quod M, Hawley JA, Burke LM. Ketone Diester Ingestion Impairs Time-Trial Performance in Professional Cyclists. <em>Front Physiol</em>. 2017;8:806. doi:10.3389/fphys.2017.00806</li>\n</ol>",
+    "cover": "content/drafts/draft_013/cover.png",
+    "cover_alt": "Cetonas exógenas: o que diz a ciência sobre desempenho de endurance — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_013/slide_01.png",
+    "content/drafts/draft_013/slide_02.png",
+    "content/drafts/draft_013/slide_03.png",
+    "content/drafts/draft_013/slide_04.png",
+    "content/drafts/draft_013/slide_05.png",
+    "content/drafts/draft_013/slide_06.png"
+  ],
+  "post_id": "18557828602077115",
+  "published_at": "2026-09-18T11:18:53.457639+00:00"
+}
