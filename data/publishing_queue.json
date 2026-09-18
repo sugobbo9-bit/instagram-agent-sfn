@@ -256,9 +256,11 @@
       "format": "static",
       "topic": "banana como fonte de energia vs bebida esportiva (endurance)",
       "hook": "Num contrarrelógio de 75 km, comer banana rendeu o mesmo desempenho que a bebida esportiva.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-18T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "published_at": "2026-09-18T20:11:05.005047+00:00",
+      "post_id": "18127040020770957"
     }
   ]
 }

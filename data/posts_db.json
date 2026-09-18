@@ -5567,6 +5567,41 @@
       "derivatives_created": [],
       "ghost_post_id": "6aad1e202a33d60001d9c190",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cetonas-exogenas-endurance-o-que-diz-a-ciencia/"
+    },
+    {
+      "post_id": "18127040020770957",
+      "local_id": "vsabia_006",
+      "publication_date": "2026-09-18T20:11:05.005047+00:00",
+      "format": "static",
+      "topic": "banana como fonte de energia vs bebida esportiva (endurance)",
+      "content_pillar": "fueling",
+      "hook": "Num contrarrelógio de 75 km, comer banana rendeu o mesmo desempenho que a bebida esportiva.",
+      "caption": "Bebida esportiva não é obrigatória pra sustentar uma prova longa. Comida de verdade também dá conta.\n\nNum estudo com 14 ciclistas, duas provas de 75 km foram comparadas: numa eles se abasteceram com banana, na outra com uma bebida a 6% de carboidrato — sempre com a mesma dose de carbo (~0,2 g/kg a cada 15 min). O tempo de prova e a potência foram estatisticamente iguais. A diferença apareceu no sangue: a capacidade antioxidante subiu ~31% com a banana contra ~18% com a bebida, além do bônus de potássio, fibra e vitamina B6.\n\nOu seja: pra treino e prova de endurance, banana é fuel legítimo — barato, portátil e que ainda entrega mais que só energia.\n\nFonte: Nieman DC et al., PLoS ONE, 2012 (doi:10.1371/journal.pone.0037479).",
+      "cta": "Salva pra lembrar na próxima prova longa. 🍌",
+      "scientific_sources": [
+        {
+          "title": "Bananas as an Energy Source during Exercise: A Metabolomics Approach",
+          "authors": "Nieman DC, Gillitt ND, Henson DA, et al.",
+          "journal": "PLoS ONE",
+          "year": 2012,
+          "volume": "7",
+          "issue": "5",
+          "pages": "e37479",
+          "doi": "10.1371/journal.pone.0037479",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_006/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:banana-vs-bebida"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
