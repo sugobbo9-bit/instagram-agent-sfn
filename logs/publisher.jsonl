@@ -156,3 +156,4 @@
 {"ts": "2026-09-18T11:18:43.929597+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-09-18T11:18:53.457485+00:00", "level": "INFO", "msg": "PUBLICADO: draft_013 -> media_id 18557828602077115"}
 {"ts": "2026-09-18T11:18:53.468898+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-18T12:11:53.114323+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
