@@ -1,0 +1,41 @@
+{
+  "local_id": "vsabia_007",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-19T00:00:00Z",
+  "topic": "beta-alanina: o formigamento (parestesia) não indica eficácia e é inofensivo",
+  "content_pillar": "supplements",
+  "hook": "O formigamento da beta-alanina não é sinal de que 'tá funcionando' — some em 60–90 min e é inofensivo.",
+  "subtext": "O efeito real vem do acúmulo de carnosina no músculo em ~4 semanas; o formigueiro é só a molécula ativando receptores da pele.",
+  "source_line": "Trexler et al., J. Int. Soc. Sports Nutr., 2015 (position stand da ISSN sobre beta-alanina).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:beta-alanina-formigamento"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Sentiu aquele formigamento no rosto e nas mãos depois do pré-treino? Relaxa: é a beta-alanina — e não significa que ela 'tá pegando'.\n\nEsse fenômeno tem nome: parestesia. Acontece porque a beta-alanina ativa receptores sensoriais na pele (os MrgD). É passageiro (some em 60 a 90 minutos), inofensivo e não tem nenhuma relação com o benefício de verdade. O efeito ergogênico vem de outro lugar: o acúmulo de carnosina no músculo ao longo de ~4 semanas de uso (4–6 g/dia), que ajuda a tamponar o pH e segurar a fadiga em esforços intensos.\n\nQuer o benefício sem o formigueiro? Divida a dose (ex.: 1,6 g por vez) ou use a versão de liberação lenta (sustained-release).\n\nFonte: Trexler ET et al., J Int Soc Sports Nutr, 2015 (doi:10.1186/s12970-015-0090-y).",
+  "cta": "Salva pra parar de achar que formigou = funcionou. ⚡",
+  "scientific_sources": [
+    {
+      "title": "International society of sports nutrition position stand: Beta-Alanine",
+      "authors": "Trexler ET, Smith-Ryan AE, Stout JR, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2015,
+      "volume": "12",
+      "issue": "1",
+      "pages": "30",
+      "doi": "10.1186/s12970-015-0090-y",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_007/card.png"
+  ]
+}
