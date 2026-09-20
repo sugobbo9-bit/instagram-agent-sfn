@@ -1,0 +1,52 @@
+{
+  "local_id": "vsabia_008",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-20T00:00:00Z",
+  "topic": "treinar o intestino (gut training) — aumentar a oxidação do carbo ingerido no treino",
+  "content_pillar": "fueling",
+  "hook": "Seu intestino é treinável: 4 semanas comendo muito carbo elevaram de ~55 para ~64 g o carbo que o corpo aproveita durante o treino.",
+  "subtext": "Ingerir bastante carboidrato no dia a dia adapta os transportadores do intestino — e o corpo passa a oxidar mais do carbo que você consome pedalando ou correndo.",
+  "source_line": "Cox et al., J Appl Physiol, 2010 (28 dias de dieta rica em carbo: oxidação do carbo ingerido subiu de 54,6 → 63,6 g).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:gut-training"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Aquele desconforto de barriga quando você tenta comer mais carbo na prova? Ele tem conserto — e não é frescura, é treino.\n\nAssim como você adapta pernas e coração, dá pra adaptar o intestino. Cox e colegas (2010) acompanharam ciclistas por 28 dias: quem manteve uma dieta rica em carboidrato passou a oxidar mais do carbo ingerido durante o exercício — de ~54,6 g para ~63,6 g num bloco de 100 min. O mecanismo é o \"gut training\": consumo alto e frequente de carbo aumenta a quantidade e a atividade dos transportadores intestinais (como o SGLT1), melhorando a capacidade de absorver e queimar carboidrato.\n\nNa prática: nas semanas antes da prova longa, pratique o fueling nos treinos — vá subindo os g/h aos poucos. O intestino aprende, o desconforto cai e você chega no dia com mais combustível disponível.\n\nFonte: Cox et al., J Appl Physiol, 2010; Jeukendrup, Sports Medicine, 2017 (revisão \"Training the Gut for Athletes\").",
+  "cta": "Salva e comece a treinar o intestino no próximo longão.",
+  "scientific_sources": [
+    {
+      "title": "Daily training with high carbohydrate availability increases exogenous carbohydrate oxidation during endurance cycling",
+      "authors": "Cox GR, Clark SA, Cox AJ, Halson SL, Hargreaves M, Hawley JA, Jeacocke N, Snow RJ, Yeo WK, Burke LM",
+      "journal": "Journal of Applied Physiology",
+      "year": 2010,
+      "volume": "109",
+      "issue": "1",
+      "pages": "126-134",
+      "doi": "10.1152/japplphysiol.00950.2009",
+      "level": "B"
+    },
+    {
+      "title": "Training the Gut for Athletes",
+      "authors": "Jeukendrup AE",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "101-110",
+      "doi": "10.1007/s40279-017-0690-6",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_008/card.png"
+  ]
+}

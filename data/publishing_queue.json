@@ -338,6 +338,15 @@
       "scheduled_for": "2026-10-01T15:00:00Z",
       "priority": 3,
       "notes": "Reaproveita a ideia do estático mouth-rinse (105) como carrossel. Contraintuitivo + prático. Publicar qui 12h BRT."
+    },
+    {
+      "local_id": "vsabia_008",
+      "format": "static",
+      "topic": "treinar o intestino (gut training) — aumentar a oxidação do carbo ingerido no treino",
+      "hook": "Seu intestino é treinável: 4 semanas comendo muito carbo elevaram de ~55 para ~64 g o carbo que o corpo aproveita durante o treino.",
+      "status": "approved",
+      "created_at": "2026-09-20T00:00:00Z",
+      "priority": 1
     }
   ]
 }
