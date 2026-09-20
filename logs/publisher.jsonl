@@ -170,3 +170,4 @@
 {"ts": "2026-09-19T20:24:36.084829+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-19T20:24:47.839233+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_007 -> media_id 18104616053616881"}
 {"ts": "2026-09-19T20:24:47.849794+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-20T12:11:24.949126+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
