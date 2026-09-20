@@ -10,26 +10,26 @@
       "median_comments_per_reach": 0.0
     },
     "carousels": {
-      "sample_size": 52,
-      "median_reach": 483.5,
-      "median_shares_per_reach": 0.0093,
-      "median_saves_per_reach": 0.019,
+      "sample_size": 61,
+      "median_reach": 495,
+      "median_shares_per_reach": 0.0097,
+      "median_saves_per_reach": 0.0177,
       "median_comments_per_reach": 0.0
     },
     "static": {
-      "sample_size": 6,
-      "median_reach": 330.5,
-      "median_shares_per_reach": 0.0093,
-      "median_saves_per_reach": 0.0143,
-      "median_comments_per_reach": 0.0008
+      "sample_size": 13,
+      "median_reach": 231,
+      "median_shares_per_reach": 0.0056,
+      "median_saves_per_reach": 0.0121,
+      "median_comments_per_reach": 0.0
     }
   },
   "weekly_reports": [],
   "account": {
     "ig_id": "17841472609243044",
     "username": "sofatosnutricao",
-    "followers_count": 9129,
-    "media_count": 114,
-    "bootstrapped_at": "2026-09-09T20:20:05.705587+00:00"
+    "followers_count": 9266,
+    "media_count": 130,
+    "bootstrapped_at": "2026-09-20T12:08:06.100697+00:00"
   }
 }
