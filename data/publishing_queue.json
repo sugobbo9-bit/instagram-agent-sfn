@@ -272,6 +272,72 @@
       "priority": 1,
       "published_at": "2026-09-19T20:24:47.839463+00:00",
       "post_id": "18104616053616881"
+    },
+    {
+      "local_id": "der_sono_extensao",
+      "format": "carousel",
+      "topic": "extensão de sono e desempenho",
+      "hook": "Dormir 1h a mais por noite muda seu desempenho. A ciência já mediu.",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-09-21T15:00:00Z",
+      "priority": 1,
+      "notes": "Derivado do vencedor sono/composição (2437). Sono é o tópico de maior alcance da conta (1.164). Ângulo NOVO: extensão de sono em atletas (Mah et al. e afins) em vez de privação. Myth-busting. Publicar seg 12h BRT."
+    },
+    {
+      "local_id": "der_comparacao_gel_bebida",
+      "format": "carousel",
+      "topic": "gel vs bebida esportiva vs comida real",
+      "hook": "Gel, bebida ou comida de verdade: qual entrega mais carbo por real gasto?",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-09-22T15:00:00Z",
+      "priority": 1,
+      "notes": "Derivado de hidrogel (1245) + carbo Uno/Ferrari (751, maior shares/reach do ciclo). Comparação concreta de produto = padrão que mais gera compartilhamento. Incluir tabela custo x g de carbo x logística. Publicar ter 12h BRT."
+    },
+    {
+      "local_id": "der_cafeina_dose_timing",
+      "format": "carousel",
+      "topic": "cafeína: dose e timing práticos",
+      "hook": "A dose de cafeína que funciona não é a que você toma. É a que a ciência mediu.",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-09-24T15:00:00Z",
+      "priority": 2,
+      "notes": "Derivado de cafeína (1558) + cafeína/sono (607). Família de conteúdo sobre vencedor. Ângulo: mg/kg, janela pré-prova, e o corte para não prejudicar o sono. Publicar qui 12h BRT."
+    },
+    {
+      "local_id": "der_ice_slurry_carrossel",
+      "format": "carousel",
+      "topic": "pré-resfriamento no calor (ice slurry)",
+      "hook": "Um slushie de gelo antes de correr no calor rendeu ~19% mais tempo até a exaustão.",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-09-28T15:00:00Z",
+      "priority": 2,
+      "notes": "Reaproveita a IDEIA do estático que falhou (ice_slurry 129) em formato carrossel prático de prova em calor. Dado forte desperdiçado no estático. Publicar seg 12h BRT."
+    },
+    {
+      "local_id": "der_lactato_pratico",
+      "format": "carousel",
+      "topic": "lactato — o que fazer com ele no treino",
+      "hook": "O lactato não te cansa. Ele pode te dizer exatamente em que ritmo treinar.",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-09-29T15:00:00Z",
+      "priority": 3,
+      "notes": "Derivado do maior vencedor da conta (lactato 2450/1516). Ângulo prático NOVO: lactato como ferramenta de zonas/limiar, não como vilão. Preserva o insight, reinventa a embalagem. Publicar ter 12h BRT."
+    },
+    {
+      "local_id": "der_mouth_rinse_carrossel",
+      "format": "carousel",
+      "topic": "bochecho de carboidrato em provas curtas",
+      "hook": "Em prova de até 1h, você nem precisa engolir carbo pra melhorar o desempenho.",
+      "status": "draft",
+      "created_at": null,
+      "scheduled_for": "2026-10-01T15:00:00Z",
+      "priority": 3,
+      "notes": "Reaproveita a ideia do estático mouth-rinse (105) como carrossel. Contraintuitivo + prático. Publicar qui 12h BRT."
     }
   ]
 }

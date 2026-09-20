@@ -24,7 +24,34 @@
       "median_comments_per_reach": 0.0
     }
   },
-  "weekly_reports": [],
+  "weekly_reports": [
+    {
+      "week_ending": "2026-09-20",
+      "followers_count": 9266,
+      "followers_delta_since_0909": 137,
+      "posts_last_14d": {
+        "carousel": 9,
+        "static": 7,
+        "reel": 0
+      },
+      "medians_last_14d": {
+        "carousel_reach": 607,
+        "static_reach": 195
+      },
+      "baseline_full": {
+        "carousel_reach": 495,
+        "reel_reach": 256,
+        "static_reach": 231
+      },
+      "key_decisions": [
+        "Pausar a série estática 'você sabia' — nova ineficiência do sistema (estático 195 vs carrossel 607 na mesma janela).",
+        "Proibir carrossel na sexta (n=31, alcance mediano 256 — pior dia).",
+        "Padronizar publicação às 12h BRT (15h UTC) — melhor janela (mediana 828).",
+        "Reduzir suplementos de nicho (BCAA, cetonas, antioxidantes); priorizar myth-busting em fueling/hidratação/sono/cafeína e comparações de produto.",
+        "6 derivados de vencedores enfileirados."
+      ]
+    }
+  ],
   "account": {
     "ig_id": "17841472609243044",
     "username": "sofatosnutricao",

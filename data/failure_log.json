@@ -1,5 +1,73 @@
 {
   "_schema_version": "1.0",
   "_description": "Posts bottom-25% com diagnóstico de falha",
-  "failures": []
+  "failures": [
+    {
+      "post_id": "static_mouth_rinse_105",
+      "topic": "bochecho de carboidrato",
+      "format": "static",
+      "reach": 105,
+      "tier": "bottom25",
+      "date": "2026-09-15",
+      "diagnosis": "formato",
+      "detail": "Ideia científica boa (mouth rinse), mas o formato estático + série 'você sabia' não gera alcance. Carrosséis na mesma janela fizeram 3-6x mais. Reaproveitar a IDEIA como carrossel myth-busting.",
+      "idea_verdict": "reaproveitar em carrossel"
+    },
+    {
+      "post_id": "static_ice_slurry_129",
+      "topic": "slushie de gelo / pré-resfriamento",
+      "format": "static",
+      "reach": 129,
+      "tier": "bottom25",
+      "date": "2026-09-16",
+      "diagnosis": "formato",
+      "detail": "Dado forte (~19% mais tempo no calor) desperdiçado em estático. Alto potencial se virar carrossel prático de prova em calor.",
+      "idea_verdict": "reaproveitar em carrossel"
+    },
+    {
+      "post_id": "static_beta_alanina_142",
+      "topic": "formigamento da beta-alanina",
+      "format": "static",
+      "reach": 142,
+      "tier": "bottom25",
+      "date": "2026-09-19",
+      "diagnosis": "formato + tópico",
+      "detail": "Estático + tópico de suplemento de nicho. Baixo alcance.",
+      "idea_verdict": "reaproveitar só se combinado a tema mais amplo"
+    },
+    {
+      "post_id": "carousel_bcaa_131",
+      "topic": "BCAA",
+      "format": "carousel",
+      "reach": 131,
+      "tier": "bottom25",
+      "date": "2026-09-10",
+      "diagnosis": "tópico",
+      "detail": "Hook de mito ok, mas BCAA já é amplamente conhecido como pouco útil — baixa novidade. Suplemento de nicho tem teto baixo de alcance na conta (mediana do pilar 'suplemento' é a mais fraca).",
+      "idea_verdict": "não ressuscitar isolado"
+    },
+    {
+      "post_id": "carousel_cetonas_134",
+      "topic": "cetonas exógenas",
+      "format": "carousel",
+      "reach": 134,
+      "tier": "bottom25",
+      "date": "2026-09-18",
+      "diagnosis": "tópico",
+      "detail": "Tema muito de nicho para o público amador. Execução e hook adequados; o teto do tópico é baixo.",
+      "idea_verdict": "não priorizar"
+    },
+    {
+      "post_id": "carousel_antioxidantes_204",
+      "topic": "antioxidantes e adaptação",
+      "format": "carousel",
+      "reach": 204,
+      "tier": "bottom25",
+      "date": "2026-08-31",
+      "diagnosis": "tópico",
+      "detail": "Pilar suplemento de nicho; alcance abaixo da mediana de carrossel.",
+      "idea_verdict": "reaproveitar com ângulo prático mais amplo"
+    }
+  ],
+  "_last_review": "2026-09-20"
 }

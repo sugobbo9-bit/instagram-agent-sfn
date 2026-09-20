@@ -1,5 +1,96 @@
 {
   "_schema_version": "1.0",
   "_description": "Posts top-10% com análise de por que funcionaram e derivados gerados",
-  "winners": []
+  "winners": [
+    {
+      "post_id": "lactato_2450",
+      "permalink_hint": "lactato não é o vilão (2026-07-03)",
+      "format": "carousel",
+      "reach": 2450,
+      "shares_per_reach": 0.026,
+      "saves_per_reach": 0.029,
+      "tier": "top10",
+      "why_it_worked": [
+        "myth-busting de uma crença de quase 1 século (lactato = ácido que causa fadiga)",
+        "tema central de alto interesse e alta 'não sabia disso'",
+        "payload científico forte com takeaway prático"
+      ],
+      "content_family": "lactato / fisiologia da fadiga",
+      "derivatives_created": [
+        "der_lactato_pratico"
+      ]
+    },
+    {
+      "post_id": "sono_2437",
+      "permalink_hint": "privação de sono e composição corporal — Nedeltcheva (2026-05-25)",
+      "format": "carousel",
+      "reach": 2437,
+      "shares_per_reach": 0.019,
+      "saves_per_reach": 0.019,
+      "tier": "top10",
+      "why_it_worked": [
+        "sono/recuperação é o tópico de maior alcance mediano da conta (1.164)",
+        "estudo real e contraintuitivo (mesma dieta, menos sono, pior composição)",
+        "autoridade científica + relevância pessoal"
+      ],
+      "content_family": "sono / recuperação",
+      "derivatives_created": [
+        "der_sono_extensao"
+      ]
+    },
+    {
+      "post_id": "cafeina_1558",
+      "permalink_hint": "cafeína, o ergogênico mais documentado (2026-05-25)",
+      "format": "carousel",
+      "reach": 1558,
+      "shares_per_reach": 0.005,
+      "saves_per_reach": 0.017,
+      "tier": "top10",
+      "why_it_worked": [
+        "tema de altíssima relevância diária para o público",
+        "respaldo de posições (ISSN/IOC)",
+        "alto saves = valor educacional durável"
+      ],
+      "content_family": "cafeína",
+      "derivatives_created": [
+        "der_cafeina_dose_timing"
+      ]
+    },
+    {
+      "post_id": "hidrogel_1245",
+      "permalink_hint": "hidrogel é mais caro. Funciona melhor? (2026-07-03)",
+      "format": "carousel",
+      "reach": 1245,
+      "shares_per_reach": 0.006,
+      "saves_per_reach": 0.006,
+      "tier": "top10",
+      "why_it_worked": [
+        "comparação concreta de produto — o padrão que mais gera compartilhamento na conta",
+        "resposta a uma dúvida de compra real (custo vs benefício)"
+      ],
+      "content_family": "comparação de produto",
+      "derivatives_created": [
+        "der_comparacao_gel_bebida"
+      ]
+    },
+    {
+      "post_id": "carbo_uno_ferrari_751",
+      "permalink_hint": "qual o melhor carboidrato — Uno vs Ferrari (2026-09-10)",
+      "format": "carousel",
+      "reach": 751,
+      "shares_per_reach": 0.045,
+      "saves_per_reach": 0.011,
+      "tier": "top10_recent",
+      "why_it_worked": [
+        "maior shares/reach do ciclo (0,045) — analogia memorável e compartilhável",
+        "reenquadra a pergunta ('a pergunta está errada') em vez de listar produtos",
+        "comparação de produto + humor leve"
+      ],
+      "content_family": "comparação de produto",
+      "derivatives_created": [
+        "der_comparacao_gel_bebida"
+      ]
+    }
+  ],
+  "_last_review": "2026-09-20"
 }

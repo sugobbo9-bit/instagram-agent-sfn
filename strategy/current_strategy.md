@@ -1,65 +1,53 @@
 # Estratégia Atual — @sofatosnutricao
-_Atualizado: 2026-08-28, após bootstrap com 131 publicações reais_
-_Base: 9.006 seguidores | 110 posts | dados de alcance e engajamento da Graph API_
+_Atualizado: 2026-09-20, revisão estratégica semanal_
+_Base: 9.266 seguidores | 151 publicações com métricas reais (Graph API) | +137 seguidores desde 09/09_
 
-## O que os dados dizem
+## O que os dados dizem agora
 
-| formato | n | alcance mediano | % dos seguidores | saves/reach | shares/reach | likes/reach |
-|---|---|---|---|---|---|---|
-| **carrossel** | 48 | **466** | 5,2% | **0,0197** | **0,0099** | 0,0373 |
-| reel | 77 | 256 | 2,8% | 0,0052 | **0,0000** | 0,0110 |
-| estático | 6 | 330 | 3,7% | 0,0143 | 0,0093 | 0,0197 |
+### Medianas por formato (amostra completa, normalizado)
+| formato | n | alcance mediano | shares/reach | saves/reach |
+|---|---|---|---|---|
+| **carrossel** | 61 | **495** | 0,0097 | 0,0177 |
+| reel | 77 | 256 | 0,0000 | 0,0052 |
+| estático | 13 | 231 | 0,0056 | 0,0121 |
 
-### Conclusão 1 — O carrossel ganha em tudo
-Alcance 82% maior que Reels. Saves 3,8x maiores. E a mediana de
-compartilhamentos dos Reels é **zero**.
-**Os 10 posts de maior alcance da conta são carrosséis. Todos os dez.**
+### Comparação de mesma janela (últimos 14 dias — o teste limpo)
+Publicamos 9 carrosséis + 7 estáticos + **0 Reels**.
+- **Carrossel: alcance mediano 607.** Estático: **195.** Mesma semana, mesmo público — o carrossel entrega ~3x.
 
-### Conclusão 2 — A alocação de esforço está invertida
-Reels são 59% da produção (77 de 131) e entregam o pior resultado em
-todas as métricas. É a maior ineficiência da conta hoje.
+## Conclusões
 
-### Conclusão 3 — Myth-busting é o padrão vencedor
-Os maiores alcances têm a mesma estrutura: derrubar uma crença aceita.
-- Lactato não é vilão — 2.450 e 1.516
-- Privação de sono e composição corporal — 2.434
-- Cafeína, o ergogênico mais documentado — 1.558
-- Janela anabólica de 30 min — 1.212
+### 1 — Carrossel segue dominando. A migração para fora dos Reels está feita.
+Zero Reels em 14 dias e o alcance não caiu; ao contrário, o carrossel recente (607) está acima da própria mediana histórica (495). Confirmado.
 
-### Conclusão 4 — Comparação de produto gera compartilhamento
-O maior shares/reach da conta é hidrogel (0,130) — 13x a mediana dos
-carrosséis. Comparações concretas de produto viajam.
+### 2 — A série estática "você sabia" é a NOVA ineficiência do sistema.
+Assumiu exatamente o papel que os Reels tinham: volume que não entrega. Os 7 estáticos recentes ficaram todos no fundo (105, 129, 142, 195, 223, 231, 354), com mediana 195 contra 607 dos carrosséis na mesma janela. **As IDEIAS são boas ciência** (mouth rinse, ice slurry, índice de hidratação) — o que falha é a embalagem em estático. Decisão: **pausar a série estática e reaproveitar as melhores ideias como carrossel.**
+
+### 3 — Myth-busting continua sendo o padrão vencedor.
+Os maiores alcances da conta são todos carrosséis que derrubam uma crença: lactato (2.450 e 1.516), privação de sono (2.437), cafeína (1.558), carbo/intestino (1.426), creatina (1.249). Todo post parte de uma crença a derrubar.
+
+### 4 — Comparação de produto é o motor de compartilhamento.
+Maior shares/reach do ciclo foi a comparação de carboidrato "Uno vs Ferrari" (0,045). Hidrogel (1.245) segue como referência. Comparações concretas de produto viajam.
+
+### 5 — Suplemento de nicho tem teto baixo.
+BCAA (131), cetonas exógenas (134) e antioxidantes (204) ficaram no fundo. Não é problema de hook — é o tópico. O pilar "suplemento de nicho" tem o pior alcance da conta. Reduzir.
+
+### 6 — Janela de publicação: sexta é o pior dia; 12h BRT é o melhor horário.
+Carrossel na **sexta**: n=31, alcance mediano **256** — o pior dia, e é onde está o maior volume histórico. Segunda (722) e quinta (679) rendem quase 3x. Por horário, **12h BRT (15h UTC) = mediana 828**, o melhor; 13h–14h BRT são os piores (157–212).
 
 ## Decisões para o próximo ciclo
 
-1. **Carrossel vira o formato padrão.** Reels passam a ser experimento
-   controlado, não volume. Hipótese a testar: Reels só valem quando o
-   conteúdo é intrinsecamente visual (comparação lado a lado).
-2. **Todo post parte de uma crença a derrubar**, não de um tópico a explicar.
-3. **Comparações de produto entram no portfólio** — a conta já provou
-   que elas expandem.
-4. **Alcance mediano de 5,2% dos seguidores é baixo.** Meta do próximo
-   ciclo: subir o alcance mediano do carrossel de 466 para 600+.
+1. **Carrossel = formato padrão** (mantido). Reel só como experimento controlado para conteúdo intrinsecamente visual.
+2. **Pausar a série estática "você sabia".** Estático fica reservado para um único dado/gráfico excepcionalmente forte, não como volume recorrente.
+3. **Nunca publicar carrossel na sexta.** Concentrar em segunda, terça e quinta.
+4. **Publicar às 12h BRT (15h UTC).** Evitar 13h–14h BRT.
+5. **Steer de tópico:** priorizar myth-busting em fueling, hidratação, sono/recuperação, cafeína e comparações de produto. Reduzir suplementos de nicho (BCAA, cetonas, antioxidantes).
+6. **6 derivados de vencedores enfileirados** (sono-extensão, gel vs bebida vs comida, cafeína dose/timing, ice slurry, lactato prático, mouth rinse) — todos carrossel, agendados seg/ter/qui às 12h BRT.
+7. **Meta do ciclo:** subir o alcance mediano do carrossel de 495 para 600+ sustentado (o recente já está em 607; consolidar).
 
-## Fila reordenada pelos dados
-
-| # | post | por quê |
-|---|---|---|
-| 1 | draft_002 — cafeína não desidrata | Myth-busting sobre tópico já provado (1.558 de alcance). Família de conteúdo sobre um vencedor. |
-| 2 | draft_003 — bonking é fisiologia | Myth-busting, tema sem cobertura prévia na conta. |
-| 3 | draft_001 — carboidrato 60–90 g/h | **Revisar antes de publicar.** Sobrepõe dois posts existentes. |
-
-### Sobreposição detectada em draft_001
-A conta já tem:
-- "60 g de carbo/hora não funciona se o intestino não foi treinado" — 1.426
-- "Você caiu no conto do '15 g de carbo por hora'?" — 366, saves/reach 0,044
-
-O draft_001 repete essa tese. Pelo QUALITY_GATE (originalidade), ele
-precisa de um ângulo novo antes de ir ao ar — provavelmente uma
-comparação concreta de produto, que é o que a conta ainda não explorou
-nesse tema.
+## Pendências de dados
+- follows/reach e visitas ao perfil ainda não vêm no import da Graph API — não dá para otimizar por conversão em seguidor por enquanto. Métrica-alvo a instrumentar.
+- Demografia da audiência: o token da Página agora é válido e não expira (bootstrap confirmou) — puxar idade/gênero/local e online_followers no próximo ciclo para validar a hipótese de horário com dados de audiência online.
 
 ## Regras imutáveis
-Integridade científica, sem engajamento falso, sem gasto sem aprovação,
-rastreabilidade completa: ideia → pesquisa → criativo → publicação →
-métricas → aprendizado.
+Integridade científica, sem engajamento falso, sem gasto sem aprovação, rastreabilidade completa: ideia → pesquisa → criativo → publicação → métricas → aprendizado.
