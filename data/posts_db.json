@@ -5895,6 +5895,52 @@
       },
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18117491182809401",
+      "local_id": "vsabia_008",
+      "publication_date": "2026-09-20T20:26:06.811549+00:00",
+      "format": "static",
+      "topic": "treinar o intestino (gut training) — aumentar a oxidação do carbo ingerido no treino",
+      "content_pillar": "fueling",
+      "hook": "Seu intestino é treinável: 4 semanas comendo muito carbo elevaram de ~55 para ~64 g o carbo que o corpo aproveita durante o treino.",
+      "caption": "Aquele desconforto de barriga quando você tenta comer mais carbo na prova? Ele tem conserto — e não é frescura, é treino.\n\nAssim como você adapta pernas e coração, dá pra adaptar o intestino. Cox e colegas (2010) acompanharam ciclistas por 28 dias: quem manteve uma dieta rica em carboidrato passou a oxidar mais do carbo ingerido durante o exercício — de ~54,6 g para ~63,6 g num bloco de 100 min. O mecanismo é o \"gut training\": consumo alto e frequente de carbo aumenta a quantidade e a atividade dos transportadores intestinais (como o SGLT1), melhorando a capacidade de absorver e queimar carboidrato.\n\nNa prática: nas semanas antes da prova longa, pratique o fueling nos treinos — vá subindo os g/h aos poucos. O intestino aprende, o desconforto cai e você chega no dia com mais combustível disponível.\n\nFonte: Cox et al., J Appl Physiol, 2010; Jeukendrup, Sports Medicine, 2017 (revisão \"Training the Gut for Athletes\").",
+      "cta": "Salva e comece a treinar o intestino no próximo longão.",
+      "scientific_sources": [
+        {
+          "title": "Daily training with high carbohydrate availability increases exogenous carbohydrate oxidation during endurance cycling",
+          "authors": "Cox GR, Clark SA, Cox AJ, Halson SL, Hargreaves M, Hawley JA, Jeacocke N, Snow RJ, Yeo WK, Burke LM",
+          "journal": "Journal of Applied Physiology",
+          "year": 2010,
+          "volume": "109",
+          "issue": "1",
+          "pages": "126-134",
+          "doi": "10.1152/japplphysiol.00950.2009",
+          "level": "B"
+        },
+        {
+          "title": "Training the Gut for Athletes",
+          "authors": "Jeukendrup AE",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "101-110",
+          "doi": "10.1007/s40279-017-0690-6",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_008/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:gut-training"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

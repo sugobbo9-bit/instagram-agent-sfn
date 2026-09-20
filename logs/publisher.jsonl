@@ -171,3 +171,9 @@
 {"ts": "2026-09-19T20:24:47.839233+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_007 -> media_id 18104616053616881"}
 {"ts": "2026-09-19T20:24:47.849794+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-20T12:11:24.949126+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-20T20:25:53.005566+00:00", "level": "INFO", "msg": "Publicando vsabia_008 (static) \u2014 treinar o intestino (gut training) \u2014 aumentar a oxida\u00e7\u00e3o do carbo ingerido no treino"}
+{"ts": "2026-09-20T20:25:53.008043+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-20T20:25:53.008131+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_008/card.png"}
+{"ts": "2026-09-20T20:25:53.145713+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-20T20:26:06.811342+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_008 -> media_id 18117491182809401"}
+{"ts": "2026-09-20T20:26:06.823222+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
