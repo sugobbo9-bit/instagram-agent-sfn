@@ -5941,6 +5941,59 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17906392683478848",
+      "local_id": "draft_014",
+      "publication_date": "2026-09-21T11:23:40.432070+00:00",
+      "format": "carousel",
+      "topic": "extensão de sono e desempenho atlético",
+      "content_pillar": "recovery",
+      "hook": "Você não está sem sono. Mesmo assim, dormir mais melhora seu desempenho.",
+      "caption": "A maioria dos atletas acha que dorme o suficiente. Mas 'suficiente' e 'ideal' não são a mesma coisa — e a diferença aparece no desempenho.\n\nNo clássico estudo de Stanford, jogadores de basquete que estenderam o sono para cerca de 8h30 por noite ficaram mais rápidos no sprint, acertaram mais arremessos e reagiram melhor. A revisão sistemática mais recente confirma o sinal, mas com cautela: a evidência ainda é limitada e o tamanho do efeito depende do que se mede.\n\nNão é mágica nem atalho. É recuperação levada a sério — e talvez o ganho mais barato que existe.\n\nFontes: Mah et al. Sleep. 2011;34(7):943-950. | Silva et al. Sleep Med. 2021.",
+      "cta": "Salva e manda pro parceiro de treino que dorme mal.",
+      "scientific_sources": [
+        {
+          "title": "The effects of sleep extension on the athletic performance of collegiate basketball players",
+          "authors": "Mah CD, Mah KE, Kezirian EJ, Dement WC",
+          "journal": "Sleep",
+          "year": 2011,
+          "volume": "34",
+          "issue": "7",
+          "pages": "943-950",
+          "doi": "10.5665/SLEEP.1132",
+          "level": "B"
+        },
+        {
+          "title": "Sleep extension in athletes: what we know so far – A systematic review",
+          "authors": "Silva AC, Silva A, Edwards BJ, Tod D, Amaral AS, de Alcântara Borba D, Grade I, de Mello MT",
+          "journal": "Sleep Medicine",
+          "year": 2021,
+          "volume": "77",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945720305281",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_014/slide_01.png",
+        "content/drafts/draft_014/slide_02.png",
+        "content/drafts/draft_014/slide_03.png",
+        "content/drafts/draft_014/slide_04.png",
+        "content/drafts/draft_014/slide_05.png",
+        "content/drafts/draft_014/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:sono",
+        "topic:recuperacao",
+        "format:carousel",
+        "derivative:winner_sono"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ab113beeed9b1000181c960",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-melhora-desempenho-atletico/"
     }
   ]
 }

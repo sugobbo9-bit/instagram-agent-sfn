@@ -1,0 +1,116 @@
+{
+  "local_id": "draft_014",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-21T00:00:00Z",
+  "topic": "extensão de sono e desempenho atlético",
+  "content_pillar": "recovery",
+  "hook": "Você não está sem sono. Mesmo assim, dormir mais melhora seu desempenho.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:sono",
+    "topic:recuperacao",
+    "format:carousel",
+    "derivative:winner_sono"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Você não está sem sono. Mesmo assim, dormir mais melhora seu desempenho.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A CRENÇA",
+      "headline": "\"Eu já durmo o suficiente.\"",
+      "body": "A ideia comum é que sono só importa quando falta — que dormir mais do que o 'normal' é tempo perdido.\n\nMas a maioria dos atletas amadores vive num déficit crônico e leve, sem perceber. O corpo se acostuma ao cansaço e passa a tratá-lo como normal.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "SUFICIENTE ≠ IDEAL",
+      "headline": "Não estar exausto não é o mesmo que estar no seu melhor.",
+      "body": "Extensão de sono é dormir de propósito mais do que o habitual, por várias semanas.\n\nA pergunta que os estudos fizeram: e se atletas que já treinam bem simplesmente dormissem mais? O que muda no desempenho?",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Jogadores dormiram ~1h40 a mais. E melhoraram.",
+      "body": "Mah et al. (Sleep, 2011): 11 atletas de basquete miraram 10h na cama por 5–7 semanas. O sono subiu de ~6h45 para ~8h30 por noite.\n\nSprint de 282 pés: 16,2s → 15,5s. Arremesso livre: +9%. Cesta de 3: +9,2%. Tempo de reação e humor também melhoraram.\n\nRevisão sistemática (Silva et al., 2021): o sinal é promissor, mas a evidência ainda é limitada e o efeito depende do que se mede.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como estender o sono de verdade.",
+      "body": "Alvo: 8–10h na cama por noite, não só 'quando dá'\nConsistência: mesma hora de dormir e acordar, inclusive no fim de semana\nCochilo: 20–30 min no início da tarde para somar horas\nCafeína: corte no fim da tarde para não encurtar o sono\n\n→ Trate o sono como parte do treino, não como sobra do dia.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Dormir mais pode ser o ganho mais barato do seu treino.",
+      "body": "Salva pra lembrar na próxima semana puxada.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A maioria dos atletas acha que dorme o suficiente. Mas 'suficiente' e 'ideal' não são a mesma coisa — e a diferença aparece no desempenho.\n\nNo clássico estudo de Stanford, jogadores de basquete que estenderam o sono para cerca de 8h30 por noite ficaram mais rápidos no sprint, acertaram mais arremessos e reagiram melhor. A revisão sistemática mais recente confirma o sinal, mas com cautela: a evidência ainda é limitada e o tamanho do efeito depende do que se mede.\n\nNão é mágica nem atalho. É recuperação levada a sério — e talvez o ganho mais barato que existe.\n\nFontes: Mah et al. Sleep. 2011;34(7):943-950. | Silva et al. Sleep Med. 2021.",
+  "cta": "Salva e manda pro parceiro de treino que dorme mal.",
+  "scientific_sources": [
+    {
+      "title": "The effects of sleep extension on the athletic performance of collegiate basketball players",
+      "authors": "Mah CD, Mah KE, Kezirian EJ, Dement WC",
+      "journal": "Sleep",
+      "year": 2011,
+      "volume": "34",
+      "issue": "7",
+      "pages": "943-950",
+      "doi": "10.5665/SLEEP.1132",
+      "level": "B"
+    },
+    {
+      "title": "Sleep extension in athletes: what we know so far – A systematic review",
+      "authors": "Silva AC, Silva A, Edwards BJ, Tod D, Amaral AS, de Alcântara Borba D, Grade I, de Mello MT",
+      "journal": "Sleep Medicine",
+      "year": 2021,
+      "volume": "77",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945720305281",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Extensão de sono: dormir mais melhora o desempenho?",
+    "slug": "extensao-de-sono-melhora-desempenho-atletico",
+    "excerpt": "Não é só a privação de sono que atrapalha. Dormir de propósito mais do que o habitual melhorou o desempenho de atletas em estudos controlados — mas a evidência tem nuances importantes.",
+    "meta_title": "Extensão de sono e desempenho atlético — o que diz a ciência",
+    "tags": [
+      "Sono",
+      "Recuperação",
+      "Desempenho",
+      "Endurance"
+    ],
+    "html": "<p>Quase todo atleta amador diz a mesma coisa: <em>\"eu durmo o suficiente\"</em>. E quase sempre acredita nisso. O problema é que \"suficiente\" costuma significar apenas \"não estou exausto o bastante para notar\" — e isso está longe de ser o mesmo que estar no seu melhor.</p>\n\n<h2>A diferença entre não estar cansado e estar no seu melhor</h2>\n\n<p>A maioria das pessoas fisicamente ativas vive num déficit crônico e leve de sono. O corpo se adapta, o cansaço vira rotina, e a percepção de \"normal\" desce alguns degraus sem que ninguém perceba. É por isso que a pergunta mais interessante da ciência do sono não foi \"o que acontece quando você tira sono?\", e sim: <strong>o que acontece quando um atleta que já dorme razoavelmente bem passa a dormir de propósito ainda mais?</strong></p>\n\n<p>Essa estratégia tem nome: extensão de sono. Não é recuperar uma noite ruim — é estender o tempo total de sono, de forma consistente, por semanas.</p>\n\n<h2>O estudo que virou referência</h2>\n\n<p>Mah e colaboradores publicaram na revista <em>Sleep</em>, em 2011, o experimento mais citado sobre o tema. Onze jogadores de basquete universitário mantiveram primeiro o sono habitual por 2 a 4 semanas e, em seguida, tentaram ficar 10 horas na cama por noite durante 5 a 7 semanas.</p>\n\n<p>Na prática, o tempo de sono subiu de cerca de 6h45 para aproximadamente 8h30 por noite — um acréscimo de quase 1h40. E os números de desempenho acompanharam:</p>\n\n<ul>\n<li>o sprint cronometrado de 282 pés (~86 m) caiu de 16,2 para 15,5 segundos;</li>\n<li>o aproveitamento de arremessos livres subiu 9%;</li>\n<li>o aproveitamento de cestas de três pontos subiu 9,2%;</li>\n<li>tempo de reação, sonolência diurna e humor também melhoraram.</li>\n</ul>\n\n<p>São ganhos grandes para atletas que já treinavam em alto nível — e obtidos sem mudar treino, dieta ou suplementação. Só dormindo mais.</p>\n\n<h2>Antes de tratar isso como regra: a nuance</h2>\n\n<p>O estudo de Stanford é convincente, mas é um estudo, com poucos participantes e sem grupo-controle cego. Quando se olha o conjunto da literatura, o quadro fica mais sóbrio.</p>\n\n<p>A revisão sistemática de Silva e colaboradores (<em>Sleep Medicine</em>, 2021) reuniu os trabalhos disponíveis sobre extensão de sono em atletas e concluiu que a estratégia <em>pode</em> ser benéfica para o desempenho, mas que a magnitude depende muito da variável medida — e que as conclusões ainda são tentativas, por causa da qualidade e do risco de viés dos estudos. Em outras palavras: o sinal é real e promissor, mas ainda não é uma promessa fechada.</p>\n\n<p>Isso não enfraquece a mensagem prática. Significa apenas que o honesto é dizer \"provavelmente ajuda, e o custo de tentar é baixíssimo\", em vez de \"garante X% de melhora\".</p>\n\n<h2>Como aplicar</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação prática</th></tr></thead>\n<tbody>\n<tr><td>Tempo na cama</td><td>8–10h por noite, de forma planejada</td></tr>\n<tr><td>Consistência</td><td>Mesma hora de dormir e acordar, inclusive no fim de semana</td></tr>\n<tr><td>Cochilo</td><td>20–30 min no início da tarde para somar horas de sono</td></tr>\n<tr><td>Cafeína</td><td>Evitar no fim da tarde/noite para não encurtar o sono</td></tr>\n</tbody>\n</table>\n\n<p>A lógica é simples: se você compete ou treina forte, o sono é uma das poucas alavancas de recuperação que não custam dinheiro, não têm efeito colateral e não dependem de nenhum suplemento. Tratá-lo como parte do treino — e não como o que sobra do dia — pode ser o ganho de desempenho mais barato disponível.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Mah CD, Mah KE, Kezirian EJ, Dement WC. The effects of sleep extension on the athletic performance of collegiate basketball players. <em>Sleep</em>. 2011;34(7):943–950. doi:10.5665/SLEEP.1132</li>\n<li>Silva AC, Silva A, Edwards BJ, et al. Sleep extension in athletes: what we know so far – A systematic review. <em>Sleep Med</em>. 2021;77:128–135. doi:10.1016/j.sleep.2020.11.028</li>\n</ol>\n",
+    "cover": "content/drafts/draft_014/cover.png",
+    "cover_alt": "Extensão de sono e desempenho atlético — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_014/slide_01.png",
+    "content/drafts/draft_014/slide_02.png",
+    "content/drafts/draft_014/slide_03.png",
+    "content/drafts/draft_014/slide_04.png",
+    "content/drafts/draft_014/slide_05.png",
+    "content/drafts/draft_014/slide_06.png"
+  ],
+  "post_id": "17906392683478848",
+  "published_at": "2026-09-21T11:23:40.432070+00:00"
+}
