@@ -278,11 +278,11 @@
       "format": "carousel",
       "topic": "extensão de sono e desempenho",
       "hook": "Dormir 1h a mais por noite muda seu desempenho. A ciência já mediu.",
-      "status": "draft",
+      "status": "superseded",
       "created_at": null,
       "scheduled_for": "2026-09-21T15:00:00Z",
       "priority": 1,
-      "notes": "Derivado do vencedor sono/composição (2437). Sono é o tópico de maior alcance da conta (1.164). Ângulo NOVO: extensão de sono em atletas (Mah et al. e afins) em vez de privação. Myth-busting. Publicar seg 12h BRT."
+      "notes": "Derivado do vencedor sono/composição (2437). Sono é o tópico de maior alcance da conta (1.164). Ângulo NOVO: extensão de sono em atletas (Mah et al. e afins) em vez de privação. Myth-busting. Publicar seg 12h BRT. | Substituido por draft_014 (produzido e publicado em 2026-09-21)."
     },
     {
       "local_id": "der_comparacao_gel_bebida",
@@ -349,6 +349,17 @@
       "priority": 1,
       "published_at": "2026-09-20T20:26:06.811549+00:00",
       "post_id": "18117491182809401"
+    },
+    {
+      "local_id": "draft_014",
+      "format": "carousel",
+      "topic": "extensão de sono e desempenho atlético",
+      "hook": "Você não está sem sono. Mesmo assim, dormir mais melhora seu desempenho.",
+      "status": "approved",
+      "created_at": "2026-09-21T00:00:00Z",
+      "scheduled_for": "2026-09-21T15:00:00Z",
+      "priority": 1,
+      "notes": "Derivado do vencedor sono (2437). Angulo NOVO: extensao de sono em atletas (Mah 2011) vs privacao. Myth-busting. Revisao sistematica Silva 2021 com ressalva de evidencia limitada."
     }
   ]
 }
