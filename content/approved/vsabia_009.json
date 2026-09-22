@@ -1,0 +1,63 @@
+{
+  "local_id": "vsabia_009",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-22T00:00:00Z",
+  "topic": "proteína antes de dormir (caseína pré-sono) e recuperação muscular noturna",
+  "content_pillar": "recovery",
+  "hook": "Proteína antes de dormir não vira gordura: 40 g de caseína elevam ~22% a síntese muscular durante o sono.",
+  "subtext": "Enquanto você dorme, o corpo digere e absorve essa proteína normalmente e a usa para reparar músculo — não para estocar.",
+  "source_line": "Res et al., Med Sci Sports Exerc, 2012; revisão de Trommelen & van Loon, Nutrients, 2016.",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:proteina-pre-sono"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Aquela ideia de que comer à noite \"vira gordura\" não se sustenta quando o assunto é proteína e recuperação.\n\nNum estudo clássico, homens que treinaram e tomaram 40 g de caseína logo antes de dormir tiveram a síntese de proteína muscular ~22% maior durante a noite — a proteína foi digerida e absorvida normalmente enquanto dormiam. E em 12 semanas de treino de força, quem incluiu proteína pré-sono ganhou mais massa e força do que o grupo placebo. Para quem treina duro, a noite é tempo de reparo, não de estoque.\n\nFonte: Res et al., Med Sci Sports Exerc, 2012; Snijders et al., J Nutr, 2015; revisão Trommelen & van Loon, Nutrients, 2016.",
+  "cta": "Salva e testa: uma fonte de proteína (ex.: caseína/iogurte) antes de dormir nos dias de treino pesado.",
+  "scientific_sources": [
+    {
+      "title": "Protein ingestion before sleep improves postexercise overnight recovery",
+      "authors": "Res PT, Groen B, Pennings B, Beelen M, Wallis GA, Gijsen AP, Senden JM, van Loon LJ",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2012,
+      "volume": "44",
+      "issue": "8",
+      "pages": "1560-1569",
+      "doi": "10.1249/MSS.0b013e31824cc363",
+      "level": "B"
+    },
+    {
+      "title": "Protein ingestion before sleep increases muscle mass and strength gains during prolonged resistance-type exercise training in healthy young men",
+      "authors": "Snijders T, Res PT, Smeets JS, van Vliet S, van Kranenburg J, Maase K, Kies AK, Verdijk LB, van Loon LJ",
+      "journal": "The Journal of Nutrition",
+      "year": 2015,
+      "volume": "145",
+      "issue": "6",
+      "pages": "1178-1184",
+      "doi": "10.3945/jn.114.208371",
+      "level": "B"
+    },
+    {
+      "title": "Pre-Sleep Protein Ingestion to Improve the Skeletal Muscle Adaptive Response to Exercise Training",
+      "authors": "Trommelen J, van Loon LJC",
+      "journal": "Nutrients",
+      "year": 2016,
+      "volume": "8",
+      "issue": "12",
+      "pages": "763",
+      "doi": "10.3390/nu8120763",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_009/card.png"
+  ]
+}

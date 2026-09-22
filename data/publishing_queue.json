@@ -381,6 +381,16 @@
       "ghost_post_id": "6ab265fbbfd26500012ca834",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-fase-de-deplecao/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_009",
+      "format": "static",
+      "topic": "proteína antes de dormir (caseína pré-sono) e recuperação muscular noturna",
+      "hook": "Proteína antes de dormir não vira gordura: 40 g de caseína elevam ~22% a síntese muscular durante o sono.",
+      "status": "approved",
+      "created_at": "2026-09-22T00:00:00Z",
+      "priority": 1,
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Proteina pre-sono/caseina (Res 2012 +22% sintese noturna; Snijders 2015; rev. Trommelen & van Loon 2016)."
     }
   ]
 }
