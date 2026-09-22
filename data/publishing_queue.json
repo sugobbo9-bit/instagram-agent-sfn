@@ -365,6 +365,17 @@
       "ghost_post_id": "6ab113beeed9b1000181c960",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-melhora-desempenho-atletico/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "draft_015",
+      "format": "carousel",
+      "topic": "carga de carboidrato (fase de depleção)",
+      "hook": "Você não precisa de 6 dias pra encher o glicogênio. Bastam 24h.",
+      "status": "approved",
+      "created_at": "2026-09-22T00:00:00Z",
+      "scheduled_for": "2026-09-22T15:00:00Z",
+      "priority": 1,
+      "notes": "Myth-busting fueling (uncovered): fase de deplecao do carbo-loading e dispensavel. Bussau 2002 (95->180 mmol/kg em 24h, sem deplecao); Burke 2011 e ACSM/AND 2016 (36-48h, 10-12 g/kg, >90 min). Publicar ter 12h BRT."
     }
   ]
 }

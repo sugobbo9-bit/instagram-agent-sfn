@@ -1,0 +1,126 @@
+{
+  "local_id": "draft_015",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-09-22T00:00:00Z",
+  "topic": "carga de carboidrato (fase de depleção)",
+  "content_pillar": "fueling",
+  "hook": "Você não precisa de 6 dias pra encher o glicogênio. Bastam 24h.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carbo-loading",
+    "format:carousel",
+    "pillar:fueling"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Você não precisa de 6 dias pra encher o glicogênio. Bastam 24h.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "O ritual de esvaziar pra depois encher.",
+      "body": "O protocolo clássico dos anos 1960: um treino exaustivo pra 'zerar' o glicogênio, 3 dias de dieta pobre em carbo e só então 3 dias enchendo o tanque.\n\nQuase uma semana de sofrimento — e virou tradição repassada em clube de corrida e de triatlo.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE MUDOU",
+      "headline": "A fase de depleção não enche mais. Só te desgasta.",
+      "body": "A ideia era que 'esvaziar' antes faria o músculo supercompensar. Mas em atleta treinado o músculo já enche ao máximo só com repouso e muito carboidrato.\n\nA semana de depleção entrega fadiga, irritação, problema gástrico e risco de lesão bem antes da prova — sem nenhum glicogênio a mais.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "24 horas bastam. E sem treino depletivo.",
+      "body": "Bussau et al. (Eur J Appl Physiol, 2002): 8 atletas treinados, só repouso + 10 g/kg de carbo por dia. O glicogênio subiu de 95 para 180 mmol/kg em 24h — e nem aumentou mais nos 2 dias seguintes.\n\nBurke et al. (J Sports Sci, 2011) e o posicionamento ACSM/AND (2016): para provas acima de 90 min, 36 a 48h com 10 a 12 g/kg por dia. Nenhuma fase de depleção.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como encher o tanque de verdade.",
+      "body": "→ Só compensa em provas acima de 90 min (maratona, tri, pedal longo). Prova curta não precisa.\n\n→ Nas 24 a 48h finais: 10 a 12 g/kg de carbo por dia, reduzindo o volume de treino (taper).\n\n→ Prefira carbo de fácil digestão. Não é o prato gigante de macarrão da véspera.\n\n→ Ganhar 1 a 2 kg é esperado: cada grama de glicogênio prende cerca de 3 g de água. É água, não gordura.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Menos ritual, mais evidência. 24 a 48h resolvem.",
+      "body": "Salva pra usar antes da sua próxima prova longa.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Esse protocolo antigo — treino exaustivo + dias de dieta pobre em carbo pra 'supercompensar' — nasceu nos anos 1960 e virou tradição em clube de corrida. O problema: a parte que mais machuca, a depleção, é justamente a que a ciência mostrou ser dispensável.\n\nEm atletas treinados, o músculo enche o glicogênio ao máximo só com repouso + muito carboidrato. Bussau et al. (2002) levaram o glicogênio de 95 para 180 mmol/kg em 24 horas, sem nenhum treino depletivo — e o valor nem subiu mais nos 2 dias seguintes.\n\nVale lembrar: carga de carboidrato só faz diferença em provas acima de ~90 min. E o 1 a 2 kg que você ganha é água presa ao glicogênio, não gordura.\n\nFontes: Bussau et al. Eur J Appl Physiol. 2002. | Burke et al. J Sports Sci. 2011. | Thomas, Erdman & Burke. Position Stand ACSM/AND/DC. Med Sci Sports Exerc. 2016.",
+  "cta": "Salva e manda pra quem ainda faz semana de depleção antes da prova.",
+  "scientific_sources": [
+    {
+      "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+      "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+      "journal": "European Journal of Applied Physiology",
+      "year": 2002,
+      "volume": "87",
+      "issue": "3",
+      "pages": "290-295",
+      "doi": "10.1007/s00421-002-0621-5",
+      "level": "B"
+    },
+    {
+      "title": "Carbohydrates for training and competition",
+      "authors": "Burke LM, Hawley JA, Wong SHS, Jeukendrup AE",
+      "journal": "Journal of Sports Sciences",
+      "year": 2011,
+      "volume": "29",
+      "issue": "sup1",
+      "pages": "S17-S27",
+      "doi": "10.1080/02640414.2011.585473",
+      "level": "A"
+    },
+    {
+      "title": "Nutrition and Athletic Performance (Joint Position Statement — ACSM, Academy of Nutrition and Dietetics, Dietitians of Canada)",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Carga de carboidrato: por que a fase de depleção morreu",
+    "slug": "carga-de-carboidrato-fase-de-deplecao",
+    "excerpt": "O protocolo clássico de esvaziar o glicogênio antes de encher foi abandonado pela ciência. O que a evidência mostra sobre carregar o tanque em 24 a 48 horas, sem treino depletivo.",
+    "meta_title": "Carga de carboidrato: a fase de depleção não é mais necessária",
+    "tags": [
+      "Fueling",
+      "Glicogênio",
+      "Endurance",
+      "Maratona"
+    ],
+    "html": "<p>Se você corre maratona, pedala longo ou faz triatlo, provavelmente já ouviu a receita: uma semana antes da prova, faça um treino exaustivo pra \"esvaziar\" o glicogênio, passe alguns dias comendo pouco carboidrato e só depois encha o tanque. É desgastante, é tradicional — e a parte mais dura dela já foi abandonada pela ciência.</p>\n\n<h2>De onde veio o ritual da depleção</h2>\n\n<p>Nos anos 1960, estudos escandinavos com biópsia muscular mostraram que era possível \"supercompensar\" o glicogênio: depois de esgotá-lo com exercício e dieta pobre em carboidrato, uma fase de dieta rica em carboidrato elevava os estoques acima do normal. Nasceu aí o protocolo clássico de aproximadamente 6 a 7 dias, com uma fase de depleção seguida de uma fase de carga.</p>\n\n<p>O detalhe é que esse esquema foi criado, em boa parte, com voluntários destreinados. E ele tem um custo: a fase de depleção — treino exaustivo mais dias com pouco carboidrato — costuma trazer fadiga, irritabilidade, sono ruim, desconforto gástrico e maior risco de lesão justamente na semana em que você deveria chegar descansado.</p>\n\n<h2>O que a pesquisa moderna mostrou</h2>\n\n<p>Quando os estudos passaram a usar atletas treinados, a fase de depleção deixou de fazer sentido. O músculo condicionado já é muito eficiente em estocar glicogênio e não precisa ser \"esvaziado\" antes.</p>\n\n<p>Bussau e colaboradores (<em>European Journal of Applied Physiology</em>, 2002) colocaram 8 atletas treinados em repouso e uma dieta de 10 g de carboidrato por kg de peso ao dia. O glicogênio muscular saiu de cerca de 95 para 180 mmol/kg em apenas 24 horas — e permaneceu estável mesmo com mais 2 dias de dieta rica em carboidrato. Ou seja: um único dia de repouso e alta ingestão de carboidrato já entregou a carga máxima, sem nenhum treino depletivo.</p>\n\n<h2>O que fazer, na prática</h2>\n\n<p>As diretrizes atuais convergem. Burke, Hawley, Wong e Jeukendrup (<em>Journal of Sports Sciences</em>, 2011) e o posicionamento conjunto do American College of Sports Medicine com a Academy of Nutrition and Dietetics e a Dietitians of Canada (2016) recomendam, para provas acima de 90 minutos, cerca de 36 a 48 horas com 10 a 12 g de carboidrato por kg de peso ao dia — sem qualquer fase de depleção.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Para quem vale</td><td>Provas contínuas acima de ~90 min (maratona, triatlo, ciclismo longo)</td></tr>\n<tr><td>Duração da carga</td><td>24 a 48 horas antes da prova</td></tr>\n<tr><td>Dose</td><td>10 a 12 g de carboidrato por kg de peso por dia</td></tr>\n<tr><td>Treino</td><td>Reduzir o volume (taper); sem treino depletivo</td></tr>\n<tr><td>Peso</td><td>Ganho de 1 a 2 kg é esperado (água ligada ao glicogênio)</td></tr>\n</tbody>\n</table>\n\n<h2>Dois pontos que evitam frustração</h2>\n\n<p>Primeiro: carga de carboidrato só melhora o desempenho em esforços prolongados, nos quais a depleção de glicogênio realmente limita. Em provas curtas ou de força, encher o tanque não traz vantagem.</p>\n\n<p>Segundo: cada grama de glicogênio retém aproximadamente 3 g de água. Por isso a balança sobe 1 a 2 kg nos dias de carga. Isso é água estocada junto com o combustível — não é ganho de gordura, e some depois da prova.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA. Carbohydrate loading in human muscle: an improved 1 day protocol. <em>Eur J Appl Physiol</em>. 2002;87(3):290–295. doi:10.1007/s00421-002-0621-5</li>\n<li>Burke LM, Hawley JA, Wong SHS, Jeukendrup AE. Carbohydrates for training and competition. <em>J Sports Sci</em>. 2011;29(sup1):S17–S27. doi:10.1080/02640414.2011.585473</li>\n<li>Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance (Joint Position Statement). <em>Med Sci Sports Exerc</em>. 2016;48(3):543–568. doi:10.1249/MSS.0000000000000852</li>\n</ol>\n",
+    "cover": "content/drafts/draft_015/cover.png",
+    "cover_alt": "Carga de carboidrato sem fase de depleção — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_015/slide_01.png",
+    "content/drafts/draft_015/slide_02.png",
+    "content/drafts/draft_015/slide_03.png",
+    "content/drafts/draft_015/slide_04.png",
+    "content/drafts/draft_015/slide_05.png",
+    "content/drafts/draft_015/slide_06.png"
+  ]
+}
