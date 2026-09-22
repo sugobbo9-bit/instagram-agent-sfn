@@ -5994,6 +5994,71 @@
       "derivatives_created": [],
       "ghost_post_id": "6ab113beeed9b1000181c960",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-melhora-desempenho-atletico/"
+    },
+    {
+      "post_id": "18130782361755024",
+      "local_id": "draft_015",
+      "publication_date": "2026-09-22T11:26:49.144806+00:00",
+      "format": "carousel",
+      "topic": "carga de carboidrato (fase de depleção)",
+      "content_pillar": "fueling",
+      "hook": "Você não precisa de 6 dias pra encher o glicogênio. Bastam 24h.",
+      "caption": "Esse protocolo antigo — treino exaustivo + dias de dieta pobre em carbo pra 'supercompensar' — nasceu nos anos 1960 e virou tradição em clube de corrida. O problema: a parte que mais machuca, a depleção, é justamente a que a ciência mostrou ser dispensável.\n\nEm atletas treinados, o músculo enche o glicogênio ao máximo só com repouso + muito carboidrato. Bussau et al. (2002) levaram o glicogênio de 95 para 180 mmol/kg em 24 horas, sem nenhum treino depletivo — e o valor nem subiu mais nos 2 dias seguintes.\n\nVale lembrar: carga de carboidrato só faz diferença em provas acima de ~90 min. E o 1 a 2 kg que você ganha é água presa ao glicogênio, não gordura.\n\nFontes: Bussau et al. Eur J Appl Physiol. 2002. | Burke et al. J Sports Sci. 2011. | Thomas, Erdman & Burke. Position Stand ACSM/AND/DC. Med Sci Sports Exerc. 2016.",
+      "cta": "Salva e manda pra quem ainda faz semana de depleção antes da prova.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+          "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+          "journal": "European Journal of Applied Physiology",
+          "year": 2002,
+          "volume": "87",
+          "issue": "3",
+          "pages": "290-295",
+          "doi": "10.1007/s00421-002-0621-5",
+          "level": "B"
+        },
+        {
+          "title": "Carbohydrates for training and competition",
+          "authors": "Burke LM, Hawley JA, Wong SHS, Jeukendrup AE",
+          "journal": "Journal of Sports Sciences",
+          "year": 2011,
+          "volume": "29",
+          "issue": "sup1",
+          "pages": "S17-S27",
+          "doi": "10.1080/02640414.2011.585473",
+          "level": "A"
+        },
+        {
+          "title": "Nutrition and Athletic Performance (Joint Position Statement — ACSM, Academy of Nutrition and Dietetics, Dietitians of Canada)",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2016,
+          "volume": "48",
+          "issue": "3",
+          "pages": "543-568",
+          "doi": "10.1249/MSS.0000000000000852",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_015/slide_01.png",
+        "content/drafts/draft_015/slide_02.png",
+        "content/drafts/draft_015/slide_03.png",
+        "content/drafts/draft_015/slide_04.png",
+        "content/drafts/draft_015/slide_05.png",
+        "content/drafts/draft_015/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:carbo-loading",
+        "format:carousel",
+        "pillar:fueling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ab265fbbfd26500012ca834",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-fase-de-deplecao/"
     }
   ]
 }

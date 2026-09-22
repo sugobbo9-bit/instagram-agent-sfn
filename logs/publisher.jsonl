@@ -185,3 +185,10 @@
 {"ts": "2026-09-21T11:23:40.431876+00:00", "level": "INFO", "msg": "PUBLICADO: draft_014 -> media_id 17906392683478848"}
 {"ts": "2026-09-21T11:23:40.444530+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-21T12:11:35.891583+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-22T11:25:57.133179+00:00", "level": "INFO", "msg": "Publicando draft_015 (carousel) \u2014 carga de carboidrato (fase de deple\u00e7\u00e3o)"}
+{"ts": "2026-09-22T11:25:57.135776+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-22T11:25:57.135872+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_015/slide_01.png"}
+{"ts": "2026-09-22T11:25:58.466363+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-22T11:26:32.594011+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-22T11:26:49.144586+00:00", "level": "INFO", "msg": "PUBLICADO: draft_015 -> media_id 18130782361755024"}
+{"ts": "2026-09-22T11:26:49.157103+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
