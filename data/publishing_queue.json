@@ -387,10 +387,12 @@
       "format": "static",
       "topic": "proteína antes de dormir (caseína pré-sono) e recuperação muscular noturna",
       "hook": "Proteína antes de dormir não vira gordura: 40 g de caseína elevam ~22% a síntese muscular durante o sono.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-22T00:00:00Z",
       "priority": 1,
-      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Proteina pre-sono/caseina (Res 2012 +22% sintese noturna; Snijders 2015; rev. Trommelen & van Loon 2016)."
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Proteina pre-sono/caseina (Res 2012 +22% sintese noturna; Snijders 2015; rev. Trommelen & van Loon 2016).",
+      "published_at": "2026-09-22T20:24:42.461967+00:00",
+      "post_id": "18121249651930906"
     }
   ]
 }
