@@ -35,3 +35,9 @@ Suplemento de nicho confirmou teto baixo: BCAA (131), cetonas exógenas (134), a
 | 2026-09-20 | Pausada a série estática "você sabia" | Estático 195 vs carrossel 607 na mesma janela; nova ineficiência | 151 posts; comparação de mesma janela (14d) |
 | 2026-09-20 | Proibido carrossel na sexta; padrão 12h BRT | Sexta n=31 alcance mediano 256 (pior); 12h BRT mediana 828 | posts_db normalizado por dia/hora |
 | 2026-09-20 | Reduzir suplemento de nicho; +6 derivados de vencedores | BCAA/cetonas/antioxidantes no fundo; vencedores são myth-busting + comparação | winner_library / failure_log |
+
+## Sobre Implementação vs. Estratégia (NOVO — 2026-09-23)
+Achado forte da rotina de audiência: **as duas principais decisões do ciclo de 20/09 não estavam implementadas na automação.**
+- **Horário:** a estratégia definiu 12h BRT (15h UTC) como melhor janela (mediana 828 vs. 302 às 8h), mas o cron do `publish.yml` é `0 12 * * *` UTC = 09h BRT, e os posts de 18–23/09 saíram ~08h20 BRT. A melhor alavanca de alcance identificada não estava ligada. Correção: `cron 0 15 * * *`.
+- **Estático:** decidida a pausa da série "você sabia" em 20/09, mas estáticos continuaram saindo (19, 20, 22/09).
+Lição de processo: validar que decisões da revisão semanal chegam à automação (cron/fila), não só ao documento.
