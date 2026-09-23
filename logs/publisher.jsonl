@@ -199,3 +199,10 @@
 {"ts": "2026-09-22T20:24:27.292846+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-22T20:24:42.461825+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_009 -> media_id 18121249651930906"}
 {"ts": "2026-09-22T20:24:42.473910+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-09-23T11:21:39.267146+00:00", "level": "INFO", "msg": "Publicando draft_016 (carousel) \u2014 janela anab\u00f3lica de 30 minutos (nutrient timing p\u00f3s-treino)"}
+{"ts": "2026-09-23T11:21:39.269769+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-23T11:21:39.269871+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_016/slide_01.png"}
+{"ts": "2026-09-23T11:21:40.422308+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-23T11:22:12.475262+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-23T11:22:19.599217+00:00", "level": "INFO", "msg": "PUBLICADO: draft_016 -> media_id 18085371854291367"}
+{"ts": "2026-09-23T11:22:19.611988+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

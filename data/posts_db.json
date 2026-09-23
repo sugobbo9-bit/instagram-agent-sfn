@@ -6116,6 +6116,71 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18085371854291367",
+      "local_id": "draft_016",
+      "publication_date": "2026-09-23T11:22:19.599380+00:00",
+      "format": "carousel",
+      "topic": "janela anabólica de 30 minutos (nutrient timing pós-treino)",
+      "content_pillar": "recovery",
+      "hook": "A janela anabólica de 30 minutos não existe do jeito que te venderam.",
+      "caption": "A 'janela anabólica de 30 minutos' é um dos mitos mais resistentes do esporte — e faz muita gente treinar com ansiedade desnecessária.\n\nO que a ciência mostra: para quem treina uma vez por dia e tem 24 h até o próximo esforço forte, o que decide a recuperação é o TOTAL de carboidrato e proteína do dia, não o cronômetro. A pressa só é justificada quando você vai treinar de novo em poucas horas (dois treinos no mesmo dia, prova por etapas, back-to-back).\n\nComeu bem antes do treino? A 'janela' já está coberta pela refeição anterior.\n\nFontes: Schoenfeld, Aragon & Krieger. J Int Soc Sports Nutr. 2013. | Aragon & Schoenfeld. J Int Soc Sports Nutr. 2013. | Alghannam, Gonzalez & Betts. Nutrients. 2018.",
+      "cta": "Salva e manda pra quem ainda corre pro shake em 30 minutos.",
+      "scientific_sources": [
+        {
+          "title": "The effect of protein timing on muscle strength and hypertrophy: a meta-analysis",
+          "authors": "Schoenfeld BJ, Aragon AA, Krieger JW",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2013,
+          "volume": "10",
+          "issue": "1",
+          "pages": "53",
+          "doi": "10.1186/1550-2783-10-53",
+          "level": "A"
+        },
+        {
+          "title": "Nutrient timing revisited: is there a post-exercise anabolic window?",
+          "authors": "Aragon AA, Schoenfeld BJ",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2013,
+          "volume": "10",
+          "issue": "1",
+          "pages": "5",
+          "doi": "10.1186/1550-2783-10-5",
+          "level": "A"
+        },
+        {
+          "title": "Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion",
+          "authors": "Alghannam AF, Gonzalez JT, Betts JA",
+          "journal": "Nutrients",
+          "year": 2018,
+          "volume": "10",
+          "issue": "2",
+          "pages": "253",
+          "doi": "10.3390/nu10020253",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_016/slide_01.png",
+        "content/drafts/draft_016/slide_02.png",
+        "content/drafts/draft_016/slide_03.png",
+        "content/drafts/draft_016/slide_04.png",
+        "content/drafts/draft_016/slide_05.png",
+        "content/drafts/draft_016/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:recovery",
+        "topic:timing",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ab3b66daa936a0001b8f54b",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-anabolica-30-minutos-mito/"
     }
   ]
 }

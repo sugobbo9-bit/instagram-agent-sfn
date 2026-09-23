@@ -1,0 +1,129 @@
+{
+  "local_id": "draft_016",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-23T00:00:00Z",
+  "topic": "janela anabólica de 30 minutos (nutrient timing pós-treino)",
+  "content_pillar": "recovery",
+  "hook": "A janela anabólica de 30 minutos não existe do jeito que te venderam.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:recovery",
+    "topic:timing",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "A janela anabólica de 30 minutos não existe do jeito que te venderam.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde saiu a regra dos 30 minutos?",
+      "body": "A ideia de correr pro shake logo após o treino nasceu de estudos antigos de glicogênio — e virou regra rígida pra todo mundo.\n\nO recado que colou: se você não repõe carboidrato e proteína em 30 min, 'perde o treino'. Isso não é o que a ciência mostra.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A PERGUNTA CERTA",
+      "headline": "O que importa não é o relógio. É quando você treina de novo.",
+      "body": "São dois processos diferentes: repor glicogênio e sintetizar proteína muscular (MPS).\n\nOs dois respondem muito mais ao TOTAL do seu dia do que a uma corrida contra o cronômetro — com uma única exceção: quando o próximo esforço forte está logo ali.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Três revisões derrubam a pressa.",
+      "body": "Schoenfeld, Aragon e Krieger (meta-análise, 2013): ajustando pela proteína total do dia, o timing perdeu o efeito sobre força e hipertrofia. O total diário foi o maior preditor.\n\nAragon e Schoenfeld (2013): a 'janela' é bem mais larga que 30 min — a refeição antes do treino já cobre o período pós.\n\nAlghannam et al. (2018): repor carbo na hora só é decisivo quando o próximo treino vem em menos de 8 h.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Quando o relógio importa — e quando não.",
+      "body": "Treina 1x/dia, com 24 h ou mais até o próximo esforço forte: foque no TOTAL do dia — 6–12 g/kg de carbo e 1,6–2,2 g/kg de proteína. A hora exata não muda o resultado.\n\nDois treinos no mesmo dia ou prova em menos de 8 h: aí sim reabasteça rápido — cerca de 1 g/kg de carbo por hora nas primeiras horas.\n\n→ Comeu bem antes de treinar? A 'janela' já está coberta.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Pare de correr pro shake. O que decide é o seu dia inteiro.",
+      "body": "Salva esse carrossel e manda pro parceiro de treino que vive com pressa no pós-treino.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A 'janela anabólica de 30 minutos' é um dos mitos mais resistentes do esporte — e faz muita gente treinar com ansiedade desnecessária.\n\nO que a ciência mostra: para quem treina uma vez por dia e tem 24 h até o próximo esforço forte, o que decide a recuperação é o TOTAL de carboidrato e proteína do dia, não o cronômetro. A pressa só é justificada quando você vai treinar de novo em poucas horas (dois treinos no mesmo dia, prova por etapas, back-to-back).\n\nComeu bem antes do treino? A 'janela' já está coberta pela refeição anterior.\n\nFontes: Schoenfeld, Aragon & Krieger. J Int Soc Sports Nutr. 2013. | Aragon & Schoenfeld. J Int Soc Sports Nutr. 2013. | Alghannam, Gonzalez & Betts. Nutrients. 2018.",
+  "cta": "Salva e manda pra quem ainda corre pro shake em 30 minutos.",
+  "scientific_sources": [
+    {
+      "title": "The effect of protein timing on muscle strength and hypertrophy: a meta-analysis",
+      "authors": "Schoenfeld BJ, Aragon AA, Krieger JW",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2013,
+      "volume": "10",
+      "issue": "1",
+      "pages": "53",
+      "doi": "10.1186/1550-2783-10-53",
+      "level": "A"
+    },
+    {
+      "title": "Nutrient timing revisited: is there a post-exercise anabolic window?",
+      "authors": "Aragon AA, Schoenfeld BJ",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2013,
+      "volume": "10",
+      "issue": "1",
+      "pages": "5",
+      "doi": "10.1186/1550-2783-10-5",
+      "level": "A"
+    },
+    {
+      "title": "Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion",
+      "authors": "Alghannam AF, Gonzalez JT, Betts JA",
+      "journal": "Nutrients",
+      "year": 2018,
+      "volume": "10",
+      "issue": "2",
+      "pages": "253",
+      "doi": "10.3390/nu10020253",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "A janela anabólica de 30 minutos: o que a ciência realmente diz",
+    "slug": "janela-anabolica-30-minutos-mito",
+    "excerpt": "A regra de repor proteína e carboidrato em até 30 minutos pós-treino é um dos mitos mais resistentes do esporte. Veja quando o timing importa de verdade — e quando o que decide é o total do dia.",
+    "meta_title": "A janela anabólica de 30 minutos é mito? O que diz a ciência",
+    "tags": [
+      "Recuperação",
+      "Timing Nutricional",
+      "Proteína",
+      "Glicogênio",
+      "Endurance"
+    ],
+    "html": "<p>Todo atleta amador já ouviu a regra: <em>\"tome seu shake em até 30 minutos pós-treino, ou você perde o treino\"</em>. A cena virou hábito — a corrida do vestiário até a coqueteleira. O problema é que a \"janela anabólica\" de 30 minutos, do jeito que foi vendida, não se sustenta na literatura.</p>\n\n<h2>De onde veio a regra dos 30 minutos</h2>\n\n<p>A ideia nasceu de estudos antigos de ressíntese de glicogênio, que mostraram maior captação de glicose pelo músculo quando o carboidrato era ingerido logo após o exercício. O achado é real — mas foi generalizado para uma regra rígida, aplicada a qualquer pessoa, em qualquer contexto, para carboidrato e para proteína.</p>\n\n<h2>A pergunta certa: quando você treina de novo?</h2>\n\n<p>Recuperação envolve dois processos distintos: a reposição de glicogênio muscular e a síntese proteica muscular (MPS). Ambos respondem muito mais ao total ingerido ao longo do dia do que ao minuto exato em que você come — com uma exceção importante: quando o próximo esforço intenso está a poucas horas de distância.</p>\n\n<h2>O que mostram as revisões</h2>\n\n<p>Na meta-análise de Schoenfeld, Aragon e Krieger (2013), publicada no <em>Journal of the International Society of Sports Nutrition</em>, o efeito aparente do timing sobre força e hipertrofia desapareceu quando os autores controlaram pela proteína total diária. A conclusão foi direta: o total de proteína do dia foi o preditor mais forte dos ganhos, e os resultados \"refutam a crença comum de que o timing da proteína ao redor do treino é crítico\".</p>\n\n<p>No artigo <em>Nutrient timing revisited</em> (Aragon e Schoenfeld, 2013), os mesmos autores argumentam que a suposta janela é bem mais larga do que 30 minutos. Uma refeição com proteína feita antes do treino mantém aminoácidos circulando durante e após a sessão — ou seja, o período pós-treino já está nutricionalmente coberto.</p>\n\n<p>Do lado do glicogênio, a revisão de Alghannam, Gonzalez e Betts (2018), na <em>Nutrients</em>, delimita bem o cenário: repor carboidrato imediatamente só é decisivo quando o tempo de recuperação é curto (menos de 8 horas). Quando há 24 horas ou mais até o próximo esforço, ingerir de 6 a 12 g/kg de carboidrato ao longo do dia é suficiente para restaurar os estoques — independentemente da hora exata.</p>\n\n<h2>Na prática</h2>\n\n<table>\n<thead><tr><th>Cenário</th><th>O que fazer</th></tr></thead>\n<tbody>\n<tr><td>Treina 1x/dia, 24 h+ até o próximo esforço forte</td><td>Foque no total do dia: 6–12 g/kg de carboidrato e 1,6–2,2 g/kg de proteína. O relógio não muda o resultado.</td></tr>\n<tr><td>Dois treinos no mesmo dia ou prova em &lt; 8 h</td><td>Aí sim, reabasteça rápido: ~1 g/kg de carboidrato por hora nas primeiras horas, com proteína junto.</td></tr>\n<tr><td>Comeu bem antes de treinar</td><td>A \"janela\" já está coberta pela refeição anterior.</td></tr>\n</tbody>\n</table>\n\n<p>A mensagem não é que o timing nunca importa — ele importa, e muito, para quem faz dois treinos no mesmo dia, provas por etapas ou sessões back-to-back. Para a imensa maioria dos atletas amadores de endurance, porém, o que decide a recuperação é quanto você come no dia inteiro, não a corrida contra os 30 minutos.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Schoenfeld BJ, Aragon AA, Krieger JW. The effect of protein timing on muscle strength and hypertrophy: a meta-analysis. <em>J Int Soc Sports Nutr</em>. 2013;10:53. doi:10.1186/1550-2783-10-53</li>\n<li>Aragon AA, Schoenfeld BJ. Nutrient timing revisited: is there a post-exercise anabolic window? <em>J Int Soc Sports Nutr</em>. 2013;10:5. doi:10.1186/1550-2783-10-5</li>\n<li>Alghannam AF, Gonzalez JT, Betts JA. Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion. <em>Nutrients</em>. 2018;10(2):253. doi:10.3390/nu10020253</li>\n</ol>\n",
+    "cover": "content/drafts/draft_016/cover.png",
+    "cover_alt": "A janela anabólica de 30 minutos: o que a ciência diz — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_016/slide_01.png",
+    "content/drafts/draft_016/slide_02.png",
+    "content/drafts/draft_016/slide_03.png",
+    "content/drafts/draft_016/slide_04.png",
+    "content/drafts/draft_016/slide_05.png",
+    "content/drafts/draft_016/slide_06.png"
+  ],
+  "post_id": "18085371854291367",
+  "published_at": "2026-09-23T11:22:19.599380+00:00"
+}

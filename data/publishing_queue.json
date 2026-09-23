@@ -399,8 +399,13 @@
       "format": "carousel",
       "topic": "janela anabólica de 30 minutos (nutrient timing pós-treino)",
       "hook": "A janela anabólica de 30 minutos não existe do jeito que te venderam.",
-      "status": "approved",
-      "created_at": "2026-09-23T00:00:00Z"
+      "status": "published",
+      "created_at": "2026-09-23T00:00:00Z",
+      "published_at": "2026-09-23T11:22:19.599380+00:00",
+      "post_id": "18085371854291367",
+      "ghost_post_id": "6ab3b66daa936a0001b8f54b",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-anabolica-30-minutos-mito/",
+      "ghost_status": "published"
     }
   ]
 }
