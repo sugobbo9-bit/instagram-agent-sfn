@@ -1,0 +1,120 @@
+{
+  "local_id": "draft_017",
+  "format": "carousel",
+  "status": "approved",
+  "created_at": "2026-09-24T00:00:00Z",
+  "topic": "bicarbonato de sódio (tampão) e desempenho",
+  "content_pillar": "supplements",
+  "hook": "O bicarbonato de sódio é um ergogênico comprovado. Só que não pra tudo.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:bicarbonato",
+    "format:carousel",
+    "pillar:supplements"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "O bicarbonato de sódio é um ergogênico comprovado. Só que não pra tudo.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A FAMA",
+      "headline": "Fama de antiácido. Lista de elite.",
+      "body": "O bicarbonato de sódio é conhecido como remédio de azia — o mesmo pó branco da cozinha.\n\nMas ele está na lista curta de suplementos com evidência forte, ao lado de cafeína e creatina. Reconhecido no posicionamento oficial da ISSN.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Ele é um tampão. Não é energia.",
+      "body": "No esforço intenso, o músculo acumula H+ (acidez), ligada à fadiga.\n\nO bicarbonato eleva o tampão no sangue e ajuda a puxar esse H+ para fora do músculo. Ele não te dá energia — ele segura a queda do pH.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Funciona no curto e intenso, não no ritmo constante.",
+      "body": "Onde aparece: alta intensidade de 30s a 12min — tiros, subidas, sprint final, provas curtas e intermitentes. Meta-análise em esportes de equipe (20 estudos, 241 atletas) achou melhora pequena, real e individual.\n\nOnde não aparece: em corrida contínua e constante, meta-análise de 2025 encontrou benefício negligenciável.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "COMO A CIÊNCIA USA",
+      "headline": "Dose certa, e resolver o estômago.",
+      "body": "Dose: 0,3 g/kg de peso, 60 a 180 min antes.\nDoses maiores (0,4 a 0,5 g/kg) não ajudam mais e pioram os efeitos.\n\nO maior obstáculo é o desconforto gastrointestinal. Reduz com: dose menor, refeição rica em carboidrato ou cápsula com revestimento entérico.\n\n→ Teste no treino, nunca na prova.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Comprovado não quer dizer que serve pra todo mundo, sempre.",
+      "body": "Salva e manda pro parceiro de treino.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "O bicarbonato de sódio (sim, o mesmo bicarbonato de cozinha) é um dos poucos ergogênicos com evidência forte — ao lado de cafeína, creatina, nitrato e beta-alanina. Mas \"comprovado\" não significa \"funciona pra tudo\".\n\nEle age como tampão: ajuda a segurar a queda de pH no músculo durante esforços intensos. Por isso o efeito aparece em esforços de alta intensidade de ~30s a 12min (tiros, subidas, sprint final, provas curtas e intermitentes). Numa corrida longa e em ritmo constante, a evidência recente aponta benefício negligenciável.\n\nNa prática: ~0,3 g/kg de peso, 60–180 min antes. O grande limitador é o desconforto gastrointestinal — dose menor, refeição rica em carboidrato ou cápsula com revestimento entérico ajudam. O efeito é pequeno e individual: teste no treino, nunca na prova.\n\nFontes: Grgic J, et al. J Int Soc Sports Nutr. 2021 (position stand ISSN). | Meta-análise em esportes de equipe, Front Nutr. 2026. | Meta-análise sobre corrida contínua, J Int Soc Sports Nutr. 2025.",
+  "cta": "Salva e manda pro parceiro de treino.",
+  "scientific_sources": [
+    {
+      "title": "International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance",
+      "authors": "Grgic J, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "61",
+      "doi": "10.1186/s12970-021-00458-w",
+      "level": "A"
+    },
+    {
+      "title": "Effects of acute or short-term oral sodium bicarbonate supplementation on high-intensity intermittent exercise performance and physiological responses in team-sport athletes: a systematic review and meta-analysis",
+      "authors": "",
+      "journal": "Frontiers in Nutrition",
+      "year": 2026,
+      "doi": "10.3389/fnut.2026.1936178",
+      "level": "A"
+    },
+    {
+      "title": "Negligible benefit of oral single-dose sodium bicarbonate on continuous running performance: systematic review with meta-analysis of randomized, double-blind, placebo-controlled trials",
+      "authors": "",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2025,
+      "doi": "10.1080/15502783.2025.2538606",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Bicarbonato de sódio: o ergogênico comprovado que quase ninguém usa",
+    "slug": "bicarbonato-de-sodio-ergogenico-endurance",
+    "excerpt": "O bicarbonato de sódio está na lista curta de suplementos com evidência forte. Mas ele só funciona em esforços curtos e intensos — e a corrida contínua é a exceção. O que a ciência mostra sobre dose, timing e o problema do estômago.",
+    "meta_title": "Bicarbonato de sódio e desempenho — o que a ciência realmente mostra",
+    "tags": [
+      "Suplementação",
+      "Ergogênicos",
+      "Alta Intensidade",
+      "Endurance"
+    ],
+    "html": "<p>Pergunte a qualquer atleta quais suplementos realmente funcionam e você vai ouvir cafeína e creatina. Poucos vão citar o bicarbonato de sódio — o mesmo pó branco vendido como antiácido e usado na cozinha. E, no entanto, ele aparece na lista curta de recursos ergogênicos com evidência forte reconhecida por entidades como o Comitê Olímpico Internacional e a Sociedade Internacional de Nutrição Esportiva (ISSN).</p>\n\n<p>Mas <em>\"comprovado\"</em> não é o mesmo que <em>\"funciona para tudo\"</em>. A evidência é específica sobre <strong>quando</strong> ele ajuda — e igualmente clara sobre quando não faz diferença.</p>\n\n<h2>Como o bicarbonato age: ele é um tampão, não energia</h2>\n\n<p>Durante esforços intensos, o músculo produz íons de hidrogênio (H+), e o acúmulo dessa acidez está associado à fadiga. O bicarbonato de sódio, ingerido antes do exercício, aumenta a concentração de bicarbonato no sangue e eleva o pH sanguíneo. Isso cria um gradiente maior que ajuda a transportar H+ e lactato para fora das células musculares. Ele não fornece energia: atua como um tampão extracelular, segurando a queda de pH.</p>\n\n<h2>Onde a evidência aparece</h2>\n\n<p>O posicionamento oficial da ISSN (2021) conclui que o bicarbonato de sódio melhora o desempenho em exercícios de alta intensidade com duração aproximada de 30 segundos a 12 minutos, além de atividades de resistência muscular e esportes de combate. É o território dos tiros, subidas, sprints finais, provas curtas e esforços intermitentes.</p>\n\n<p>Uma revisão sistemática com meta-análise em atletas de esportes de equipe (20 estudos, 241 atletas) encontrou um efeito benéfico pequeno sobre o desempenho intermitente de alta intensidade — real, mas modesto e dependente do indivíduo.</p>\n\n<h2>Onde ele não faz diferença</h2>\n\n<p>Aqui está a parte que raramente aparece nos rótulos: em corrida contínua e em ritmo constante, uma revisão sistemática com meta-análise de 2025 concluiu que o benefício de uma dose única de bicarbonato é negligenciável. Traduzindo: o bicarbonato ajuda no componente intenso e acidótico do esforço, não em sustentar um ritmo estável por longos períodos.</p>\n\n<h2>Como usar, segundo a evidência</h2>\n\n<p>A dose única mais estudada é de cerca de 0,3 g/kg de peso corporal (o mínimo eficaz gira em torno de 0,2 g/kg). Doses maiores, de 0,4 a 0,5 g/kg, não trazem benefício adicional e aumentam os efeitos colaterais. O momento da ingestão fica entre 60 e 180 minutos antes do esforço.</p>\n\n<p>O maior obstáculo não é a eficácia — é o estômago. Inchaço, náusea e desconforto gastrointestinal são comuns e variam muito entre pessoas. As estratégias com apoio na literatura para reduzir isso são: usar a dose menor, ingerir mais cedo (perto de 180 minutos antes), acompanhar de uma refeição rica em carboidrato ou usar cápsulas com revestimento entérico.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose</td><td>~0,3 g/kg de peso corporal (mín. ~0,2 g/kg)</td></tr>\n<tr><td>Momento</td><td>60–180 min antes do esforço</td></tr>\n<tr><td>Onde ajuda</td><td>Alta intensidade de ~30s a 12min; esforços intermitentes</td></tr>\n<tr><td>Onde não ajuda</td><td>Corrida contínua em ritmo constante (benefício negligenciável)</td></tr>\n<tr><td>Efeito colateral</td><td>Desconforto GI — reduzir com dose menor, refeição com carbo ou cápsula entérica</td></tr>\n</tbody>\n</table>\n\n<p>O efeito, quando aparece, é pequeno e individual. Isso significa duas coisas: pode valer a pena para quem disputa esforços curtos e intensos, e nunca deve ser testado pela primeira vez no dia da prova. Experimente no treino.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Grgic J, et al. International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance. <em>J Int Soc Sports Nutr</em>. 2021;18(1):61. doi:10.1186/s12970-021-00458-w</li>\n<li>Effects of acute or short-term oral sodium bicarbonate supplementation on high-intensity intermittent exercise performance and physiological responses in team-sport athletes: a systematic review and meta-analysis. <em>Front Nutr</em>. 2026. doi:10.3389/fnut.2026.1936178</li>\n<li>Negligible benefit of oral single-dose sodium bicarbonate on continuous running performance: systematic review with meta-analysis of randomized, double-blind, placebo-controlled trials. <em>J Int Soc Sports Nutr</em>. 2025. doi:10.1080/15502783.2025.2538606</li>\n</ol>\n",
+    "cover": "content/drafts/draft_017/cover.png",
+    "cover_alt": "Bicarbonato de sódio e desempenho — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_017/slide_01.png",
+    "content/drafts/draft_017/slide_02.png",
+    "content/drafts/draft_017/slide_03.png",
+    "content/drafts/draft_017/slide_04.png",
+    "content/drafts/draft_017/slide_05.png",
+    "content/drafts/draft_017/slide_06.png"
+  ]
+}

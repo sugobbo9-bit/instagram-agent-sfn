@@ -406,6 +406,16 @@
       "ghost_post_id": "6ab3b66daa936a0001b8f54b",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-anabolica-30-minutos-mito/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "draft_017",
+      "format": "carousel",
+      "topic": "bicarbonato de sódio (tampão) e desempenho",
+      "hook": "O bicarbonato de sódio é um ergogênico comprovado. Só que não pra tudo.",
+      "status": "approved",
+      "created_at": "2026-09-24T00:00:00Z",
+      "priority": 1,
+      "notes": "Myth-busting suplemento com evidencia forte: bicarbonato de sodio (tampao). ISSN position stand 2021; meta-analise esportes de equipe (Front Nutr 2026); meta-analise corrida continua 2025 (beneficio negligenciavel). Nuance: ajuda alta intensidade 30s-12min, nao ritmo continuo."
     }
   ]
 }
