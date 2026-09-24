@@ -6240,6 +6240,41 @@
       "derivatives_created": [],
       "ghost_post_id": "6ab50973f1130700015dd58b",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bicarbonato-de-sodio-ergogenico-endurance/"
+    },
+    {
+      "post_id": "17902869576604176",
+      "local_id": "vsabia_010",
+      "publication_date": "2026-09-24T20:23:36.216729+00:00",
+      "format": "static",
+      "topic": "gelatina + vitamina C antes do treino e síntese de colágeno (tendões/ligamentos)",
+      "content_pillar": "recovery",
+      "hook": "Gelatina + vitamina C 1h antes do treino quase dobrou a produção de colágeno no sangue.",
+      "caption": "Tendão e ligamento levam mais tempo para se recuperar do que músculo — e a nutrição pode dar uma mãozinha aí.\n\nNum estudo, homens que tomaram 15 g de gelatina enriquecida com vitamina C uma hora antes de um exercício curto (pular corda) tiveram os marcadores de síntese de colágeno no sangue (PINP) cerca de duas vezes maiores do que com placebo. E o sangue coletado após a dose aumentou o conteúdo de colágeno e a resistência de um ligamento cultivado em laboratório, de forma dose-dependente. É um estudo pequeno e de prova de conceito (8 pessoas, sem desfecho de lesão), mas o mecanismo é promissor: o colágeno é a matéria-prima de tendões e ligamentos, e a vitamina C é cofator para produzi-lo.\n\nFonte: Shaw et al., Am J Clin Nutr, 2017.",
+      "cta": "Salva — ideia pra quem quer cuidar de tendões e ligamentos.",
+      "scientific_sources": [
+        {
+          "title": "Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis",
+          "authors": "Shaw G, Lee-Barthel A, Ross MLR, Wang B, Baar K",
+          "journal": "The American Journal of Clinical Nutrition",
+          "year": 2017,
+          "volume": "105",
+          "issue": "1",
+          "pages": "136-143",
+          "doi": "10.3945/ajcn.116.138594",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_010/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:gelatina-colageno"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

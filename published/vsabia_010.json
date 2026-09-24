@@ -1,0 +1,43 @@
+{
+  "local_id": "vsabia_010",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-09-24T00:00:00Z",
+  "topic": "gelatina + vitamina C antes do treino e síntese de colágeno (tendões/ligamentos)",
+  "content_pillar": "recovery",
+  "hook": "Gelatina + vitamina C 1h antes do treino quase dobrou a produção de colágeno no sangue.",
+  "subtext": "Colágeno é a matéria-prima de tendões e ligamentos. Tomar antes de um exercício curto elevou os marcadores de síntese.",
+  "source_line": "Shaw et al., Am J Clin Nutr, 2017 (15 g de gelatina + vit. C, 1h antes de pular corda).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:gelatina-colageno"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Tendão e ligamento levam mais tempo para se recuperar do que músculo — e a nutrição pode dar uma mãozinha aí.\n\nNum estudo, homens que tomaram 15 g de gelatina enriquecida com vitamina C uma hora antes de um exercício curto (pular corda) tiveram os marcadores de síntese de colágeno no sangue (PINP) cerca de duas vezes maiores do que com placebo. E o sangue coletado após a dose aumentou o conteúdo de colágeno e a resistência de um ligamento cultivado em laboratório, de forma dose-dependente. É um estudo pequeno e de prova de conceito (8 pessoas, sem desfecho de lesão), mas o mecanismo é promissor: o colágeno é a matéria-prima de tendões e ligamentos, e a vitamina C é cofator para produzi-lo.\n\nFonte: Shaw et al., Am J Clin Nutr, 2017.",
+  "cta": "Salva — ideia pra quem quer cuidar de tendões e ligamentos.",
+  "scientific_sources": [
+    {
+      "title": "Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis",
+      "authors": "Shaw G, Lee-Barthel A, Ross MLR, Wang B, Baar K",
+      "journal": "The American Journal of Clinical Nutrition",
+      "year": 2017,
+      "volume": "105",
+      "issue": "1",
+      "pages": "136-143",
+      "doi": "10.3945/ajcn.116.138594",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_010/card.png"
+  ],
+  "post_id": "17902869576604176",
+  "published_at": "2026-09-24T20:23:36.216729+00:00"
+}
