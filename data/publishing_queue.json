@@ -412,10 +412,15 @@
       "format": "carousel",
       "topic": "bicarbonato de sódio (tampão) e desempenho",
       "hook": "O bicarbonato de sódio é um ergogênico comprovado. Só que não pra tudo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-24T00:00:00Z",
       "priority": 1,
-      "notes": "Myth-busting suplemento com evidencia forte: bicarbonato de sodio (tampao). ISSN position stand 2021; meta-analise esportes de equipe (Front Nutr 2026); meta-analise corrida continua 2025 (beneficio negligenciavel). Nuance: ajuda alta intensidade 30s-12min, nao ritmo continuo."
+      "notes": "Myth-busting suplemento com evidencia forte: bicarbonato de sodio (tampao). ISSN position stand 2021; meta-analise esportes de equipe (Front Nutr 2026); meta-analise corrida continua 2025 (beneficio negligenciavel). Nuance: ajuda alta intensidade 30s-12min, nao ritmo continuo.",
+      "published_at": "2026-09-24T11:28:48.827818+00:00",
+      "post_id": "18122053273925125",
+      "ghost_post_id": "6ab50973f1130700015dd58b",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bicarbonato-de-sodio-ergogenico-endurance/",
+      "ghost_status": "published"
     }
   ]
 }

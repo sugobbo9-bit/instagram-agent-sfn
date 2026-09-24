@@ -207,3 +207,10 @@
 {"ts": "2026-09-23T11:22:19.599217+00:00", "level": "INFO", "msg": "PUBLICADO: draft_016 -> media_id 18085371854291367"}
 {"ts": "2026-09-23T11:22:19.611988+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-23T12:12:22.936183+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-24T11:28:01.475156+00:00", "level": "INFO", "msg": "Publicando draft_017 (carousel) \u2014 bicarbonato de s\u00f3dio (tamp\u00e3o) e desempenho"}
+{"ts": "2026-09-24T11:28:01.477272+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-24T11:28:01.477337+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_017/slide_01.png"}
+{"ts": "2026-09-24T11:28:03.486239+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-24T11:28:35.607557+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-09-24T11:28:48.827648+00:00", "level": "INFO", "msg": "PUBLICADO: draft_017 -> media_id 18122053273925125"}
+{"ts": "2026-09-24T11:28:48.838237+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

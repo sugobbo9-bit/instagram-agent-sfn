@@ -6181,6 +6181,65 @@
       "derivatives_created": [],
       "ghost_post_id": "6ab3b66daa936a0001b8f54b",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-anabolica-30-minutos-mito/"
+    },
+    {
+      "post_id": "18122053273925125",
+      "local_id": "draft_017",
+      "publication_date": "2026-09-24T11:28:48.827818+00:00",
+      "format": "carousel",
+      "topic": "bicarbonato de sódio (tampão) e desempenho",
+      "content_pillar": "supplements",
+      "hook": "O bicarbonato de sódio é um ergogênico comprovado. Só que não pra tudo.",
+      "caption": "O bicarbonato de sódio (sim, o mesmo bicarbonato de cozinha) é um dos poucos ergogênicos com evidência forte — ao lado de cafeína, creatina, nitrato e beta-alanina. Mas \"comprovado\" não significa \"funciona pra tudo\".\n\nEle age como tampão: ajuda a segurar a queda de pH no músculo durante esforços intensos. Por isso o efeito aparece em esforços de alta intensidade de ~30s a 12min (tiros, subidas, sprint final, provas curtas e intermitentes). Numa corrida longa e em ritmo constante, a evidência recente aponta benefício negligenciável.\n\nNa prática: ~0,3 g/kg de peso, 60–180 min antes. O grande limitador é o desconforto gastrointestinal — dose menor, refeição rica em carboidrato ou cápsula com revestimento entérico ajudam. O efeito é pequeno e individual: teste no treino, nunca na prova.\n\nFontes: Grgic J, et al. J Int Soc Sports Nutr. 2021 (position stand ISSN). | Meta-análise em esportes de equipe, Front Nutr. 2026. | Meta-análise sobre corrida contínua, J Int Soc Sports Nutr. 2025.",
+      "cta": "Salva e manda pro parceiro de treino.",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance",
+          "authors": "Grgic J, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "volume": "18",
+          "issue": "1",
+          "pages": "61",
+          "doi": "10.1186/s12970-021-00458-w",
+          "level": "A"
+        },
+        {
+          "title": "Effects of acute or short-term oral sodium bicarbonate supplementation on high-intensity intermittent exercise performance and physiological responses in team-sport athletes: a systematic review and meta-analysis",
+          "authors": "",
+          "journal": "Frontiers in Nutrition",
+          "year": 2026,
+          "doi": "10.3389/fnut.2026.1936178",
+          "level": "A"
+        },
+        {
+          "title": "Negligible benefit of oral single-dose sodium bicarbonate on continuous running performance: systematic review with meta-analysis of randomized, double-blind, placebo-controlled trials",
+          "authors": "",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2025,
+          "doi": "10.1080/15502783.2025.2538606",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_017/slide_01.png",
+        "content/drafts/draft_017/slide_02.png",
+        "content/drafts/draft_017/slide_03.png",
+        "content/drafts/draft_017/slide_04.png",
+        "content/drafts/draft_017/slide_05.png",
+        "content/drafts/draft_017/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:bicarbonato",
+        "format:carousel",
+        "pillar:supplements"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ab50973f1130700015dd58b",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bicarbonato-de-sodio-ergogenico-endurance/"
     }
   ]
 }
