@@ -421,6 +421,16 @@
       "ghost_post_id": "6ab50973f1130700015dd58b",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bicarbonato-de-sodio-ergogenico-endurance/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_010",
+      "format": "static",
+      "topic": "gelatina + vitamina C antes do treino e síntese de colágeno (tendões/ligamentos)",
+      "hook": "Gelatina + vitamina C 1h antes do treino quase dobrou a produção de colágeno no sangue.",
+      "status": "approved",
+      "created_at": "2026-09-24T00:00:00Z",
+      "priority": 1,
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Gelatina+vit C e sintese de colageno (Shaw et al. 2017)."
     }
   ]
 }
