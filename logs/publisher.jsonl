@@ -222,3 +222,9 @@
 {"ts": "2026-09-24T20:23:36.216554+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_010 -> media_id 17902869576604176"}
 {"ts": "2026-09-24T20:23:36.229389+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-25T12:12:07.405456+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-25T20:27:25.449707+00:00", "level": "INFO", "msg": "Publicando vsabia_011 (static) \u2014 leite achocolatado como bebida de recupera\u00e7\u00e3o p\u00f3s-exerc\u00edcio"}
+{"ts": "2026-09-25T20:27:25.452174+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-25T20:27:25.452266+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_011/card.png"}
+{"ts": "2026-09-25T20:27:25.574350+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-25T20:27:37.645676+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_011 -> media_id 18214201300346143"}
+{"ts": "2026-09-25T20:27:37.671634+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

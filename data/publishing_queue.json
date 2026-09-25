@@ -439,9 +439,11 @@
       "format": "static",
       "topic": "leite achocolatado como bebida de recuperação pós-exercício",
       "hook": "Leite achocolatado recupera tão bem quanto bebida esportiva — mostrou uma revisão de 12 estudos.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-25T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "published_at": "2026-09-25T20:27:37.645877+00:00",
+      "post_id": "18214201300346143"
     }
   ]
 }
