@@ -1,0 +1,52 @@
+{
+  "local_id": "vsabia_011",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-25T00:00:00Z",
+  "topic": "leite achocolatado como bebida de recuperação pós-exercício",
+  "content_pillar": "recovery",
+  "hook": "Leite achocolatado recupera tão bem quanto bebida esportiva — mostrou uma revisão de 12 estudos.",
+  "subtext": "Ele já junta o que a recuperação pede: carboidrato pra repor o glicogênio + proteína (~3:1) pro músculo.",
+  "source_line": "Amiri et al., Eur J Clin Nutr, 2019 (revisão de 12 estudos).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:leite-achocolatado-recuperacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "A bebida de recuperação mais estudada talvez já esteja no seu mercado.\n\nUma revisão sistemática com meta-análise de 12 estudos comparou o leite achocolatado com placebo e com bebidas esportivas depois do exercício. O resultado: ele se saiu tão bem quanto — e, em alguns casos, melhor — nos marcadores de recuperação, como tempo até a exaustão num esforço seguinte. O motivo é simples: ele combina carboidrato (repõe o glicogênio) e proteína numa proporção perto de 3:1, além de líquido, sódio e potássio.\n\nNão é bala mágica e a própria revisão pede estudos maiores e mais rigorosos — mas, como opção acessível de comida de verdade no pós-treino, o achocolatado se defende muito bem.\n\nFonte: Amiri et al., European Journal of Clinical Nutrition, 2019.",
+  "cta": "Salva pra lembrar no próximo pós-treino.",
+  "scientific_sources": [
+    {
+      "title": "Chocolate milk for recovery from exercise: a systematic review and meta-analysis of controlled clinical trials",
+      "authors": "Amiri M, Ghiasvand R, Kaviani M, Forbes SC, Salehi-Abargouei A",
+      "journal": "European Journal of Clinical Nutrition",
+      "year": 2019,
+      "volume": "73",
+      "issue": "6",
+      "pages": "835-849",
+      "doi": "10.1038/s41430-018-0187-x",
+      "level": "A"
+    },
+    {
+      "title": "Chocolate milk as a post-exercise recovery aid",
+      "authors": "Karp JR, Johnston JD, Tecklenburg S, Mickleborough TD, Fly AD, Stager JM",
+      "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+      "year": 2006,
+      "volume": "16",
+      "issue": "1",
+      "pages": "78-91",
+      "doi": "10.1123/ijsnem.16.1.78",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_011/card.png"
+  ]
+}
