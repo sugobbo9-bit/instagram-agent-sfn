@@ -6321,6 +6321,41 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18224613007336390",
+      "local_id": "vsabia_012",
+      "publication_date": "2026-09-26T20:27:16.235010+00:00",
+      "format": "static",
+      "topic": "café coado funciona igual à cafeína pura (anidra) para desempenho de endurance",
+      "content_pillar": "supplements",
+      "hook": "Café funciona igual à cafeína em cápsula: ~5% mais rápido num contrarrelógio de 45 min.",
+      "caption": "Aquela ideia de que só a cafeína em cápsula \"conta\" pro desempenho? A ciência discorda.\n\nNum estudo cruzado com ciclistas e triatletas treinados, os atletas tomaram, 1 hora antes do exercício, uma de quatro bebidas: cafeína pura (5 mg/kg), café instantâneo com a mesma dose de cafeína (5 mg/kg), café descafeinado ou placebo. Depois vinha um contrarrelógio de 45 minutos. Resultado: café e cafeína pura deixaram o desempenho ~5% mais rápido do que placebo e descafeinado — e o efeito dos dois foi praticamente idêntico. O descafeinado não mudou nada, o que mostra que o ganho veio mesmo da cafeína, e não de outro composto do café.\n\nÉ um estudo pequeno (8 atletas), mas bem controlado. Na prática: se você acerta a dose (perto de 3–6 mg/kg) e o horário, um bom cafezinho antes da prova entrega o efeito ergogênico igual ao suplemento.\n\nFonte: Hodgson, Randell & Jeukendrup, PLoS ONE, 2013.",
+      "cta": "Salva pro seu ritual pré-prova.",
+      "scientific_sources": [
+        {
+          "title": "The metabolic and performance effects of caffeine compared to coffee during endurance exercise",
+          "authors": "Hodgson AB, Randell RK, Jeukendrup AE",
+          "journal": "PLoS ONE",
+          "year": 2013,
+          "volume": "8",
+          "issue": "4",
+          "pages": "e59561",
+          "doi": "10.1371/journal.pone.0059561",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_012/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:cafe-vs-cafeina"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

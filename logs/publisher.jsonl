@@ -229,3 +229,9 @@
 {"ts": "2026-09-25T20:27:37.645676+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_011 -> media_id 18214201300346143"}
 {"ts": "2026-09-25T20:27:37.671634+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-26T12:11:12.133222+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-26T20:27:00.134080+00:00", "level": "INFO", "msg": "Publicando vsabia_012 (static) \u2014 caf\u00e9 coado funciona igual \u00e0 cafe\u00edna pura (anidra) para desempenho de endurance"}
+{"ts": "2026-09-26T20:27:00.136650+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-26T20:27:00.136739+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_012/card.png"}
+{"ts": "2026-09-26T20:27:00.370092+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-26T20:27:16.234810+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_012 -> media_id 18224613007336390"}
+{"ts": "2026-09-26T20:27:16.248161+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
