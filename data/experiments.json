@@ -12,5 +12,17 @@
     "result": "null | variant_won | control_won | inconclusive",
     "learning": "string"
   },
-  "experiments": []
+  "experiments": [
+    {
+      "experiment_id": "exp_sono_hook_timing",
+      "hypothesis": "O fracasso do carrossel de extensão de sono (178) foi por hook fraco + horário ruim (11h UTC), não pelo tópico. Um hook com número na janela de 15h UTC deve recuperar o alcance esperado do tópico de maior mediana da conta.",
+      "variable_changed": "hook",
+      "control_post_id": "carousel_sono_extensao_178",
+      "variant_post_id": "der_sono_retest",
+      "started_at": "2026-09-27",
+      "concluded_at": null,
+      "result": null,
+      "learning": ""
+    }
+  ]
 }

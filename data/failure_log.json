@@ -54,7 +54,7 @@
       "tier": "bottom25",
       "date": "2026-09-18",
       "diagnosis": "tópico",
-      "detail": "Tema muito de nicho para o público amador. Execução e hook adequados; o teto do tópico é baixo.",
+      "detail": "Tema muito de nicho para o público amador. Execução e hook adequados; o teto do tópico é baixo. [2026-09-27: reconfirmado — alcance final 168, 0 shares/0 saves; pior conversão do ciclo. Tópico morto para o público amador.]",
       "idea_verdict": "não priorizar"
     },
     {
@@ -67,7 +67,29 @@
       "diagnosis": "tópico",
       "detail": "Pilar suplemento de nicho; alcance abaixo da mediana de carrossel.",
       "idea_verdict": "reaproveitar com ângulo prático mais amplo"
+    },
+    {
+      "post_id": "carousel_sono_extensao_178",
+      "topic": "extensão de sono e desempenho",
+      "format": "carousel",
+      "reach": 178,
+      "tier": "bottom25",
+      "date": "2026-09-21",
+      "diagnosis": "hook + timing",
+      "detail": "Grande decepção: sono é o tópico de MAIOR alcance mediano da conta (1.164), mas este derivado (draft_014) fez apenas 178. Idea forte, execução fraca: hook mole ('A maioria dos atletas acha que dorme o suficiente') sem tensão nem número no 1o frame, e publicado seg 11h UTC (08h BRT, janela fraca). Não é problema de tópico. Reteste com hook de número/contraintuitivo e na janela de 15h UTC.",
+      "idea_verdict": "retestar com hook mais forte na janela certa"
+    },
+    {
+      "post_id": "carousel_janela_anabolica_271",
+      "topic": "janela anabólica de 30 min",
+      "format": "carousel",
+      "reach": 271,
+      "tier": "bottom25",
+      "date": "2026-09-23",
+      "diagnosis": "tópico (baixa novidade)",
+      "detail": "Mito já muito desmascarado no nicho — baixa curiosidade/novidade ('não sabia disso' fraco). Hook e execução ok. Teto baixo por saturação do tema.",
+      "idea_verdict": "não priorizar isolado; só como item dentro de post mais amplo de timing/proteína"
     }
   ],
-  "_last_review": "2026-09-20"
+  "_last_review": "2026-09-27"
 }

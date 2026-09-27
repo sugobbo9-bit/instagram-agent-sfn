@@ -41,3 +41,30 @@ Achado forte da rotina de audiência: **as duas principais decisões do ciclo de
 - **Horário:** a estratégia definiu 12h BRT (15h UTC) como melhor janela (mediana 828 vs. 302 às 8h), mas o cron do `publish.yml` é `0 12 * * *` UTC = 09h BRT, e os posts de 18–23/09 saíram ~08h20 BRT. A melhor alavanca de alcance identificada não estava ligada. Correção: `cron 0 15 * * *`.
 - **Estático:** decidida a pausa da série "você sabia" em 20/09, mas estáticos continuaram saindo (19, 20, 22/09).
 Lição de processo: validar que decisões da revisão semanal chegam à automação (cron/fila), não só ao documento.
+
+## Ciclo 2026-09-27
+
+### Sobre a Conta
+9.418 seguidores (+152 na semana — **melhor semana registrada**). Crescimento acelerou mesmo com alcance recente fraco: sinal de que a conversão por alcance melhorou (poucos carrosséis de alto salvamento puxando follows). follows/reach por post ainda cego (Graph API não entrega).
+
+### Sobre Alcance (NOVO)
+Alcance recente de carrossel caiu abaixo do baseline: 14d=320, 7d=296 vs all-time 474. Os grandes carrosséis de início de setembro saíram da janela e os recentes são medianos. Baseline all-time também recuou levemente (495→474) com a base ampliada (n=65).
+
+### Sobre Vencedores/Fracassos (NOVO)
+- Vencedor do ciclo: **carga de carboidrato/depleção (918, saves/reach 0,039 — maior do ciclo)**. Protocolo prático + myth-busting = altíssimo salvamento. Família nova para explorar.
+- Cafeína (975) reforça a família cafeína como vencedora recorrente; funcionou mesmo às 11h UTC — a força do tópico superou o horário ruim.
+- Fracasso-alerta: **extensão de sono (178)** com o tópico de MAIOR mediana da conta (1.164). Causa: hook mole sem número + 11h UTC. Bom tópico morre com hook/timing fracos. Reteste como experimento controlado.
+- Cetonas (168, 0/0) e janela anabólica (271) reconfirmam teto baixo de nicho/mito saturado.
+
+### Sobre Implementação vs. Estratégia (REINCIDENTE — 3ª semana)
+As MESMAS duas decisões seguem sem chegar à execução:
+- **Estáticos não pausados** (11 em 14 dias, todos no fundo, às 20h UTC).
+- **Horário não corrigido** (carrosséis às 11h UTC/08h BRT em vez de 15h UTC).
+Diagnóstico técnico deste ciclo: o `publisher.py` **ignora `scheduled_for`** — publica o próximo `approved` por prioridade quando dispachado. Quem controla o horário/volume são os `workflow_dispatch` da rotina DIÁRIA (~11h carrossel, ~20h estático) mais o cron do publish.yml. **O loop semanal não controla os dispatches diários.** Ação deste run: **tentativa** de mover o cron `0 12`→`0 15` foi BLOQUEADA (PAT sem escopo `workflow`; push rejeitado) — escalado ao Victor. Escalonamento explícito registrado. Lição de processo: decisões de formato/horário precisam ser aplicadas na rotina DIÁRIA, não só no documento nem na fila.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-09-27 | (TENTADO) cron 0 12 → 0 15 UTC — bloqueado (PAT sem escopo workflow) | Colocaria a publicação por cron na melhor janela | carrossel 15h UTC mediana 828 vs 11-12h UTC ~317 |
+| 2026-09-27 | +2 derivados da família "carga de carbo"; reteste de sono como experimento | Explorar vencedor (918, saves/reach 0,039); recuperar tópico forte que falhou por hook | winner_library / failure_log / experiments |
+| 2026-09-27 | Escalado: rotina DIÁRIA deve parar estáticos e dispachar 15h UTC | 3ª semana com as decisões sem implementação | posts_db 14d (11 estáticos, carrosséis 11h UTC) |

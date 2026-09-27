@@ -456,6 +456,39 @@
       "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Cafe coado = cafeina anidra p/ endurance (Hodgson, Randell & Jeukendrup, PLoS ONE 2013).",
       "published_at": "2026-09-26T20:27:16.235010+00:00",
       "post_id": "18224613007336390"
+    },
+    {
+      "local_id": "der_carga_carbo_passo",
+      "format": "carousel",
+      "topic": "carga de carboidrato: o passo a passo prático",
+      "hook": "Carga de carbo não é comer massa na véspera. É um protocolo de 2 dias com número.",
+      "status": "draft",
+      "created_at": "2026-09-27",
+      "scheduled_for": "2026-10-05T15:00:00Z",
+      "priority": 1,
+      "notes": "Derivado do VENCEDOR carga_carbo_918 (maior saves/reach do ciclo, 0,039). Família periodização de fueling. Ângulo prático: g/kg/dia, timing de 24-48h, o que muda por distância. Publicar seg 12h BRT (15h UTC)."
+    },
+    {
+      "local_id": "der_carga_carbo_erros",
+      "format": "carousel",
+      "topic": "os erros que sabotam a carga de carboidrato",
+      "hook": "3 erros de carga de carbo que fazem você largar pesado — e nenhum é 'comer demais'.",
+      "status": "draft",
+      "created_at": "2026-09-27",
+      "scheduled_for": "2026-10-08T15:00:00Z",
+      "priority": 2,
+      "notes": "Segundo derivado de carga_carbo_918. Versão 'mistake-based' da família vencedora. Preserva o insight, muda a embalagem. Publicar qui 12h BRT (15h UTC)."
+    },
+    {
+      "local_id": "der_sono_retest",
+      "format": "carousel",
+      "topic": "extensão de sono e desempenho (RETESTE)",
+      "hook": "Atletas que passaram a dormir 10h por noite ficaram mais rápidos. Não é exagero: é dado.",
+      "status": "draft",
+      "created_at": "2026-09-27",
+      "scheduled_for": "2026-10-06T15:00:00Z",
+      "priority": 1,
+      "notes": "RETESTE do der_sono_extensao (fracassou com 178: hook mole + timing 11h UTC). Mesma ideia (extensão de sono, Mah et al.), hook novo com NÚMERO e resultado concreto no 1o frame. Publicar ter 12h BRT (15h UTC) — NÃO às 11h. Experimento: variável = hook+horário, controle = draft_014."
     }
   ]
 }

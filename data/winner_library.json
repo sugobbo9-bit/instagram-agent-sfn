@@ -90,7 +90,44 @@
       "derivatives_created": [
         "der_comparacao_gel_bebida"
       ]
+    },
+    {
+      "post_id": "carga_carbo_918",
+      "permalink_hint": "carga de carboidrato / depleção — protocolo antigo (2026-09-22)",
+      "format": "carousel",
+      "reach": 918,
+      "shares_per_reach": 0.023,
+      "saves_per_reach": 0.039,
+      "tier": "top25_recent",
+      "why_it_worked": [
+        "maior saves/reach do ciclo (0,039) — protocolo prático de altíssimo valor de salvamento",
+        "myth-busting de protocolo clássico (depleção + supercompensação) com veredito atualizado",
+        "tema de fueling/periodização, pilar forte da conta; entrega passo a passo acionável"
+      ],
+      "content_family": "carga de carboidrato / periodização de fueling",
+      "derivatives_created": [
+        "der_carga_carbo_passo",
+        "der_carga_carbo_erros"
+      ]
+    },
+    {
+      "post_id": "cafeina_975",
+      "permalink_hint": "cafeína, o ergogênico mais documentado — reforço (2026-09-17)",
+      "format": "carousel",
+      "reach": 975,
+      "shares_per_reach": 0.017,
+      "saves_per_reach": 0.01,
+      "tier": "top25_recent",
+      "why_it_worked": [
+        "reforça a família 'cafeína' como vencedora recorrente (par com cafeina_1558)",
+        "myth-busting + relevância diária altíssima para o público",
+        "acima do p75 de carrossel (838) mesmo publicado às 11h UTC (janela fraca) — força do tópico supera o horário"
+      ],
+      "content_family": "cafeína",
+      "derivatives_created": [
+        "der_cafeina_dose_timing"
+      ]
     }
   ],
-  "_last_review": "2026-09-20"
+  "_last_review": "2026-09-27"
 }

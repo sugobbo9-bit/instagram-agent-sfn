@@ -20,7 +20,7 @@
       "sample_size": 18,
       "median_reach": 206.5,
       "median_shares_per_reach": 0.0083,
-      "median_saves_per_reach": 0.0115,
+      "median_saves_per_reach": 0.0116,
       "median_comments_per_reach": 0.0
     }
   },
@@ -49,6 +49,41 @@
         "Padronizar publicação às 12h BRT (15h UTC) — melhor janela (mediana 828).",
         "Reduzir suplementos de nicho (BCAA, cetonas, antioxidantes); priorizar myth-busting em fueling/hidratação/sono/cafeína e comparações de produto.",
         "6 derivados de vencedores enfileirados."
+      ]
+    },
+    {
+      "week_ending": "2026-09-27",
+      "followers_count": 9418,
+      "followers_delta_week": 152,
+      "posts_last_7d": {
+        "carousel": 4,
+        "static": 5,
+        "reel": 0
+      },
+      "medians_last_7d": {
+        "carousel_reach": 296,
+        "static_reach": 150
+      },
+      "medians_last_14d": {
+        "carousel_reach": 320,
+        "static_reach": 181
+      },
+      "baseline_full": {
+        "carousel_reach": 474,
+        "reel_reach": 256,
+        "static_reach": 206.5
+      },
+      "key_findings": [
+        "Crescimento de seguidores ACELEROU: +152 na semana (melhor semana registrada), apesar do alcance recente fraco.",
+        "Alcance recente de carrossel abaixo do baseline (14d=320 vs all-time 474): menos posts de ruptura.",
+        "IMPLEMENTAÇÃO: a pausa dos estáticos e a mudança de horário (15h UTC) NÃO foram aplicadas pela 3a semana. Estáticos seguem saindo diário às 20h UTC; carrosséis às 11h UTC (janela fraca).",
+        "Vencedores: carga de carbo (918, saves/reach 0,039) e cafeína (975). Fracassos: extensão de sono (178, hook+timing), janela anabólica (271, novidade), cetonas (168, tópico morto)."
+      ],
+      "key_decisions": [
+        "Registrados 2 vencedores (carga de carbo, cafeína) + 4 derivados enfileirados.",
+        "Registrados 3 fracassos com diagnóstico; reteste de sono como experimento (hook+horário).",
+        "ESCALADO ao Victor: a rotina DIÁRIA precisa parar de produzir estáticos e dispachar carrosséis às 15h UTC — o loop semanal não controla os dispatches diários.",
+        "TENTADO mover cron publish.yml 0 12->0 15 UTC: BLOQUEADO (PAT sem escopo workflow, push rejeitado) — escalado ao Victor."
       ]
     }
   ],
