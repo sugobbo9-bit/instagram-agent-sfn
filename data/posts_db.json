@@ -6556,6 +6556,52 @@
       "derivatives_created": [],
       "ghost_post_id": "6aba512d25d3b1000141495a",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/dieta-cetogenica-low-carb-endurance-desempenho/"
+    },
+    {
+      "post_id": "18123266777493222",
+      "local_id": "vsabia_013",
+      "publication_date": "2026-09-28T20:26:39.457601+00:00",
+      "format": "static",
+      "topic": "suco concentrado de cereja azeda (Montmorency) e recuperação muscular",
+      "content_pillar": "recovery",
+      "hook": "Cereja azeda ajuda o músculo a se recuperar: 48 h após o esforço, a força estava 19% mais alta.",
+      "caption": "Não é bebida esportiva nem gel: é uma frutinha azeda.\n\nA cereja azeda Montmorency é riquíssima em antocianinas — polifenóis com forte ação antioxidante e anti-inflamatória. A ideia é que, ao segurar um pouco a inflamação e o estresse oxidativo que o exercício intenso provoca, ela deixa o músculo recuperar a função mais rápido.\n\nNum estudo controlado, atletas tomaram 30 mL de concentrado duas vezes ao dia (começando dias antes do esforço). Depois de uma sessão puxada, o grupo da cereja recuperou a força melhor: o pico de diferença apareceu em 48 h, quando a contração isométrica máxima estava 19% mais alta que no placebo — e a dor muscular tardia (aquela DOMS de dois dias depois) foi menor em todos os momentos medidos (p = 0,011).\n\nO efeito também já apareceu em corredores: depois de uma maratona, quem tomou suco de cereja azeda recuperou a força mais rápido e teve menos marcadores de inflamação (Howatson et al., 2010).\n\nImportante: o benefício é sobretudo de RECUPERAÇÃO após esforço que causa dano muscular — não é uma poção mágica que te faz mais rápido. E são estudos pequenos. Mas, como recovery, é uma das evidências mais consistentes entre os alimentos.\n\nFonte: Bell et al., Nutrients, 2016; Howatson et al., Scand J Med Sci Sports, 2010.",
+      "cta": "Salva pra sua semana de prova ou de treino forte.",
+      "scientific_sources": [
+        {
+          "title": "The Effects of Montmorency Tart Cherry Concentrate Supplementation on Recovery Following Prolonged, Intermittent Exercise",
+          "authors": "Bell PG, Stevenson E, Davison GW, Howatson G",
+          "journal": "Nutrients",
+          "year": 2016,
+          "volume": "8",
+          "issue": "7",
+          "pages": "441",
+          "doi": "10.3390/nu8070441",
+          "level": "B"
+        },
+        {
+          "title": "Influence of tart cherry juice on indices of recovery following marathon running",
+          "authors": "Howatson G, McHugh MP, Hill JA, et al.",
+          "journal": "Scandinavian Journal of Medicine & Science in Sports",
+          "year": 2010,
+          "volume": "20",
+          "issue": "6",
+          "pages": "843-852",
+          "doi": "10.1111/j.1600-0838.2009.01005.x",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_013/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:cereja-azeda-recuperacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
