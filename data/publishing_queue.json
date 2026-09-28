@@ -489,6 +489,17 @@
       "scheduled_for": "2026-10-06T15:00:00Z",
       "priority": 1,
       "notes": "RETESTE do der_sono_extensao (fracassou com 178: hook mole + timing 11h UTC). Mesma ideia (extensão de sono, Mah et al.), hook novo com NÚMERO e resultado concreto no 1o frame. Publicar ter 12h BRT (15h UTC) — NÃO às 11h. Experimento: variável = hook+horário, controle = draft_014."
+    },
+    {
+      "local_id": "draft_018",
+      "format": "carousel",
+      "topic": "dieta cetogênica / low-carb (adaptação à gordura) e desempenho de endurance",
+      "hook": "Queimar mais gordura não te faz mais rápido — pode te fazer mais lento.",
+      "status": "approved",
+      "created_at": "2026-09-28T00:00:00Z",
+      "scheduled_for": "2026-09-28T15:00:00Z",
+      "priority": 1,
+      "notes": "Myth-busting fueling/periodizacao (uncovered): adaptacao a gordura (low-carb/keto) aumenta oxidacao de gordura mas piora economia e nao melhora desempenho em ritmo de prova. Meta-analise Gawelczyk 2026 (Nutrients); Burke 2017 (J Physiol) e Burke 2020 (PLoS ONE), marchadores de elite."
     }
   ]
 }

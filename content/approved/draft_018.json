@@ -1,0 +1,127 @@
+{
+  "local_id": "draft_018",
+  "format": "carousel",
+  "status": "approved",
+  "created_at": "2026-09-28T00:00:00Z",
+  "topic": "dieta cetogênica / low-carb (adaptação à gordura) e desempenho de endurance",
+  "content_pillar": "nutrition",
+  "hook": "Queimar mais gordura não te faz mais rápido — pode te fazer mais lento.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:cetogenica_lowcarb",
+    "format:carousel",
+    "pillar:fueling_periodizacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Queimar mais gordura não te faz mais rápido — pode te fazer mais lento.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "A ideia parece lógica",
+      "body": "A gordura é a maior reserva de energia do corpo. A promessa: corte o carboidrato (dieta low-carb ou cetogênica), 'adapte' o corpo a queimar gordura e você teria combustível quase infinito e mais desempenho no endurance.\n\nA lógica é boa. A fisiologia não segue essa conta.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "QUEIMAR NÃO É RENDER",
+      "headline": "A adaptação à gordura tem um custo escondido",
+      "body": "A adaptação é real: em poucas semanas, a queima de gordura dispara.\n\nMas gerar energia a partir de gordura exige mais oxigênio do que a partir de carboidrato. Em ritmo de prova, você gasta mais oxigênio para manter o mesmo pace — a sua economia de movimento piora.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Mais queima de gordura, mesma (ou pior) velocidade",
+      "body": "Meta-análise de 2026 (33 estudos, 409 atletas): a queima de gordura subiu em 100% dos estudos, mas a economia piorou em metade deles e o desempenho não melhorou de forma consistente.\n\nMarchadores de elite (Burke, 2017 e 2020): a cetogênica elevou o custo de oxigênio em ~6-7% e deixou a prova de 10 km 2,3% mais lenta — enquanto o grupo alto-carbo melhorou 4,8%.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que fazer com isso",
+      "body": "• Para render em intensidade moderada a alta, priorize carboidrato disponível no treino e na prova.\n• 'Queimar mais gordura' é uma ferramenta metabólica, não um atalho para velocidade.\n• Low-carb pode ter outros usos, mas não é comprovado como acelerador de desempenho.\n→ Combustível de prova rápida ainda é carboidrato.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Queimar gordura não é o mesmo que ir mais rápido.",
+      "body": "Salva pra lembrar antes de cortar o carbo achando que vai voar.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "'Adaptar o corpo à gordura' virou promessa de desempenho no endurance. Mas queimar mais gordura não é o mesmo que render mais.\n\nA dieta cetogênica/low-carb realmente aumenta muito a oxidação de gordura — isso é sólido. O problema: a gordura exige mais oxigênio para gerar energia, então a economia de movimento piora em ritmos de prova. Na prática, o desempenho em intensidade moderada a alta não melhora — e pode piorar.\n\nA evidência é matizada: com semanas de adaptação, parte dos estudos mostra desempenho mantido, mas não superior ao alto-carbo. Para competir rápido, carboidrato disponível segue sendo a escolha baseada em evidência.\n\nFontes: Gawelczyk et al. Nutrients. 2026. | Burke et al. J Physiol. 2017. | Burke et al. PLoS ONE. 2020.",
+  "cta": "Salva e manda pro amigo que jurou que low-carb ia deixá-lo mais rápido.",
+  "scientific_sources": [
+    {
+      "title": "Effects of Low-Carbohydrate and Ketogenic Diets on Aerobic Performance in Trained Athletes: A Systematic Review and Meta-Analysis",
+      "authors": "Gawelczyk M, Kaszuba M, Zając A, Maszczyk A",
+      "journal": "Nutrients",
+      "year": 2026,
+      "volume": "18",
+      "issue": "5",
+      "pages": "740",
+      "doi": "10.3390/nu18050740",
+      "level": "A"
+    },
+    {
+      "title": "Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers",
+      "authors": "Burke LM, Ross ML, Garvican-Lewis LA, Welvaert M, Heikura IA, Forbes SG, Mirtschin JG, Cato LE, Strobel N, Sharma AP, Hawley JA",
+      "journal": "The Journal of Physiology",
+      "year": 2017,
+      "volume": "595",
+      "issue": "9",
+      "pages": "2785-2807",
+      "doi": "10.1113/JP273230",
+      "level": "B"
+    },
+    {
+      "title": "Crisis of confidence averted: Impairment of exercise economy and performance in elite race walkers by ketogenic low carbohydrate, high fat (LCHF) diet is reproducible",
+      "authors": "Burke LM, Sharma AP, Heikura IA, Forbes SF, Holloway M, McKay AKA, Bone JL, Leckey JJ, Welvaert M, Ross ML",
+      "journal": "PLoS ONE",
+      "year": 2020,
+      "volume": "15",
+      "issue": "6",
+      "pages": "e0234027",
+      "doi": "10.1371/journal.pone.0234027",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Dieta cetogênica e endurance: queimar mais gordura não te deixa mais rápido",
+    "slug": "dieta-cetogenica-low-carb-endurance-desempenho",
+    "excerpt": "A adaptação à gordura aumenta muito a queima de gordura — mas piora a economia de movimento e não melhora o desempenho em ritmos de prova. O que a meta-análise e os estudos com atletas de elite realmente mostram.",
+    "meta_title": "Dieta cetogênica e desempenho de endurance — o que a ciência mostra",
+    "tags": [
+      "Dieta Cetogênica",
+      "Low-Carb",
+      "Fueling",
+      "Endurance",
+      "Carboidrato"
+    ],
+    "html": "<p>Nos últimos anos, a ideia da <em>\"adaptação à gordura\"</em> (fat-adaptation) virou promessa de desempenho no endurance: corte o carboidrato, ensine o corpo a queimar gordura e ganhe um combustível praticamente inesgotável. A lógica é sedutora. A evidência conta outra história.</p>\n\n<h2>De onde vem a promessa</h2>\n\n<p>Mesmo um atleta magro carrega dezenas de milhares de calorias em gordura, contra reservas limitadas de glicogênio. Se fosse possível deslocar o metabolismo para queimar mais gordura em ritmo de prova, em tese haveria menos dependência de reabastecer carboidrato. Daí o apelo das dietas low-carb e cetogênicas para corredores, ciclistas e triatletas.</p>\n\n<h2>Queimar mais gordura não é o mesmo que render mais</h2>\n\n<p>A parte real: cortar carboidrato aumenta muito a oxidação de gordura, e isso acontece de forma consistente. O problema é o passo seguinte. Gerar ATP a partir de gordura consome <strong>mais oxigênio</strong> por unidade de energia do que a partir de carboidrato. Em intensidades de prova, isso significa gastar mais oxigênio para manter o mesmo ritmo — ou seja, uma <strong>economia de movimento pior</strong>. Mais queima de gordura vem, portanto, com um custo escondido justamente onde importa: no esforço competitivo.</p>\n\n<h2>O que os estudos mostram</h2>\n\n<p>Uma revisão sistemática com meta-análise publicada em 2026 (Gawelczyk et al., <em>Nutrients</em>) reuniu 33 estudos com 409 atletas treinados. A queima de gordura aumentou em 100% dos estudos (de +28% a +200% em relação ao controle). Mas a economia de exercício piorou em cerca de metade deles, e o desempenho aeróbio não melhorou de forma consistente — os efeitos foram, na melhor das hipóteses, matizados, com quedas transitórias nas primeiras semanas de adaptação.</p>\n\n<p>Os estudos mais controlados sobre o tema foram feitos com marchadores de elite. Burke et al. (2017, <em>The Journal of Physiology</em>) mostraram que uma dieta cetogênica elevou o custo de oxigênio em velocidades de prova e anulou o ganho de desempenho obtido com um bloco de treino intensificado. Em 2020 (Burke et al., <em>PLoS ONE</em>), o grupo replicou o achado: o custo de oxigênio subiu cerca de 6–7% e, numa prova de 10 km, o grupo cetogênico ficou 2,3% mais lento, enquanto o grupo com alta disponibilidade de carboidrato melhorou 4,8%.</p>\n\n<h2>A nuance honesta</h2>\n\n<p>A evidência não diz que low-carb \"não funciona para nada\". Diz que, para desempenho em intensidade moderada a alta — a faixa da maioria das provas — a adaptação à gordura não entrega a velocidade prometida e tende a piorar a economia. Em esforços muito longos e de baixa intensidade, ou por outras razões (saúde, preferência, tolerância gastrointestinal), a conversa pode ser diferente. O que não se sustenta na literatura é a ideia de low-carb como acelerador de desempenho.</p>\n\n<h2>Recomendações práticas</h2>\n\n<table>\n<thead><tr><th>Situação</th><th>Escolha baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Provas de intensidade moderada a alta</td><td>Priorizar carboidrato disponível no treino e na prova</td></tr>\n<tr><td>Objetivo \"queimar mais gordura\"</td><td>Ferramenta metabólica — não é atalho para velocidade</td></tr>\n<tr><td>Interesse em low-carb</td><td>Possíveis outros usos, mas sem ganho comprovado de desempenho</td></tr>\n</tbody>\n</table>\n\n<p>Queimar gordura e ir mais rápido são coisas diferentes. Para competir em ritmo forte, o combustível com melhor evidência continua sendo o carboidrato.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Gawelczyk M, Kaszuba M, Zając A, Maszczyk A. Effects of Low-Carbohydrate and Ketogenic Diets on Aerobic Performance in Trained Athletes: A Systematic Review and Meta-Analysis. <em>Nutrients</em>. 2026;18(5):740. doi:10.3390/nu18050740</li>\n<li>Burke LM, Ross ML, Garvican-Lewis LA, et al. Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers. <em>J Physiol</em>. 2017;595(9):2785–2807. doi:10.1113/JP273230</li>\n<li>Burke LM, Sharma AP, Heikura IA, et al. Crisis of confidence averted: Impairment of exercise economy and performance in elite race walkers by ketogenic low carbohydrate, high fat (LCHF) diet is reproducible. <em>PLoS ONE</em>. 2020;15(6):e0234027. doi:10.1371/journal.pone.0234027</li>\n</ol>\n",
+    "cover": "content/drafts/draft_018/cover.png",
+    "cover_alt": "Dieta cetogênica e endurance: queimar mais gordura não te deixa mais rápido — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_018/slide_01.png",
+    "content/drafts/draft_018/slide_02.png",
+    "content/drafts/draft_018/slide_03.png",
+    "content/drafts/draft_018/slide_04.png",
+    "content/drafts/draft_018/slide_05.png",
+    "content/drafts/draft_018/slide_06.png"
+  ]
+}
