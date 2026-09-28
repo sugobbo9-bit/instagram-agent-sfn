@@ -6491,6 +6491,71 @@
       "performance_tier": null,
       "derivatives_created": [],
       "permalink": "https://www.instagram.com/p/Ddw5CGYk8Lg/"
+    },
+    {
+      "post_id": "18116671381992062",
+      "local_id": "draft_018",
+      "publication_date": "2026-09-28T11:36:10.856292+00:00",
+      "format": "carousel",
+      "topic": "dieta cetogênica / low-carb (adaptação à gordura) e desempenho de endurance",
+      "content_pillar": "nutrition",
+      "hook": "Queimar mais gordura não te faz mais rápido — pode te fazer mais lento.",
+      "caption": "'Adaptar o corpo à gordura' virou promessa de desempenho no endurance. Mas queimar mais gordura não é o mesmo que render mais.\n\nA dieta cetogênica/low-carb realmente aumenta muito a oxidação de gordura — isso é sólido. O problema: a gordura exige mais oxigênio para gerar energia, então a economia de movimento piora em ritmos de prova. Na prática, o desempenho em intensidade moderada a alta não melhora — e pode piorar.\n\nA evidência é matizada: com semanas de adaptação, parte dos estudos mostra desempenho mantido, mas não superior ao alto-carbo. Para competir rápido, carboidrato disponível segue sendo a escolha baseada em evidência.\n\nFontes: Gawelczyk et al. Nutrients. 2026. | Burke et al. J Physiol. 2017. | Burke et al. PLoS ONE. 2020.",
+      "cta": "Salva e manda pro amigo que jurou que low-carb ia deixá-lo mais rápido.",
+      "scientific_sources": [
+        {
+          "title": "Effects of Low-Carbohydrate and Ketogenic Diets on Aerobic Performance in Trained Athletes: A Systematic Review and Meta-Analysis",
+          "authors": "Gawelczyk M, Kaszuba M, Zając A, Maszczyk A",
+          "journal": "Nutrients",
+          "year": 2026,
+          "volume": "18",
+          "issue": "5",
+          "pages": "740",
+          "doi": "10.3390/nu18050740",
+          "level": "A"
+        },
+        {
+          "title": "Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers",
+          "authors": "Burke LM, Ross ML, Garvican-Lewis LA, Welvaert M, Heikura IA, Forbes SG, Mirtschin JG, Cato LE, Strobel N, Sharma AP, Hawley JA",
+          "journal": "The Journal of Physiology",
+          "year": 2017,
+          "volume": "595",
+          "issue": "9",
+          "pages": "2785-2807",
+          "doi": "10.1113/JP273230",
+          "level": "B"
+        },
+        {
+          "title": "Crisis of confidence averted: Impairment of exercise economy and performance in elite race walkers by ketogenic low carbohydrate, high fat (LCHF) diet is reproducible",
+          "authors": "Burke LM, Sharma AP, Heikura IA, Forbes SF, Holloway M, McKay AKA, Bone JL, Leckey JJ, Welvaert M, Ross ML",
+          "journal": "PLoS ONE",
+          "year": 2020,
+          "volume": "15",
+          "issue": "6",
+          "pages": "e0234027",
+          "doi": "10.1371/journal.pone.0234027",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_018/slide_01.png",
+        "content/drafts/draft_018/slide_02.png",
+        "content/drafts/draft_018/slide_03.png",
+        "content/drafts/draft_018/slide_04.png",
+        "content/drafts/draft_018/slide_05.png",
+        "content/drafts/draft_018/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:cetogenica_lowcarb",
+        "format:carousel",
+        "pillar:fueling_periodizacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aba512d25d3b1000141495a",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/dieta-cetogenica-low-carb-endurance-desempenho/"
     }
   ]
 }
