@@ -505,6 +505,16 @@
       "ghost_post_id": "6aba512d25d3b1000141495a",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/dieta-cetogenica-low-carb-endurance-desempenho/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_013",
+      "format": "static",
+      "topic": "suco concentrado de cereja azeda (Montmorency) e recuperação muscular",
+      "hook": "Cereja azeda ajuda o músculo a se recuperar: 48 h após o esforço, a força estava 19% mais alta.",
+      "status": "approved",
+      "created_at": "2026-09-28T00:00:00Z",
+      "priority": 1,
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Cereja azeda Montmorency e recuperacao (Bell et al. 2016 Nutrients, +19% MVIC 48h; Howatson et al. 2010 maratona)."
     }
   ]
 }
