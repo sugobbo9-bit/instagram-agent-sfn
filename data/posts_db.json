@@ -6602,6 +6602,60 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18123387713304081",
+      "local_id": "draft_019",
+      "publication_date": "2026-09-30T11:23:56.656865+00:00",
+      "format": "carousel",
+      "topic": "índice glicêmico da refeição pré-exercício e desempenho de endurance",
+      "content_pillar": "nutrition",
+      "hook": "Baixo índice glicêmico antes da prova não decide seu desempenho.",
+      "caption": "\"Come baixo índice glicêmico antes da prova pra não ter pico e queda.\" Faz sentido na teoria — mas quando o desfecho é desempenho, a evidência não sustenta a regra.\n\nDuas meta-análises de 2017 chegaram a conclusões diferentes: a maior (19 estudos, 188 atletas) não achou benefício claro do baixo IG; a outra achou um efeito pequeno, mas com evidência fraca. E o pouco que aparece tende a sumir quando você ingere carboidrato durante o exercício — que é o que atletas de endurance devem fazer em esforços longos.\n\nO que decide de verdade: carboidrato total (1–4 g/kg, 1–4 h antes), escolher o que o seu estômago tolera, e abastecer durante (30–60 g/h acima de 1 h). O índice glicêmico da refeição pré-treino é um detalhe fino, não a alavanca.\n\nFontes: Burdon CA et al. Sports Med. 2017;47(6):1087-1101. | Wong SH-S et al. Nutr Rev. 2017;75(5):327-338.",
+      "cta": "Salva e manda pra quem trava a refeição pré-prova no 'baixo IG'.",
+      "scientific_sources": [
+        {
+          "title": "Effect of Glycemic Index of a Pre-exercise Meal on Endurance Exercise Performance: A Systematic Review and Meta-analysis",
+          "authors": "Burdon CA, Spronk I, Cheng HL, O'Connor HT",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "6",
+          "pages": "1087-1101",
+          "doi": "10.1007/s40279-016-0632-8",
+          "level": "A"
+        },
+        {
+          "title": "Effect of pre-exercise carbohydrate diets with high vs low glycemic index on exercise performance: a meta-analysis",
+          "authors": "Wong SH, Sun FH, Chen YJ, Li C, Zhang YJ, Huang WY",
+          "journal": "Nutrition Reviews",
+          "year": 2017,
+          "volume": "75",
+          "issue": "5",
+          "pages": "327-338",
+          "doi": "10.1093/nutrit/nux003",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_019/slide_01.png",
+        "content/drafts/draft_019/slide_02.png",
+        "content/drafts/draft_019/slide_03.png",
+        "content/drafts/draft_019/slide_04.png",
+        "content/drafts/draft_019/slide_05.png",
+        "content/drafts/draft_019/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:fueling",
+        "topic:indice_glicemico",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6abcf14f48d3a80001aa9074",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/indice-glicemico-pre-exercicio-desempenho-endurance/"
     }
   ]
 }

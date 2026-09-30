@@ -523,8 +523,13 @@
       "format": "carousel",
       "topic": "índice glicêmico da refeição pré-exercício e desempenho de endurance",
       "hook": "Baixo índice glicêmico antes da prova não decide seu desempenho.",
-      "status": "approved",
-      "created_at": "2026-09-30T00:00:00Z"
+      "status": "published",
+      "created_at": "2026-09-30T00:00:00Z",
+      "published_at": "2026-09-30T11:23:56.656865+00:00",
+      "post_id": "18123387713304081",
+      "ghost_post_id": "6abcf14f48d3a80001aa9074",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/indice-glicemico-pre-exercicio-desempenho-endurance/",
+      "ghost_status": "published"
     }
   ]
 }

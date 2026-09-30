@@ -1,0 +1,117 @@
+{
+  "local_id": "draft_019",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-09-30T00:00:00Z",
+  "topic": "índice glicêmico da refeição pré-exercício e desempenho de endurance",
+  "content_pillar": "nutrition",
+  "hook": "Baixo índice glicêmico antes da prova não decide seu desempenho.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:fueling",
+    "topic:indice_glicemico",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Baixo índice glicêmico antes da prova não decide seu desempenho.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "De onde veio a regra do 'baixo IG'?",
+      "body": "A ideia: comer carbo de alto índice glicêmico antes da largada dispara insulina, derruba a glicose e te deixa sem energia. Então você deveria escolher aveia e batata-doce em vez de pão branco e banana madura.\n\nVirou dogma nos grupos de corrida. Mas será que muda o cronômetro?",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE FOI MEDIDO",
+      "headline": "Duas meta-análises olharam para isso — e discordam.",
+      "body": "Quando a pergunta é desempenho (tempo de prova, tempo até a exaustão), as revisões que juntaram os estudos não encontram uma vantagem robusta do baixo IG.\n\nO efeito, quando aparece, é pequeno e some no cenário que interessa: quando você se abastece com carbo DURANTE o exercício.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Pequeno, inconsistente e frágil.",
+      "body": "Burdon et al. (Sports Med, 2017): 19 estudos, 188 atletas. Sem benefício claro do baixo IG no desempenho — independentemente de ingerir carbo durante o exercício.\n\nWong et al. (Nutr Rev, 2017): efeito pequeno a favor do baixo IG (d=0,42), mas os próprios autores classificam a evidência como fraca e de baixa qualidade metodológica.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que realmente move o ponteiro.",
+      "body": "Carbo total antes: 1 a 4 g/kg, de 1 a 4 h antes da largada\nTolerância: escolha o que cai bem no SEU estômago, não o menor IG\nAbasteça durante: 30 a 60 g de carbo por hora em esforços acima de 1 h\n\n→ O índice glicêmico da refeição pré-treino é detalhe. Carbo total, tolerância e o abastecimento durante decidem o dia.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Não trave sua refeição pré-prova no 'baixo IG'. Coma o que funciona pra você e abasteça durante.",
+      "body": "Salva pra montar seu café pré-prova sem mito.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "\"Come baixo índice glicêmico antes da prova pra não ter pico e queda.\" Faz sentido na teoria — mas quando o desfecho é desempenho, a evidência não sustenta a regra.\n\nDuas meta-análises de 2017 chegaram a conclusões diferentes: a maior (19 estudos, 188 atletas) não achou benefício claro do baixo IG; a outra achou um efeito pequeno, mas com evidência fraca. E o pouco que aparece tende a sumir quando você ingere carboidrato durante o exercício — que é o que atletas de endurance devem fazer em esforços longos.\n\nO que decide de verdade: carboidrato total (1–4 g/kg, 1–4 h antes), escolher o que o seu estômago tolera, e abastecer durante (30–60 g/h acima de 1 h). O índice glicêmico da refeição pré-treino é um detalhe fino, não a alavanca.\n\nFontes: Burdon CA et al. Sports Med. 2017;47(6):1087-1101. | Wong SH-S et al. Nutr Rev. 2017;75(5):327-338.",
+  "cta": "Salva e manda pra quem trava a refeição pré-prova no 'baixo IG'.",
+  "scientific_sources": [
+    {
+      "title": "Effect of Glycemic Index of a Pre-exercise Meal on Endurance Exercise Performance: A Systematic Review and Meta-analysis",
+      "authors": "Burdon CA, Spronk I, Cheng HL, O'Connor HT",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "6",
+      "pages": "1087-1101",
+      "doi": "10.1007/s40279-016-0632-8",
+      "level": "A"
+    },
+    {
+      "title": "Effect of pre-exercise carbohydrate diets with high vs low glycemic index on exercise performance: a meta-analysis",
+      "authors": "Wong SH, Sun FH, Chen YJ, Li C, Zhang YJ, Huang WY",
+      "journal": "Nutrition Reviews",
+      "year": 2017,
+      "volume": "75",
+      "issue": "5",
+      "pages": "327-338",
+      "doi": "10.1093/nutrit/nux003",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "O índice glicêmico da refeição pré-prova decide seu desempenho? A evidência diz que não",
+    "slug": "indice-glicemico-pre-exercicio-desempenho-endurance",
+    "excerpt": "A regra de comer carboidrato de baixo índice glicêmico antes da prova virou dogma. Mas quando o desfecho é desempenho, duas meta-análises não sustentam a vantagem. Veja o que realmente importa no abastecimento.",
+    "meta_title": "Índice glicêmico pré-exercício e desempenho — o que diz a ciência",
+    "tags": [
+      "Carboidrato",
+      "Índice Glicêmico",
+      "Fueling",
+      "Endurance"
+    ],
+    "html": "<p>É um dos conselhos mais repetidos nos grupos de corrida e ciclismo: <em>\"antes da prova, coma carboidrato de baixo índice glicêmico para não ter um pico de insulina e uma queda de energia no meio do caminho\"</em>. A recomendação parece impecável na teoria. O problema é que, quando o desfecho medido é o desempenho, a evidência não confirma a regra.</p>\n\n<h2>De onde veio a regra do baixo índice glicêmico</h2>\n\n<p>O índice glicêmico (IG) classifica os alimentos pela velocidade com que elevam a glicose no sangue. O raciocínio por trás da recomendação pré-exercício é encadeado: alimentos de alto IG elevam rápido a glicose, o corpo responde com insulina, a glicose cai (às vezes abaixo do ponto de partida) e você largaria com menos energia disponível. Escolher baixo IG — aveia, batata-doce, frutas menos maduras — supostamente evitaria essa montanha-russa.</p>\n\n<p>A hipótese é plausível e por isso pegou. Mas plausibilidade não é desempenho medido em prova.</p>\n\n<h2>O que as meta-análises encontraram</h2>\n\n<p>Duas revisões sistemáticas com meta-análise, ambas de 2017, reuniram os estudos disponíveis — e chegaram a conclusões diferentes.</p>\n\n<p>Burdon e colaboradores, na <em>Sports Medicine</em>, agruparam 19 estudos com 188 participantes (majoritariamente homens treinados, VO2máx acima de 50 ml/kg/min). A conclusão foi direta: não houve benefício claro de consumir uma refeição de baixo IG antes do exercício para o desempenho de endurance — e isso independentemente de o atleta ingerir carboidrato durante o exercício.</p>\n\n<p>Wong e colaboradores, na <em>Nutrition Reviews</em>, encontraram um efeito pequeno a favor do baixo IG (d = 0,42, estatisticamente significativo). Mas os próprios autores fizeram a ressalva que muda a leitura: a evidência que sustenta essa vantagem é fraca, e todos os estudos incluídos tinham baixa qualidade metodológica. Ou seja, o sinal existe, mas é frágil e pede pesquisa melhor antes de virar regra.</p>\n\n<h2>O detalhe que dissolve a discussão</h2>\n\n<p>Há um ponto prático que resolve boa parte do debate: em esforços de endurance com mais de uma hora, a orientação já consolidada é ingerir carboidrato <em>durante</em> o exercício. E é justamente aí que qualquer vantagem teórica do baixo IG pré-exercício tende a desaparecer — o abastecimento contínuo mantém a glicose disponível, tornando o IG da refeição anterior um detalhe fino.</p>\n\n<h2>O que realmente importa no pré-prova</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Carboidrato total antes</td><td>1–4 g/kg, de 1 a 4 h antes da largada</td></tr>\n<tr><td>Escolha do alimento</td><td>o que o seu estômago tolera bem — não o menor IG</td></tr>\n<tr><td>Abastecimento durante</td><td>30–60 g de carboidrato por hora em esforços acima de 1 h</td></tr>\n</tbody>\n</table>\n\n<p>A quantidade total de carboidrato, o tempo de antecedência e — acima de tudo — a tolerância gastrointestinal individual pesam muito mais do que o índice glicêmico do que você comeu no café da manhã. Treinar o abastecimento durante o exercício rende mais do que perseguir o menor IG possível na véspera.</p>\n\n<h2>Conclusão</h2>\n\n<p>Comer baixo IG antes da prova não é errado — só não é a alavanca que muitos imaginam. Se você digere bem, coma o que funciona para você, garanta o carboidrato total e abasteça durante o esforço. O resto é ajuste fino.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Burdon CA, Spronk I, Cheng HL, O'Connor HT. Effect of Glycemic Index of a Pre-exercise Meal on Endurance Exercise Performance: A Systematic Review and Meta-analysis. <em>Sports Med</em>. 2017;47(6):1087–1101. doi:10.1007/s40279-016-0632-8</li>\n<li>Wong SH, Sun FH, Chen YJ, Li C, Zhang YJ, Huang WY. Effect of pre-exercise carbohydrate diets with high vs low glycemic index on exercise performance: a meta-analysis. <em>Nutr Rev</em>. 2017;75(5):327–338. doi:10.1093/nutrit/nux003</li>\n</ol>\n",
+    "cover": "content/drafts/draft_019/cover.png",
+    "cover_alt": "O índice glicêmico da refeição pré-prova decide seu desempenho? — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_019/slide_01.png",
+    "content/drafts/draft_019/slide_02.png",
+    "content/drafts/draft_019/slide_03.png",
+    "content/drafts/draft_019/slide_04.png",
+    "content/drafts/draft_019/slide_05.png",
+    "content/drafts/draft_019/slide_06.png"
+  ],
+  "post_id": "18123387713304081",
+  "published_at": "2026-09-30T11:23:56.656865+00:00"
+}
