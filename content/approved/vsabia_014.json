@@ -1,0 +1,41 @@
+{
+  "local_id": "vsabia_014",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-09-30T00:00:00Z",
+  "topic": "suco de picles (pickle juice) e alívio de cãibras — reflexo neural, não reposição de eletrólitos",
+  "content_pillar": "recovery",
+  "hook": "Suco de picles cortou a cãibra quase pela metade (~85 s vs ~150 s) — e não foi pela reposição de sais.",
+  "subtext": "O alívio veio rápido demais para ser eletrólito: o vinagre parece disparar um reflexo na boca/garganta que reduz o disparo do nervo pro músculo.",
+  "source_line": "Miller et al., Med Sci Sports Exerc, 2010 (picles vs água vs nada).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:picles-caibra-reflexo"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Um dos truques mais estranhos (e mais estudados) contra cãibra: um gole de suco de picles.\n\nNum estudo com atletas levemente desidratados, provocar uma cãibra e dar ~1 mL/kg de suco de picles encurtou a cãibra para ~85 s, contra ~134 s com água e ~152 s sem nada. O detalhe que surpreende: o sódio e o potássio do sangue não mudaram nos 5 minutos seguintes — ou seja, não deu tempo de repor sal. Os pesquisadores propõem um reflexo que nasce na boca e na garganta (provavelmente disparado pelo vinagre) e reduz a atividade do neurônio motor, \"desligando\" a cãibra. Ressalva honesta: foi cãibra induzida por eletroestimulação, com pouca gente — promissor, não bala de prata.\n\nFonte: Miller KC et al., Medicine & Science in Sports & Exercise, 2010.",
+  "cta": "Salva pra testar no próximo treino longo (e manda pra quem vive travando de cãibra).",
+  "scientific_sources": [
+    {
+      "title": "Reflex inhibition of electrically induced muscle cramps in hypohydrated humans",
+      "authors": "Miller KC, Mack GW, Knight KL, Hopkins JT, Draper DO, Fields PJ, Hunter I",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2010,
+      "volume": "42",
+      "issue": "5",
+      "pages": "953-961",
+      "doi": "10.1249/MSS.0b013e3181c0647e",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_014/card.png"
+  ]
+}
