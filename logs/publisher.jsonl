@@ -259,3 +259,9 @@
 {"ts": "2026-09-30T11:23:56.656695+00:00", "level": "INFO", "msg": "PUBLICADO: draft_019 -> media_id 18123387713304081"}
 {"ts": "2026-09-30T11:23:56.670294+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-09-30T17:36:55.246547+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-09-30T20:23:56.054311+00:00", "level": "INFO", "msg": "Publicando vsabia_014 (static) \u2014 suco de picles (pickle juice) e al\u00edvio de c\u00e3ibras \u2014 reflexo neural, n\u00e3o reposi\u00e7\u00e3o de eletr\u00f3litos"}
+{"ts": "2026-09-30T20:23:56.056809+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-09-30T20:23:56.056898+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_014/card.png"}
+{"ts": "2026-09-30T20:23:56.240619+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-09-30T20:24:10.500933+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_014 -> media_id 18133568590663283"}
+{"ts": "2026-09-30T20:24:10.514754+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

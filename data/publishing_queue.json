@@ -536,9 +536,11 @@
       "format": "static",
       "topic": "suco de picles (pickle juice) e alívio de cãibras — reflexo neural, não reposição de eletrólitos",
       "hook": "Suco de picles cortou a cãibra quase pela metade (~85 s vs ~150 s) — e não foi pela reposição de sais.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-09-30T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "published_at": "2026-09-30T20:24:10.501178+00:00",
+      "post_id": "18133568590663283"
     }
   ]
 }
