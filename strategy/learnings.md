@@ -68,3 +68,11 @@ Diagnóstico técnico deste ciclo: o `publisher.py` **ignora `scheduled_for`** �
 | 2026-09-27 | (TENTADO) cron 0 12 → 0 15 UTC — bloqueado (PAT sem escopo workflow) | Colocaria a publicação por cron na melhor janela | carrossel 15h UTC mediana 828 vs 11-12h UTC ~317 |
 | 2026-09-27 | +2 derivados da família "carga de carbo"; reteste de sono como experimento | Explorar vencedor (918, saves/reach 0,039); recuperar tópico forte que falhou por hook | winner_library / failure_log / experiments |
 | 2026-09-27 | Escalado: rotina DIÁRIA deve parar estáticos e dispachar 15h UTC | 3ª semana com as decisões sem implementação | posts_db 14d (11 estáticos, carrosséis 11h UTC) |
+
+## Ciclo 2026-09-30 (rotina de audiência)
+
+### Sobre o Dado (reconfirmação, sem coleta nova)
+Sem nova coleta de métricas desde 27/09: os 160 posts medidos têm `collected_at = 2026-09-27` e o post mais recente com métrica é de 26/09. Os carrosséis de 27–30/09 ainda não têm métricas. Quadro de engajamento **idêntico** ao ciclo de 27/09, reconfirmado sobre o dataset completo (carrossel 474 vs reel 256 vs estático 207; sexta pior dia 256/n=31; 12h BRT melhor hora 828/n=17; audiência salva/compartilha e quase não comenta, 89 comentários / mediana 0 em 160 posts). `audience_intelligence.md` foi alinhado de 151→160 posts e base 9.266→9.418.
+
+### Bloqueio de dado próprio (REINCIDENTE — 4 semanas)
+Demografia (`follower_demographics`/`online_followers`) e **texto** dos comentários seguem **não medíveis** por esta rotina: o token válido existe só como Secret do GitHub Actions (inalcançável do Mac) e **não há arquivo commitado** (`data/audience_demographics.json` / `data/comments_recent.json`). Desbloqueio depende de **instrumentar um passo no Actions** que commite esses JSONs; comentários exigem também o escopo **`instagram_manage_comments`** (o mesmo para responder no futuro). Enquanto isso, o banco de perguntas/objeções da audiência não pode começar.
