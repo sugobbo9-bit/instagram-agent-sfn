@@ -554,6 +554,15 @@
       "ghost_post_id": "6abe42e3c1a4cb000194a521",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/ferro-desempenho-endurance-so-funciona-se-ha-deficiencia/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_015",
+      "format": "static",
+      "topic": "álcool pós-exercício e síntese de proteína muscular (recuperação)",
+      "hook": "Beber pesado depois do treino trava a recuperação: mesmo tomando proteína junto, a síntese muscular caiu 24%.",
+      "status": "approved",
+      "created_at": "2026-10-01T00:00:00Z",
+      "priority": 1
     }
   ]
 }

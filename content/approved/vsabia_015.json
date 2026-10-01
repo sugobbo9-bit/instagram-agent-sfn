@@ -1,0 +1,41 @@
+{
+  "local_id": "vsabia_015",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-10-01T00:00:00Z",
+  "topic": "álcool pós-exercício e síntese de proteína muscular (recuperação)",
+  "content_pillar": "recovery",
+  "hook": "Beber pesado depois do treino trava a recuperação: mesmo tomando proteína junto, a síntese muscular caiu 24%.",
+  "subtext": "A dose estudada foi alta (~12 doses). O álcool atrapalha a sinalização que ativa a construção de músculo — e nem a proteína junto evitou a queda.",
+  "source_line": "Parr et al., PLoS ONE, 2014 (álcool + treino: síntese muscular −24% a −37%).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:alcool-recuperacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Aquela cerveja pra comemorar a prova? Ela pode cobrar um pedágio na recuperação.\n\nNum estudo com homens treinados, beber álcool em dose alta (~1,5 g/kg, cerca de 12 doses) nas horas após um treino intenso reduziu a síntese de proteína muscular. O detalhe que surpreende: mesmo quem tomou álcool JUNTO com 25 g de proteína ainda teve a síntese 24% menor que só proteína — e com álcool + carboidrato a queda chegou a 37%. Ressalva honesta: foi uma dose bem alta e com poucos participantes; uma dose social provavelmente pesa menos. Mas encharcar no pós-prova trabalha contra a sua recuperação.\n\nFonte: Parr et al., PLoS ONE, 2014.",
+  "cta": "Salva pra lembrar antes do próximo pós-prova (e manda pra turma do churrasco).",
+  "scientific_sources": [
+    {
+      "title": "Alcohol Ingestion Impairs Maximal Post-Exercise Rates of Myofibrillar Protein Synthesis following a Single Bout of Concurrent Training",
+      "authors": "Parr EB, Camera DM, Areta JL, Burke LM, Phillips SM, Hawley JA, Coffey VG",
+      "journal": "PLoS ONE",
+      "year": 2014,
+      "volume": "9",
+      "issue": "2",
+      "pages": "e88384",
+      "doi": "10.1371/journal.pone.0088384",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_015/card.png"
+  ]
+}
