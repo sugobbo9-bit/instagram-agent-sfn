@@ -1,0 +1,126 @@
+{
+  "local_id": "draft_020",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-01T00:00:00Z",
+  "topic": "suplementação de ferro e desempenho em endurance (só funciona se houver deficiência)",
+  "content_pillar": "supplements",
+  "hook": "Suplemento de ferro não dá energia — a menos que você esteja com falta.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:ferro",
+    "pillar:supplements",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Suplemento de ferro não dá energia — a menos que você esteja com falta.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "\"Tomar ferro rende mais.\"",
+      "body": "Virou quase automático: cansou no treino, a resposta é ferro.\n\nMas tomar ferro quando seu estoque já está normal não melhora o desempenho. Só adiciona risco.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE O FERRO FAZ",
+      "headline": "O ferro carrega oxigênio. Faltar atrapalha. Sobrar não acelera.",
+      "body": "O ferro faz parte da hemoglobina, que leva oxigênio ao músculo.\n\nCom o estoque baixo, a entrega de oxigênio cai e o desempenho sofre.\n\nMas acima do normal não existe 'turbo': mais ferro não vira mais oxigênio.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O ganho aparece quando há deficiência — não no atleta com ferro normal.",
+      "body": "Burden et al. (Br J Sports Med, 2015): em atletas de endurance com ferritina baixa (sem anemia), repor ferro elevou a ferritina e teve efeito moderado no VO2máx.\n\nPasricha et al. (J Nutr, 2014): em mulheres, suplementar ferro aumentou o VO2máx em 2,35 mL/kg/min e reduziu a frequência cardíaca no esforço.\n\nO alvo das duas revisões: corrigir a falta.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Meça antes de tomar.",
+      "body": "Peça ferritina e hemograma antes de suplementar\nAtleta de endurance costuma mirar ferritina acima de 50\nRisco maior: mulheres e corredores (perda menstrual, impacto do passo, suor)\nFerro sem falta: zero ganho e efeito colateral (intestino, estresse oxidativo, sobrecarga)\n\n→ Suplemente só com exame e orientação, nunca 'por via das dúvidas'",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Ferro corrige falta. Não é pré-treino.",
+      "body": "Salva isso e manda pra quem toma ferro sem nunca ter medido.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "\"Tô cansado, vou tomar ferro.\" Esse atalho não se sustenta na evidência.\n\nO ferro é essencial: ele carrega oxigênio no sangue. Quando o estoque está baixo, o desempenho realmente cai — e repor ferro ajuda. A meta-análise de Burden et al. (2015) mostrou que, em atletas de endurance com ferritina baixa SEM anemia, repor ferro elevou a ferritina (efeito grande) e teve efeito moderado no VO2máx. Pasricha et al. (2014), em mulheres em idade reprodutiva, encontraram +2,35 mL/kg/min no VO2máx e queda de ~4 bpm na frequência cardíaca de esforço com a suplementação.\n\nO ponto que quase ninguém conta: esse ganho depende de existir uma falta para corrigir. No atleta com ferro normal, suplementar não melhora o desempenho — e abre risco de desconforto intestinal, estresse oxidativo e, em quem tem predisposição, sobrecarga de ferro.\n\nNa prática: meça ferritina e hemograma antes. Corredores e mulheres são os grupos de maior risco de deficiência. Suplemente só com exame e orientação.\n\nIntegridade científica acima de viralidade — não inventamos número nem estudo.\n\nFontes: Burden RJ et al. Br J Sports Med. 2015. | Pasricha SR et al. J Nutr. 2014. | Rubeor A et al. Sports Health. 2018.",
+  "cta": "Salva e manda pra quem toma ferro sem nunca ter medido.",
+  "scientific_sources": [
+    {
+      "title": "Is iron treatment beneficial in iron-deficient but non-anaemic (IDNA) endurance athletes? A systematic review and meta-analysis",
+      "authors": "Burden RJ, Morton K, Richards T, Whyte GP, Pedlar CR",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2015,
+      "volume": "49",
+      "issue": "21",
+      "pages": "1389-1397",
+      "doi": "10.1136/bjsports-2014-093624",
+      "level": "A"
+    },
+    {
+      "title": "Iron supplementation benefits physical performance in women of reproductive age: a systematic review and meta-analysis",
+      "authors": "Pasricha SR, Low M, Thompson J, Farrell A, De-Regil LM",
+      "journal": "Journal of Nutrition",
+      "year": 2014,
+      "volume": "144",
+      "issue": "6",
+      "pages": "906-914",
+      "doi": "10.3945/jn.113.189589",
+      "level": "A"
+    },
+    {
+      "title": "Does Iron Supplementation Improve Performance in Iron-Deficient Nonanemic Athletes?",
+      "authors": "Rubeor A, Goojha C, Manning J, White J",
+      "journal": "Sports Health",
+      "year": 2018,
+      "volume": "10",
+      "issue": "5",
+      "pages": "400-405",
+      "doi": "10.1177/1941738118777488",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Ferro não é pré-treino: o suplemento só melhora o desempenho se você está em falta",
+    "slug": "ferro-desempenho-endurance-so-funciona-se-ha-deficiencia",
+    "excerpt": "Tomar ferro virou atalho para cansaço. Mas a evidência é clara: ferro melhora o desempenho quando corrige uma deficiência — e não faz nada (com risco) no atleta com estoque normal.",
+    "meta_title": "Ferro e desempenho em endurance — o que a ciência realmente mostra",
+    "tags": [
+      "Ferro",
+      "Suplementação",
+      "Endurance",
+      "Saúde do Atleta"
+    ],
+    "html": "<p>\"Tô cansado no treino, vou tomar ferro.\" O raciocínio parece lógico e virou quase automático entre corredores e triatletas. O problema: ele só vale em uma condição específica. Suplementar ferro melhora o desempenho quando existe uma deficiência para corrigir. No atleta com estoque de ferro normal, não melhora nada — e ainda adiciona risco.</p>\n\n<h2>O que o ferro faz (e por que faltar atrapalha)</h2>\n\n<p>O ferro é componente central da hemoglobina, a proteína que transporta oxigênio dos pulmões para os músculos. Ele também participa das enzimas mitocondriais que produzem energia dentro da célula. Quando o estoque corporal de ferro cai, a entrega e o uso de oxigênio ficam comprometidos — e aí o desempenho de endurance realmente sofre, mesmo antes de a pessoa desenvolver anemia.</p>\n\n<p>A chave está na palavra <em>falta</em>. Abaixo do normal, repor ferro recupera a função perdida. Acima do normal, não existe efeito \"turbo\": mais ferro no corpo não se converte em mais transporte de oxigênio.</p>\n\n<h2>O que a evidência mostra</h2>\n\n<p>Burden et al. (2015), em revisão sistemática e meta-análise publicada no <em>British Journal of Sports Medicine</em>, analisaram atletas de endurance com ferritina baixa, mas <strong>sem anemia</strong> (deficiência de ferro não-anêmica). Repor ferro produziu um efeito grande sobre os marcadores de estoque (ferritina) e um efeito moderado sobre o VO2máx. Ou seja: mesmo antes da anemia, corrigir a deficiência pode recuperar capacidade aeróbia.</p>\n\n<p>Pasricha et al. (2014), em meta-análise no <em>Journal of Nutrition</em> com mulheres em idade reprodutiva, encontraram que a suplementação de ferro aumentou o VO2máx em cerca de 2,35 mL/kg/min e reduziu a frequência cardíaca de exercício em aproximadamente 4 batimentos por minuto, além de reduzir a fração do VO2máx necessária para um dado esforço. De novo, o contexto é de prevenção e tratamento da deficiência.</p>\n\n<p>Rubeor et al. (2018), em revisão sistemática na <em>Sports Health</em>, trazem a nuance honesta: nos atletas com deficiência não-anêmica, o ganho objetivo de desempenho é menos consistente entre os estudos (a melhora subjetiva de fadiga aparece com mais frequência do que a melhora de performance medida). O consenso prático das três publicações, porém, é o mesmo: rastrear e tratar a deficiência faz sentido; suplementar quem não tem falta, não.</p>\n\n<h2>Quem corre mais risco de deficiência</h2>\n\n<p>Atletas de endurance perdem mais ferro do que a população geral, por vários mecanismos somados: hemólise pelo impacto do passo (o \"foot-strike\"), pequenas perdas gastrointestinais e urinárias induzidas pelo esforço, perda pelo suor e elevação da hepcidina (hormônio que reduz a absorção de ferro) após treinos intensos. Some a isso a perda menstrual, e o resultado é que a deficiência não-anêmica é bem mais comum em mulheres atletas (aproximadamente 15–35%) do que em homens (cerca de 5–11%). Corredores e mulheres são, portanto, os grupos em que faz mais sentido investigar.</p>\n\n<h2>Por que tomar ferro \"por via das dúvidas\" é má ideia</h2>\n\n<p>Ferro em excesso não é inofensivo. Doses orais causam com frequência desconforto gastrointestinal (náusea, constipação). Cronicamente, o acúmulo de ferro favorece estresse oxidativo. E em pessoas com predisposição genética (como a hemocromatose), suplementar sem necessidade pode contribuir para sobrecarga. Além disso, cada dose oral eleva a hepcidina por até 24 horas, o que reduz a absorção das próximas doses — outro motivo para não suplementar no escuro.</p>\n\n<h2>Na prática</h2>\n\n<table>\n<thead><tr><th>Passo</th><th>Recomendação</th></tr></thead>\n<tbody>\n<tr><td>Antes de suplementar</td><td>Peça ferritina + hemograma (e, idealmente, saturação de transferrina)</td></tr>\n<tr><td>Referência para atletas</td><td>Deficiência costuma ser considerada abaixo de ~30 µg/L; atletas de endurance frequentemente miram ferritina acima de ~50 µg/L</td></tr>\n<tr><td>Grupos de maior risco</td><td>Mulheres e corredores</td></tr>\n<tr><td>Se o ferro está normal</td><td>Suplementar não melhora desempenho — e abre risco</td></tr>\n<tr><td>Decisão</td><td>Suplemente apenas com exame e orientação profissional</td></tr>\n</tbody>\n</table>\n\n<p>Ferro corrige falta. Não é pré-treino. A pergunta certa não é \"quanto ferro eu tomo?\", e sim \"eu realmente estou em falta?\" — e isso só o exame responde.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Burden RJ, Morton K, Richards T, Whyte GP, Pedlar CR. Is iron treatment beneficial in iron-deficient but non-anaemic (IDNA) endurance athletes? A systematic review and meta-analysis. <em>Br J Sports Med</em>. 2015;49(21):1389–1397. doi:10.1136/bjsports-2014-093624</li>\n<li>Pasricha SR, Low M, Thompson J, Farrell A, De-Regil LM. Iron supplementation benefits physical performance in women of reproductive age: a systematic review and meta-analysis. <em>J Nutr</em>. 2014;144(6):906–914. doi:10.3945/jn.113.189589</li>\n<li>Rubeor A, Goojha C, Manning J, White J. Does Iron Supplementation Improve Performance in Iron-Deficient Nonanemic Athletes? <em>Sports Health</em>. 2018;10(5):400–405. doi:10.1177/1941738118777488</li>\n</ol>\n",
+    "cover": "content/drafts/draft_020/cover.png",
+    "cover_alt": "Ferro não é pré-treino: só melhora o desempenho se há deficiência — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_020/slide_01.png",
+    "content/drafts/draft_020/slide_02.png",
+    "content/drafts/draft_020/slide_03.png",
+    "content/drafts/draft_020/slide_04.png",
+    "content/drafts/draft_020/slide_05.png",
+    "content/drafts/draft_020/slide_06.png"
+  ]
+}
