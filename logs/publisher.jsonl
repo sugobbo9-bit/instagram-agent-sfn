@@ -265,3 +265,10 @@
 {"ts": "2026-09-30T20:23:56.240619+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-09-30T20:24:10.500933+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_014 -> media_id 18133568590663283"}
 {"ts": "2026-09-30T20:24:10.514754+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-01T11:23:37.403168+00:00", "level": "INFO", "msg": "Publicando draft_020 (carousel) \u2014 suplementa\u00e7\u00e3o de ferro e desempenho em endurance (s\u00f3 funciona se houver defici\u00eancia)"}
+{"ts": "2026-10-01T11:23:37.405034+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-01T11:23:37.405096+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_020/slide_01.png"}
+{"ts": "2026-10-01T11:23:38.400750+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-01T11:24:03.624760+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-01T11:24:16.096519+00:00", "level": "INFO", "msg": "PUBLICADO: draft_020 -> media_id 18112913345033431"}
+{"ts": "2026-10-01T11:24:16.107893+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

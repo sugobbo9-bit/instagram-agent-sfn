@@ -547,8 +547,13 @@
       "format": "carousel",
       "topic": "suplementação de ferro e desempenho em endurance (só funciona se houver deficiência)",
       "hook": "Suplemento de ferro não dá energia — a menos que você esteja com falta.",
-      "status": "approved",
-      "created_at": "2026-10-01"
+      "status": "published",
+      "created_at": "2026-10-01",
+      "published_at": "2026-10-01T11:24:16.096692+00:00",
+      "post_id": "18112913345033431",
+      "ghost_post_id": "6abe42e3c1a4cb000194a521",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/ferro-desempenho-endurance-so-funciona-se-ha-deficiencia/",
+      "ghost_status": "published"
     }
   ]
 }

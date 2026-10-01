@@ -6691,6 +6691,71 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18112913345033431",
+      "local_id": "draft_020",
+      "publication_date": "2026-10-01T11:24:16.096692+00:00",
+      "format": "carousel",
+      "topic": "suplementação de ferro e desempenho em endurance (só funciona se houver deficiência)",
+      "content_pillar": "supplements",
+      "hook": "Suplemento de ferro não dá energia — a menos que você esteja com falta.",
+      "caption": "\"Tô cansado, vou tomar ferro.\" Esse atalho não se sustenta na evidência.\n\nO ferro é essencial: ele carrega oxigênio no sangue. Quando o estoque está baixo, o desempenho realmente cai — e repor ferro ajuda. A meta-análise de Burden et al. (2015) mostrou que, em atletas de endurance com ferritina baixa SEM anemia, repor ferro elevou a ferritina (efeito grande) e teve efeito moderado no VO2máx. Pasricha et al. (2014), em mulheres em idade reprodutiva, encontraram +2,35 mL/kg/min no VO2máx e queda de ~4 bpm na frequência cardíaca de esforço com a suplementação.\n\nO ponto que quase ninguém conta: esse ganho depende de existir uma falta para corrigir. No atleta com ferro normal, suplementar não melhora o desempenho — e abre risco de desconforto intestinal, estresse oxidativo e, em quem tem predisposição, sobrecarga de ferro.\n\nNa prática: meça ferritina e hemograma antes. Corredores e mulheres são os grupos de maior risco de deficiência. Suplemente só com exame e orientação.\n\nIntegridade científica acima de viralidade — não inventamos número nem estudo.\n\nFontes: Burden RJ et al. Br J Sports Med. 2015. | Pasricha SR et al. J Nutr. 2014. | Rubeor A et al. Sports Health. 2018.",
+      "cta": "Salva e manda pra quem toma ferro sem nunca ter medido.",
+      "scientific_sources": [
+        {
+          "title": "Is iron treatment beneficial in iron-deficient but non-anaemic (IDNA) endurance athletes? A systematic review and meta-analysis",
+          "authors": "Burden RJ, Morton K, Richards T, Whyte GP, Pedlar CR",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2015,
+          "volume": "49",
+          "issue": "21",
+          "pages": "1389-1397",
+          "doi": "10.1136/bjsports-2014-093624",
+          "level": "A"
+        },
+        {
+          "title": "Iron supplementation benefits physical performance in women of reproductive age: a systematic review and meta-analysis",
+          "authors": "Pasricha SR, Low M, Thompson J, Farrell A, De-Regil LM",
+          "journal": "Journal of Nutrition",
+          "year": 2014,
+          "volume": "144",
+          "issue": "6",
+          "pages": "906-914",
+          "doi": "10.3945/jn.113.189589",
+          "level": "A"
+        },
+        {
+          "title": "Does Iron Supplementation Improve Performance in Iron-Deficient Nonanemic Athletes?",
+          "authors": "Rubeor A, Goojha C, Manning J, White J",
+          "journal": "Sports Health",
+          "year": 2018,
+          "volume": "10",
+          "issue": "5",
+          "pages": "400-405",
+          "doi": "10.1177/1941738118777488",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_020/slide_01.png",
+        "content/drafts/draft_020/slide_02.png",
+        "content/drafts/draft_020/slide_03.png",
+        "content/drafts/draft_020/slide_04.png",
+        "content/drafts/draft_020/slide_05.png",
+        "content/drafts/draft_020/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:ferro",
+        "pillar:supplements",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6abe42e3c1a4cb000194a521",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/ferro-desempenho-endurance-so-funciona-se-ha-deficiencia/"
     }
   ]
 }
