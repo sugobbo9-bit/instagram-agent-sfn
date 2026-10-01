@@ -6756,6 +6756,41 @@
       "derivatives_created": [],
       "ghost_post_id": "6abe42e3c1a4cb000194a521",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/ferro-desempenho-endurance-so-funciona-se-ha-deficiencia/"
+    },
+    {
+      "post_id": "18116778256978749",
+      "local_id": "vsabia_015",
+      "publication_date": "2026-10-01T20:27:18.840298+00:00",
+      "format": "static",
+      "topic": "álcool pós-exercício e síntese de proteína muscular (recuperação)",
+      "content_pillar": "recovery",
+      "hook": "Beber pesado depois do treino trava a recuperação: mesmo tomando proteína junto, a síntese muscular caiu 24%.",
+      "caption": "Aquela cerveja pra comemorar a prova? Ela pode cobrar um pedágio na recuperação.\n\nNum estudo com homens treinados, beber álcool em dose alta (~1,5 g/kg, cerca de 12 doses) nas horas após um treino intenso reduziu a síntese de proteína muscular. O detalhe que surpreende: mesmo quem tomou álcool JUNTO com 25 g de proteína ainda teve a síntese 24% menor que só proteína — e com álcool + carboidrato a queda chegou a 37%. Ressalva honesta: foi uma dose bem alta e com poucos participantes; uma dose social provavelmente pesa menos. Mas encharcar no pós-prova trabalha contra a sua recuperação.\n\nFonte: Parr et al., PLoS ONE, 2014.",
+      "cta": "Salva pra lembrar antes do próximo pós-prova (e manda pra turma do churrasco).",
+      "scientific_sources": [
+        {
+          "title": "Alcohol Ingestion Impairs Maximal Post-Exercise Rates of Myofibrillar Protein Synthesis following a Single Bout of Concurrent Training",
+          "authors": "Parr EB, Camera DM, Areta JL, Burke LM, Phillips SM, Hawley JA, Coffey VG",
+          "journal": "PLoS ONE",
+          "year": 2014,
+          "volume": "9",
+          "issue": "2",
+          "pages": "e88384",
+          "doi": "10.1371/journal.pone.0088384",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vsabia_015/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:voce-sabia",
+        "topic:alcool-recuperacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

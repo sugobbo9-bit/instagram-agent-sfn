@@ -273,3 +273,9 @@
 {"ts": "2026-10-01T11:24:16.096519+00:00", "level": "INFO", "msg": "PUBLICADO: draft_020 -> media_id 18112913345033431"}
 {"ts": "2026-10-01T11:24:16.107893+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-01T18:01:00.961108+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-01T20:27:04.166375+00:00", "level": "INFO", "msg": "Publicando vsabia_015 (static) \u2014 \u00e1lcool p\u00f3s-exerc\u00edcio e s\u00edntese de prote\u00edna muscular (recupera\u00e7\u00e3o)"}
+{"ts": "2026-10-01T20:27:04.169037+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-01T20:27:04.169120+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_015/card.png"}
+{"ts": "2026-10-01T20:27:04.426669+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-01T20:27:18.840125+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_015 -> media_id 18116778256978749"}
+{"ts": "2026-10-01T20:27:18.854161+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
