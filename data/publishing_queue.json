@@ -581,6 +581,15 @@
       "ghost_post_id": "6abf961737155f0001b25399",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-consumo-habitual-tolerancia-desempenho/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vsabia_016",
+      "format": "static",
+      "topic": "taurina (ingrediente de energético) e desempenho de endurance",
+      "hook": "Aquela taurina do energético melhora o endurance sozinha: 1 dose de 1–6 g já aumentou o tempo até a exaustão.",
+      "status": "approved",
+      "created_at": "2026-10-02T00:00:00Z",
+      "priority": 1
     }
   ]
 }

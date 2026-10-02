@@ -1,0 +1,41 @@
+{
+  "local_id": "vsabia_016",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-10-02T00:00:00Z",
+  "topic": "taurina (ingrediente de energético) e desempenho de endurance",
+  "content_pillar": "suplementos",
+  "hook": "Aquela taurina do energético melhora o endurance sozinha: 1 dose de 1–6 g já aumentou o tempo até a exaustão.",
+  "subtext": "Efeito moderado e independente da cafeína — e tomar por semanas não rendeu mais do que uma dose única.",
+  "source_line": "Waldron et al., Sports Medicine, 2018 (meta-análise de 10 estudos).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:taurina"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "A taurina ficou famosa como ingrediente de energético — mas, isolada, ela tem evidência própria para endurance.\n\nUma meta-análise de 10 estudos encontrou melhora moderada e estatisticamente significativa no desempenho de endurance (principalmente tempo até a exaustão) com uma única dose oral de 1 a 6 g de taurina, sem necessidade de cafeína junto. Curiosamente, tomar por semanas não rendeu mais do que a dose única, e a dose dentro dessa faixa não mudou muito o resultado. É um efeito modesto, não milagroso — mas real e barato.\n\nFonte: Waldron, Patterson, Tallent & Jeffries, Sports Medicine, 2018 (DOI: 10.1007/s40279-018-0896-2).",
+  "cta": "Salva pra lembrar antes do próximo treino longo.",
+  "scientific_sources": [
+    {
+      "title": "The Effects of an Oral Taurine Dose and Supplementation Period on Endurance Exercise Performance in Humans: A Meta-Analysis",
+      "authors": "Waldron M, Patterson SD, Tallent J, Jeffries O",
+      "journal": "Sports Medicine",
+      "year": 2018,
+      "volume": "48",
+      "issue": "5",
+      "pages": "1247-1253",
+      "doi": "10.1007/s40279-018-0896-2",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_016/card.png"
+  ]
+}
