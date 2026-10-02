@@ -287,3 +287,9 @@
 {"ts": "2026-10-02T11:31:33.416352+00:00", "level": "INFO", "msg": "PUBLICADO: draft_021 -> media_id 18197058211380725"}
 {"ts": "2026-10-02T11:31:33.430587+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-02T17:27:38.962812+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-02T20:24:03.126302+00:00", "level": "INFO", "msg": "Publicando vsabia_016 (static) \u2014 taurina (ingrediente de energ\u00e9tico) e desempenho de endurance"}
+{"ts": "2026-10-02T20:24:03.128803+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-02T20:24:03.128891+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vsabia_016/card.png"}
+{"ts": "2026-10-02T20:24:03.324427+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-02T20:24:13.096309+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_016 -> media_id 17947972476335955"}
+{"ts": "2026-10-02T20:24:13.110607+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
