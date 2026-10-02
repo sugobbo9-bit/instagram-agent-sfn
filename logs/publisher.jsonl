@@ -279,3 +279,10 @@
 {"ts": "2026-10-01T20:27:04.426669+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-01T20:27:18.840125+00:00", "level": "INFO", "msg": "PUBLICADO: vsabia_015 -> media_id 18116778256978749"}
 {"ts": "2026-10-01T20:27:18.854161+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-02T11:30:55.497400+00:00", "level": "INFO", "msg": "Publicando draft_021 (carousel) \u2014 cafe\u00edna e consumo habitual (toler\u00e2ncia ao efeito no desempenho)"}
+{"ts": "2026-10-02T11:30:55.500048+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-02T11:30:55.500144+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_021/slide_01.png"}
+{"ts": "2026-10-02T11:30:56.085231+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-02T11:31:20.488031+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-02T11:31:33.416352+00:00", "level": "INFO", "msg": "PUBLICADO: draft_021 -> media_id 18197058211380725"}
+{"ts": "2026-10-02T11:31:33.430587+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

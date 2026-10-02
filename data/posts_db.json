@@ -6791,6 +6791,72 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18197058211380725",
+      "local_id": "draft_021",
+      "publication_date": "2026-10-02T11:31:33.416531+00:00",
+      "format": "carousel",
+      "topic": "cafeína e consumo habitual (tolerância ao efeito no desempenho)",
+      "content_pillar": "supplements",
+      "hook": "Toma café todo dia? A cafeína ainda te deixa ~3% mais rápido na prova.",
+      "caption": "O mito: “tomo café todo dia, então a cafeína não funciona mais no meu treino — só se eu cortar por semanas.”\n\nO maior estudo feito pra testar isso (Gonçalves et al., 2017) pegou 40 ciclistas, do consumidor leve ao pesado de cafeína, e deu 6 mg/kg antes de um contrarrelógio. Todos ficaram ~3% mais rápidos — e o ganho foi igual independente de quanto café tomavam no dia a dia.\n\nA revisão sistemática de Carvalho et al. (2022) vai na mesma direção: não há evidência consistente de que o hábito anule o efeito ergogênico agudo. A ressalva honesta: estudos que controlam a dose diária por semanas sugerem uma tolerância parcial (Khodadadi et al., 2025) — ela reduz, mas não elimina o benefício, e o status de treino influencia.\n\nNa prática: 3–6 mg/kg cerca de 45–60 min antes. Você não precisa “resetar” a cafeína por semanas pra se beneficiar. E cuidado com cafeína à tarde — ela ainda rouba seu sono.\n\nFontes: Gonçalves et al. J Appl Physiol. 2017. | Carvalho et al. Sports Med. 2022. | Khodadadi et al. Sports Health. 2025.",
+      "cta": "Salva e manda pro parceiro de treino que corta o café antes de toda prova.",
+      "scientific_sources": [
+        {
+          "title": "Dispelling the myth that habitual caffeine consumption influences the performance response to acute caffeine supplementation",
+          "authors": "Gonçalves LS, Painelli VS, Yamaguchi G, Oliveira LF, Saunders B, da Silva RP, Maciel E, Artioli GG, Roschel H, Gualano B",
+          "journal": "Journal of Applied Physiology",
+          "year": 2017,
+          "volume": "123",
+          "issue": "1",
+          "pages": "213-220",
+          "doi": "10.1152/japplphysiol.00260.2017",
+          "level": "B"
+        },
+        {
+          "title": "Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine",
+          "authors": "Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B",
+          "journal": "Sports Medicine",
+          "year": 2022,
+          "volume": "52",
+          "issue": "9",
+          "pages": "2209-2220",
+          "doi": "10.1007/s40279-022-01685-0",
+          "level": "A"
+        },
+        {
+          "title": "Habitual Caffeine Consumption and Training Status Affect the Ergogenicity of Acute Caffeine Intake on Exercise Performance",
+          "authors": "Khodadadi D, Azimi F, Eghbal Moghanlou A, Gursoy R, Demirli A, Jalali P, Behdari R, Seyedheydari M",
+          "journal": "Sports Health",
+          "year": 2025,
+          "volume": "17",
+          "issue": "5",
+          "pages": "930-941",
+          "doi": "10.1177/19417381251315093",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_021/slide_01.png",
+        "content/drafts/draft_021/slide_02.png",
+        "content/drafts/draft_021/slide_03.png",
+        "content/drafts/draft_021/slide_04.png",
+        "content/drafts/draft_021/slide_05.png",
+        "content/drafts/draft_021/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cafeina",
+        "format:carousel",
+        "family:cafeina_winner",
+        "angle:habituacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6abf961737155f0001b25399",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-consumo-habitual-tolerancia-desempenho/"
     }
   ]
 }
