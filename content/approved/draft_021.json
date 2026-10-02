@@ -1,0 +1,127 @@
+{
+  "local_id": "draft_021",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-02T00:00:00Z",
+  "topic": "cafeína e consumo habitual (tolerância ao efeito no desempenho)",
+  "content_pillar": "supplements",
+  "hook": "Toma café todo dia? A cafeína ainda te deixa ~3% mais rápido na prova.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:cafeina",
+    "format:carousel",
+    "family:cafeina_winner",
+    "angle:habituacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Toma café todo dia? A cafeína ainda te deixa ~3% mais rápido na prova.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "“Tomo café todo dia, então a cafeína não me ajuda mais no treino.”",
+      "body": "A ideia parece lógica: uso diário cria tolerância, logo o efeito some — a não ser que você corte a cafeína por semanas antes da prova.\n\nÉ uma das crenças mais repetidas em grupos de corrida e ciclismo. E a evidência não sustenta ela do jeito que você imagina.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "TOLERÂNCIA ≠ EFEITO NO DESEMPENHO",
+      "headline": "Sentir menos a cafeína não é o mesmo que ela parar de funcionar no treino.",
+      "body": "A tolerância a alguns efeitos é real: alerta, tremor e pressão tendem a diminuir com o uso diário.\n\nMas a pergunta que importa para o atleta é outra: a cafeína ainda melhora a sua prova? Esse efeito ergogênico foi medido direto — e os dados surpreendem.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Quem toma muito café respondeu igual a quem toma pouco.",
+      "body": "Gonçalves et al. (J Appl Physiol, 2017): 40 ciclistas divididos por consumo habitual — baixo (~58 mg/dia), médio (~143) e alto (~351). Todos receberam 6 mg/kg de cafeína antes de um contrarrelógio.\n\nResultado: ~3% mais rápido (de 30,8 para 29,9 min) — e o ganho foi igual nos três grupos.\n\nCarvalho et al. (Sports Medicine, 2022): a revisão sistemática do tema não achou evidência consistente de que o hábito anule esse efeito agudo.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "A RESSALVA HONESTA + NA PRÁTICA",
+      "headline": "A evidência não é unânime — mas o benefício não desaparece.",
+      "body": "Estudos que controlam a dose diária por semanas sugerem tolerância parcial: ela reduz, mas não elimina o efeito, e o status de treino influencia (Khodadadi et al., 2025).\n\n→ Dose: 3–6 mg/kg, ~45–60 min antes\n→ Você NÃO precisa cortar café por semanas pra se beneficiar\n→ Abstinência longa (~1–2 semanas) pode restaurar parte do efeito, mas é opcional\n→ Cafeína à tarde ainda prejudica o sono: ajuste o horário",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Consumidor habitual de café também ganha com a cafeína antes da prova.",
+      "body": "Salva pra lembrar na próxima e manda pro parceiro de treino que corta o café antes de toda competição.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "O mito: “tomo café todo dia, então a cafeína não funciona mais no meu treino — só se eu cortar por semanas.”\n\nO maior estudo feito pra testar isso (Gonçalves et al., 2017) pegou 40 ciclistas, do consumidor leve ao pesado de cafeína, e deu 6 mg/kg antes de um contrarrelógio. Todos ficaram ~3% mais rápidos — e o ganho foi igual independente de quanto café tomavam no dia a dia.\n\nA revisão sistemática de Carvalho et al. (2022) vai na mesma direção: não há evidência consistente de que o hábito anule o efeito ergogênico agudo. A ressalva honesta: estudos que controlam a dose diária por semanas sugerem uma tolerância parcial (Khodadadi et al., 2025) — ela reduz, mas não elimina o benefício, e o status de treino influencia.\n\nNa prática: 3–6 mg/kg cerca de 45–60 min antes. Você não precisa “resetar” a cafeína por semanas pra se beneficiar. E cuidado com cafeína à tarde — ela ainda rouba seu sono.\n\nFontes: Gonçalves et al. J Appl Physiol. 2017. | Carvalho et al. Sports Med. 2022. | Khodadadi et al. Sports Health. 2025.",
+  "cta": "Salva e manda pro parceiro de treino que corta o café antes de toda prova.",
+  "scientific_sources": [
+    {
+      "title": "Dispelling the myth that habitual caffeine consumption influences the performance response to acute caffeine supplementation",
+      "authors": "Gonçalves LS, Painelli VS, Yamaguchi G, Oliveira LF, Saunders B, da Silva RP, Maciel E, Artioli GG, Roschel H, Gualano B",
+      "journal": "Journal of Applied Physiology",
+      "year": 2017,
+      "volume": "123",
+      "issue": "1",
+      "pages": "213-220",
+      "doi": "10.1152/japplphysiol.00260.2017",
+      "level": "B"
+    },
+    {
+      "title": "Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine",
+      "authors": "Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B",
+      "journal": "Sports Medicine",
+      "year": 2022,
+      "volume": "52",
+      "issue": "9",
+      "pages": "2209-2220",
+      "doi": "10.1007/s40279-022-01685-0",
+      "level": "A"
+    },
+    {
+      "title": "Habitual Caffeine Consumption and Training Status Affect the Ergogenicity of Acute Caffeine Intake on Exercise Performance",
+      "authors": "Khodadadi D, Azimi F, Eghbal Moghanlou A, Gursoy R, Demirli A, Jalali P, Behdari R, Seyedheydari M",
+      "journal": "Sports Health",
+      "year": 2025,
+      "volume": "17",
+      "issue": "5",
+      "pages": "930-941",
+      "doi": "10.1177/19417381251315093",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Tomar café todo dia anula a cafeína no treino? O que a ciência mostra",
+    "slug": "cafeina-consumo-habitual-tolerancia-desempenho",
+    "excerpt": "Quem toma café todos os dias perde o efeito ergogênico da cafeína? O maior estudo sobre o tema e a meta-análise dizem que não — com uma ressalva honesta sobre tolerância parcial.",
+    "meta_title": "Café todo dia anula a cafeína no treino? O que diz a ciência",
+    "tags": [
+      "Cafeína",
+      "Suplementação",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>É provavelmente a crença mais repetida sobre cafeína no esporte: <em>\"eu tomo café todo dia, então criei tolerância e a cafeína não me ajuda mais no treino — só funciona se eu cortar por semanas antes da prova\"</em>. A lógica parece impecável. E a evidência não a sustenta do jeito que você imagina.</p>\n\n<h2>Tolerância não é a mesma coisa que perder o efeito no desempenho</h2>\n\n<p>Parte da confusão vem de misturar dois fenômenos diferentes. A tolerância a <strong>alguns</strong> efeitos da cafeína é real: o uso diário tende a reduzir a resposta de alerta, o leve tremor e o aumento de pressão arterial. Isso é bem documentado.</p>\n\n<p>Mas a pergunta que importa para quem treina é outra: a cafeína ainda melhora o seu desempenho? \"Sentir\" menos a cafeína no dia a dia não significa que o efeito ergogênico — o ganho de rendimento numa prova — tenha desaparecido. E esse efeito foi medido de forma direta.</p>\n\n<h2>O estudo que foi feito justamente para testar o mito</h2>\n\n<p>Gonçalves e colaboradores publicaram em 2017, no <em>Journal of Applied Physiology</em>, um experimento desenhado exatamente para responder essa questão — o título do artigo é literalmente \"derrubando o mito\" de que o consumo habitual influencia a resposta à cafeína aguda.</p>\n\n<p>Eles recrutaram 40 ciclistas de endurance e os dividiram por consumo habitual de cafeína: baixo (cerca de 58 mg/dia), moderado (~143 mg/dia) e alto (~351 mg/dia — o equivalente a vários cafés por dia). Todos completaram contrarrelógios após receber cafeína (6 mg/kg), placebo ou nada.</p>\n\n<p>O resultado: a cafeína melhorou o tempo de prova em torno de 3% em relação ao placebo (de ~30,8 para ~29,9 minutos). O ponto central: <strong>o ganho foi estatisticamente igual nos três grupos</strong>. Quem tomava muito café no dia a dia respondeu à cafeína aguda tão bem quanto quem quase não tomava.</p>\n\n<h2>A meta-análise concorda</h2>\n\n<p>Carvalho e colaboradores (<em>Sports Medicine</em>, 2022) fizeram a revisão sistemática e meta-análise do tema — \"Can I Have My Coffee and Drink It?\". A conclusão vai na mesma direção dos estudos transversais: não há evidência consistente de que o consumo habitual anule o efeito ergogênico agudo da cafeína.</p>\n\n<h2>A ressalva honesta: tolerância parcial existe</h2>\n\n<p>A evidência, porém, não é unânime — e esconder isso seria desonesto. Estudos que controlam a dose diária de cafeína ao longo de semanas sugerem uma tolerância <em>parcial</em> ao efeito no desempenho. Uma revisão de 2025 (Khodadadi et al., <em>Sports Health</em>) resume bem: a habituação <strong>reduz, mas não elimina</strong> a ergogenicidade da cafeína aguda; a tolerância tende a se instalar no primeiro mês de uso e o status de treino modifica a resposta — atletas treinados preservam mais o efeito, e doses um pouco maiores podem compensar. Um período de abstinência de cerca de 1 a 2 semanas pode restaurar parte do benefício.</p>\n\n<p>Ou seja: o quadro real não é \"o café diário destrói a cafeína\" nem \"consumo habitual é totalmente irrelevante\". É um meio-termo — com uma mensagem prática clara.</p>\n\n<h2>O que fazer na prática</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose</td><td>3–6 mg/kg de peso corporal</td></tr>\n<tr><td>Timing</td><td>cerca de 45–60 min antes do esforço</td></tr>\n<tr><td>Precisa cortar café por semanas?</td><td>Não — o consumidor habitual ainda se beneficia</td></tr>\n<tr><td>Quer maximizar num dia-chave?</td><td>Abstinência de ~1–2 semanas pode restaurar parte do efeito (opcional)</td></tr>\n<tr><td>Atenção</td><td>Cafeína à tarde/noite prejudica o sono mesmo horas antes</td></tr>\n</tbody>\n</table>\n\n<p>A conclusão que interessa ao atleta de endurance: se você toma café todos os dias, não precisa fazer um \"detox de cafeína\" de semanas para que ela volte a funcionar na prova. O benefício continua lá. Se quiser espremer o máximo num dia muito importante, uma redução por alguns dias é uma estratégia opcional — não um pré-requisito.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Gonçalves LS, Painelli VS, Yamaguchi G, et al. Dispelling the myth that habitual caffeine consumption influences the performance response to acute caffeine supplementation. <em>J Appl Physiol</em>. 2017;123(1):213–220. doi:10.1152/japplphysiol.00260.2017</li>\n<li>Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B. Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine. <em>Sports Med</em>. 2022;52(9):2209–2220. doi:10.1007/s40279-022-01685-0</li>\n<li>Khodadadi D, Azimi F, Eghbal Moghanlou A, et al. Habitual Caffeine Consumption and Training Status Affect the Ergogenicity of Acute Caffeine Intake on Exercise Performance. <em>Sports Health</em>. 2025;17(5):930–941. doi:10.1177/19417381251315093</li>\n</ol>\n",
+    "cover": "content/drafts/draft_021/cover.png",
+    "cover_alt": "Café todo dia anula a cafeína no treino? — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_021/slide_01.png",
+    "content/drafts/draft_021/slide_02.png",
+    "content/drafts/draft_021/slide_03.png",
+    "content/drafts/draft_021/slide_04.png",
+    "content/drafts/draft_021/slide_05.png",
+    "content/drafts/draft_021/slide_06.png"
+  ]
+}

@@ -565,6 +565,17 @@
       "priority": 1,
       "published_at": "2026-10-01T20:27:18.840298+00:00",
       "post_id": "18116778256978749"
+    },
+    {
+      "local_id": "draft_021",
+      "format": "carousel",
+      "topic": "cafeína e consumo habitual (tolerância ao efeito no desempenho)",
+      "hook": "Toma café todo dia? A cafeína ainda te deixa ~3% mais rápido na prova.",
+      "status": "approved",
+      "created_at": "2026-10-02T00:00:00Z",
+      "scheduled_for": "2026-10-02T15:00:00Z",
+      "priority": 1,
+      "notes": "Familia vencedora cafeina (1558/975). Myth-busting: consumo habitual nao anula o efeito ergogenico agudo (Goncalves 2017, 40 ciclistas ganho igual nos 3 grupos; Carvalho 2022 meta-analise). Ressalva honesta: tolerancia parcial (Khodadadi 2025)."
     }
   ]
 }
