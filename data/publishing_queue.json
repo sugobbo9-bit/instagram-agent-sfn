@@ -592,6 +592,16 @@
       "priority": 1,
       "published_at": "2026-10-02T20:24:13.096503+00:00",
       "post_id": "17947972476335955"
+    },
+    {
+      "local_id": "vsabia_017",
+      "format": "static",
+      "topic": "batata cozida vs gel de carboidrato como combustível em provas longas",
+      "hook": "Batata rende igual a gel de carbo: após 2 h pedalando, os dois foram ~6 min mais rápidos no contrarrelógio que só água.",
+      "status": "approved",
+      "created_at": "2026-10-03T00:00:00Z",
+      "priority": 1,
+      "notes": "Serie 'Voce sabia?' - estatico, Instagram-only (sem article). Batata vs gel de carbo (Salvador et al. 2019)."
     }
   ]
 }
