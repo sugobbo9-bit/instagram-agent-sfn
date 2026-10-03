@@ -1,0 +1,43 @@
+{
+  "local_id": "vsabia_017",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-10-03T00:00:00Z",
+  "topic": "batata cozida vs gel de carboidrato como combustível em provas longas",
+  "content_pillar": "fueling",
+  "hook": "Batata rende igual a gel de carbo: após 2 h pedalando, os dois foram ~6 min mais rápidos no contrarrelógio que só água.",
+  "subtext": "Mesma dose de carbo (~60 g/h), mesma entrega de energia. Comida de verdade pode substituir o suplemento.",
+  "source_line": "Salvador et al., J Appl Physiol, 2019 (12 ciclistas treinados).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:batata-vs-gel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Gel de carboidrato é prático — mas não é obrigatório. 🥔\n\nPesquisadores colocaram 12 ciclistas treinados pra pedalar 2 h e depois fazer um contrarrelógio, consumindo ~60 g de carboidrato por hora de três formas: purê de batata, gel comercial ou só água. Resultado: batata e gel empataram (33,0 min cada) e os dois bateram a água (39,5 min) com folga. Ou seja, a ~60 g/h a fonte do carbo não mudou o desempenho — o que importou foi ingerir o carboidrato.\n\nNa prática: em treinos e provas longas, comida de verdade (batata, banana, arroz) pode entregar energia tão bem quanto o suplemento, geralmente mais barata e com mais saciedade. Só vale testar antes pra ver como o seu estômago reage em ritmo de prova.\n\nFonte: Salvador et al., Journal of Applied Physiology, 2019.",
+  "cta": "Salva e testa comida de verdade no próximo treino longo.",
+  "scientific_sources": [
+    {
+      "title": "Potato ingestion is as effective as carbohydrate gels to support prolonged cycling performance",
+      "authors": "Salvador AF, McKenna CF, Alamilla RA, Cloud RMT, Keeble AR, Miltko A, Scaroni SE, Beals JW, Ulanov AV, Dilger RN, Bauer LL, Broad EM, Burd NA",
+      "journal": "Journal of Applied Physiology",
+      "year": 2019,
+      "volume": "127",
+      "issue": "6",
+      "pages": "1651-1659",
+      "doi": "10.1152/japplphysiol.00567.2019",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_017/card.png"
+  ],
+  "post_id": "17921102424436185",
+  "published_at": "2026-10-03T20:27:53.469448+00:00"
+}
