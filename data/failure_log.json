@@ -89,7 +89,29 @@
       "diagnosis": "tópico (baixa novidade)",
       "detail": "Mito já muito desmascarado no nicho — baixa curiosidade/novidade ('não sabia disso' fraco). Hook e execução ok. Teto baixo por saturação do tema.",
       "idea_verdict": "não priorizar isolado; só como item dentro de post mais amplo de timing/proteína"
+    },
+    {
+      "post_id": "carousel_ferro_156",
+      "topic": "suplementação de ferro e endurance",
+      "format": "carousel",
+      "reach": 156,
+      "tier": "bottom25",
+      "date": "2026-10-01",
+      "diagnosis": "timing + tópico (confundido)",
+      "detail": "Alcance 156, mas publicado às 11h UTC (janela fraca, mediana 269) — NÃO é um teste limpo do tópico. shares/reach 0,038 foi até bom (sinal de interesse). Ferro/anemia é relevante p/ endurance (sobretudo mulheres). Diagnóstico honesto: alcance baixo dominado pelo horário ruim, não condenar o tópico. Retestar na janela de 15h UTC com hook de sintoma ('cansaço que não passa com descanso') antes de desistir.",
+      "idea_verdict": "retestar em 15h UTC antes de condenar"
+    },
+    {
+      "post_id": "carousel_lowcarb_194",
+      "topic": "dieta cetogênica / low-carb (fat adaptation)",
+      "format": "carousel",
+      "reach": 194,
+      "tier": "bottom25",
+      "date": "2026-09-28",
+      "diagnosis": "timing + saturação de ângulo",
+      "detail": "Alcance 194 às 11h UTC (janela fraca). low-carb vs high-carb é tópico de interesse forte (evidência A), então o alcance baixo é parcialmente horário. Possível fadiga do ângulo 'keto não serve p/ endurance' (já batido). Retestar em 15h com ângulo prático novo (ex.: periodização train-low) em vez de mito keto.",
+      "idea_verdict": "retestar em 15h com ângulo de periodização, não mito keto"
     }
   ],
-  "_last_review": "2026-09-27"
+  "_last_review": "2026-10-04"
 }

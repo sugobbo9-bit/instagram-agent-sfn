@@ -76,3 +76,32 @@ Sem nova coleta de métricas desde 27/09: os 160 posts medidos têm `collected_a
 
 ### Bloqueio de dado próprio (REINCIDENTE — 4 semanas)
 Demografia (`follower_demographics`/`online_followers`) e **texto** dos comentários seguem **não medíveis** por esta rotina: o token válido existe só como Secret do GitHub Actions (inalcançável do Mac) e **não há arquivo commitado** (`data/audience_demographics.json` / `data/comments_recent.json`). Desbloqueio depende de **instrumentar um passo no Actions** que commite esses JSONs; comentários exigem também o escopo **`instagram_manage_comments`** (o mesmo para responder no futuro). Enquanto isso, o banco de perguntas/objeções da audiência não pode começar.
+
+## Ciclo 2026-10-04
+
+### Sobre a Conta
+9.529 seguidores (+111 na semana; desacelerou vs +152, mas segue positivo). Alcance recente fraco não travou o crescimento — conversão por alcance segue boa. follows/reach por post ainda cego.
+
+### Sobre Alcance (reconfirmado e piorando)
+Baseline do carrossel caiu 474→418 (n=69). Janela recente muito abaixo: 14d=241, 7d=204. Causa: quase todo carrossel recente saiu às **11h UTC** (mediana histórica 269) e os estáticos diários seguem no fundo. É execução, não tópico.
+
+### Lição de processo (DEFINITIVA — 4ª semana): parar de só escrever, começar a enforçar em código
+As mesmas 2 decisões (pausar estático; publicar 15h UTC) ficaram 3 ciclos só no documento/fila e nunca chegaram à execução, porque **quem produz/aprova/dispacha é a rotina DIÁRIA** (outra tarefa agendada), não o loop semanal nem o código do repo. Mudança de abordagem neste ciclo: **enforçar no único chokepoint que o loop semanal controla — o `publisher.py`.** Adicionada a flag `STATIC_PAUSED`: o publisher recusa `static` e publica o próximo carrossel/Reel aprovado, independente do que a rotina diária aprove. Horário (cron em `.github/workflows/`) e a publicação da fila estratégica (precisa de render) continuam fora do alcance — esses seguem escalados. Regra nova: **se uma decisão não é aplicável pelo loop semanal via código do repo, escalar explicitamente e não fingir que a reescrita do documento resolve.**
+
+### Sobre a Fila Estratégica (NOVO)
+Os derivados de vencedores e o reteste de sono estão como `draft` **sem arquivo renderizado** (`content/` vazio para os `der_*`). A rotina diária não os renderiza/aprova — publica a própria série `vsabia_*` (17 drafts estáticos no backlog). Por isso o experimento de sono (`exp_sono_hook_timing`) **não concluiu**. O loop semanal (texto/análise, sem render) não pode publicá-los. Lever exclusivo da rotina diária.
+
+### Sobre Vencedores/Fracassos
+- Novo vencedor: **cãibra muscular (654, saves/reach 0,031)** — mito prático universal; família "erros/mitos práticos".
+- Reconfirmados: carga de carbo (950, saves/reach 0,039) e cafeína (979).
+- "Fracassos" ferro (156) e keto (194) saíram às 11h UTC → **confundidos pelo horário**, não condenados por tópico. Retestar em 15h. (Honestidade analítica: não declarar tópico morto a partir de post em janela ruim.)
+
+### Sobre Horário/Dia (base ampliada, n=69 carrossel)
+15h UTC 828 (n=17) ≫ 11h 269 (n=13); piores 16h (158)/17h (212). Pior dia: sexta 236 (n=32, maior volume — e é onde mais se publica carrossel). Melhores: segunda 668, terça 630.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-10-04 | **EXECUTADO: `publisher.py STATIC_PAUSED`** — publisher recusa formato estático | Enforce em código da pausa decidida há 4 semanas e nunca aplicada pela rotina diária | estático 199 vs carrossel 241 na mesma janela; 10 estáticos em 14d no fundo |
+| 2026-10-04 | +1 vencedor (cãibra 654) e +2 fracassos (ferro 156, keto 194, confundidos por horário) | Winner/failure system | posts_db 04/10 |
+| 2026-10-04 | Escalado: rotina diária deve dispachar 15h UTC e consumir a fila estratégica (render+approve) | 4ª semana; horário e fila fora do alcance do loop semanal | carrossel 15h 828 vs 11h 269; der_* sem render |

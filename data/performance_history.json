@@ -85,6 +85,54 @@
         "ESCALADO ao Victor: a rotina DIÁRIA precisa parar de produzir estáticos e dispachar carrosséis às 15h UTC — o loop semanal não controla os dispatches diários.",
         "TENTADO mover cron publish.yml 0 12->0 15 UTC: BLOQUEADO (PAT sem escopo workflow, push rejeitado) — escalado ao Victor."
       ]
+    },
+    {
+      "week_ending": "2026-10-04",
+      "followers_count": 9529,
+      "followers_delta_week": 111,
+      "posts_last_7d": {
+        "carousel": 4,
+        "static": 5,
+        "reel": 0
+      },
+      "medians_last_7d": {
+        "carousel_reach": 204,
+        "static_reach": 221.5
+      },
+      "posts_last_14d": {
+        "carousel": 8,
+        "static": 10,
+        "reel": 0
+      },
+      "medians_last_14d": {
+        "carousel_reach": 241.5,
+        "static_reach": 199
+      },
+      "baseline_full": {
+        "carousel_reach": 418,
+        "reel_reach": 256,
+        "static_reach": 209.5
+      },
+      "percentiles_carousel": {
+        "p90": 1218,
+        "p75": 828,
+        "median": 418,
+        "p25": 196
+      },
+      "key_findings": [
+        "Crescimento DESACELEROU mas segue positivo: +111 (vs +152 na semana anterior). Base 9.529.",
+        "Baseline do carrossel caiu 474->418: a janela recente é quase toda carrossel às 11h UTC + estáticos diários — exatamente as 2 alavancas não implementadas.",
+        "4a SEMANA consecutiva: estáticos não pausados (5 em 7d, 10 em 14d, todos no fundo) e carrosséis ainda às 11h UTC (mediana 269) em vez de 15h UTC (mediana 828).",
+        "Confondimento de horário: quase todo carrossel recente saiu às 11h — os 'fracassos' recentes (ferro 156, keto 194) são dominados pelo horário ruim, não pelo tópico.",
+        "Fila estratégica (derivados de vencedores + reteste de sono) NÃO é publicada: drafts sem render; a rotina diária publica a própria série estática em vez da fila.",
+        "Vencedores reconfirmados: cafeína (979), carga de carbo (950, saves/reach 0,039), cãibra (654, saves/reach 0,031)."
+      ],
+      "key_decisions": [
+        "EXECUTADO (fix de código): publisher.py agora RECUSA formato 'static' (STATIC_PAUSED) — enforce da decisão de pausa no único chokepoint de publicação, sem depender da rotina diária.",
+        "TENTADO mover cron publish.yml 0 12->0 15 UTC (ver resultado no log semanal).",
+        "+1 vencedor (cãibra) e +2 fracassos (ferro, keto, ambos com diagnóstico de confondimento de horário).",
+        "ESCALADO ao Victor: a rotina DIÁRIA precisa (a) dispachar às 15h UTC e (b) aprovar/renderizar a fila estratégica de carrosséis em vez de gerar série estática."
+      ]
     }
   ],
   "account": {
@@ -92,6 +140,6 @@
     "username": "sofatosnutricao",
     "followers_count": 9529,
     "media_count": 148,
-    "bootstrapped_at": "2026-10-04T12:21:31.895126+00:00"
+    "bootstrapped_at": "2026-10-04T12:19:00+00:00"
   }
 }

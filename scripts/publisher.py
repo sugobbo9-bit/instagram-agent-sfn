@@ -76,6 +76,30 @@ pend = [i for i in q["queue"] if i.get("status") == "approved"]
 if not pend:
     log("Fila sem itens aprovados. Nada a publicar."); sys.exit(0)
 
+# --- Guarda estrategica: serie estatica PAUSADA ---------------------
+# Decisao de 2026-09-20, reafirmada por dados em 4 ciclos semanais
+# consecutivos. A serie "voce sabia" (estatico) fica no fundo do funil
+# (mediana ~199-221 vs carrossel 418 na mesma janela), corroi o baseline
+# do formato e nao gera crescimento. Enquanto a serie esta pausada o
+# publisher RECUSA itens 'static' e publica o proximo carrossel/Reel
+# aprovado. Reversivel: STATIC_PAUSED=False reativa o formato.
+# Ver strategy/current_strategy.md (ciclo 2026-10-04).
+STATIC_PAUSED = True
+if STATIC_PAUSED:
+    statics = [i for i in pend if i.get("format") == "static"]
+    if statics:
+        for s in statics:
+            s["status"] = "suppressed_static"
+            s["suppressed_at"] = datetime.now(timezone.utc).isoformat()
+            log(f"Estatico suprimido pela estrategia (serie pausada): "
+                f"{s.get('local_id')} — {s.get('topic')}", "WARN")
+        json.dump(q, open(qp, "w"), indent=2, ensure_ascii=False)
+    pend = [i for i in pend if i.get("format") != "static"]
+    if not pend:
+        log("Apenas estatico(s) aprovado(s) — serie pausada. Nada "
+            "publicado hoje (melhor conteudo > mais conteudo).", "WARN")
+        sys.exit(0)
+
 pend.sort(key=lambda i: i.get("priority", 99))
 item = pend[0]
 lid  = item["local_id"]

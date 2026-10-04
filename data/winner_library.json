@@ -95,8 +95,8 @@
       "post_id": "carga_carbo_918",
       "permalink_hint": "carga de carboidrato / depleção — protocolo antigo (2026-09-22)",
       "format": "carousel",
-      "reach": 918,
-      "shares_per_reach": 0.023,
+      "reach": 950,
+      "shares_per_reach": 0.024,
       "saves_per_reach": 0.039,
       "tier": "top25_recent",
       "why_it_worked": [
@@ -114,7 +114,7 @@
       "post_id": "cafeina_975",
       "permalink_hint": "cafeína, o ergogênico mais documentado — reforço (2026-09-17)",
       "format": "carousel",
-      "reach": 975,
+      "reach": 979,
       "shares_per_reach": 0.017,
       "saves_per_reach": 0.01,
       "tier": "top25_recent",
@@ -127,7 +127,23 @@
       "derivatives_created": [
         "der_cafeina_dose_timing"
       ]
+    },
+    {
+      "post_id": "caibra_654",
+      "permalink_hint": "cãibra muscular no exercício (2026-09-09)",
+      "format": "carousel",
+      "reach": 654,
+      "shares_per_reach": 0.017,
+      "saves_per_reach": 0.031,
+      "tier": "above_median_recent",
+      "why_it_worked": [
+        "saves/reach 0,031 — alto valor de salvamento (2o maior do ciclo recente)",
+        "corrige um erro/mito prático muito comum (cãibra = falta de sal/água) com veredito atualizado (origem neuromuscular)",
+        "tópico de dor real e universal no público de endurance; acionável"
+      ],
+      "content_family": "erros/mitos práticos de treino (cãibra, hidratação)",
+      "derivatives_created": []
     }
   ],
-  "_last_review": "2026-09-27"
+  "_last_review": "2026-10-04"
 }
