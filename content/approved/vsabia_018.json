@@ -1,0 +1,42 @@
+{
+  "local_id": "vsabia_018",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-10-04T00:00:00Z",
+  "topic": "bochecho de mentol (menthol mouth rinse) e desempenho de corrida no calor",
+  "content_pillar": "ergogenicos",
+  "hook": "Bochechar mentol (sem engolir) no calor te deixou ~2,7% mais rápido num 5 km — sem resfriar o corpo de verdade.",
+  "subtext": "Ele ativa receptores de frio na boca: o cérebro 'sente' frescor e reduz a sensação de calor, mesmo com a temperatura corporal igual.",
+  "source_line": "Stevens et al., Scand J Med Sci Sports, 2016 (11 corredores, 5 km a ~33 °C).",
+  "experiment_tags": [
+    "format:static",
+    "series:voce-sabia",
+    "topic:menthol-mouth-rinse"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Um truque de prova em dia quente que parece trapaça: bochechar uma solução mentolada e cuspir. 🌿🥵\n\nNum estudo com 11 corredores treinados, bochechar mentol durante um teste de 5 km no calor (~33 °C) deixou o pessoal ~2,7% mais rápido (25,3 vs 26,0 min) e com menos sensação de calor — mesmo sem baixar a temperatura do corpo. O mentol ativa os receptores de frio (TRPM8) da boca e 'engana' o cérebro, que afrouxa o freio que ele coloca no seu ritmo quando acha que você está superaquecendo.\n\nNa prática: em treinos e provas no calor, vale testar um enxaguante mentolado ou até uma bala de menta — é barato, leve e nem precisa engolir. Só teste antes pra ver se o sabor te agrada no esforço.\n\nFonte: Stevens et al., Scandinavian Journal of Medicine & Science in Sports, 2016.",
+  "cta": "Salva pra testar no próximo treino de calor.",
+  "scientific_sources": [
+    {
+      "title": "Running performance and thermal sensation in the heat are improved with menthol mouth rinse but not ice slurry ingestion",
+      "authors": "Stevens CJ, Thoseby B, Sculley DV, Callister R, Taylor L, Dascombe BJ",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports",
+      "year": 2016,
+      "volume": "26",
+      "issue": "10",
+      "pages": "1209-1216",
+      "doi": "10.1111/sms.12555",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26408395",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/vsabia_018/card.png"
+  ]
+}
