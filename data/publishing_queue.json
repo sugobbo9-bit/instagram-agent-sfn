@@ -610,9 +610,10 @@
       "format": "static",
       "topic": "bochecho de mentol (menthol mouth rinse) e desempenho de corrida no calor",
       "hook": "Bochechar mentol (sem engolir) no calor te deixou ~2,7% mais rápido num 5 km — sem resfriar o corpo de verdade.",
-      "status": "approved",
+      "status": "suppressed_static",
       "created_at": "2026-10-04T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "suppressed_at": "2026-10-04T20:25:55.875981+00:00"
     }
   ]
 }
