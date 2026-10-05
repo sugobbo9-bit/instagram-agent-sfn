@@ -7047,6 +7047,61 @@
       "performance_tier": null,
       "derivatives_created": [],
       "permalink": "https://www.instagram.com/p/DeC6rtsFfEG/"
+    },
+    {
+      "post_id": "18150135379547063",
+      "local_id": "draft_022",
+      "publication_date": "2026-10-05T11:33:17.885972+00:00",
+      "format": "carousel",
+      "topic": "cafeína: dose e timing práticos para desempenho",
+      "content_pillar": "supplementation",
+      "hook": "Mais cafeína não te deixa mais rápido. A dose certa é menor.",
+      "caption": "A cafeína é um dos poucos suplementos com evidência forte de verdade para endurance. Mas a maioria erra a mão: dose grande demais e no momento errado.\n\nO que a evidência mostra:\n• 3–6 mg/kg já entrega o efeito (doses baixas, de ~2 mg/kg, também funcionam)\n• ~60 min antes do esforço, não em cima da hora\n• acima de ~9 mg/kg não há ganho extra — só mais tremor, ansiedade e taquicardia\n• meia-vida de 4–6 h: cafeína à noite pode roubar seu sono e sabotar a recuperação\n\nMais não é melhor. A dose certa é quase sempre menor do que a que você está tomando.\n\nFontes: Guest NS et al. International Society of Sports Nutrition position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18(1):1. | Grgic J et al. Wake up and smell the coffee: an umbrella review of 21 meta-analyses. Br J Sports Med. 2019;53(19):1209-1218.",
+      "cta": "Salva e manda pra quem sempre exagera na cafeína.",
+      "scientific_sources": [
+        {
+          "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+          "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, Arent SM, Antonio J, Stout JR, Trexler ET, Smith-Ryan AE, Goldstein ER, Kalman DS, Campbell BI",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "volume": "18",
+          "issue": "1",
+          "pages": "1",
+          "doi": "10.1186/s12970-020-00383-4",
+          "level": "A"
+        },
+        {
+          "title": "Wake up and smell the coffee: caffeine supplementation and exercise performance—an umbrella review of 21 published meta-analyses",
+          "authors": "Grgic J, Grgic I, Pickering C, Schoenfeld BJ, Bishop DJ, Pedisic Z",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2019,
+          "volume": "53",
+          "issue": "19",
+          "pages": "1209-1218",
+          "doi": "10.1136/bjsports-2018-100278",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_022/slide_01.png",
+        "content/drafts/draft_022/slide_02.png",
+        "content/drafts/draft_022/slide_03.png",
+        "content/drafts/draft_022/slide_04.png",
+        "content/drafts/draft_022/slide_05.png",
+        "content/drafts/draft_022/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:cafeina",
+        "format:carousel",
+        "angle:dose_timing",
+        "family:caffeine_winner"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ac38b00c8f49900011019e9",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-dose-timing-desempenho/"
     }
   ]
 }

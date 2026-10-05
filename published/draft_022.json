@@ -1,0 +1,118 @@
+{
+  "local_id": "draft_022",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-10-05T00:00:00Z",
+  "topic": "cafeína: dose e timing práticos para desempenho",
+  "content_pillar": "supplementation",
+  "hook": "Mais cafeína não te deixa mais rápido. A dose certa é menor.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:cafeina",
+    "format:carousel",
+    "angle:dose_timing",
+    "family:caffeine_winner"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Mais cafeína não te deixa mais rápido. A dose certa é menor.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Quanto mais, melhor? Não é assim que a cafeína funciona.",
+      "body": "A crença comum: dose alta de cafeína = mais desempenho. Por isso tanto pré-treino vem com 300, 400 mg ou mais.\n\nE tem o outro erro: tomar a cafeína em cima da hora, achando que o efeito é imediato.\n\nA evidência mostra que os dois estão errados.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A DOSE",
+      "headline": "O efeito aparece com pouco. E não cresce com o excesso.",
+      "body": "A faixa que melhora o desempenho é 3 a 6 mg por kg de peso.\n\nDoses tão baixas quanto 2 mg/kg já entregam efeito — o mecanismo é no cérebro, não no músculo.\n\nAcima disso, o ganho não aumenta: só os efeitos colaterais.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Dezenas de estudos, a mesma conclusão.",
+      "body": "Position stand da ISSN (2021): cafeína melhora o endurance em 2 a 4% com doses de 3–6 mg/kg. Doses de ~9 mg/kg não dão benefício extra e aumentam os efeitos colaterais.\n\nRevisão guarda-chuva de 21 meta-análises (Br J Sports Med, 2019): a cafeína melhora o desempenho numa ampla gama de exercícios — o endurance é onde o efeito é mais consistente.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O protocolo que a ciência apoia.",
+      "body": "Dose: 3–6 mg/kg. Ex.: 70 kg = 210–420 mg (≈ 2 a 4 xícaras de café)\nTiming: cerca de 60 min antes — não em cima da hora\nMeia-vida: 4–6 h. Treino à noite pode custar seu sono\nMais não é melhor: ≥9 mg/kg só adiciona tremor, ansiedade e taquicardia\n→ Comece pela menor dose eficaz e ajuste pela sua tolerância",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Menos é mais: a dose certa, cedo o bastante, sem exagero.",
+      "body": "Salva pra acertar a cafeína no próximo treino — e manda pra quem vive estourando a dose.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A cafeína é um dos poucos suplementos com evidência forte de verdade para endurance. Mas a maioria erra a mão: dose grande demais e no momento errado.\n\nO que a evidência mostra:\n• 3–6 mg/kg já entrega o efeito (doses baixas, de ~2 mg/kg, também funcionam)\n• ~60 min antes do esforço, não em cima da hora\n• acima de ~9 mg/kg não há ganho extra — só mais tremor, ansiedade e taquicardia\n• meia-vida de 4–6 h: cafeína à noite pode roubar seu sono e sabotar a recuperação\n\nMais não é melhor. A dose certa é quase sempre menor do que a que você está tomando.\n\nFontes: Guest NS et al. International Society of Sports Nutrition position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18(1):1. | Grgic J et al. Wake up and smell the coffee: an umbrella review of 21 meta-analyses. Br J Sports Med. 2019;53(19):1209-1218.",
+  "cta": "Salva e manda pra quem sempre exagera na cafeína.",
+  "scientific_sources": [
+    {
+      "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+      "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, Arent SM, Antonio J, Stout JR, Trexler ET, Smith-Ryan AE, Goldstein ER, Kalman DS, Campbell BI",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "1",
+      "doi": "10.1186/s12970-020-00383-4",
+      "level": "A"
+    },
+    {
+      "title": "Wake up and smell the coffee: caffeine supplementation and exercise performance—an umbrella review of 21 published meta-analyses",
+      "authors": "Grgic J, Grgic I, Pickering C, Schoenfeld BJ, Bishop DJ, Pedisic Z",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2019,
+      "volume": "53",
+      "issue": "19",
+      "pages": "1209-1218",
+      "doi": "10.1136/bjsports-2018-100278",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Cafeína: a dose e o timing que realmente funcionam",
+    "slug": "cafeina-dose-timing-desempenho",
+    "excerpt": "A cafeína é um dos ergogênicos mais bem documentados para endurance — mas a maioria dos atletas erra a dose e o horário. O que a evidência mostra sobre quanto tomar e quando.",
+    "meta_title": "Cafeína para desempenho: a dose e o timing certos segundo a ciência",
+    "tags": [
+      "Cafeína",
+      "Suplementação",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>A cafeína é um dos pouquíssimos suplementos com evidência de nível A para desempenho em endurance. E talvez por isso mesmo ela seja tão malusada: a maioria dos atletas toma <em>demais</em> e no <em>momento errado</em>, convencida de que mais cafeína significa mais desempenho.</p>\n\n<p>Não significa. Veja o que a evidência realmente mostra.</p>\n\n<h2>O mito do \"quanto mais, melhor\"</h2>\n\n<p>Pré-treinos com 300, 400 mg de cafeína por dose alimentam a ideia de que a resposta é sempre dose-dependente — que dobrar a cafeína dobra o efeito. Soma-se a isso o hábito de tomar a cafeína em cima da hora, como se o efeito fosse imediato. Os dois pressupostos estão errados.</p>\n\n<h2>A faixa que funciona: 3 a 6 mg/kg</h2>\n\n<p>O <strong>position stand da International Society of Sports Nutrition</strong> (Guest et al., 2021) é direto: a cafeína melhora o endurance em cerca de <strong>2 a 4%</strong> quando consumida em doses de <strong>3 a 6 mg por kg de peso corporal</strong>. Para um atleta de 70 kg, isso são 210 a 420 mg — o equivalente aproximado a 2 a 4 xícaras de café coado.</p>\n\n<p>Mais interessante ainda: doses tão baixas quanto <strong>2 mg/kg</strong> já produzem efeito ergogênico mensurável. Isso reforça que o mecanismo principal é central (no sistema nervoso, reduzindo a percepção de esforço), e não periférico. Você não precisa de uma megadose para se beneficiar.</p>\n\n<h2>Por que mais não é melhor</h2>\n\n<p>O mesmo position stand afirma que doses muito altas — da ordem de <strong>9 mg/kg</strong> — estão associadas a uma alta incidência de efeitos colaterais e <strong>não parecem necessárias</strong> para gerar o efeito ergogênico. Ou seja: a partir de certo ponto, você só adiciona tremor, ansiedade, taquicardia e desconforto gastrointestinal, sem comprar mais desempenho.</p>\n\n<p>A <strong>revisão guarda-chuva de 21 meta-análises</strong> publicada no <em>British Journal of Sports Medicine</em> (Grgic et al., 2019) confirma o quadro geral: a cafeína melhora o desempenho numa ampla gama de tarefas — força, potência, resistência muscular — e o <strong>endurance aeróbio é onde o efeito é mais consistente</strong>.</p>\n\n<h2>O timing: cerca de 60 minutos antes</h2>\n\n<p>A cafeína precisa de tempo para ser absorvida e atingir pico plasmático. O protocolo mais usado na literatura é ingeri-la <strong>aproximadamente 60 minutos antes</strong> do esforço — não em cima da hora. E um detalhe que atletas ignoram: a <strong>meia-vida da cafeína é de 4 a 6 horas</strong> (podendo variar bastante entre pessoas). Um treino forte no fim da tarde ou à noite pode comprometer o sono — e sono é recuperação.</p>\n\n<h2>Protocolo prático</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose</td><td>3–6 mg/kg (ex.: 70 kg = 210–420 mg)</td></tr>\n<tr><td>Dose mínima eficaz</td><td>pode ser tão baixa quanto ~2 mg/kg</td></tr>\n<tr><td>Timing</td><td>~60 min antes do esforço</td></tr>\n<tr><td>Teto útil</td><td>≥9 mg/kg não adiciona benefício, só efeitos colaterais</td></tr>\n<tr><td>Atenção</td><td>meia-vida 4–6 h: cafeína tarde/à noite prejudica o sono</td></tr>\n</tbody>\n</table>\n\n<p>A recomendação prática: comece pela <strong>menor dose eficaz</strong> e ajuste pela sua tolerância individual. A dose certa é quase sempre menor do que a que você está tomando hoje.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Guest NS, VanDusseldorp TA, Nelson MT, et al. International society of sports nutrition position stand: caffeine and exercise performance. <em>J Int Soc Sports Nutr</em>. 2021;18(1):1. doi:10.1186/s12970-020-00383-4</li>\n<li>Grgic J, Grgic I, Pickering C, et al. Wake up and smell the coffee: caffeine supplementation and exercise performance—an umbrella review of 21 published meta-analyses. <em>Br J Sports Med</em>. 2019;53(19):1209–1218. doi:10.1136/bjsports-2018-100278</li>\n</ol>\n",
+    "cover": "content/drafts/draft_022/cover.png",
+    "cover_alt": "Cafeína: a dose e o timing que realmente funcionam — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_022/slide_01.png",
+    "content/drafts/draft_022/slide_02.png",
+    "content/drafts/draft_022/slide_03.png",
+    "content/drafts/draft_022/slide_04.png",
+    "content/drafts/draft_022/slide_05.png",
+    "content/drafts/draft_022/slide_06.png"
+  ],
+  "post_id": "18150135379547063",
+  "published_at": "2026-10-05T11:33:17.885972+00:00"
+}

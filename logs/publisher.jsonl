@@ -309,3 +309,10 @@
 {"ts": "2026-10-05T11:29:58.535549+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-05T11:30:26.552064+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-05T11:30:29.827767+00:00", "level": "ERROR", "msg": "FALHA ao publicar draft_022: POST 17841472609243044/media_publish: Media ID is not available"}
+{"ts": "2026-10-05T11:32:36.582772+00:00", "level": "INFO", "msg": "Publicando draft_022 (carousel) \u2014 cafe\u00edna: dose e timing pr\u00e1ticos para desempenho"}
+{"ts": "2026-10-05T11:32:36.584591+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-05T11:32:36.584646+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_022/slide_01.png"}
+{"ts": "2026-10-05T11:32:38.301883+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-05T11:33:09.646081+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-05T11:33:17.885770+00:00", "level": "INFO", "msg": "PUBLICADO: draft_022 -> media_id 18150135379547063"}
+{"ts": "2026-10-05T11:33:17.894929+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

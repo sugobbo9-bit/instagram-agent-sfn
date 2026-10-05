@@ -620,11 +620,16 @@
       "format": "carousel",
       "topic": "cafeína: dose e timing práticos para desempenho",
       "hook": "Mais cafeína não te deixa mais rápido. A dose certa é menor.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-05T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Derivado do vencedor cafeina (familia recorrente); angulo novo dose/timing; evidencia nivel A (ISSN position stand + umbrella review BJSM) | retry apos erro transitorio 'Media ID is not available' no media_publish"
+      "notes": "Derivado do vencedor cafeina (familia recorrente); angulo novo dose/timing; evidencia nivel A (ISSN position stand + umbrella review BJSM) | retry apos erro transitorio 'Media ID is not available' no media_publish",
+      "published_at": "2026-10-05T11:33:17.885972+00:00",
+      "post_id": "18150135379547063",
+      "ghost_post_id": "6ac38b00c8f49900011019e9",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-dose-timing-desempenho/",
+      "ghost_status": "published"
     }
   ]
 }
