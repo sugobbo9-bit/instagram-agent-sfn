@@ -614,6 +614,17 @@
       "created_at": "2026-10-04T00:00:00Z",
       "priority": 1,
       "suppressed_at": "2026-10-04T20:25:55.875981+00:00"
+    },
+    {
+      "local_id": "draft_022",
+      "format": "carousel",
+      "topic": "cafeína: dose e timing práticos para desempenho",
+      "hook": "Mais cafeína não te deixa mais rápido. A dose certa é menor.",
+      "status": "approved",
+      "created_at": "2026-10-05T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Derivado do vencedor cafeina (familia recorrente); angulo novo dose/timing; evidencia nivel A (ISSN position stand + umbrella review BJSM)"
     }
   ]
 }
