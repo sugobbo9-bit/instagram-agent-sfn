@@ -303,3 +303,9 @@
 {"ts": "2026-10-04T16:25:51.048223+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-10-04T20:25:55.875998+00:00", "level": "WARN", "msg": "Estatico suprimido pela estrategia (serie pausada): vsabia_018 \u2014 bochecho de mentol (menthol mouth rinse) e desempenho de corrida no calor"}
 {"ts": "2026-10-04T20:25:55.876887+00:00", "level": "WARN", "msg": "Apenas estatico(s) aprovado(s) \u2014 serie pausada. Nada publicado hoje (melhor conteudo > mais conteudo)."}
+{"ts": "2026-10-05T11:29:57.842390+00:00", "level": "INFO", "msg": "Publicando draft_022 (carousel) \u2014 cafe\u00edna: dose e timing pr\u00e1ticos para desempenho"}
+{"ts": "2026-10-05T11:29:57.844980+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-05T11:29:57.845081+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_022/slide_01.png"}
+{"ts": "2026-10-05T11:29:58.535549+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-05T11:30:26.552064+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-05T11:30:29.827767+00:00", "level": "ERROR", "msg": "FALHA ao publicar draft_022: POST 17841472609243044/media_publish: Media ID is not available"}
