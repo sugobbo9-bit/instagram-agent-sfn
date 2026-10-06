@@ -114,8 +114,8 @@ def search(term, out_dir, n=8, min_width=700, provider="stock"):
             if im.mode == "RGBA":
                 bg = Image.new("RGB", im.size, (255, 255, 255)); bg.paste(im, mask=im.split()[3]); im = bg
             if im.width < min_width: continue
-            im.thumbnail((2000, 2000))
-            im.save(dst, "JPEG", quality=90)
+            im.thumbnail((1400, 1400))   # leve: as candidatas do Mac ficam na pasta do Victor
+            im.save(dst, "JPEG", quality=86)
         except Exception as e:
             print(f"  pulei '{r.get('title')}' ({type(e).__name__})"); continue
         cands.append({"n": idx, "file": str(dst), "title": r["title"], "creator": r["creator"],
