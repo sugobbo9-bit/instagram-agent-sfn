@@ -3,6 +3,7 @@ quality_gate.py — Validação automática antes de qualquer publicação
 Retorna True se aprovado, False + lista de falhas se reprovado.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -46,6 +47,43 @@ def check_carousel(post: dict) -> tuple[bool, list]:
         p = Path(f)
         if not p.exists():
             failures.append(f"CRIATIVO: arquivo não encontrado: {f}")
+
+    # MARCA — regra editorial: a Z2 so aparece em post comparativo de produtos
+    # (campo "comparativo": true), ao lado de pelo menos 2 outras marcas.
+    blob = json.dumps({k: post.get(k) for k in ("hook", "slides", "caption", "cta", "article")},
+                      ensure_ascii=False)
+    if re.search(r"\bZ2\b", blob) and not post.get("comparativo"):
+        failures.append("MARCA: 'Z2' citada fora de post comparativo (\"comparativo\": true)")
+
+    # FOTOS — toda imagem usada precisa de credito rastreavel e licenca livre
+    used = []
+    for i, s in enumerate(slides, 1):
+        if s.get("image"): used.append(i)
+        for it in (s.get("items") or []):
+            if it.get("image"): used.append(i)
+    credits = post.get("image_credits", [])
+    if used and not credits:
+        failures.append(f"FOTOS: slides {sorted(set(used))} usam imagem mas 'image_credits' esta vazio")
+    for c in credits:
+        lic = (c.get("license") or "").lower().replace("-", " ")
+        if not c.get("source_url"):
+            failures.append(f"FOTOS: credito '{c.get('label') or c.get('title')}' sem source_url")
+        if c.get("kind") == "packshot":
+            if not post.get("comparativo"):
+                failures.append("FOTOS: foto de embalagem de marca so e permitida em post comparativo")
+            continue
+        if any(x in lic for x in (" sa", " nc", " nd", "all rights")) or not lic:
+            failures.append(f"FOTOS: licenca nao permitida ('{c.get('license')}') em '{c.get('label') or c.get('title')}'")
+        elif lic.startswith("cc by") and (c.get("creator") or "").split(" (")[0].strip().lower() not in caption.lower():
+            failures.append(f"FOTOS: '{c.get('creator')}' (CC BY) precisa ser creditado na legenda")
+
+    # FORMATO PROVOCATIVO — humor so com o fato no fim
+    if post.get("template") == "provocativo":
+        last = slides[-1] if slides else {}
+        if last.get("type") != "fact" or not last.get("source"):
+            failures.append("PROVOCATIVO: o ultimo slide precisa ser type 'fact' com 'source' (a evidencia)")
+        if post.get("article"):
+            failures.append("PROVOCATIVO: formato so-Instagram — remova o campo 'article'")
 
     # ORIGINALIDADE
     if not post.get("post_id_is_unique", True):

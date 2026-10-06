@@ -2,6 +2,14 @@
 _Atualizado: 2026-10-04, revisão estratégica semanal_
 _Base: 9.529 seguidores (+111 na semana) | 168 publicações com métricas reais (Graph API, coletadas 04/10)_
 
+## Mudanças de 2026-10-06 (decididas com o Victor — valem até a próxima revisão)
+
+1. **Dois carrosséis por dia.** Técnico (`draft_*` / `der_*`, seg–sex ~12h BRT, com Ghost) + **provocativo com imagens** (`prov_*`, diário ~17h BRT, só Instagram). O estático "você sabia" está encerrado; `STATIC_PAUSED` continua ligado.
+2. **Técnico com foto:** capa com foto + kicker, 2–3 slides do miolo com foto, hook mais afiado. A rotina **consome a fila `der_*` primeiro** (prioridade → `scheduled_for`) e só cria tema novo quando a fila esvaziar.
+3. **Provocativo:** humor com fato no fim, mecânicas em rodízio, marca real só em `comparativo` (máx. 1x/semana), Z2 só em `comparativo`. Regras, fontes de imagem e métricas em **`strategy/playbook_visual.md`** — leia antes de produzir.
+4. **Horário é teste, não fato.** A evidência de "15h UTC" está confundida por lote (ver correção em `learnings.md`). Não cite 3x.
+5. **Para a revisão de domingo:** medir `prov_*` por shares/reach e por `series`; medir técnico com foto (`visual:foto`) contra os `draft_*` só-texto de setembro; não declarar vencedor antes de 10 posts de cada.
+
 ## O que os dados dizem agora
 
 ### Medianas por formato (amostra completa, normalizado)

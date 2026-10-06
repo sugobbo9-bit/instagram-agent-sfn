@@ -646,6 +646,17 @@
       "ghost_post_id": "6ac4dabdd30b4100012b51e5",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/beta-alanina-endurance-o-que-a-ciencia-mostra/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "prov_001",
+      "format": "carousel",
+      "topic": "suplementos com evidência de desempenho (analogia com carros)",
+      "hook": "Se suplemento fosse carro.",
+      "status": "ready",
+      "created_at": "2026-10-06T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "PILOTO do formato provocativo (template:provocativo, series:se-fosse). Renderizado e aprovado no gate. status 'ready' = aguardando OK do Victor; mude para 'approved' para publicar. Só Instagram (sem article)."
     }
   ]
 }
