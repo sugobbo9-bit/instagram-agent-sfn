@@ -630,6 +630,17 @@
       "ghost_post_id": "6ac38b00c8f49900011019e9",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-dose-timing-desempenho/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "draft_023",
+      "format": "carousel",
+      "topic": "beta-alanina e desempenho (uso correto no endurance)",
+      "hook": "Beta-alanina não é pra sua base aeróbia. É pra quando a prova aperta.",
+      "status": "approved",
+      "created_at": "2026-10-06T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Myth-busting + protocolo: família suplemento com evidência A. Derruba 'beta-alanina é pré-treino/serve pra prova longa/formigamento=funciona'. Meta-análise Hobson 2012 (15 estudos, +2,85%, janela 1-4 min) + ISSN Position Stand 2015."
     }
   ]
 }

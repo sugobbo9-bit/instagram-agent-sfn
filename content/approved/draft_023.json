@@ -1,0 +1,115 @@
+{
+  "local_id": "draft_023",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-06T00:00:00Z",
+  "topic": "beta-alanina e desempenho (uso correto no endurance)",
+  "content_pillar": "supplements",
+  "hook": "Beta-alanina não é pra sua base aeróbia. É pra quando a prova aperta.",
+  "experiment_tags": [
+    "hook:myth",
+    "topic:beta-alanina",
+    "format:carousel"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Beta-alanina não é pra sua base aeróbia. É pra quando a prova aperta.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Virou 'pré-treino de endurance'",
+      "body": "A crença: tomar beta-alanina antes do treino dá mais gás na prova longa — e o formigamento no rosto é o sinal de que 'tá pegando'.\n\nOs dois pontos estão errados. Ela não age na hora, e o formigamento não tem relação com o efeito.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Ela não te dá energia. Ela segura o ácido.",
+      "body": "Tomada todo dia por semanas, a beta-alanina eleva a carnosina dentro do músculo.\n\nA carnosina tampona os íons H+ (a acidez) que se acumulam no esforço muito intenso. Menos acidez, mais tempo antes de a potência cair.\n\nO formigamento (parestesia) é inofensivo e não mede nada disso.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O ganho aparece de 1 a 4 minutos no talo.",
+      "body": "Meta-análise (Hobson, 2012; 15 estudos): melhora mediana de 2,85% no desempenho.\n\nO efeito se concentra em esforços de 1 a 4 min. Abaixo de 1 min não houve ganho; acima de 4 min ele fica mais fraco.\n\nPosition stand da ISSN (2015): 4 a 6 g por dia, por 2 a 4 semanas, elevam a carnosina.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como usar (e pra quem vale)",
+      "body": "Dose: 4 a 6 g por dia, divididos em tomadas de ~1,6 g pra reduzir o formigamento (ou versão de liberação lenta).\n\nTempo: pelo menos 4 semanas de uso contínuo. Não é dose de última hora.\n\nVale pra: tiro final, ataque, subida forte e provas curtas e intensas — não pra base aeróbia tranquila.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Munição pro minuto decisivo — não pra prova inteira.",
+      "body": "Salva e manda pro parceiro que toma 'pré-treino' esperando milagre.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Beta-alanina é um dos suplementos com melhor evidência — mas quase todo mundo erra o uso. Ela não é um pré-treino e não 'faz efeito na hora'. Tomada diariamente por semanas, ela eleva a carnosina muscular, que tampona a acidez (íons H+) nos esforços muito intensos.\n\nPor isso o ganho aparece onde a prova aperta: esforços de 1 a 4 minutos (tiro final, ataque, subida, provas curtas) — e não na base aeróbia. O formigamento no rosto e nas mãos é inofensivo e não indica que está funcionando.\n\nProtocolo com evidência: 4 a 6 g/dia, divididos em doses de ~1,6 g (ou liberação lenta) para reduzir o formigamento, por pelo menos 4 semanas de uso contínuo.\n\nFontes: Hobson et al. Amino Acids. 2012 (meta-análise, 15 estudos). | Trexler et al. ISSN Position Stand. J Int Soc Sports Nutr. 2015.",
+  "cta": "Salva e manda pra quem toma beta-alanina esperando mais fôlego na prova longa.",
+  "scientific_sources": [
+    {
+      "title": "Effects of beta-alanine supplementation on exercise performance: a meta-analysis",
+      "authors": "Hobson RM, Saunders B, Ball G, Harris RC, Sale C",
+      "journal": "Amino Acids",
+      "year": 2012,
+      "volume": "43",
+      "issue": "1",
+      "pages": "25-37",
+      "doi": "10.1007/s00726-011-1200-z",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3374095/",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition position stand: Beta-Alanine",
+      "authors": "Trexler ET, Smith-Ryan AE, Stout JR, Hoffman JR, Wilborn CD, Sale C, Kreider RB, Jäger R, Earnest CP, Bannock L, Campbell B, Kalman D, Ziegenfuss TN, Antonio J",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2015,
+      "volume": "12",
+      "pages": "30",
+      "doi": "10.1186/s12970-015-0090-y",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-015-0090-y",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Beta-alanina: o que ela faz (e o que não faz) no endurance",
+    "slug": "beta-alanina-endurance-o-que-a-ciencia-mostra",
+    "excerpt": "Beta-alanina não é pré-treino e não age na hora. Entenda o mecanismo (carnosina e tamponamento de acidez), onde ela realmente melhora o desempenho e o protocolo de dose com evidência.",
+    "meta_title": "Beta-alanina no endurance: uso correto segundo a ciência",
+    "tags": [
+      "Beta-alanina",
+      "Suplementação",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Beta-alanina é um dos suplementos com <strong>melhor evidência</strong> no esporte. Ainda assim, é um dos mais mal utilizados: muita gente toma como se fosse um pré-treino, espera sentir o efeito na hora e usa o formigamento no rosto como prova de que \"funcionou\". Os três pontos estão errados.</p>\n\n<h2>Ela não te dá energia — ela tampona acidez</h2>\n\n<p>A beta-alanina é o aminoácido que limita a produção de <strong>carnosina</strong> no músculo. Tomada diariamente por várias semanas, ela aumenta de forma consistente a concentração de carnosina intramuscular. A carnosina atua como um <strong>tampão intracelular</strong>: ela ajuda a neutralizar os íons de hidrogênio (H+) que se acumulam quando o esforço é intenso o bastante para gerar acidose muscular.</p>\n\n<p>Menos acidez significa mais tempo até a potência cair. É por isso que o efeito não aparece na sua base aeróbia tranquila, onde a acidose não é o fator limitante — e também por isso que uma dose única antes do treino não faz nada: o que importa é o estoque de carnosina construído ao longo de semanas.</p>\n\n<h2>Onde o ganho realmente aparece</h2>\n\n<p>A meta-análise de Hobson e colegas (<em>Amino Acids</em>, 2012), reunindo 15 estudos, encontrou uma <strong>melhora mediana de 2,85%</strong> no desempenho com beta-alanina. Mas o detalhe que mais importa para quem treina é <em>onde</em> esse ganho se concentra: em esforços de <strong>1 a 4 minutos</strong> (60 a 240 segundos).</p>\n\n<p>Abaixo de 1 minuto não houve diferença significativa — esforços muito curtos não são limitados pela acidose do mesmo jeito. Acima de ~4 minutos o efeito ainda existe, porém menos pronunciado. Em termos práticos: beta-alanina favorece o <strong>tiro final</strong>, um ataque, uma subida forte e provas curtas e intensas — não a sua autonomia aeróbia na prova longa.</p>\n\n<h2>Protocolo com evidência</h2>\n\n<p>O <em>position stand</em> da International Society of Sports Nutrition (ISSN, 2015) é direto: <strong>4 a 6 g por dia</strong>, por <strong>pelo menos 2 a 4 semanas</strong>, elevam significativamente a carnosina muscular e melhoram o desempenho, com efeito mais claro em tarefas de 1 a 4 minutos.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose diária</td><td>4 a 6 g/dia</td></tr>\n<tr><td>Fracionamento</td><td>Doses de ~1,6 g ao longo do dia (ou fórmula de liberação lenta)</td></tr>\n<tr><td>Duração mínima</td><td>Pelo menos 4 semanas de uso contínuo</td></tr>\n<tr><td>Melhor aplicação</td><td>Esforços máximos de 1 a 4 min (tiro final, ataque, subida, provas curtas)</td></tr>\n</tbody>\n</table>\n\n<h2>E o formigamento?</h2>\n\n<p>A parestesia — aquele formigamento no rosto, pescoço e mãos logo após a dose — é o único efeito colateral relatado com frequência e, segundo a ISSN, é <strong>inofensivo em pessoas saudáveis nas doses recomendadas</strong>. Ele depende da dose de cada tomada e <strong>não tem relação com a eficácia</strong>: não é sinal de que \"está pegando\". Para reduzi-lo, basta dividir a dose em porções de ~1,6 g ou usar versões de liberação lenta.</p>\n\n<h2>Resumo</h2>\n\n<p>Beta-alanina é munição para o minuto decisivo, não para a prova inteira. É um suplemento de <em>carga crônica</em> (semanas de uso), não um pré-treino. Use 4 a 6 g/dia fracionados, por pelo menos 4 semanas, e espere o ganho onde o esforço aperta de verdade — entre 1 e 4 minutos no talo.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Hobson RM, Saunders B, Ball G, Harris RC, Sale C. Effects of β-alanine supplementation on exercise performance: a meta-analysis. <em>Amino Acids</em>. 2012;43(1):25–37. doi:10.1007/s00726-011-1200-z</li>\n<li>Trexler ET, Smith-Ryan AE, Stout JR, et al. International Society of Sports Nutrition position stand: Beta-Alanine. <em>J Int Soc Sports Nutr</em>. 2015;12:30. doi:10.1186/s12970-015-0090-y</li>\n</ol>\n",
+    "cover": "content/drafts/draft_023/cover.png",
+    "cover_alt": "Beta-alanina no endurance: o que a ciência mostra — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_023/slide_01.png",
+    "content/drafts/draft_023/slide_02.png",
+    "content/drafts/draft_023/slide_03.png",
+    "content/drafts/draft_023/slide_04.png",
+    "content/drafts/draft_023/slide_05.png",
+    "content/drafts/draft_023/slide_06.png"
+  ]
+}
