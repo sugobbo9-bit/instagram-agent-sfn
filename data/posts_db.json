@@ -7102,6 +7102,60 @@
       "derivatives_created": [],
       "ghost_post_id": "6ac38b00c8f49900011019e9",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-dose-timing-desempenho/"
+    },
+    {
+      "post_id": "18137003989731679",
+      "local_id": "draft_023",
+      "publication_date": "2026-10-06T11:25:41.571604+00:00",
+      "format": "carousel",
+      "topic": "beta-alanina e desempenho (uso correto no endurance)",
+      "content_pillar": "supplements",
+      "hook": "Beta-alanina não é pra sua base aeróbia. É pra quando a prova aperta.",
+      "caption": "Beta-alanina é um dos suplementos com melhor evidência — mas quase todo mundo erra o uso. Ela não é um pré-treino e não 'faz efeito na hora'. Tomada diariamente por semanas, ela eleva a carnosina muscular, que tampona a acidez (íons H+) nos esforços muito intensos.\n\nPor isso o ganho aparece onde a prova aperta: esforços de 1 a 4 minutos (tiro final, ataque, subida, provas curtas) — e não na base aeróbia. O formigamento no rosto e nas mãos é inofensivo e não indica que está funcionando.\n\nProtocolo com evidência: 4 a 6 g/dia, divididos em doses de ~1,6 g (ou liberação lenta) para reduzir o formigamento, por pelo menos 4 semanas de uso contínuo.\n\nFontes: Hobson et al. Amino Acids. 2012 (meta-análise, 15 estudos). | Trexler et al. ISSN Position Stand. J Int Soc Sports Nutr. 2015.",
+      "cta": "Salva e manda pra quem toma beta-alanina esperando mais fôlego na prova longa.",
+      "scientific_sources": [
+        {
+          "title": "Effects of beta-alanine supplementation on exercise performance: a meta-analysis",
+          "authors": "Hobson RM, Saunders B, Ball G, Harris RC, Sale C",
+          "journal": "Amino Acids",
+          "year": 2012,
+          "volume": "43",
+          "issue": "1",
+          "pages": "25-37",
+          "doi": "10.1007/s00726-011-1200-z",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3374095/",
+          "level": "A"
+        },
+        {
+          "title": "International Society of Sports Nutrition position stand: Beta-Alanine",
+          "authors": "Trexler ET, Smith-Ryan AE, Stout JR, Hoffman JR, Wilborn CD, Sale C, Kreider RB, Jäger R, Earnest CP, Bannock L, Campbell B, Kalman D, Ziegenfuss TN, Antonio J",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2015,
+          "volume": "12",
+          "pages": "30",
+          "doi": "10.1186/s12970-015-0090-y",
+          "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-015-0090-y",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_023/slide_01.png",
+        "content/drafts/draft_023/slide_02.png",
+        "content/drafts/draft_023/slide_03.png",
+        "content/drafts/draft_023/slide_04.png",
+        "content/drafts/draft_023/slide_05.png",
+        "content/drafts/draft_023/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:myth",
+        "topic:beta-alanina",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ac4dabdd30b4100012b51e5",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/beta-alanina-endurance-o-que-a-ciencia-mostra/"
     }
   ]
 }
