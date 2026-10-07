@@ -155,7 +155,20 @@ try:
         raise RuntimeError(f"formato desconhecido: {p['format']}")
 
     wait(cid)
-    res = post(f"{IG_ID}/media_publish", creation_id=cid)
+    # "Media ID is not available" e um erro transitorio conhecido da Graph API
+    # (draft_022 em 05/10, prov_001 em 07/10): o container diz FINISHED mas ainda
+    # nao propagou. Repetir o media_publish com o MESMO creation_id e seguro —
+    # nao cria container novo, entao nao duplica post.
+    for attempt in range(1, 5):
+        try:
+            res = post(f"{IG_ID}/media_publish", creation_id=cid)
+            break
+        except RuntimeError as e:
+            if "not available" in str(e).lower() and attempt < 4:
+                log(f"media_publish indisponivel (tentativa {attempt}/4) — aguardando 20s", "WARN")
+                time.sleep(20); wait(cid)
+                continue
+            raise
     pid = res["id"]
     log(f"PUBLICADO: {lid} -> media_id {pid}")
 except Exception as e:
