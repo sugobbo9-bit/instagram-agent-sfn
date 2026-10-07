@@ -116,3 +116,7 @@ Conferido em `posts_db.json`: dos 17 carrosséis de 15h UTC, **8 saíram no mesm
 ### 2026-10-07 — 1ª execução do técnico com foto: funcionou, com um deslize
 `der_carga_carbo_passo` saiu às 11:48 BRT no Instagram e no Ghost, com capa-foto, kicker e 2 faixas de foto, consumindo a fila `der_*` (pendência de 4 semanas resolvida na 1ª tentativa). Deslize: o slide 5 usou uma foto de largada com corredores de frente, apesar da regra "sem rosto identificável" no prompt. Mesma lição de 04/10 — **regra que importa vai para o código**: criado `scripts/face_check.py` (YuNet); a busca marca, o render registra, o gate reprova.
 
+### 2026-10-07 — Piloto provocativo no ar e direção fechada
+`prov_001` ("Se suplemento fosse carro") publicado às 15:21 BRT (post_id 17924119977425747) com OK do Victor. Diretriz dele: **manter o conceito do post dos carros e criar ideias novas dentro dele** — todo `prov_*` é "Se X fosse Y"; as outras mecânicas saíram do playbook. Banco de 11 ideias com âncoras conferidas no PubMed em `strategy/playbook_visual.md`. Medir por `idea:` e `universe:`.
+Publicação falhou na 1ª tentativa com "Media ID is not available" (2ª ocorrência em 3 dias, mesma de draft_022): o `publisher.py` agora repete o `media_publish` com o mesmo `creation_id` até 4 vezes.
+

@@ -7277,7 +7277,9 @@
         "template:provocativo",
         "series:se-fosse",
         "topic:suplementos",
-        "derivado:carbo-carro"
+        "derivado:carbo-carro",
+        "idea:suplemento-carro",
+        "universe:carros"
       ],
       "metrics": {},
       "performance_tier": null,
