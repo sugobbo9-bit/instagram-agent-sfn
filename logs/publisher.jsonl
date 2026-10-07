@@ -324,3 +324,10 @@
 {"ts": "2026-10-06T11:25:41.571370+00:00", "level": "INFO", "msg": "PUBLICADO: draft_023 -> media_id 18137003989731679"}
 {"ts": "2026-10-06T11:25:41.587050+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-06T17:55:24.754452+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-07T14:47:28.007806+00:00", "level": "INFO", "msg": "Publicando der_carga_carbo_passo (carousel) \u2014 carga de carboidrato: o passo a passo pr\u00e1tico"}
+{"ts": "2026-10-07T14:47:28.011261+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-07T14:47:28.011363+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_carga_carbo_passo/slide_01.png"}
+{"ts": "2026-10-07T14:47:28.844219+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-07T14:47:56.055035+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-07T14:48:08.045156+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_passo -> media_id 18088426325310705"}
+{"ts": "2026-10-07T14:48:08.062290+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

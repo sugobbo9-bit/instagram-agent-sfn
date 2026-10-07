@@ -462,11 +462,16 @@
       "format": "carousel",
       "topic": "carga de carboidrato: o passo a passo prático",
       "hook": "Carga de carbo não é jantar macarrão na véspera. É 10 g/kg por 2 dias.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-07",
       "scheduled_for": "2026-10-05T15:00:00Z",
       "priority": 1,
-      "notes": "Derivado do VENCEDOR carga_carbo_918 (maior saves/reach do ciclo, 0,039). Família periodização de fueling. Ângulo prático: g/kg/dia, timing de 24-48h, o que muda por distância. Publicar seg 12h BRT (15h UTC)."
+      "notes": "Derivado do VENCEDOR carga_carbo_918 (maior saves/reach do ciclo, 0,039). Família periodização de fueling. Ângulo prático: g/kg/dia, timing de 24-48h, o que muda por distância. Publicar seg 12h BRT (15h UTC).",
+      "published_at": "2026-10-07T14:48:08.045353+00:00",
+      "post_id": "18088426325310705",
+      "ghost_post_id": "6ac65baa8ab1ea0001ee1924",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-passo-a-passo-pratico/",
+      "ghost_status": "published"
     },
     {
       "local_id": "der_carga_carbo_erros",

@@ -7156,6 +7156,76 @@
       "derivatives_created": [],
       "ghost_post_id": "6ac4dabdd30b4100012b51e5",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/beta-alanina-endurance-o-que-a-ciencia-mostra/"
+    },
+    {
+      "post_id": "18088426325310705",
+      "local_id": "der_carga_carbo_passo",
+      "publication_date": "2026-10-07T14:48:08.045353+00:00",
+      "format": "carousel",
+      "topic": "carga de carboidrato: o passo a passo prático (g/kg, timing e distância)",
+      "content_pillar": "carbohydrate-periodization",
+      "hook": "Carga de carbo não é jantar macarrão na véspera. É 10 g/kg por 2 dias.",
+      "caption": "Carga de carboidrato funciona — mas quase todo mundo faz da forma errada. O ritual do prato gigante de macarrão na véspera não enche o glicogênio do músculo: uma única refeição não dá conta, e o excesso de última hora só te deixa pesado e com risco de problema gástrico na largada.\n\nO que a ciência mostra é que encher o tanque é uma questão de dose ao longo do tempo, não de um jantar. Em atletas treinados, o músculo chega ao máximo de glicogênio em 24 a 48h só com repouso (taper) e muito carboidrato — sem a antiga fase de depleção dos anos 1960.\n\nProtocolo com evidência (para provas acima de 90 min): 10 a 12 g de carbo por kg de peso por dia, nas 36 a 48h finais, priorizando carboidrato de fácil digestão (arroz, batata, pão, banana, suco, bebida esportiva). Ganhar 1 a 2 kg é esperado — cada grama de glicogênio é estocada junto com água. É água, não gordura.\n\nFontes: Bussau VA et al. Eur J Appl Physiol. 2002;87(3):290-5. | Burke LM et al. J Sports Sci. 2011;29(S1):S17-27. | Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance (ACSM/AND/DC Position Stand). Med Sci Sports Exerc. 2016;48(3):543-68.\n\nFotos: Peter Mooney (CC BY 2.0).",
+      "cta": "Salva pra montar a sua carga de carbo e manda pro parceiro que ainda janta um quilo de macarrão na véspera.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+          "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+          "journal": "European Journal of Applied Physiology",
+          "year": 2002,
+          "volume": "87",
+          "issue": "3",
+          "pages": "290-295",
+          "doi": "10.1007/s00421-002-0621-5",
+          "url": "https://doi.org/10.1007/s00421-002-0621-5",
+          "level": "B"
+        },
+        {
+          "title": "Carbohydrates for training and competition",
+          "authors": "Burke LM, Hawley JA, Wong SHS, Jeukendrup AE",
+          "journal": "Journal of Sports Sciences",
+          "year": 2011,
+          "volume": "29",
+          "issue": "S1",
+          "pages": "S17-S27",
+          "doi": "10.1080/02640414.2011.585473",
+          "url": "https://doi.org/10.1080/02640414.2011.585473",
+          "level": "A"
+        },
+        {
+          "title": "Nutrition and Athletic Performance (Joint Position Statement — ACSM, Academy of Nutrition and Dietetics, Dietitians of Canada)",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2016,
+          "volume": "48",
+          "issue": "3",
+          "pages": "543-568",
+          "doi": "10.1249/MSS.0000000000000852",
+          "url": "https://doi.org/10.1249/MSS.0000000000000852",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_carga_carbo_passo/slide_01.png",
+        "content/drafts/der_carga_carbo_passo/slide_02.png",
+        "content/drafts/der_carga_carbo_passo/slide_03.png",
+        "content/drafts/der_carga_carbo_passo/slide_04.png",
+        "content/drafts/der_carga_carbo_passo/slide_05.png",
+        "content/drafts/der_carga_carbo_passo/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:carga-carbo",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:periodizacao-fueling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ac65baa8ab1ea0001ee1924",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-passo-a-passo-pratico/"
     }
   ]
 }
