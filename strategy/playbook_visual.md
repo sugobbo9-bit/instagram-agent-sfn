@@ -53,7 +53,7 @@ Sempre olhe a `sheet.jpg` com Read antes de escolher. Objeto isolado → `fetch_
 
 - Só licença **CC0, domínio público ou CC BY**. Nunca BY-SA, NC, ND.
 - Toda imagem usada entra em `image_credits` (label, title, creator, license, source_url). CC BY exige o nome do autor **na legenda**.
-- Nada de rosto identificável em contexto de piada. Silhueta, costas, borrão e multidão distante podem.
+- **Nada de rosto identificável** — em nenhum dos dois formatos. Licença livre resolve direito autoral, não direito de imagem de quem aparece. Silhueta, costas, borrão e multidão distante podem. Isso é verificado em código (`scripts/face_check.py`): a busca carimba "ROSTO" na candidata, o render grava `face_check` no JSON e o quality gate reprova. O detector não pega tudo — confira no olho também.
 - Descarte anúncio escaneado, print de tela, marca d'água, logotipo dominante.
 - Sem foto boa? O slide sai com pote ou só tipografia. **Foto nunca bloqueia publicação.**
 

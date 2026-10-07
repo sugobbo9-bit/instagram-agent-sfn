@@ -113,6 +113,23 @@ FIT_JS = """() => {
   return {k: +k.toFixed(2), overflow: over()};
 }"""
 
+def _face_report(paths):
+    """Roda a deteccao de rosto nas fotos usadas e devolve o registro para o JSON."""
+    try:
+        sys.path.insert(0, str(Path(__file__).parent))
+        from face_check import count_faces
+    except Exception:
+        return {"checked": 0, "unverified": [str(p) for p in paths], "with_faces": []}
+    rep = {"checked": 0, "unverified": [], "with_faces": []}
+    for p in paths:
+        n = count_faces(p)
+        if n is None: rep["unverified"].append(str(p))
+        else:
+            rep["checked"] += 1
+            if n: rep["with_faces"].append({"file": str(p), "faces": n})
+    return rep
+
+
 def build(slide, d, num, user, prog, base=Path(".")):
     t = slide.get("type","")
     uri, focus = data_uri(slide.get("image"), base)
@@ -225,6 +242,20 @@ def render_draft(src_path, out_dir):
         print(f"  ok cover.png")
 
         browser.close()
+
+    used = []
+    for s in slides:
+        im = s.get("image")
+        pth = (im.get("path") if isinstance(im, dict) else im) if im else None
+        if pth:
+            pp = Path(pth)
+            if not pp.is_absolute():
+                for bdir in (Path.cwd(), base, base.parent.parent):
+                    if (bdir / pth).exists(): pp = bdir / pth; break
+            if pp.exists(): used.append(pp)
+    post["face_check"] = _face_report(used)
+    for f in post["face_check"]["with_faces"]:
+        warns.append(f"ROSTO detectado em {f['file']} ({f['faces']}) — troque a foto; o quality gate vai reprovar")
 
     # Update draft JSON with creative_files
     post["creative_files"] = pngs

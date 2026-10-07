@@ -162,6 +162,23 @@ def build(slide, d, num, user, base):
             f'<div class="num">{num}</div><div class="handle">{esc(user)}</div></body></html>')
 
 
+def _face_report(paths):
+    """Roda a deteccao de rosto nas fotos usadas e devolve o registro para o JSON."""
+    try:
+        sys.path.insert(0, str(Path(__file__).parent))
+        from face_check import count_faces
+    except Exception:
+        return {"checked": 0, "unverified": [str(p) for p in paths], "with_faces": []}
+    rep = {"checked": 0, "unverified": [], "with_faces": []}
+    for p in paths:
+        n = count_faces(p)
+        if n is None: rep["unverified"].append(str(p))
+        else:
+            rep["checked"] += 1
+            if n: rep["with_faces"].append({"file": str(p), "faces": n})
+    return rep
+
+
 FIT_JS = """() => {
   const w = document.querySelector('.wrap');
   let k = 1;
@@ -207,6 +224,18 @@ def render(src_path, out_dir):
             page.screenshot(path=str(png))
             pngs.append(str(png)); print(f"  ok {png.name} (escala {fit['k']})")
         browser.close()
+    used = []
+    for s in slides:
+        for it in (s.get("items") or []):
+            if it.get("image"):
+                pth = Path(it["image"])
+                if not pth.is_absolute():
+                    for bdir in (Path.cwd(), base, base.parent.parent):
+                        if (bdir / it["image"]).exists(): pth = bdir / it["image"]; break
+                if pth.exists(): used.append(pth)
+    post["face_check"] = _face_report(used)
+    for f in post["face_check"]["with_faces"]:
+        warns.append(f"ROSTO detectado em {f['file']} ({f['faces']}) — troque a foto; o quality gate vai reprovar")
     post["creative_files"] = pngs
     post["status"] = "rendered"
     json.dump(post, open(src_path, "w"), indent=2, ensure_ascii=False)

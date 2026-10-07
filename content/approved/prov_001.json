@@ -249,5 +249,10 @@
     "content/drafts/prov_001/slide_06.png",
     "content/drafts/prov_001/slide_07.png",
     "content/drafts/prov_001/slide_08.png"
-  ]
+  ],
+  "face_check": {
+    "checked": 7,
+    "unverified": [],
+    "with_faces": []
+  }
 }

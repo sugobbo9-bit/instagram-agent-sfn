@@ -77,6 +77,12 @@ def check_carousel(post: dict) -> tuple[bool, list]:
         elif lic.startswith("cc by") and (c.get("creator") or "").split(" (")[0].strip().lower() not in caption.lower():
             failures.append(f"FOTOS: '{c.get('creator')}' (CC BY) precisa ser creditado na legenda")
 
+    fc = post.get("face_check") or {}
+    for f in fc.get("with_faces", []):
+        failures.append(f"FOTOS: rosto identificavel detectado em {Path(f.get('file','?')).name} — troque a foto")
+    if used and not fc:
+        failures.append("FOTOS: 'face_check' ausente — renderize com o script atual (ele verifica rosto nas fotos)")
+
     # FORMATO PROVOCATIVO — humor so com o fato no fim
     if post.get("template") == "provocativo":
         last = slides[-1] if slides else {}

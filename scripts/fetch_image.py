@@ -27,7 +27,9 @@ Uso:
 Regras (nao negocie):
   - Toda imagem usada vai para "image_credits" no JSON do post (rastreabilidade).
   - Licenca "by" exige credito na legenda: "Fotos: Autor (CC BY), ...".
-  - Nunca use foto com rosto identificavel de pessoa em contexto de piada.
+  - Nunca use foto com rosto identificavel (o script marca "ROSTO" nas candidatas
+    com rosto de frente detectado; silhueta, costas e borrao podem). O detector
+    nao pega tudo: confira no olho tambem.
   - Descarte no olho: anuncio/revista escaneada, print de tela, foto com marca
     d'agua ou com logotipo dominante — "CC BY" no Flickr nao garante que quem
     subiu era o dono. Na duvida, nao use.
@@ -45,6 +47,16 @@ def _get(url, timeout=30):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
+
+
+def _faces(path):
+    """Conta rostos (ver face_check.py). None = nao foi possivel verificar."""
+    try:
+        sys.path.insert(0, str(Path(__file__).parent))
+        from face_check import count_faces
+        return count_faces(path)
+    except Exception:
+        return None
 
 
 def _openverse(term, sources=None):
@@ -118,10 +130,12 @@ def search(term, out_dir, n=8, min_width=700, provider="stock"):
             im.save(dst, "JPEG", quality=86)
         except Exception as e:
             print(f"  pulei '{r.get('title')}' ({type(e).__name__})"); continue
+        nf = _faces(dst)
         cands.append({"n": idx, "file": str(dst), "title": r["title"], "creator": r["creator"],
                       "license": r["license"], "license_url": r["license_url"], "source_url": r["source_url"],
-                      "provider": r["provider"], "width": im.width, "height": im.height})
-        print(f"  {idx:02d} {im.width}x{im.height} [{r['license']}] ({r['provider']}) {r['title']} — {r['creator']}")
+                      "provider": r["provider"], "width": im.width, "height": im.height, "faces": nf})
+        flag = f"  << ROSTO x{nf} — NAO USE" if nf else ("  (rosto: nao verificado)" if nf is None else "")
+        print(f"  {idx:02d} {im.width}x{im.height} [{r['license']}] ({r['provider']}) {r['title']} — {r['creator']}{flag}")
         time.sleep(0.3)
 
     json.dump(cands, open(out / "candidates.json", "w"), indent=2, ensure_ascii=False)
@@ -141,8 +155,15 @@ def search(term, out_dir, n=8, min_width=700, provider="stock"):
             bx, by = (i % cols) * cell + 10, (i // cols) * cell + 10
             d.rectangle([bx, by, bx + 74, by + 58], fill=(10, 10, 10))
             d.text((bx + 10, by + 4), f"{c['n']:02d}", fill=(212, 255, 0), font=font)
+            if c.get("faces"):
+                d.rectangle([bx + 84, by, bx + 84 + 300, by + 58], fill=(200, 20, 20))
+                d.text((bx + 94, by + 4), "ROSTO: NÃO", fill=(255, 255, 255), font=font)
         sheet.save(out / "sheet.jpg", "JPEG", quality=85)
         print(f"-> {len(cands)} candidatas. Olhe {out/'sheet.jpg'} com Read e escolha pelo numero.")
+        if any(c.get("faces") for c in cands):
+            print("   Marcadas com ROSTO tem rosto de frente detectado: NAO use (regra do playbook).")
+        if any(c.get("faces") is None for c in cands):
+            print("   Deteccao de rosto indisponivel aqui: confira no olho e descarte rosto identificavel.")
     else:
         print("-> nenhuma candidata com licenca livre. Tente outro termo (em ingles) ou siga sem foto.")
     return cands

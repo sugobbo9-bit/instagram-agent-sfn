@@ -113,3 +113,6 @@ Os derivados de vencedores e o reteste de sono estão como `draft` **sem arquivo
 ### CORREÇÃO 2026-10-06 — a regra "15h UTC rende 3x" está confundida por lote
 Conferido em `posts_db.json`: dos 17 carrosséis de 15h UTC, **8 saíram no mesmo dia (03/07)** e 6 em 07/08; as faixas "piores" de 16h (n=6) e 17h (n=7) são quase inteiras o lote de **07/08** (17 posts num dia só, todos baixos). O único dado limpo é 11h UTC (n=13 em 13 dias distintos, mediana 269) — e ele coincide com a fase de carrossel só-texto. **Não dá para afirmar efeito de horário com essa base.** Meio-dia BRT segue como teste razoável; comparar só após ≥10 posts `time:12brt`, sabendo que foto e hook mudaram junto. Mesma cautela para "pior dia = sexta" (n=32 concentra lotes): reconferir por dias distintos antes de tratar como regra.
 
+### 2026-10-07 — 1ª execução do técnico com foto: funcionou, com um deslize
+`der_carga_carbo_passo` saiu às 11:48 BRT no Instagram e no Ghost, com capa-foto, kicker e 2 faixas de foto, consumindo a fila `der_*` (pendência de 4 semanas resolvida na 1ª tentativa). Deslize: o slide 5 usou uma foto de largada com corredores de frente, apesar da regra "sem rosto identificável" no prompt. Mesma lição de 04/10 — **regra que importa vai para o código**: criado `scripts/face_check.py` (YuNet); a busca marca, o render registra, o gate reprova.
+
