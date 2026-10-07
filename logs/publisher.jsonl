@@ -344,3 +344,10 @@
 {"ts": "2026-10-07T18:21:26.646086+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-10-07T18:21:39.794815+00:00", "level": "INFO", "msg": "PUBLICADO: prov_001 -> media_id 17924119977425747"}
 {"ts": "2026-10-07T18:21:39.809624+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-07T19:57:57.358487+00:00", "level": "INFO", "msg": "Publicando prov_002 (carousel) \u2014 tipos de prote\u00edna e s\u00edntese muscular (analogia com instrumentos de banda)"}
+{"ts": "2026-10-07T19:57:57.362077+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-07T19:57:57.362169+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/prov_002/slide_01.png"}
+{"ts": "2026-10-07T19:57:58.268143+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-07T19:58:34.932111+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-07T19:58:49.039283+00:00", "level": "INFO", "msg": "PUBLICADO: prov_002 -> media_id 17872952820638971"}
+{"ts": "2026-10-07T19:58:49.055183+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

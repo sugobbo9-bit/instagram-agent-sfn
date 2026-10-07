@@ -1,0 +1,281 @@
+{
+  "local_id": "prov_002",
+  "format": "carousel",
+  "template": "provocativo",
+  "series": "se-fosse",
+  "comparativo": false,
+  "status": "published",
+  "created_at": "2026-10-07T00:00:00Z",
+  "topic": "tipos de proteína e síntese muscular (analogia com instrumentos de banda)",
+  "content_pillar": "protein",
+  "hook": "Se proteína fosse banda.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:provocativo",
+    "series:se-fosse",
+    "topic:proteina",
+    "idea:proteina-banda",
+    "universe:instrumentos"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Se proteína\nfosse banda.",
+      "items": [
+        {
+          "pot": "WHEY",
+          "label": "Whey"
+        },
+        {
+          "image": "content/drafts/prov_002/img/guitar.png",
+          "mode": "cutout",
+          "label": "Guitarra"
+        }
+      ]
+    },
+    {
+      "type": "pair",
+      "headline": "Rápida.\nLidera o solo.",
+      "items": [
+        {
+          "pot": "WHEY",
+          "label": "Whey"
+        },
+        {
+          "image": "content/drafts/prov_002/img/guitar.png",
+          "mode": "cutout",
+          "label": "Guitarra"
+        }
+      ],
+      "tagline": "Cai rápido na corrente e puxa a síntese pra cima."
+    },
+    {
+      "type": "pair",
+      "headline": "Lenta.\nSegura a base.",
+      "items": [
+        {
+          "pot": "CASEÍNA",
+          "label": "Caseína"
+        },
+        {
+          "image": "content/drafts/prov_002/img/bass.png",
+          "mode": "cutout",
+          "label": "Baixo"
+        }
+      ],
+      "tagline": "Libera aminoácidos por horas. Boa antes de dormir."
+    },
+    {
+      "type": "pair",
+      "headline": "Completa.\nMarca o ritmo.",
+      "items": [
+        {
+          "image": "content/drafts/prov_002/img/egg.png",
+          "mode": "cutout",
+          "label": "Ovo"
+        },
+        {
+          "image": "content/drafts/prov_002/img/drum.png",
+          "mode": "cutout",
+          "label": "Bateria"
+        }
+      ],
+      "tagline": "Proteína de referência: todos os aminoácidos certos."
+    },
+    {
+      "type": "pair",
+      "headline": "Vegetal.\nCobre bem.",
+      "items": [
+        {
+          "pot": "SOJA",
+          "label": "Soja"
+        },
+        {
+          "image": "content/drafts/prov_002/img/keyboard.png",
+          "mode": "cutout",
+          "label": "Teclado"
+        }
+      ],
+      "tagline": "A melhor entre as plantas — rende menos que o whey."
+    },
+    {
+      "type": "pair",
+      "headline": "Bonito.\nUma nota só.",
+      "items": [
+        {
+          "pot": "COLÁGENO",
+          "label": "Colágeno"
+        },
+        {
+          "image": "content/drafts/prov_002/img/triangle.png",
+          "mode": "cutout",
+          "label": "Triângulo"
+        }
+      ],
+      "tagline": "Serve pro tendão. Pra construir músculo, não."
+    },
+    {
+      "type": "fact",
+      "label": "O fato por trás da piada",
+      "headline": "Nem toda proteína toca igual.",
+      "body": "O que separa uma proteína da outra é a velocidade de digestão e o teor de leucina — o aminoácido que dispara a síntese muscular. Whey cai rápido no sangue e dá o maior pico; caseína libera devagar e segura os aminoácidos por horas; ovo e soja são completas e estimulam bem.\n\nColágeno é a exceção: pobre em leucina e em aminoácidos essenciais, ele não estimula a construção de músculo como o whey. Serve pro tecido conjuntivo, não pra ganhar massa. No fim, o que constrói é somar proteína completa suficiente ao longo do dia.",
+      "source": "Boirie Y et al. Proc Natl Acad Sci USA. 1997;94(26):14930‑14935.\nTang JE et al. J Appl Physiol. 2009;107(3):987‑992.\nOikawa SY et al. Am J Clin Nutr. 2020;111(3):708‑718.",
+      "cta": "Qual proteína toca na sua banda?"
+    }
+  ],
+  "caption": "(Post de humor. A piada é nossa; os dados, não.)\n\nPó de proteína não é tudo igual — e o que mais muda é a velocidade de digestão e o teor de leucina, o aminoácido que dispara a síntese muscular.\n\n• Whey: digestão rápida, maior pico de aminoácidos. Tem vantagem aguda sobre soja e caseína para estimular a síntese muscular.\n• Caseína: digestão lenta, libera aminoácidos por horas. 30–40 g antes de dormir sustentam a recuperação durante o sono.\n• Ovo: proteína de referência, completa e equilibrada nos aminoácidos essenciais.\n• Soja: a melhor proteína entre as plantas, completa — mas estimula a síntese um pouco menos que o whey.\n• Colágeno: pobre em leucina e em aminoácidos essenciais. Não constrói músculo como o whey. Com vitamina C, ajuda o colágeno do corpo (tendão, pele) — função promissora, mas diferente de ganhar massa.\n\nNo fim, o que constrói músculo é somar proteína completa suficiente ao longo do dia (cerca de 1,6 g/kg para quem treina força). A fonte ajuda; o total decide.\n\nQual proteína toca na sua banda? 👇\n\n—\nFormato inspirado em @jessicathesportsrd\n\nReferências:\n• Boirie Y et al. Slow and fast dietary proteins differently modulate postprandial protein accretion. Proc Natl Acad Sci USA. 1997;94(26):14930–14935.\n• Tang JE et al. Ingestion of whey hydrolysate, casein, or soy protein isolate: effects on mixed muscle protein synthesis at rest and following resistance exercise in young men. J Appl Physiol. 2009;107(3):987–992.\n• Oikawa SY et al. Whey protein but not collagen peptides stimulate acute and longer-term muscle protein synthesis with and without resistance exercise in healthy older women. Am J Clin Nutr. 2020;111(3):708–718.\n• Jäger R et al. International Society of Sports Nutrition position stand: protein and exercise. J Int Soc Sports Nutr. 2017;14:20.\n• Shaw G et al. Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis. Am J Clin Nutr. 2017;105(1):136–143.\n\nFotos via StockSnap, rawpixel, WordPress Photos e Wikimedia Commons (CC0). Recortadas.\n\n#nutricaoesportiva #proteina #whey #caseina #musculacao #endurance #recuperacao #suplementacao",
+  "cta": "Qual proteína toca na sua banda?",
+  "scientific_sources": [
+    {
+      "title": "Slow and fast dietary proteins differently modulate postprandial protein accretion",
+      "authors": "Boirie Y, Dangin M, Gachon P, Vasson MP, Maubois JL, Beaufrère B",
+      "journal": "Proceedings of the National Academy of Sciences USA",
+      "year": 1997,
+      "volume": "94",
+      "issue": "26",
+      "pages": "14930-14935",
+      "doi": "10.1073/pnas.94.26.14930",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9405716/",
+      "level": "B"
+    },
+    {
+      "title": "Ingestion of whey hydrolysate, casein, or soy protein isolate: effects on mixed muscle protein synthesis at rest and following resistance exercise in young men",
+      "authors": "Tang JE, Moore DR, Kujbida GW, Tarnopolsky MA, Phillips SM",
+      "journal": "Journal of Applied Physiology",
+      "year": 2009,
+      "volume": "107",
+      "issue": "3",
+      "pages": "987-992",
+      "doi": "10.1152/japplphysiol.00076.2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19589961/",
+      "level": "B"
+    },
+    {
+      "title": "Whey protein but not collagen peptides stimulate acute and longer-term muscle protein synthesis with and without resistance exercise in healthy older women: a randomized controlled trial",
+      "authors": "Oikawa SY, Kamal MJ, Webb EK, McGlory C, Baker SK, Phillips SM",
+      "journal": "The American Journal of Clinical Nutrition",
+      "year": 2020,
+      "volume": "111",
+      "issue": "3",
+      "pages": "708-718",
+      "doi": "10.1093/ajcn/nqz332",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31919527/",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+      "authors": "Jäger R, Kerksick CM, Campbell BI, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "20",
+      "doi": "10.1186/s12970-017-0177-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28642676/",
+      "level": "A"
+    },
+    {
+      "title": "Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis",
+      "authors": "Shaw G, Lee-Barthel A, Ross ML, Wang B, Baar K",
+      "journal": "The American Journal of Clinical Nutrition",
+      "year": 2017,
+      "volume": "105",
+      "issue": "1",
+      "pages": "136-143",
+      "doi": "10.3945/ajcn.116.138594",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27852613/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2
+      ],
+      "label": "Guitarra",
+      "title": "Electric Guitar",
+      "creator": "Freestocks.org",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/electric-guitar-LZDL90URQB",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "Baixo",
+      "title": "Bass guitar png sticker, musical",
+      "creator": "rawpixel (domínio público)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6449554/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "Ovo",
+      "title": "Eggs Food",
+      "creator": "Patryk Dziejma",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/eggs-food-M9KEI36GNT",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "Bateria",
+      "title": "Black drum set (well-lit room, wooden floor)",
+      "creator": "Nilo Velez",
+      "license": "CC0 1.0",
+      "source_url": "https://wordpress.org/photos/photo/544681a7e0/",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "Teclado",
+      "title": "Electric keyboard clipart, illustration vector",
+      "creator": "rawpixel (domínio público)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/7619535/vector-music-illustrations-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        6
+      ],
+      "label": "Triângulo",
+      "title": "Triangel1.jpg",
+      "creator": "Žiga",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Triangel1.jpg",
+      "changes": "fundo recortado"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/prov_002/slide_01.png",
+    "content/drafts/prov_002/slide_02.png",
+    "content/drafts/prov_002/slide_03.png",
+    "content/drafts/prov_002/slide_04.png",
+    "content/drafts/prov_002/slide_05.png",
+    "content/drafts/prov_002/slide_06.png",
+    "content/drafts/prov_002/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 7,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17872952820638971",
+  "published_at": "2026-10-07T19:58:49.039497+00:00"
+}

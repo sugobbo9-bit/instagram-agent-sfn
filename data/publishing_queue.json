@@ -671,11 +671,13 @@
       "format": "carousel",
       "topic": "tipos de proteína e síntese muscular (analogia com instrumentos de banda)",
       "hook": "Se proteína fosse banda.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-07T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "provocativo — series:se-fosse, idea:proteina-banda, universe:instrumentos. Whey/caseina/ovo/soja/colageno como instrumentos de banda; colageno nao constroi musculo (Oikawa 2020)."
+      "notes": "provocativo — series:se-fosse, idea:proteina-banda, universe:instrumentos. Whey/caseina/ovo/soja/colageno como instrumentos de banda; colageno nao constroi musculo (Oikawa 2020).",
+      "published_at": "2026-10-07T19:58:49.039497+00:00",
+      "post_id": "17872952820638971"
     }
   ]
 }
