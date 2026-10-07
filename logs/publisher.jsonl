@@ -331,3 +331,9 @@
 {"ts": "2026-10-07T14:47:56.055035+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-07T14:48:08.045156+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_passo -> media_id 18088426325310705"}
 {"ts": "2026-10-07T14:48:08.062290+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-07T18:18:23.824007+00:00", "level": "INFO", "msg": "Publicando prov_001 (carousel) \u2014 suplementos com evid\u00eancia de desempenho (analogia com carros)"}
+{"ts": "2026-10-07T18:18:23.827438+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-07T18:18:23.827538+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/prov_001/slide_01.png"}
+{"ts": "2026-10-07T18:18:25.818093+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-07T18:19:06.354902+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-07T18:19:09.568236+00:00", "level": "ERROR", "msg": "FALHA ao publicar prov_001: POST 17841472609243044/media_publish: Media ID is not available"}
