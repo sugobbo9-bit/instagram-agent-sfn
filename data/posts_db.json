@@ -7226,6 +7226,62 @@
       "derivatives_created": [],
       "ghost_post_id": "6ac65baa8ab1ea0001ee1924",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-passo-a-passo-pratico/"
+    },
+    {
+      "post_id": "17924119977425747",
+      "local_id": "prov_001",
+      "publication_date": "2026-10-07T18:21:39.794978+00:00",
+      "format": "carousel",
+      "topic": "suplementos com evidência de desempenho (analogia com carros)",
+      "content_pillar": "supplements",
+      "hook": "Se suplemento fosse carro.",
+      "caption": "(Post de humor. A piada é nossa; os dados, não.)\n\nSuplemento não é tudo igual — e a prateleira não avisa.\n\nO consenso do Comitê Olímpico Internacional (2018) lista só cinco com evidência boa a forte de ganho direto de desempenho. Cada um na sua pista:\n\n• Creatina: força, tiros e esforços repetidos de alta intensidade. Em prova longa e contínua, ajuda bem menos.\n• Cafeína: endurance, esforços curtos e sprints repetidos.\n• Nitrato: melhora a eficiência do esforço; o ganho é mais difícil de aparecer em atleta de elite.\n• Bicarbonato: esforços intensos de ~1 a 10 min. Desconforto gastrointestinal é comum — teste em treino, nunca na prova.\n• Beta-alanina: esforços de 30 s a 10 min, depois de semanas de uso diário.\n\nE o BCAA? Sozinho, ele não traz os outros aminoácidos essenciais que o músculo precisa para construir proteína. Quem já come proteína suficiente não tem ganho comprovado com ele.\n\nNenhum deles compensa treino, sono e alimentação mal resolvidos.\n\nQual desses está na sua garagem? 👇\n\n—\nFormato inspirado em @jessicathesportsrd\n\nReferências:\n• Maughan RJ et al. IOC consensus statement: dietary supplements and the high-performance athlete. Br J Sports Med. 2018;52:439–455.\n• Wolfe RR. Branched-chain amino acids and muscle protein synthesis in humans: myth or reality? J Int Soc Sports Nutr. 2017;14:30.\n\nFotos via Wikimedia Commons: Mateusmatsuda (CC BY 4.0), Renzo Maia (CC BY 3.0), János Tamás (CC BY 2.0), TTTNIS e Syced (CC0). Recortadas.\n\n#nutricaoesportiva #suplementacao #creatina #cafeina #corrida #ciclismo #triathlon #endurance",
+      "cta": "Qual desses está na sua garagem?",
+      "scientific_sources": [
+        {
+          "title": "IOC consensus statement: dietary supplements and the high-performance athlete",
+          "authors": "Maughan RJ, Burke LM, Dvorak J, et al.",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2018,
+          "volume": "52",
+          "issue": "7",
+          "pages": "439-455",
+          "doi": "10.1136/bjsports-2018-099027",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29540367/",
+          "level": "A"
+        },
+        {
+          "title": "Branched-chain amino acids and muscle protein synthesis in humans: myth or reality?",
+          "authors": "Wolfe RR",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "30",
+          "doi": "10.1186/s12970-017-0184-9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28852372/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/prov_001/slide_01.png",
+        "content/drafts/prov_001/slide_02.png",
+        "content/drafts/prov_001/slide_03.png",
+        "content/drafts/prov_001/slide_04.png",
+        "content/drafts/prov_001/slide_05.png",
+        "content/drafts/prov_001/slide_06.png",
+        "content/drafts/prov_001/slide_07.png",
+        "content/drafts/prov_001/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:provocativo",
+        "series:se-fosse",
+        "topic:suplementos",
+        "derivado:carbo-carro"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

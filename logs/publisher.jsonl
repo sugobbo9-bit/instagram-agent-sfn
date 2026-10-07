@@ -337,3 +337,10 @@
 {"ts": "2026-10-07T18:18:25.818093+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-07T18:19:06.354902+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-10-07T18:19:09.568236+00:00", "level": "ERROR", "msg": "FALHA ao publicar prov_001: POST 17841472609243044/media_publish: Media ID is not available"}
+{"ts": "2026-10-07T18:20:49.202233+00:00", "level": "INFO", "msg": "Publicando prov_001 (carousel) \u2014 suplementos com evid\u00eancia de desempenho (analogia com carros)"}
+{"ts": "2026-10-07T18:20:49.205937+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-07T18:20:49.206037+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/prov_001/slide_01.png"}
+{"ts": "2026-10-07T18:20:50.111413+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-07T18:21:26.646086+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-07T18:21:39.794815+00:00", "level": "INFO", "msg": "PUBLICADO: prov_001 -> media_id 17924119977425747"}
+{"ts": "2026-10-07T18:21:39.809624+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

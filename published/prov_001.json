@@ -1,0 +1,260 @@
+{
+  "local_id": "prov_001",
+  "format": "carousel",
+  "template": "provocativo",
+  "series": "se-fosse",
+  "comparativo": false,
+  "status": "published",
+  "created_at": "2026-10-06T00:00:00Z",
+  "topic": "suplementos com evidência de desempenho (analogia com carros)",
+  "content_pillar": "supplements",
+  "hook": "Se suplemento fosse carro.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:provocativo",
+    "series:se-fosse",
+    "topic:suplementos",
+    "derivado:carbo-carro"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Se suplemento\nfosse carro.",
+      "items": [
+        {
+          "pot": "CREATINA",
+          "label": "Creatina"
+        },
+        {
+          "image": "content/drafts/prov_001/img/corolla.png",
+          "mode": "cutout",
+          "label": "Toyota Corolla"
+        }
+      ]
+    },
+    {
+      "type": "pair",
+      "headline": "Barata. Estudada.\nNão quebra.",
+      "items": [
+        {
+          "pot": "CREATINA",
+          "label": "Creatina"
+        },
+        {
+          "image": "content/drafts/prov_001/img/corolla.png",
+          "mode": "cutout",
+          "label": "Toyota Corolla"
+        }
+      ],
+      "tagline": "Zero emoção. Mais de 30 anos de estrada."
+    },
+    {
+      "type": "pair",
+      "headline": "Asfalto, terra\nou lama.",
+      "items": [
+        {
+          "pot": "CAFEÍNA",
+          "label": "Cafeína"
+        },
+        {
+          "image": "content/drafts/prov_001/img/hilux.png",
+          "mode": "cutout",
+          "label": "Toyota Hilux"
+        }
+      ],
+      "tagline": "Prova longa, tiro curto ou sprint repetido: ela trabalha."
+    },
+    {
+      "type": "pair",
+      "headline": "Faz o mesmo\ngastando menos.",
+      "items": [
+        {
+          "pot": "NITRATO",
+          "label": "Nitrato"
+        },
+        {
+          "image": "content/drafts/prov_001/img/prius.png",
+          "mode": "cutout",
+          "label": "Toyota Prius"
+        }
+      ],
+      "tagline": "Econômico. Rende mais no amador do que na elite."
+    },
+    {
+      "type": "pair",
+      "headline": "Potência bruta.\nBebe muito.",
+      "items": [
+        {
+          "pot": "BICARBONATO",
+          "label": "Bicarbonato"
+        },
+        {
+          "image": "content/drafts/prov_001/img/opala.png",
+          "mode": "cutout",
+          "label": "Chevrolet Opala"
+        }
+      ],
+      "tagline": "Anda forte. Seu intestino paga o combustível."
+    },
+    {
+      "type": "pair",
+      "headline": "Imbatível.\nNuma pista só.",
+      "items": [
+        {
+          "pot": "BETA-ALANINA",
+          "label": "Beta-alanina"
+        },
+        {
+          "image": "content/drafts/prov_001/img/kart.png",
+          "mode": "cutout",
+          "label": "Kart"
+        }
+      ],
+      "tagline": "De 30 segundos a 10 minutos. Fora disso, garagem."
+    },
+    {
+      "type": "pair",
+      "headline": "Lindo no\nestacionamento.",
+      "items": [
+        {
+          "pot": "BCAA",
+          "label": "BCAA"
+        },
+        {
+          "image": "content/drafts/prov_001/img/fusca.png",
+          "mode": "cutout",
+          "label": "Rebaixado"
+        }
+      ],
+      "tagline": "Já come proteína suficiente? Ele não te leva mais longe."
+    },
+    {
+      "type": "fact",
+      "label": "O fato por trás da piada",
+      "headline": "Só cinco passam na vistoria.",
+      "body": "O consenso do Comitê Olímpico Internacional revisou a evidência sobre suplementos e listou cinco com efeito direto no desempenho: cafeína, creatina, nitrato, beta-alanina e bicarbonato.\n\nMesmo esses dependem de dose, timing e tipo de prova. Nenhum conserta treino, sono ou comida mal resolvidos.",
+      "source": "Maughan RJ et al. IOC consensus statement. Br J Sports Med. 2018;52:439‑455.\nWolfe RR. J Int Soc Sports Nutr. 2017;14:30.",
+      "cta": "Qual desses está na sua garagem?"
+    }
+  ],
+  "caption": "(Post de humor. A piada é nossa; os dados, não.)\n\nSuplemento não é tudo igual — e a prateleira não avisa.\n\nO consenso do Comitê Olímpico Internacional (2018) lista só cinco com evidência boa a forte de ganho direto de desempenho. Cada um na sua pista:\n\n• Creatina: força, tiros e esforços repetidos de alta intensidade. Em prova longa e contínua, ajuda bem menos.\n• Cafeína: endurance, esforços curtos e sprints repetidos.\n• Nitrato: melhora a eficiência do esforço; o ganho é mais difícil de aparecer em atleta de elite.\n• Bicarbonato: esforços intensos de ~1 a 10 min. Desconforto gastrointestinal é comum — teste em treino, nunca na prova.\n• Beta-alanina: esforços de 30 s a 10 min, depois de semanas de uso diário.\n\nE o BCAA? Sozinho, ele não traz os outros aminoácidos essenciais que o músculo precisa para construir proteína. Quem já come proteína suficiente não tem ganho comprovado com ele.\n\nNenhum deles compensa treino, sono e alimentação mal resolvidos.\n\nQual desses está na sua garagem? 👇\n\n—\nFormato inspirado em @jessicathesportsrd\n\nReferências:\n• Maughan RJ et al. IOC consensus statement: dietary supplements and the high-performance athlete. Br J Sports Med. 2018;52:439–455.\n• Wolfe RR. Branched-chain amino acids and muscle protein synthesis in humans: myth or reality? J Int Soc Sports Nutr. 2017;14:30.\n\nFotos via Wikimedia Commons: Mateusmatsuda (CC BY 4.0), Renzo Maia (CC BY 3.0), János Tamás (CC BY 2.0), TTTNIS e Syced (CC0). Recortadas.\n\n#nutricaoesportiva #suplementacao #creatina #cafeina #corrida #ciclismo #triathlon #endurance",
+  "cta": "Qual desses está na sua garagem?",
+  "scientific_sources": [
+    {
+      "title": "IOC consensus statement: dietary supplements and the high-performance athlete",
+      "authors": "Maughan RJ, Burke LM, Dvorak J, et al.",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2018,
+      "volume": "52",
+      "issue": "7",
+      "pages": "439-455",
+      "doi": "10.1136/bjsports-2018-099027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29540367/",
+      "level": "A"
+    },
+    {
+      "title": "Branched-chain amino acids and muscle protein synthesis in humans: myth or reality?",
+      "authors": "Wolfe RR",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "30",
+      "doi": "10.1186/s12970-017-0184-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28852372/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2
+      ],
+      "label": "Toyota Corolla",
+      "title": "Toyota Corolla sedan E210 hydrid.jpg",
+      "creator": "Mateusmatsuda",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_sedan_E210_hydrid.jpg",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "Toyota Hilux",
+      "title": "2026 Toyota Hilux Z.jpg",
+      "creator": "TTTNIS",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2026_Toyota_Hilux_Z.jpg",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "Toyota Prius",
+      "title": "2023 Toyota Prius Z HEV.jpg",
+      "creator": "TTTNIS",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2023_Toyota_Prius_Z_HEV.jpg",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "Chevrolet Opala",
+      "title": "1971 Chevrolet Opala 3800.jpg",
+      "creator": "Renzo Maia (recorte: Mr.choppers)",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1971_Chevrolet_Opala_3800.jpg",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        6
+      ],
+      "label": "Kart",
+      "title": "Go-kart with Honda engine.jpg",
+      "creator": "Syced",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Go-kart_with_Honda_engine.jpg",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        7
+      ],
+      "label": "Rebaixado",
+      "title": "Tuning Show 2009 - Flickr - jns001 (5).jpg",
+      "creator": "János Tamás",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tuning_Show_2009_-_Flickr_-_jns001_(5).jpg",
+      "changes": "fundo recortado"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/prov_001/slide_01.png",
+    "content/drafts/prov_001/slide_02.png",
+    "content/drafts/prov_001/slide_03.png",
+    "content/drafts/prov_001/slide_04.png",
+    "content/drafts/prov_001/slide_05.png",
+    "content/drafts/prov_001/slide_06.png",
+    "content/drafts/prov_001/slide_07.png",
+    "content/drafts/prov_001/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 7,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17924119977425747",
+  "published_at": "2026-10-07T18:21:39.794978+00:00"
+}

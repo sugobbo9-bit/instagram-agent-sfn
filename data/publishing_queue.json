@@ -657,12 +657,14 @@
       "format": "carousel",
       "topic": "suplementos com evidência de desempenho (analogia com carros)",
       "hook": "Se suplemento fosse carro.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-07T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
       "notes": "PILOTO do formato provocativo (template:provocativo, series:se-fosse). Publicacao autorizada pelo Victor em 2026-10-07.",
-      "retry_of": "POST 17841472609243044/media_publish: Media ID is not available"
+      "retry_of": "POST 17841472609243044/media_publish: Media ID is not available",
+      "published_at": "2026-10-07T18:21:39.794978+00:00",
+      "post_id": "17924119977425747"
     }
   ]
 }
