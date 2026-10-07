@@ -1,0 +1,177 @@
+{
+  "local_id": "der_carga_carbo_passo",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-07T00:00:00Z",
+  "topic": "carga de carboidrato: o passo a passo prático (g/kg, timing e distância)",
+  "content_pillar": "carbohydrate-periodization",
+  "hook": "Carga de carbo não é jantar macarrão na véspera. É 10 g/kg por 2 dias.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carga-carbo",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:periodizacao-fueling"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Carga de carbo não é macarrão na véspera.",
+      "body": null,
+      "label": null,
+      "kicker": "O PROTOCOLO",
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_passo/cover/cand_01.jpg",
+        "focus": "center 55%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O ERRO",
+      "headline": "O prato gigante na noite anterior.",
+      "body": "A crença: encher o tanque é jantar um prato enorme de massa na véspera.\n\nMas uma refeição não enche o glicogênio do músculo — ele se enche ao longo de horas. O excesso de última hora vira peso e risco gástrico na manhã da prova.",
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_passo/cover/cand_02.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE IMPORTA",
+      "headline": "Carga tem número: gramas por kg de peso.",
+      "body": "Não é um jantar. É uma dose espalhada ao longo do tempo.\n\nO alvo: 10 a 12 g de carbo por kg de peso corporal, por dia, nas 36 a 48h finais — enquanto você reduz o volume de treino (taper).\n\nPra quem pesa 70 kg, isso é de 700 a 840 g de carbo por dia.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O tanque enche em 24 a 48h. Sem depleção.",
+      "body": "Bussau et al. (Eur J Appl Physiol, 2002): 8 atletas treinados, só repouso + 10 g/kg de carbo por dia. O glicogênio subiu de 95 para 180 mmol/kg em 24h — e não subiu mais nos 2 dias seguintes.\n\nACSM/AND (2016) e Burke et al. (2011): 10 a 12 g/kg/dia por 36 a 48h para provas acima de 90 min. Nenhuma fase de depleção.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O passo a passo por distância.",
+      "body": "→ Só vale acima de 90 min (maratona, tri, pedal longo).\n→ Últimas 24 a 48h: 10 a 12 g/kg/dia, com treino reduzido.\n→ Carbo de fácil digestão: arroz, batata, pão, banana, suco.\n→ Subir 1 a 2 kg é esperado: é água presa ao glicogênio, não gordura.",
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_passo/s5b/cand_10.jpg",
+        "focus": "center 35%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Número e tempo. Não ritual.",
+      "body": "Salva pra montar a sua carga antes da próxima prova longa.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Carga de carboidrato funciona — mas quase todo mundo faz da forma errada. O ritual do prato gigante de macarrão na véspera não enche o glicogênio do músculo: uma única refeição não dá conta, e o excesso de última hora só te deixa pesado e com risco de problema gástrico na largada.\n\nO que a ciência mostra é que encher o tanque é uma questão de dose ao longo do tempo, não de um jantar. Em atletas treinados, o músculo chega ao máximo de glicogênio em 24 a 48h só com repouso (taper) e muito carboidrato — sem a antiga fase de depleção dos anos 1960.\n\nProtocolo com evidência (para provas acima de 90 min): 10 a 12 g de carbo por kg de peso por dia, nas 36 a 48h finais, priorizando carboidrato de fácil digestão (arroz, batata, pão, banana, suco, bebida esportiva). Ganhar 1 a 2 kg é esperado — cada grama de glicogênio é estocada junto com água. É água, não gordura.\n\nFontes: Bussau VA et al. Eur J Appl Physiol. 2002;87(3):290-5. | Burke LM et al. J Sports Sci. 2011;29(S1):S17-27. | Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance (ACSM/AND/DC Position Stand). Med Sci Sports Exerc. 2016;48(3):543-68.\n\nFotos: Peter Mooney (CC BY 2.0).",
+  "cta": "Salva pra montar a sua carga de carbo e manda pro parceiro que ainda janta um quilo de macarrão na véspera.",
+  "scientific_sources": [
+    {
+      "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+      "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+      "journal": "European Journal of Applied Physiology",
+      "year": 2002,
+      "volume": "87",
+      "issue": "3",
+      "pages": "290-295",
+      "doi": "10.1007/s00421-002-0621-5",
+      "url": "https://doi.org/10.1007/s00421-002-0621-5",
+      "level": "B"
+    },
+    {
+      "title": "Carbohydrates for training and competition",
+      "authors": "Burke LM, Hawley JA, Wong SHS, Jeukendrup AE",
+      "journal": "Journal of Sports Sciences",
+      "year": 2011,
+      "volume": "29",
+      "issue": "S1",
+      "pages": "S17-S27",
+      "doi": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "level": "A"
+    },
+    {
+      "title": "Nutrition and Athletic Performance (Joint Position Statement — ACSM, Academy of Nutrition and Dietetics, Dietitians of Canada)",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "url": "https://doi.org/10.1249/MSS.0000000000000852",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Carga de carboidrato: o passo a passo prático (sem o ritual da véspera)",
+    "slug": "carga-de-carboidrato-passo-a-passo-pratico",
+    "excerpt": "Carga de carbo não é jantar macarrão na véspera. É uma dose por kg de peso ao longo de 36 a 48h. Veja o protocolo com evidência: quanto, quando e o que muda por distância.",
+    "meta_title": "Carga de carboidrato: protocolo prático por g/kg e distância",
+    "tags": [
+      "Carga de carboidrato",
+      "Glicogênio",
+      "Endurance",
+      "Maratona",
+      "Nutrição esportiva"
+    ],
+    "html": "<p>Carga de carboidrato (carb loading) é uma das estratégias de nutrição esportiva com mais evidência — e também uma das mais mal executadas. O ritual mais comum, o prato gigante de macarrão na noite anterior, não é carga de carboidrato. É só um jantar pesado.</p>\n\n<h2>Por que o jantar da véspera não enche o tanque</h2>\n\n<p>O glicogênio muscular é o combustível que limita o desempenho em provas longas. Ele não é preenchido por uma única refeição: o músculo precisa de <strong>horas de ingestão alta de carboidrato</strong>, repetida ao longo de um ou dois dias, para chegar perto do máximo. Comer muito só na véspera deixa o excesso parado no estômago — o que você leva pra largada é peso e risco de desconforto gastrointestinal, não glicogênio extra.</p>\n\n<h2>Carga tem número: gramas por kg de peso</h2>\n\n<p>A forma correta de pensar carga de carbo é como uma <strong>dose diária relativa ao seu peso</strong>, e não como o tamanho de um prato. O posicionamento conjunto da ACSM, Academy of Nutrition and Dietetics e Dietitians of Canada (2016) e a revisão de Burke e colegas (2011) convergem no mesmo alvo para provas acima de 90 minutos:</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose diária</td><td>10 a 12 g de carbo por kg de peso corporal</td></tr>\n<tr><td>Duração</td><td>36 a 48h antes da prova</td></tr>\n<tr><td>Treino nesses dias</td><td>Volume reduzido (taper) — pouca ou nenhuma atividade intensa</td></tr>\n<tr><td>Fase de depleção</td><td>Desnecessária em atletas treinados</td></tr>\n<tr><td>Quando vale</td><td>Provas contínuas acima de ~90 min</td></tr>\n</tbody>\n</table>\n\n<p>Na prática, um atleta de 70 kg mira entre 700 e 840 g de carboidrato por dia nesse período — um número que só é atingível distribuindo a ingestão em várias refeições e lanches, não concentrando tudo num jantar.</p>\n\n<h2>O que a ciência mostra sobre o tempo</h2>\n\n<p>O protocolo clássico dos anos 1960 incluía uma fase de depleção: um treino exaustivo para \"esvaziar\" o glicogênio, seguido de dias de dieta pobre em carboidrato, antes da fase de enchimento. O estudo de <strong>Bussau e colegas (<em>European Journal of Applied Physiology</em>, 2002)</strong> mostrou que isso é desnecessário em quem já treina: oito atletas de endurance consumiram 10 g/kg/dia de carboidrato de alto índice glicêmico, apenas em repouso. O glicogênio muscular subiu de 95 para 180 mmol/kg de massa úmida <strong>em apenas 24 horas</strong> — e não aumentou mais nos dois dias seguintes.</p>\n\n<p>Ou seja: em atleta treinado, o músculo chega ao máximo de glicogênio com repouso e muito carboidrato em 24 a 48h, sem precisar passar pelo desgaste da fase de depleção, que entrega fadiga, irritabilidade e risco de lesão bem antes da largada.</p>\n\n<h2>O passo a passo por distância</h2>\n\n<ul>\n<li><strong>Prova acima de 90 min</strong> (maratona, triatlo, pedal longo): vale a carga completa — 10 a 12 g/kg/dia nas 36 a 48h finais.</li>\n<li><strong>Prova curta</strong> (até ~60-90 min): não precisa de carga agressiva; uma alimentação rica em carboidrato no dia anterior já basta.</li>\n<li><strong>Em todos os casos</strong>: prefira carboidrato de fácil digestão (arroz, batata, pão, massa branca, banana, suco, bebida esportiva) e reduza o volume de treino nesses dias.</li>\n</ul>\n\n<h2>E o ganho de peso?</h2>\n\n<p>Subir 1 a 2 kg durante a carga é esperado e desejável: cada grama de glicogênio é estocada junto com água no músculo. Esse peso é <strong>água ligada ao combustível</strong>, não gordura, e parte dele volta a ser liberada durante a prova, contribuindo para a hidratação.</p>\n\n<h2>Resumo</h2>\n\n<p>Carga de carboidrato é número e tempo, não ritual. Para provas acima de 90 minutos: 10 a 12 g de carbo por kg de peso por dia, nas 36 a 48h finais, com treino reduzido e carboidrato de fácil digestão — sem fase de depleção. Menos sofrimento na véspera, mais glicogênio na largada.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA. Carbohydrate loading in human muscle: an improved 1 day protocol. <em>Eur J Appl Physiol</em>. 2002;87(3):290–295. doi:10.1007/s00421-002-0621-5</li>\n<li>Burke LM, Hawley JA, Wong SHS, Jeukendrup AE. Carbohydrates for training and competition. <em>J Sports Sci</em>. 2011;29(sup1):S17–S27. doi:10.1080/02640414.2011.585473</li>\n<li>Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. <em>Med Sci Sports Exerc</em>. 2016;48(3):543–568. doi:10.1249/MSS.0000000000000852</li>\n</ol>\n",
+    "cover": "content/drafts/der_carga_carbo_passo/cover.png",
+    "cover_alt": "Carga de carboidrato: o passo a passo prático — Somente os Fatos Nutrição"
+  },
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "A serving dish filled with cooked pasta noodles on a dark table",
+      "creator": "Nilo Velez",
+      "license": "CC0 1.0",
+      "source_url": "https://wordpress.org/photos/photo/407685725f/"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o erro",
+      "title": "Spaghetti Bolognese on a dark gray plate",
+      "creator": "Alina Kakshapati",
+      "license": "CC0 1.0",
+      "source_url": "https://wordpress.org/photos/photo/69468aab10/"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Road race pack in progress",
+      "creator": "Peter Mooney",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/25874444@N00/16112067682"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/der_carga_carbo_passo/slide_01.png",
+    "content/drafts/der_carga_carbo_passo/slide_02.png",
+    "content/drafts/der_carga_carbo_passo/slide_03.png",
+    "content/drafts/der_carga_carbo_passo/slide_04.png",
+    "content/drafts/der_carga_carbo_passo/slide_05.png",
+    "content/drafts/der_carga_carbo_passo/slide_06.png"
+  ]
+}

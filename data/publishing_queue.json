@@ -461,9 +461,9 @@
       "local_id": "der_carga_carbo_passo",
       "format": "carousel",
       "topic": "carga de carboidrato: o passo a passo prático",
-      "hook": "Carga de carbo não é comer massa na véspera. É um protocolo de 2 dias com número.",
-      "status": "draft",
-      "created_at": "2026-09-27",
+      "hook": "Carga de carbo não é jantar macarrão na véspera. É 10 g/kg por 2 dias.",
+      "status": "approved",
+      "created_at": "2026-10-07",
       "scheduled_for": "2026-10-05T15:00:00Z",
       "priority": 1,
       "notes": "Derivado do VENCEDOR carga_carbo_918 (maior saves/reach do ciclo, 0,039). Família periodização de fueling. Ângulo prático: g/kg/dia, timing de 24-48h, o que muda por distância. Publicar seg 12h BRT (15h UTC)."
