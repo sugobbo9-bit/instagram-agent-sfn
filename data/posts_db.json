@@ -7434,6 +7434,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6ac7acace23c5a000172e7f4",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-reteste-desempenho-atletico/"
+    },
+    {
+      "post_id": "18096337238425156",
+      "local_id": "prov_003",
+      "publication_date": "2026-10-08T20:06:39.213263+00:00",
+      "format": "carousel",
+      "topic": "eletrólitos do suor: qual importa na reposição (analogia com xadrez)",
+      "content_pillar": "hydration",
+      "hook": "Se eletrólito fosse peça de xadrez.",
+      "caption": "(Post de humor. A piada é nossa; os dados, não.)\n\nNo suor, nem todo eletrólito pesa igual.\n\nO sódio é de longe o que você mais perde suando — seguido do cloreto, que sai junto com ele. Potássio, cálcio e magnésio aparecem em quantidades bem menores. Por isso, quando se fala em reposição de eletrólitos em treino longo e calor, o foco costuma ser o sódio: é o que o teste de suor mede e o que as recomendações priorizam. Quanto cada um perde varia bastante de pessoa pra pessoa.\n\nE a famosa relação magnésio x cãibra? Uma revisão sistemática Cochrane (2020) concluiu que suplementar magnésio provavelmente não previne cãibra de forma clinicamente relevante em adultos mais velhos, e não encontrou nenhum ensaio clínico testando magnésio para a cãibra associada ao exercício. Ou seja: falta evidência para promover o peão a rainha.\n\nNada disso é prescrição — hidratação e sódio se ajustam ao seu suor, ao clima e à duração do esforço. Teste na preparação, nunca estreie na prova.\n\nQual eletrólito você achava que era a estrela? 👇\n\n—\nFormato inspirado em @jessicathesportsrd\n\nReferências:\n• Baker LB. Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/interindividual variability. Sports Med. 2017;47(Suppl 1):111–128.\n• Garrison SR, Korownyk CS, Kolber MR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev. 2020;(9):CD009402.\n\nFotos: silhuetas de xadrez via rawpixel (CC0). Recortadas.\n\n#nutricaoesportiva #hidratacao #eletrolitos #sodio #corrida #ciclismo #triathlon #endurance",
+      "cta": "Quando você repõe eletrólito, pensa primeiro em quê?",
+      "scientific_sources": [
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "A"
+        },
+        {
+          "title": "Magnesium for skeletal muscle cramps",
+          "authors": "Garrison SR, Korownyk CS, Kolber MR, Allan GM, Musini VM, Sekhon RK, Dugré N",
+          "journal": "Cochrane Database of Systematic Reviews",
+          "year": 2020,
+          "volume": "9",
+          "issue": "9",
+          "pages": "CD009402",
+          "doi": "10.1002/14651858.CD009402.pub3",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32956536/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/prov_003/slide_01.png",
+        "content/drafts/prov_003/slide_02.png",
+        "content/drafts/prov_003/slide_03.png",
+        "content/drafts/prov_003/slide_04.png",
+        "content/drafts/prov_003/slide_05.png",
+        "content/drafts/prov_003/slide_06.png",
+        "content/drafts/prov_003/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:provocativo",
+        "series:se-fosse",
+        "topic:eletrolitos",
+        "idea:eletrolito-xadrez",
+        "universe:xadrez"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

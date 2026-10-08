@@ -1,0 +1,234 @@
+{
+  "local_id": "prov_003",
+  "format": "carousel",
+  "template": "provocativo",
+  "series": "se-fosse",
+  "comparativo": false,
+  "status": "published",
+  "created_at": "2026-10-08T00:00:00Z",
+  "topic": "eletrólitos do suor: qual importa na reposição (analogia com xadrez)",
+  "content_pillar": "hydration",
+  "hook": "Se eletrólito fosse peça de xadrez.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:provocativo",
+    "series:se-fosse",
+    "topic:eletrolitos",
+    "idea:eletrolito-xadrez",
+    "universe:xadrez"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Se eletrólito\nfosse xadrez.",
+      "items": [
+        {
+          "pot": "SÓDIO",
+          "label": "Sódio"
+        },
+        {
+          "image": "content/drafts/prov_003/img/queen.png",
+          "mode": "cutout",
+          "label": "Rainha"
+        }
+      ]
+    },
+    {
+      "type": "pair",
+      "headline": "Manda no\ntabuleiro.",
+      "items": [
+        {
+          "pot": "SÓDIO",
+          "label": "Sódio"
+        },
+        {
+          "image": "content/drafts/prov_003/img/queen.png",
+          "mode": "cutout",
+          "label": "Rainha"
+        }
+      ],
+      "tagline": "É de longe o que você mais perde no suor."
+    },
+    {
+      "type": "pair",
+      "headline": "Anda reto.\nNunca sozinho.",
+      "items": [
+        {
+          "pot": "CLORETO",
+          "label": "Cloreto"
+        },
+        {
+          "image": "content/drafts/prov_003/img/rook.png",
+          "mode": "cutout",
+          "label": "Torre"
+        }
+      ],
+      "tagline": "Sai junto com o sódio, quase na mesma conta."
+    },
+    {
+      "type": "pair",
+      "headline": "Importa.\nMas joga dentro.",
+      "items": [
+        {
+          "pot": "POTÁSSIO",
+          "label": "Potássio"
+        },
+        {
+          "image": "content/drafts/prov_003/img/bishop.png",
+          "mode": "cutout",
+          "label": "Bispo"
+        }
+      ],
+      "tagline": "Conta, mas quase todo ele mora dentro da célula."
+    },
+    {
+      "type": "pair",
+      "headline": "Movimento\nespecífico.",
+      "items": [
+        {
+          "pot": "CÁLCIO",
+          "label": "Cálcio"
+        },
+        {
+          "image": "content/drafts/prov_003/img/knight.png",
+          "mode": "cutout",
+          "label": "Cavalo"
+        }
+      ],
+      "tagline": "Tem seu papel. No suor, aparece pouco."
+    },
+    {
+      "type": "pair",
+      "headline": "Sonha em\nser rainha.",
+      "items": [
+        {
+          "pot": "MAGNÉSIO",
+          "label": "Magnésio"
+        },
+        {
+          "image": "content/drafts/prov_003/img/pawn.png",
+          "mode": "cutout",
+          "label": "Peão"
+        }
+      ],
+      "tagline": "O queridinho anticãibra. A ciência não deu a coroa."
+    },
+    {
+      "type": "fact",
+      "label": "O fato por trás da piada",
+      "headline": "No suor, quem manda é o sódio.",
+      "body": "Entre os eletrólitos do suor, o sódio — e o cloreto, que vem junto — sai em concentração muito maior que potássio, cálcio e magnésio. Por isso a reposição em prova longa gira em torno do sódio.\n\nE o magnésio contra cãibra? Uma revisão Cochrane concluiu que suplementar magnésio provavelmente não previne cãibra de forma clinicamente relevante, e não há ensaio clínico que sustente o uso no exercício. É o peão que o marketing fantasia de rainha.",
+      "source": "Baker LB. Sports Med. 2017;47(Supl 1):111-128.\nGarrison SR et al. Cochrane Database Syst Rev. 2020;(9):CD009402.",
+      "cta": "Quando você repõe eletrólito, pensa primeiro em quê?"
+    }
+  ],
+  "caption": "(Post de humor. A piada é nossa; os dados, não.)\n\nNo suor, nem todo eletrólito pesa igual.\n\nO sódio é de longe o que você mais perde suando — seguido do cloreto, que sai junto com ele. Potássio, cálcio e magnésio aparecem em quantidades bem menores. Por isso, quando se fala em reposição de eletrólitos em treino longo e calor, o foco costuma ser o sódio: é o que o teste de suor mede e o que as recomendações priorizam. Quanto cada um perde varia bastante de pessoa pra pessoa.\n\nE a famosa relação magnésio x cãibra? Uma revisão sistemática Cochrane (2020) concluiu que suplementar magnésio provavelmente não previne cãibra de forma clinicamente relevante em adultos mais velhos, e não encontrou nenhum ensaio clínico testando magnésio para a cãibra associada ao exercício. Ou seja: falta evidência para promover o peão a rainha.\n\nNada disso é prescrição — hidratação e sódio se ajustam ao seu suor, ao clima e à duração do esforço. Teste na preparação, nunca estreie na prova.\n\nQual eletrólito você achava que era a estrela? 👇\n\n—\nFormato inspirado em @jessicathesportsrd\n\nReferências:\n• Baker LB. Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/interindividual variability. Sports Med. 2017;47(Suppl 1):111–128.\n• Garrison SR, Korownyk CS, Kolber MR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev. 2020;(9):CD009402.\n\nFotos: silhuetas de xadrez via rawpixel (CC0). Recortadas.\n\n#nutricaoesportiva #hidratacao #eletrolitos #sodio #corrida #ciclismo #triathlon #endurance",
+  "cta": "Quando você repõe eletrólito, pensa primeiro em quê?",
+  "scientific_sources": [
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "A"
+    },
+    {
+      "title": "Magnesium for skeletal muscle cramps",
+      "authors": "Garrison SR, Korownyk CS, Kolber MR, Allan GM, Musini VM, Sekhon RK, Dugré N",
+      "journal": "Cochrane Database of Systematic Reviews",
+      "year": 2020,
+      "volume": "9",
+      "issue": "9",
+      "pages": "CD009402",
+      "doi": "10.1002/14651858.CD009402.pub3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32956536/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2
+      ],
+      "label": "Rainha",
+      "title": "Png queen chess silhouette sticker",
+      "creator": "rawpixel (autor desconhecido)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6759592/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "Torre",
+      "title": "Png rook chess silhouette sticker",
+      "creator": "rawpixel (autor desconhecido)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6759476/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "Bispo",
+      "title": "Png pawn chess silhouette sticker",
+      "creator": "rawpixel (autor desconhecido)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6759550/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "Cavalo",
+      "title": "Png knight chess silhouette sticker",
+      "creator": "rawpixel (autor desconhecido)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6759430/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    },
+    {
+      "slides": [
+        6
+      ],
+      "label": "Peão",
+      "title": "Png bishop chess silhouette sticker",
+      "creator": "rawpixel (autor desconhecido)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6760002/png-sticker-public-domain",
+      "changes": "fundo recortado"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/prov_003/slide_01.png",
+    "content/drafts/prov_003/slide_02.png",
+    "content/drafts/prov_003/slide_03.png",
+    "content/drafts/prov_003/slide_04.png",
+    "content/drafts/prov_003/slide_05.png",
+    "content/drafts/prov_003/slide_06.png",
+    "content/drafts/prov_003/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 6,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18096337238425156",
+  "published_at": "2026-10-08T20:06:39.213263+00:00"
+}

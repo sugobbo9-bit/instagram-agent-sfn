@@ -359,3 +359,10 @@
 {"ts": "2026-10-08T14:46:02.425161+00:00", "level": "INFO", "msg": "PUBLICADO: der_sono_retest -> media_id 18157714087506827"}
 {"ts": "2026-10-08T14:46:02.435369+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-08T18:25:11.693763+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-08T20:05:44.195950+00:00", "level": "INFO", "msg": "Publicando prov_003 (carousel) \u2014 eletr\u00f3litos do suor: qual importa na reposi\u00e7\u00e3o (analogia com xadrez)"}
+{"ts": "2026-10-08T20:05:44.198853+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-08T20:05:44.198926+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/prov_003/slide_01.png"}
+{"ts": "2026-10-08T20:05:45.188914+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-08T20:06:25.804102+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-08T20:06:39.213052+00:00", "level": "INFO", "msg": "PUBLICADO: prov_003 -> media_id 18096337238425156"}
+{"ts": "2026-10-08T20:06:39.226047+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
