@@ -358,3 +358,4 @@
 {"ts": "2026-10-08T14:45:48.909495+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-08T14:46:02.425161+00:00", "level": "INFO", "msg": "PUBLICADO: der_sono_retest -> media_id 18157714087506827"}
 {"ts": "2026-10-08T14:46:02.435369+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-08T18:25:11.693763+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
