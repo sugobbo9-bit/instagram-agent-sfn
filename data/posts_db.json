@@ -7376,6 +7376,64 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18157714087506827",
+      "local_id": "der_sono_retest",
+      "publication_date": "2026-10-08T14:46:02.425357+00:00",
+      "format": "carousel",
+      "topic": "extensão de sono e desempenho atlético (reteste)",
+      "content_pillar": "recovery",
+      "hook": "Dormiram 10h por noite e ficaram 0,7s mais rápidos no sprint.",
+      "caption": "Você otimiza treino, carboidrato e cafeína — mas trata o sono como fixo. A evidência diz que estender o sono (dormir mais do que o seu habitual) pode melhorar o desempenho de forma mensurável.\n\nO estudo mais citado é de Stanford (Mah et al., 2011): 11 jogadores de basquete universitário saíram de 6–9h e passaram a mirar 10h de sono por noite, por 5 a 7 semanas. O sprint de 282 pés caiu de 16,2 para 15,5 s, o arremesso livre subiu 9% e a bola de 3, 9,2% — além de melhor tempo de reação e humor.\n\nA ressalva honesta: uma revisão sistemática (Silva et al., 2021) achou só 2 estudos de extensão de sono com atletas. Dos 15 desfechos medidos, 6 tiveram efeito grande e o restante de trivial a médio; a qualidade da evidência varia de muito baixa a moderada. Ou seja: sinal promissor, base ainda pequena — não um efeito garantido.\n\nNa prática, estender o sono é um dos ajustes mais baratos que existem: +30 a 60 min por noite, horário consistente (inclusive no fim de semana), quarto escuro e fresco, cafeína cortada ~8h antes de deitar e um cochilo de 20–30 min quando a noite foi curta.\n\nFontes: Mah CD, Mah KE, Kezirian EJ, Dement WC. Sleep. 2011;34(7):943-950. | Silva AC et al. Sleep Med. 2021;77:128-135.",
+      "cta": "Salva e manda pro parceiro que treina pesado e dorme pouco.",
+      "scientific_sources": [
+        {
+          "title": "The effects of sleep extension on the athletic performance of collegiate basketball players",
+          "authors": "Mah CD, Mah KE, Kezirian EJ, Dement WC",
+          "journal": "Sleep",
+          "year": 2011,
+          "volume": "34",
+          "issue": "7",
+          "pages": "943-950",
+          "doi": "10.5665/SLEEP.1132",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21731144/",
+          "level": "B"
+        },
+        {
+          "title": "Sleep extension in athletes: what we know so far - A systematic review",
+          "authors": "Silva AC, Silva A, Edwards BJ, Tod D, Souza Amaral A, de Alcântara Borba D, Grade I, de Mello MT",
+          "journal": "Sleep Medicine",
+          "year": 2021,
+          "volume": "77",
+          "pages": "128-135",
+          "doi": "10.1016/j.sleep.2020.11.028",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33352457/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_sono_retest/slide_01.png",
+        "content/drafts/der_sono_retest/slide_02.png",
+        "content/drafts/der_sono_retest/slide_03.png",
+        "content/drafts/der_sono_retest/slide_04.png",
+        "content/drafts/der_sono_retest/slide_05.png",
+        "content/drafts/der_sono_retest/slide_06.png"
+      ],
+      "experiment_tags": [
+        "visual:foto",
+        "time:12brt",
+        "topic:sono",
+        "hook:number",
+        "experiment:exp_sono_hook_timing",
+        "retest:der_sono_extensao",
+        "format:carousel"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ac7acace23c5a000172e7f4",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-reteste-desempenho-atletico/"
     }
   ]
 }

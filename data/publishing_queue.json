@@ -489,11 +489,16 @@
       "format": "carousel",
       "topic": "extensão de sono e desempenho (RETESTE)",
       "hook": "Dormiram 10h por noite e ficaram 0,7s mais rápidos no sprint.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-08",
       "scheduled_for": "2026-10-06T15:00:00Z",
       "priority": 1,
-      "notes": "RETESTE do der_sono_extensao (fracassou com 178: hook mole + timing 11h UTC). Mesma ideia (extensão de sono, Mah et al.), hook novo com NÚMERO e resultado concreto no 1o frame. Publicar ter 12h BRT (15h UTC) — NÃO às 11h. Experimento: variável = hook+horário, controle = draft_014."
+      "notes": "RETESTE do der_sono_extensao (fracassou com 178: hook mole + timing 11h UTC). Mesma ideia (extensão de sono, Mah et al.), hook novo com NÚMERO e resultado concreto no 1o frame. Publicar ter 12h BRT (15h UTC) — NÃO às 11h. Experimento: variável = hook+horário, controle = draft_014.",
+      "published_at": "2026-10-08T14:46:02.425357+00:00",
+      "post_id": "18157714087506827",
+      "ghost_post_id": "6ac7acace23c5a000172e7f4",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/extensao-de-sono-reteste-desempenho-atletico/",
+      "ghost_status": "published"
     },
     {
       "local_id": "draft_018",

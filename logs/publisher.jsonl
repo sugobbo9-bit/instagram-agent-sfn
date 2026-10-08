@@ -351,3 +351,10 @@
 {"ts": "2026-10-07T19:58:34.932111+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-07T19:58:49.039283+00:00", "level": "INFO", "msg": "PUBLICADO: prov_002 -> media_id 17872952820638971"}
 {"ts": "2026-10-07T19:58:49.055183+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-08T14:45:19.200456+00:00", "level": "INFO", "msg": "Publicando der_sono_retest (carousel) \u2014 extens\u00e3o de sono e desempenho (RETESTE)"}
+{"ts": "2026-10-08T14:45:19.202924+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-08T14:45:19.202991+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_sono_retest/slide_01.png"}
+{"ts": "2026-10-08T14:45:20.458817+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-08T14:45:48.909495+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-08T14:46:02.425161+00:00", "level": "INFO", "msg": "PUBLICADO: der_sono_retest -> media_id 18157714087506827"}
+{"ts": "2026-10-08T14:46:02.435369+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
