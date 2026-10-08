@@ -683,6 +683,17 @@
       "notes": "provocativo — series:se-fosse, idea:proteina-banda, universe:instrumentos. Whey/caseina/ovo/soja/colageno como instrumentos de banda; colageno nao constroi musculo (Oikawa 2020).",
       "published_at": "2026-10-07T19:58:49.039497+00:00",
       "post_id": "17872952820638971"
+    },
+    {
+      "local_id": "prov_003",
+      "format": "carousel",
+      "topic": "eletrólitos do suor: qual importa na reposição (analogia com xadrez)",
+      "hook": "Se eletrólito fosse peça de xadrez.",
+      "status": "approved",
+      "created_at": "2026-10-08T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "provocativo — series:se-fosse, idea:eletrolito-xadrez, universe:xadrez. Sódio (rainha) é o eletrólito mais perdido no suor; magnésio (peão) sem evidência p/ cãibra (Baker 2017; Garrison Cochrane 2020)."
     }
   ]
 }
