@@ -488,9 +488,9 @@
       "local_id": "der_sono_retest",
       "format": "carousel",
       "topic": "extensão de sono e desempenho (RETESTE)",
-      "hook": "Atletas que passaram a dormir 10h por noite ficaram mais rápidos. Não é exagero: é dado.",
-      "status": "draft",
-      "created_at": "2026-09-27",
+      "hook": "Dormiram 10h por noite e ficaram 0,7s mais rápidos no sprint.",
+      "status": "approved",
+      "created_at": "2026-10-08",
       "scheduled_for": "2026-10-06T15:00:00Z",
       "priority": 1,
       "notes": "RETESTE do der_sono_extensao (fracassou com 178: hook mole + timing 11h UTC). Mesma ideia (extensão de sono, Mah et al.), hook novo com NÚMERO e resultado concreto no 1o frame. Publicar ter 12h BRT (15h UTC) — NÃO às 11h. Experimento: variável = hook+horário, controle = draft_014."
