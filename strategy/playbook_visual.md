@@ -1,4 +1,4 @@
-# Playbook visual — carrossel provocativo (17h) e fotos no carrossel técnico (12h)
+# Playbook visual — marca x marca (17h) e fotos no carrossel técnico (12h)
 
 _Criado em 2026-10-06 a pedido do Victor. As rotinas diárias leem este arquivo. A revisão de domingo pode e deve reescrevê-lo quando os dados mandarem._
 
@@ -8,88 +8,52 @@ O post "Se carboidrato de performance fosse carro" (10/09/2026) teve alcance 762
 
 É **um** post. Trate como hipótese forte, não como lei. As primeiras 10 peças `prov_*` são o teste.
 
-## 1. O carrossel provocativo (`prov_NNN`, só Instagram, diário ~17h BRT)
+## 1. O carrossel das 17h: marca X vs. marca Y (`vs_NNN`, só Instagram)
 
-### O que "provocativo" quer dizer na SFN
+### Diretriz do Victor (09/10/2026)
 
-Provoca **uma crença, um hábito ou um claim de marketing** — nunca uma pessoa, um profissional ou um grupo. Humor seco, frase curta, zero grito. A piada precisa ser **verdadeira**: cada slide engraçado tem que sobreviver à pergunta "isso está certo?". O último slide sempre entrega o fato e a fonte.
+As analogias "Se X fosse Y" (`prov_001` a `prov_003`) **ficaram exageradas** e foram encerradas. O slot das 17h passa a ser **dois produtos reais, lado a lado, só com o que está no rótulo — sem julgamento de valor**. Nada de nota, vencedor, "melhor", "pior", "vale a pena" ou piada às custas de um produto. Quem tira a conclusão é o leitor.
 
-Reação que queremos: "kkk é isso mesmo" → manda pro parceiro de treino. Reação que não queremos: "que exagero" ou "isso é propaganda".
+O quality gate reprova palavras de julgamento (`melhor`, `pior`, `vence`, `ganha`, `perde`, `superior`, `inferior`, `vale a pena`, `ruim`, `ótimo`...) e post sem fonte de rótulo datada.
 
-### O conceito é um só: "Se X fosse Y" (diretriz do Victor, 07/10/2026)
+### Como escolher a dupla
 
-O Victor aprovou o piloto e fechou a direção: **pegar o conceito do post dos carros e criar ideias novas dentro dele** — não inventar formatos diferentes. Todo `prov_*` é uma analogia "Se X fosse Y" com par de imagens (`series: "se-fosse"`). O que muda de um dia para o outro é o X, o Y e a piada.
+1. **Mesma categoria e porção comparável:** gel com gel, creatina com creatina, isotônico com isotônico. Compare por unidade de uso (sachê, dose, scoop) e diga qual.
+2. **Os dois vendidos no Brasil** e com rótulo acessível no site oficial do fabricante. Sem rótulo oficial legível → troque a dupla.
+3. **Rodízio:** não repita a categoria do post anterior; não repita uma marca em 3 posts seguidos.
+4. **Z2:** fora da série até decisão do Victor (registrar aqui quando decidir).
+5. Marque `"category:<categoria>"` e `"pair:<marca-a>-<marca-b>"` nas tags.
 
-**Como montar uma boa:**
+Categorias para girar: gel de carboidrato · bebida de carboidrato em pó · isotônico pronto · cápsula/pastilha de eletrólito · creatina · whey · cafeína (cápsula, gel ou goma) · barra de endurance · beta-alanina · nitrato/beterraba.
 
-1. **X é uma família de 5 ou 6 coisas entre as quais o atleta realmente escolhe** — fontes de carbo, suplementos, proteínas, bebidas, estratégias de prova.
-2. **Y é um universo que todo mundo conhece e em que cada membro tem "personalidade"** — carros, carros antigos brasileiros, ferramentas, instrumentos, bichos, peças de xadrez, eletrodomésticos, estradas.
-3. **Cada par carrega uma propriedade verdadeira** (custo, velocidade, confiabilidade, efeito colateral, onde funciona). Escreva a propriedade primeiro e só depois procure o Y. Se o par não ensina nada, troque.
-4. **Ordem:** abre com o par mais reconhecível, fecha com a virada — o barato que funciona ou o bonito que não entrega.
-5. **Último slide:** o fato e a fonte, sempre.
+### Os dados (a parte que não pode errar)
 
-**Rodízio:** não repita o universo Y dos 2 posts anteriores. Carro é o universo comprovado — pode voltar até 2 vezes por semana, sempre com um X novo.
+- **Fonte:** só o rótulo e o site **oficial** do fabricante. Nunca loja, blog ou review. Abra a página e o painel de informação nutricional; se o painel for imagem, olhe a imagem (Read) e transcreva.
+- **Registre** em cada produto: `label_source: {url, consulted: "AAAA-MM-DD", notes}`. Anote em `notes` de onde saiu cada número.
+- **Faixa quando varia:** se o número muda com o sabor/versão, mostre a faixa e escreva "varia com o sabor". Nunca escolha o sabor que favorece um lado.
+- **Versão:** se o rótulo consultado for estrangeiro, diga na legenda e no slide final que a versão vendida no Brasil pode ter diferenças.
+- **Não informado** é dado: escreva "não informado" em vez de deduzir.
+- **Preço:** só se estiver no site oficial no dia, com a data; senão, deixe fora.
 
-**Versão comparativa (marcas reais):** o post original comparava produtos de verdade. Isso continua possível como variação do mesmo conceito, no máximo **1 vez por semana**, com `"comparativo": true`, dados de rótulo oficial conferidos no dia (anote a data em `notes`) e foto de embalagem do site do fabricante. Descreva característica, nunca insulte produto. A Z2 pode aparecer aqui se o critério técnico justificar, nunca sozinha no topo e nunca como "a melhor". Fora da versão comparativa, **nenhuma marca de suplemento** — e a palavra "Z2" reprova no quality gate.
+### Estrutura (modelo: `content/approved/vs_001.json`)
 
-### Banco de ideias
+1. `cover` com `"vs": true`: headline curta ("Dois géis.\nSó o rótulo."), as duas embalagens, tagline "Sem nota. Sem vencedor."
+2. 4 a 6 slides `metric`: uma métrica por slide, os dois valores com o mesmo tamanho e a mesma cor. `note` curta embaixo do valor quando precisar ("varia com o sabor"). `footnote` opcional no pé.
+3. `fact` no fim: "O que o rótulo não diz" — a ciência que ajuda a **ler** os números (quanto carbo por hora, quanto sódio se perde no suor, que dose de creatina tem evidência), com fonte. Explica, não escolhe.
 
-Use a primeira ideia da lista que ainda não saiu (confira a tag `idea:<id>` nos `prov_*.json` de `content/approved/`) e marque a sua com essa tag. As âncoras de evidência são **ponto de partida, não citação pronta**: abra cada uma e confirme antes de escrever; se não confirmar, ajuste o post ao que a fonte diz ou pule a ideia. Banco acabou → crie ideias novas pelas regras acima e acrescente aqui.
+Métricas que costumam caber: tamanho da porção · nutriente principal por porção (carbo, proteína, creatina, cafeína) · fonte/tipo (ex.: glicose + frutose; whey concentrado/isolado) · sódio · cafeína · o que mais vem dentro · selo de terceira parte (só se estiver no rótulo/site).
 
-| id | hook | X (esquerda) | Y (direita) | o fato por trás | âncoras para conferir |
-|---|---|---|---|---|---|
-| `raiz-carro-antigo` | Se comida raiz de prova fosse carro antigo. | rapadura, bananada, batata cozida, mel, banana, paçoca | Fusca, Kombi, Brasília, Chevette, Variant | Carbo de comida comum sustentou o desempenho como gel em estudos; o que muda é praticidade, fibra e gordura (a paçoca anda, mas pesada) | Nieman 2012 (banana, PLoS One); Salvador 2019 (batata, J Appl Physiol) |
-| `proteina-banda` | Se proteína fosse instrumento de banda. | whey, caseína, ovo, soja, colágeno | guitarra, baixo, bateria, teclado, triângulo | Velocidade de digestão e teor de leucina mudam o papel de cada uma; colágeno não estimula síntese muscular como whey | Boirie 1997 (PNAS); Oikawa 2020 (Am J Clin Nutr); Jäger 2017 (ISSN position stand) |
-| `eletrolito-xadrez` | Se eletrólito fosse peça de xadrez. | sódio, cloreto, potássio, cálcio, magnésio | rainha, torre, bispo, cavalo, peão | O sódio é de longe o que mais se perde no suor; magnésio para cãibra não tem suporte | Baker 2017 (Sports Med); Garrison 2020 (Cochrane) |
-| `intestino-transito` | Se o seu intestino na prova fosse trânsito. | 30, 60, 90 e 120 g de carbo por hora | rua de bairro, avenida, rodovia de pista dupla, engarrafamento | Glicose sozinha satura perto de 60 g/h; glicose + frutose usam transportadores diferentes; o intestino é treinável | Jeukendrup 2014 (Sports Med); Cox 2010 (J Appl Physiol) |
-| `recuperacao-eletro` | Se recuperação fosse eletrodoméstico. | sono, comida (carbo + proteína), banho de gelo, massagem, bota de compressão | geladeira, fogão, ar-condicionado, ventilador, luminária | Sono e comida fazem o grosso; água fria alivia, mas pode atenuar adaptação de força; massagem reduz a dor percebida | Roberts 2015 (J Physiol); Dupuy 2018 (Front Physiol) |
-| `cafeina-bicho` | Se fonte de cafeína fosse bicho. | café coado, cápsula, gel com cafeína, chiclete, energético | bichos de velocidades diferentes | Café e cafeína anidra renderam igual; chiclete absorve mais rápido; a dose importa mais que a fonte | Hodgson 2013 (PLoS One); Kamimori 2002 (Int J Pharm); Guest 2021 (ISSN) |
-| `formato-ferramenta` | Se gel, bebida, barra e goma fossem ferramentas. | gel, bebida, barra, goma, comida de verdade | ferramentas de uma caixa | Com a mesma composição, a oxidação do carbo é parecida entre os formatos — a escolha é logística | Pfeiffer 2010 (Med Sci Sports Exerc, dois artigos) |
-| `queimador-acessorio` | Se "queimador de gordura" fosse acessório de carro. | cafeína, chá verde, L-carnitina, CLA, cetona de framboesa | turbo pequeno, adesivo, aerofólio, neon, aromatizante | Efeito pequeno ou nulo na perda de gordura para quase todos; só a cafeína tem algum respaldo | Jeukendrup & Randell 2011 (Obes Rev) |
-| `pre-prova-transporte` | Se o seu café pré-prova fosse meio de transporte. | pão com geleia, banana, ovo com bacon, açaí com granola, só café preto | metrô, bicicleta, caminhão de mudança, ônibus lotado, ir a pé | 1 a 4 g/kg de carbo, 1 a 4 h antes; gordura e fibra demais atrasam o estômago | Burke 2011 (J Sports Sci); Thomas 2016 (ACSM) |
-| `pos-treino-carro` | Se bebida pós-treino fosse carro. | leite achocolatado, shake de whey, isotônico, água, cerveja | carros (X novo, universo comprovado) | Leite achocolatado recupera tão bem quanto bebida comercial; álcool atrapalha a síntese proteica | Amiri 2019 (Eur J Clin Nutr); Parr 2014 (PLoS One) |
-| `bebida-carbo-carro` (comparativo) | Se bebida de carbo fosse carro. | 5 ou 6 bebidas de carboidrato do mercado nacional | carros | Compare por g de carbo por porção, razão glicose:frutose, sódio e preço por 30 g | rótulos oficiais conferidos no dia; Jeukendrup 2014 |
+### Imagens
 
-### Estrutura
-
-6 a 8 slides: `cover` → 4 a 6 slides `pair` (use `single` quando o X não tiver imagem, como um número) → `fact` (obrigatório).
-
-- **headline:** 2 linhas, até ~18 caracteres por linha. Use `\n` para quebrar onde a piada respira.
-- **tagline:** 1 frase, até ~60 caracteres. É aqui que mora o fato disfarçado de piada.
-- **fact:** `label` "O fato por trás da piada", headline curta, 2 parágrafos, `source` com autor/periódico/ano, `cta` em forma de pergunta.
-- Hook (campo `hook`) ≤ 80 caracteres.
-
-Modelo completo e aprovado no gate: `content/approved/prov_001.json`. Copie a estrutura, não o tema.
-
-### Imagens — de onde vêm
-
-1. **Pote genérico SFN** (`{"pot": "CREATINA"}`): desenho próprio em SVG, sem marca. Padrão para qualquer suplemento/ingrediente. Não procure foto de pote.
-2. **Banco livre de qualidade (nuvem):** `python3 scripts/fetch_image.py search "<termo em inglês>" <dir>` → StockSnap, rawpixel, WordPress Photos (CC0). Bom para comida, objeto, cena de esporte.
-3. **Wikimedia Commons (só pelo Mac):** `--provider commons`. Para coisa específica com nome próprio (modelo de carro, objeto). A nuvem leva 429; rode via `device_bash`, com saída em `$HOME/mnt/SFN/_agent_buffer/_img/<id>/<termo>/`, e traga `sheet.jpg` e a escolhida com `device_stage_files`. Termos curtos funcionam melhor ("Toyota Hilux", não "Toyota Hilux Revo front").
-4. **Embalagem de marca:** só em `comparativo`, baixada do site oficial do fabricante, sem alterar o rótulo, com `{"kind": "packshot"}` no crédito. Fundo branco → `"mode": "multiply"`.
-
-Sempre olhe a `sheet.jpg` com Read antes de escolher. Objeto isolado → `fetch_image.py cutout` e `"mode": "cutout"`; confira o PNG. Recorte sujo → outra foto, ou `"mode": "photo"`.
-
-### Regras de imagem (o quality gate confere parte delas)
-
-- Só licença **CC0, domínio público ou CC BY**. Nunca BY-SA, NC, ND.
-- Toda imagem usada entra em `image_credits` (label, title, creator, license, source_url). CC BY exige o nome do autor **na legenda**.
-- **Nada de rosto identificável** — em nenhum dos dois formatos. Licença livre resolve direito autoral, não direito de imagem de quem aparece. Silhueta, costas, borrão e multidão distante podem. Isso é verificado em código (`scripts/face_check.py`): a busca carimba "ROSTO" na candidata, o render grava `face_check` no JSON e o quality gate reprova. O detector não pega tudo — confira no olho também.
-- Descarte anúncio escaneado, print de tela, marca d'água, logotipo dominante.
-- Sem foto boa? O slide sai com pote ou só tipografia. **Foto nunca bloqueia publicação.**
+Foto oficial da embalagem, do site do fabricante, sem alterar o rótulo, com fundo branco (`"mode": "multiply"`; PNG transparente → compor sobre branco antes). Crédito em `image_credits` com `"kind": "packshot"`. As fotos dos produtos ficam em `products[].image` e aparecem em todos os slides `metric`.
 
 ### Legenda
 
-1. Abre com `(Post de humor. A piada é nossa; os dados, não.)`
-2. O contexto real em 3–6 linhas — o que o estudo diz, com as ressalvas que não couberam nos slides.
-3. Pergunta de fechamento.
-4. `Referências:` completas. 5. `Fotos:` créditos. 6. Hashtags (6–8).
+Abre com "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor." → resumo dos números de cada produto → a fonte e a data da consulta (e a ressalva de versão, se houver) → "Que dupla você quer ver lado a lado?" → referências científicas do slide final → "Imagens: fotos de produto dos sites oficiais" → hashtags.
 
-Mantenha `Formato inspirado em @jessicathesportsrd` na legenda — o conceito veio de lá.
+### Histórico: "Se X fosse Y" (07–08/10/2026, encerrado)
 
-### Não negocie
-
-Sem estudo inventado. Sem prescrição individual. Sem shaming alimentar. Sem atacar pessoa. Sem "compre isso". Dúvida entre a piada e a precisão → precisão.
+`prov_001` (suplemento/carro), `prov_002` (proteína/banda) e `prov_003` (eletrólito/xadrez) seguem no ar. O banco de ideias foi aposentado a pedido do Victor ("ficou exagerado"). Não gere novos `prov_*`.
 
 ## 2. Fotos e hook no carrossel técnico (`draft_NNN` / `der_*`, ~12h BRT)
 
@@ -116,7 +80,7 @@ Conclusão honesta: **meio-dia BRT é um teste razoável, não um fato medido.**
 
 ## 4. Como medir
 
-- Tags obrigatórias no provocativo: `template:provocativo`, `series:se-fosse`, `idea:<id>`, `universe:<Y>`. No técnico com foto: `visual:foto`, `time:12brt`.
-- Métrica principal do provocativo: **shares/reach** (baseline do carrossel técnico recente ≈ 0,5–1%; o post dos carros fez 4,5%). Secundárias: alcance, follows.
+- Tags obrigatórias no marca x marca: `template:versus`, `series:marca-vs-marca`, `category:<categoria>`, `pair:<a>-<b>`. No técnico com foto: `visual:foto`, `time:12brt`.
+- Métrica principal do marca x marca: **saves/reach e shares/reach** (baseline do técnico recente ≈ 1,1% e 0,8%). Compare também com os 3 `prov_*`.
 - Métrica principal do técnico: **saves/reach** e alcance mediano (meta: voltar a 500+).
-- Depois de 10 `prov_*`: qual universo Y e qual família X seguram shares/reach acima de 2%? Dobre neles, aposente os piores.
+- Depois de 10 `vs_*`: quais categorias seguram saves/shares acima da mediana do técnico? Dobre nelas.

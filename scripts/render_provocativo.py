@@ -85,6 +85,16 @@ body{background:VAR_BG;color:VAR_INK;font-family:Lora,Georgia,'Times New Roman',
 .src{font-family:Inter,Arial,sans-serif;font-size:calc(25px*var(--k,1));line-height:1.45;color:VAR_INK2}
 .cta{font-style:italic;font-size:calc(50px*var(--k,1));line-height:1.3}
 .handle{position:absolute;right:70px;bottom:62px;font-style:italic;font-size:32px}
+/* --- marca x marca (template "versus") --- */
+.mgrid{display:flex;width:100%;align-items:stretch}
+.mcol{flex:1;display:flex;flex-direction:column;align-items:center;gap:calc(22px*var(--k,1));padding:0 26px;min-width:0}
+.mdiv{width:2px;background:VAR_INK2;opacity:.22;flex:0 0 2px}
+.mthumb{height:calc(250px*var(--k,1));display:flex;align-items:center;justify-content:center}
+.mthumb img{max-height:100%;max-width:300px;object-fit:contain;mix-blend-mode:multiply}
+.mname{font-size:calc(34px*var(--k,1));font-weight:500;line-height:1.2}
+.mval{font-size:calc(var(--mv)*var(--k,1));font-weight:700;line-height:1.02;letter-spacing:-.01em}
+.mnote{font-family:Inter,Arial,sans-serif;font-size:calc(27px*var(--k,1));line-height:1.4;color:VAR_INK2;max-width:420px}
+.mfoot{font-family:Inter,Arial,sans-serif;font-size:calc(25px*var(--k,1));line-height:1.45;color:VAR_INK2;max-width:900px}
 .num{position:absolute;left:70px;bottom:66px;font-family:Inter,Arial,sans-serif;font-size:24px;
  font-weight:600;letter-spacing:.1em;color:VAR_INK2;opacity:.75}
 """
@@ -128,12 +138,38 @@ def item_html(it, base):
     return f'<div class="item {mode}"><div class="box">{inner}</div>{lb}{sub}</div>'
 
 
+def metric_html(slide, base):
+    """Slide de metrica lado a lado. Mesma cor e mesmo peso para os dois lados:
+    o formato nao aponta vencedor."""
+    prods = slide.get("_products") or [{}, {}]
+    vals = slide.get("values") or [{}, {}]
+    longest = max(len(str(v.get("value", ""))) for v in vals) if vals else 4
+    mv = 132 if longest <= 5 else 108 if longest <= 8 else 90 if longest <= 10 else 74 if longest <= 14 else 60
+    cols = []
+    for prod, v in zip(prods[:2], vals[:2]):
+        uri = data_uri(prod.get("image"), base)
+        thumb = f'<div class="mthumb"><img src="{uri}"></div>' if uri else ""
+        note = f'<div class="mnote">{nl(v.get("note"))}</div>' if v.get("note") else ""
+        val = str(v.get("value", "—"))
+        nowrap = ' style="white-space:nowrap"' if len(val) <= 12 else ""
+        cols.append(f'<div class="mcol">{thumb}<div class="mname">{nl(prod.get("name"))}</div>'
+                    f'<div class="mval"{nowrap}>{nl(val)}</div>{note}</div>')
+    grid = f'<div class="mgrid">{cols[0]}<div class="mdiv"></div>{cols[1]}</div>' if len(cols) == 2 else ""
+    c = f'<div class="hl">{nl(slide.get("headline"))}</div>{grid}'
+    if slide.get("footnote"): c += f'<div class="mfoot">{nl(slide["footnote"])}</div>'
+    return c, mv
+
+
 def build(slide, d, num, user, base):
     t = slide.get("type", "pair")
     items = slide.get("items") or []
-    hs = {"cover": 118, "pair": 92, "single": 92, "versus": 92}.get(t, 92)
+    hs = {"cover": 118, "pair": 92, "single": 92, "versus": 92, "metric": 80}.get(t, 92)
     bh = 600 if (t == "single" or len(items) == 1) else 470
-    if t == "fact":
+    mv = 120
+    if t == "metric":
+        c, mv = metric_html(slide, base)
+        wrap_cls = "wrap"
+    elif t == "fact":
         c = ""
         if slide.get("label"):    c += f'<div class="kicker">{esc(slide["label"])}</div>'
         if slide.get("headline"): c += f'<div class="hl">{nl(slide["headline"])}</div>'
@@ -149,7 +185,7 @@ def build(slide, d, num, user, base):
         if slide.get("headline"): c += f'<div class="hl">{nl(slide["headline"])}</div>'
         if items:
             parts = [item_html(i, base) for i in items[:2]]
-            if t == "versus" and len(parts) == 2:
+            if (t == "versus" or slide.get("vs")) and len(parts) == 2:
                 parts.insert(1, '<div class="vs">vs</div>')
             c += f'<div class="items">{"".join(parts)}</div>'
         if slide.get("tagline"):  c += f'<div class="tag">{nl(slide["tagline"])}</div>'
@@ -158,7 +194,7 @@ def build(slide, d, num, user, base):
     css = (CSS.replace("VAR_BG", d.get("bg", "#F1ECE4")).replace("VAR_INK2", d.get("ink2", "#6B665C"))
               .replace("VAR_INK", d.get("text_color", "#1F1E1B")).replace("VAR_ACCENT", d.get("accent", "#4F6B2A")))
     return (f'<!DOCTYPE html><html><head><meta charset="utf-8"><style>{css}</style></head>'
-            f'<body style="--hs:{hs}px;--bh:{bh}px"><div class="{wrap_cls}"><div class="fit" style="display:contents">{c}</div></div>'
+            f'<body style="--hs:{hs}px;--bh:{bh}px;--mv:{mv}px"><div class="{wrap_cls}"><div class="fit" style="display:contents">{c}</div></div>'
             f'<div class="num">{num}</div><div class="handle">{esc(user)}</div></body></html>')
 
 
@@ -212,6 +248,8 @@ def render(src_path, out_dir):
             for it in (s.get("items") or []):
                 if it.get("image") and not data_uri(it["image"], base):
                     warns.append(f"slide {i+1}: imagem nao encontrada ({it['image']}) — saiu so com rotulo")
+            if s.get("type") == "metric":
+                s = dict(s, _products=post.get("products"))
             page.set_content(build(s, d, f"{i+1}/{n}", user, base), wait_until="networkidle")
             page.evaluate("document.fonts.ready")
             page.wait_for_timeout(400)

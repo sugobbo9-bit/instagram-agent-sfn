@@ -83,6 +83,31 @@ def check_carousel(post: dict) -> tuple[bool, list]:
     if used and not fc:
         failures.append("FOTOS: 'face_check' ausente — renderize com o script atual (ele verifica rosto nas fotos)")
 
+    # MARCA X MARCA — so rotulo, sem julgamento de valor (diretriz do Victor, 09/10/2026)
+    if post.get("template") == "versus":
+        prods = post.get("products") or []
+        if len(prods) != 2:
+            failures.append("VERSUS: 'products' precisa ter exatamente 2 produtos")
+        for pr in prods:
+            ls = pr.get("label_source") or {}
+            if not ls.get("url") or not ls.get("consulted"):
+                failures.append(f"VERSUS: '{pr.get('name','?')}' sem label_source.url e label_source.consulted (data da consulta)")
+        if not post.get("comparativo"):
+            failures.append("VERSUS: marque \"comparativo\": true")
+        texto = " ".join([post.get("hook", ""), post.get("caption", ""), post.get("cta", "")] +
+                         [str(v) for sl in slides for k, v in sl.items() if k in
+                          ("headline", "tagline", "body", "cta", "footnote", "values")]).lower()
+        juizo = [w for w in ("melhor", "pior", "venceu", "vence ", "ganha", "ganhou", "perde", "perdeu",
+                             "campeão", "imbatível", "superior", "inferior", "recomendamos", "compre",
+                             "vale mais", "vale a pena", "não vale", "fraco", "fraca", "ruim", "ótimo", "ótima")
+                 if w in texto]
+        if juizo:
+            failures.append(f"VERSUS: julgamento de valor no texto ({', '.join(juizo)}) — o formato so mostra o rotulo")
+        if not any(sl.get("type") == "metric" for sl in slides):
+            failures.append("VERSUS: nenhum slide 'metric' (o lado a lado)")
+        if slides and slides[-1].get("type") != "fact":
+            failures.append("VERSUS: o ultimo slide precisa ser type 'fact' com 'source'")
+
     # FORMATO PROVOCATIVO — humor so com o fato no fim
     if post.get("template") == "provocativo":
         last = slides[-1] if slides else {}

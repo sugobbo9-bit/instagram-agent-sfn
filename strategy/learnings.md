@@ -120,3 +120,6 @@ Conferido em `posts_db.json`: dos 17 carrosséis de 15h UTC, **8 saíram no mesm
 `prov_001` ("Se suplemento fosse carro") publicado às 15:21 BRT (post_id 17924119977425747) com OK do Victor. Diretriz dele: **manter o conceito do post dos carros e criar ideias novas dentro dele** — todo `prov_*` é "Se X fosse Y"; as outras mecânicas saíram do playbook. Banco de 11 ideias com âncoras conferidas no PubMed em `strategy/playbook_visual.md`. Medir por `idea:` e `universe:`.
 Publicação falhou na 1ª tentativa com "Media ID is not available" (2ª ocorrência em 3 dias, mesma de draft_022): o `publisher.py` agora repete o `media_publish` com o mesmo `creation_id` até 4 vezes.
 
+### 2026-10-09 — "Se X fosse Y" encerrado; 17h vira marca x marca
+O Victor achou as analogias exageradas depois de 3 posts (`prov_001`–`prov_003`). Novo formato do slot das 17h: **dois produtos reais lado a lado, só com dados do rótulo oficial, sem julgamento de valor** (`template: versus`). Gate reprova palavras de julgamento e produto sem fonte de rótulo datada. Piloto `vs_001` (Maurten Gel 100 x GU Energy Gel) aguardando OK.
+
