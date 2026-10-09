@@ -21,7 +21,7 @@ O quality gate reprova palavras de julgamento (`melhor`, `pior`, `vence`, `ganha
 1. **Mesma categoria e porção comparável:** gel com gel, creatina com creatina, isotônico com isotônico. Compare por unidade de uso (sachê, dose, scoop) e diga qual.
 2. **Os dois vendidos no Brasil** e com rótulo acessível no site oficial do fabricante. Sem rótulo oficial legível → troque a dupla.
 3. **Rodízio:** não repita a categoria do post anterior; não repita uma marca em 3 posts seguidos.
-4. **Z2:** fora da série até decisão do Victor (registrar aqui quando decidir).
+4. **Z2:** pode entrar, com o mesmo rigor de dados e o mesmo tratamento neutro de qualquer marca (decisão do Victor, 09/10/2026). No máximo 1 vez por semana, para a série não parecer girar em torno de uma marca.
 5. Marque `"category:<categoria>"` e `"pair:<marca-a>-<marca-b>"` nas tags.
 
 Categorias para girar: gel de carboidrato · bebida de carboidrato em pó · isotônico pronto · cápsula/pastilha de eletrólito · creatina · whey · cafeína (cápsula, gel ou goma) · barra de endurance · beta-alanina · nitrato/beterraba.

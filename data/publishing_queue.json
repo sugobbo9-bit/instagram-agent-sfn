@@ -702,11 +702,11 @@
       "format": "carousel",
       "topic": "gel de carboidrato: Maurten Gel 100 vs GU Energy Gel (rótulo lado a lado)",
       "hook": "Maurten Gel 100 vs. GU Energy Gel. Só o rótulo.",
-      "status": "ready",
+      "status": "approved",
       "created_at": "2026-10-09T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "PILOTO marca x marca (template:versus). status 'ready' = aguardando OK do Victor; mude para 'approved' para publicar. Só Instagram."
+      "notes": "PILOTO marca x marca (template:versus). Publicação autorizada pelo Victor em 2026-10-09 para o slot das 17h."
     }
   ]
 }
