@@ -373,3 +373,4 @@
 {"ts": "2026-10-09T14:50:13.023987+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-09T14:50:20.378103+00:00", "level": "INFO", "msg": "PUBLICADO: der_ice_slurry_carrossel -> media_id 18114726377028450"}
 {"ts": "2026-10-09T14:50:20.388627+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-09T17:57:47.219070+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
