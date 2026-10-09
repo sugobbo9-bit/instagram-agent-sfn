@@ -7561,6 +7561,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6ac8ff2eee02070001cc2cb9",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/raspadinho-de-gelo-pre-resfriamento-calor/"
+    },
+    {
+      "post_id": "18130862674813920",
+      "local_id": "vs_001",
+      "publication_date": "2026-10-09T19:44:54.271698+00:00",
+      "format": "carousel",
+      "topic": "gel de carboidrato: Maurten Gel 100 vs GU Energy Gel (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Maurten Gel 100 vs. GU Energy Gel. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nMaurten Gel 100: sachê de 40 g, 25 g de carboidrato (glicose e frutose, 0,8:1), 20 mg de sódio, sem cafeína.\n\nGU Energy Gel: sachê de 32 g, 21 a 23 g de carboidrato (maltodextrina e frutose), 60 a 125 mg de sódio e 0, 20 ou 40 mg de cafeína, conforme o sabor.\n\nOs dois declaram cerca de 100 kcal por sachê.\n\nDados dos rótulos e sites oficiais, consultados em 09/10/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Maurten e da GU Energy Labs.\n\n#nutricaoesportiva #gelderacarboidrato #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_001/slide_01.png",
+        "content/drafts/vs_001/slide_02.png",
+        "content/drafts/vs_001/slide_03.png",
+        "content/drafts/vs_001/slide_04.png",
+        "content/drafts/vs_001/slide_05.png",
+        "content/drafts/vs_001/slide_06.png",
+        "content/drafts/vs_001/slide_07.png",
+        "content/drafts/vs_001/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:gel-carbo",
+        "pair:maurten-gu"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

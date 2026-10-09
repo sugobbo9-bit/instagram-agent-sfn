@@ -1,0 +1,241 @@
+{
+  "local_id": "vs_001",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-10-09T00:00:00Z",
+  "topic": "gel de carboidrato: Maurten Gel 100 vs GU Energy Gel (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Maurten Gel 100 vs. GU Energy Gel. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:gel-carbo",
+    "pair:maurten-gu"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Maurten Gel 100",
+      "brand": "Maurten",
+      "image": "content/drafts/vs_001/img/maurten_gel100.jpg",
+      "label_source": {
+        "url": "https://www.maurten.com/products/gel-100-box-us",
+        "consulted": "2026-10-09",
+        "notes": "Nutrition Facts (versão EUA) e texto da página"
+      }
+    },
+    {
+      "name": "GU Energy Gel",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_001/img/gu_energy_gel.jpg",
+      "label_source": {
+        "url": "https://guenergy.com/products/energy-gel",
+        "consulted": "2026-10-09",
+        "notes": "texto da página (faixas por sabor) e Nutrition Facts do sabor Pumpkin Spice"
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois géis.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_001/img/maurten_gel100.jpg",
+          "mode": "multiply",
+          "label": "Maurten Gel 100"
+        },
+        {
+          "image": "content/drafts/vs_001/img/gu_energy_gel.jpg",
+          "mode": "multiply",
+          "label": "GU Energy Gel"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho do sachê",
+      "values": [
+        {
+          "value": "40 g"
+        },
+        {
+          "value": "32 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por sachê",
+      "values": [
+        {
+          "value": "25 g"
+        },
+        {
+          "value": "21–23 g",
+          "note": "varia com o sabor"
+        }
+      ],
+      "footnote": "Os dois declaram cerca de 100 kcal por sachê."
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Glicose + frutose",
+          "note": "0,8 de frutose para 1 de glicose"
+        },
+        {
+          "value": "Maltodextrina + frutose",
+          "note": "proporção não informada"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por sachê",
+      "values": [
+        {
+          "value": "20 mg"
+        },
+        {
+          "value": "60–125 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "há uma versão à parte com 100 mg"
+        },
+        {
+          "value": "0, 20 ou 40 mg",
+          "note": "depende do sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Alginato de sódio",
+          "note": "agente gelificante"
+        },
+        {
+          "value": "Aminoácidos",
+          "note": "450 mg: leucina, valina e isoleucina"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Acima de ~60 g de carbo por hora, a recomendação é misturar fontes que usam transportadores diferentes no intestino, como glicose (ou maltodextrina) e frutose. Os dois géis fazem essa mistura.\n\nO sódio de um sachê é pequeno perto do que sai no suor: de ~230 a ~2.000 mg por litro, conforme a pessoa e a condição. A reposição de sódio é uma conta à parte.",
+      "source": "Rótulos e sites oficiais Maurten e GU (versão EUA), consultados em 09/10/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nMaurten Gel 100: sachê de 40 g, 25 g de carboidrato (glicose e frutose, 0,8:1), 20 mg de sódio, sem cafeína.\n\nGU Energy Gel: sachê de 32 g, 21 a 23 g de carboidrato (maltodextrina e frutose), 60 a 125 mg de sódio e 0, 20 ou 40 mg de cafeína, conforme o sabor.\n\nOs dois declaram cerca de 100 kcal por sachê.\n\nDados dos rótulos e sites oficiais, consultados em 09/10/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Maurten e da GU Energy Labs.\n\n#nutricaoesportiva #gelderacarboidrato #corrida #ciclismo #triathlon #maratona #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Maurten Gel 100",
+      "kind": "packshot",
+      "title": "Maurten-Gel-100-1.jpg",
+      "creator": "Maurten AB",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maurten.com/products/gel-100-box-us",
+      "changes": "fundo aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "GU Energy Gel",
+      "kind": "packshot",
+      "title": "Single_Energy_Gel_Pack_Sour_Peach_1.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://guenergy.com/products/energy-gel",
+      "changes": "fundo aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-09 nas páginas oficiais (versões EUA). Maurten: Nutrition Facts US (40 g, 100 kcal, 25 g carbo, 20 mg Na) + texto (0,8:1 frutose:glicose; ingredientes). GU: texto da página (100 kcal, 21–23 g carbo, 60–125 mg Na, 450 mg aminoácidos, cafeína 0/20/40 mg por sabor; maltodextrina e frutose) + painel Pumpkin Spice.",
+  "creative_files": [
+    "content/drafts/vs_001/slide_01.png",
+    "content/drafts/vs_001/slide_02.png",
+    "content/drafts/vs_001/slide_03.png",
+    "content/drafts/vs_001/slide_04.png",
+    "content/drafts/vs_001/slide_05.png",
+    "content/drafts/vs_001/slide_06.png",
+    "content/drafts/vs_001/slide_07.png",
+    "content/drafts/vs_001/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18130862674813920",
+  "published_at": "2026-10-09T19:44:54.271698+00:00"
+}

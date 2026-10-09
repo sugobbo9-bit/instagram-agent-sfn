@@ -374,3 +374,10 @@
 {"ts": "2026-10-09T14:50:20.378103+00:00", "level": "INFO", "msg": "PUBLICADO: der_ice_slurry_carrossel -> media_id 18114726377028450"}
 {"ts": "2026-10-09T14:50:20.388627+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-09T17:57:47.219070+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-09T19:43:56.147383+00:00", "level": "INFO", "msg": "Publicando vs_001 (carousel) \u2014 gel de carboidrato: Maurten Gel 100 vs GU Energy Gel (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-09T19:43:56.151337+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-09T19:43:56.151436+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_001/slide_01.png"}
+{"ts": "2026-10-09T19:43:57.330691+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-09T19:44:41.505666+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-09T19:44:54.271512+00:00", "level": "INFO", "msg": "PUBLICADO: vs_001 -> media_id 18130862674813920"}
+{"ts": "2026-10-09T19:44:54.287441+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
