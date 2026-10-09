@@ -366,3 +366,10 @@
 {"ts": "2026-10-08T20:06:25.804102+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-08T20:06:39.213052+00:00", "level": "INFO", "msg": "PUBLICADO: prov_003 -> media_id 18096337238425156"}
 {"ts": "2026-10-08T20:06:39.226047+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-09T14:49:43.065404+00:00", "level": "INFO", "msg": "Publicando der_ice_slurry_carrossel (carousel) \u2014 pr\u00e9-resfriamento no calor (ice slurry)"}
+{"ts": "2026-10-09T14:49:43.068188+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-09T14:49:43.068256+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_ice_slurry_carrossel/slide_01.png"}
+{"ts": "2026-10-09T14:49:44.169356+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-09T14:50:13.023987+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-09T14:50:20.378103+00:00", "level": "INFO", "msg": "PUBLICADO: der_ice_slurry_carrossel -> media_id 18114726377028450"}
+{"ts": "2026-10-09T14:50:20.388627+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

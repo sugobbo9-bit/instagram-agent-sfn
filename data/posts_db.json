@@ -7491,6 +7491,76 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18114726377028450",
+      "local_id": "der_ice_slurry_carrossel",
+      "publication_date": "2026-10-09T14:50:20.378289+00:00",
+      "format": "carousel",
+      "topic": "pré-resfriamento interno no calor (raspadinho de gelo / ice slurry)",
+      "content_pillar": "thermoregulation",
+      "hook": "Gelo picado antes de correr no calor rendeu 19% mais tempo até a exaustão.",
+      "caption": "No calor, quem te desacelera não é a sede: é a temperatura do corpo subindo. E um gole de água gelada quase não mexe nesse número. O pré-resfriamento interno ataca isso por outro caminho — o raspadinho de gelo (ice slurry).\n\nPorque o gelo precisa derreter dentro de você, ele absorve muito mais calor do que a mesma quantidade de água só gelada. Tomado antes da largada, ele baixa a temperatura central e cria uma 'folga térmica' que você gasta durante o esforço.\n\nO dado que chama atenção: em ambiente a 34°C, correr até a exaustão depois de tomar raspadinho rendeu 19% a mais de tempo do que tomar água gelada — 50 contra 41 minutos (Siegel et al., 2010).\n\nMas a honestidade científica pede contexto: esse é um estudo pequeno e bem controlado. Olhando o conjunto, o ganho é mais modesto — meta-análises apontam cerca de 6% em média com pré-resfriamento (Bongers et al., 2015), e gelo ingerido sozinho nem sempre melhora o desempenho; resfriamento externo (como imersão em água fria) tende a render mais (Choo et al., 2018).\n\nNa prática: faz sentido no calor de verdade e em provas longas onde você superaquece. Dose testada: ~7,5 g/kg (uns 500 g para 70 kg) na meia hora antes da largada, de preferência combinado com resfriar por fora. Em clima ameno, não espere milagre.\n\nFontes: Siegel R et al. Med Sci Sports Exerc. 2010;42(4):717-25. | Bongers CCWG et al. Br J Sports Med. 2015;49(6):377-84. | Choo HC et al. Eur J Sport Sci. 2018;18(2):170-81.\n\nFotos: Damian Gadal (CC BY 2.0).",
+      "cta": "Salva pra próxima prova no calor e manda pro parceiro que acha que água gelada resolve tudo.",
+      "scientific_sources": [
+        {
+          "title": "Ice slurry ingestion increases core temperature capacity and running time in the heat",
+          "authors": "Siegel R, Maté J, Brearley MB, Watson G, Nosaka K, Laursen PB",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2010,
+          "volume": "42",
+          "issue": "4",
+          "pages": "717-725",
+          "doi": "10.1249/MSS.0b013e3181bf257a",
+          "url": "https://doi.org/10.1249/MSS.0b013e3181bf257a",
+          "level": "B"
+        },
+        {
+          "title": "Precooling and percooling (cooling during exercise) both improve performance in the heat: a meta-analytical review",
+          "authors": "Bongers CCWG, Thijssen DHJ, Veltmeijer MTW, Hopman MTE, Eijsvogels TMH",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2015,
+          "volume": "49",
+          "issue": "6",
+          "pages": "377-384",
+          "doi": "10.1136/bjsports-2013-092928",
+          "url": "https://bjsm.bmj.com/content/49/6/377",
+          "level": "A"
+        },
+        {
+          "title": "Ergogenic effects of precooling with cold water immersion and ice ingestion: a meta-analysis",
+          "authors": "Choo HC, Nosaka K, Peiffer JJ, Ihsan M, Abbiss CR",
+          "journal": "European Journal of Sport Science",
+          "year": 2018,
+          "volume": "18",
+          "issue": "2",
+          "pages": "170-181",
+          "doi": "10.1080/17461391.2017.1405077",
+          "url": "https://doi.org/10.1080/17461391.2017.1405077",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_ice_slurry_carrossel/slide_01.png",
+        "content/drafts/der_ice_slurry_carrossel/slide_02.png",
+        "content/drafts/der_ice_slurry_carrossel/slide_03.png",
+        "content/drafts/der_ice_slurry_carrossel/slide_04.png",
+        "content/drafts/der_ice_slurry_carrossel/slide_05.png",
+        "content/drafts/der_ice_slurry_carrossel/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:number",
+        "topic:ice-slurry",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:calor-termorregulacao"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ac8ff2eee02070001cc2cb9",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/raspadinho-de-gelo-pre-resfriamento-calor/"
     }
   ]
 }
