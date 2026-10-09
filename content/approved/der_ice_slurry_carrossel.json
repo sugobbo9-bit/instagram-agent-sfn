@@ -1,0 +1,182 @@
+{
+  "local_id": "der_ice_slurry_carrossel",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-09T00:00:00Z",
+  "topic": "pré-resfriamento interno no calor (raspadinho de gelo / ice slurry)",
+  "content_pillar": "thermoregulation",
+  "hook": "Gelo picado antes de correr no calor rendeu 19% mais tempo até a exaustão.",
+  "experiment_tags": [
+    "hook:number",
+    "topic:ice-slurry",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:calor-termorregulacao"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Gelo picado antes de correr no calor.",
+      "body": null,
+      "label": null,
+      "kicker": "O NÚMERO",
+      "image": {
+        "path": "/tmp/img/der_ice_slurry_carrossel/practical/cand_05.jpg",
+        "focus": "center 45%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Água gelada resolve o calor?",
+      "body": "A crença: numa prova quente, beber líquido gelado e jogar água na nuca já dá conta.\n\nMas um gole gelado quase não mexe na sua temperatura interna — e é o corpo esquentando por dentro que te faz desacelerar no calor.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Gelo que derrete é um sumidouro de calor.",
+      "body": "Raspadinho de gelo é uma mistura meio congelada que você ingere antes da largada.\n\nPra derreter, o gelo puxa muito calor de dentro do corpo — bem mais que a mesma água só gelada. Isso baixa a temperatura central antes de você começar e abre margem térmica.",
+      "image": {
+        "path": "/tmp/img/der_ice_slurry_carrossel/ice2/cand_01.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O efeito é real — e também é misto.",
+      "body": "No calor (34°C), atletas que tomaram raspadinho correram 19% mais até a exaustão que com água gelada: 50 vs 41 min (Siegel, 2010).\n\nMas o conjunto é mais modesto: meta-análises mostram ganho médio de ~6% com pré-resfriamento (Bongers, 2015), e gelo ingerido sozinho nem sempre melhora (Choo, 2018). Resfriar por fora costuma render mais.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como usar (e quando vale).",
+      "body": "→ Vale no calor de verdade, em esforços longos onde você superaquece.\n→ Dose testada: ~7,5 g/kg (uns 500 g pra quem pesa 70 kg) na meia hora antes.\n→ Some com resfriar por fora: molhar o corpo, gelo na pele, sombra.\n→ Não é mágica: em clima ameno, não espere ganho.",
+      "image": {
+        "path": "/tmp/img/der_ice_slurry_carrossel/cover/cand_03.jpg",
+        "focus": "center 40%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Gelo por dentro compra margem no calor.",
+      "body": "Salva pra próxima prova quente e manda pro parceiro que só confia no squeeze gelado.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "No calor, quem te desacelera não é a sede: é a temperatura do corpo subindo. E um gole de água gelada quase não mexe nesse número. O pré-resfriamento interno ataca isso por outro caminho — o raspadinho de gelo (ice slurry).\n\nPorque o gelo precisa derreter dentro de você, ele absorve muito mais calor do que a mesma quantidade de água só gelada. Tomado antes da largada, ele baixa a temperatura central e cria uma 'folga térmica' que você gasta durante o esforço.\n\nO dado que chama atenção: em ambiente a 34°C, correr até a exaustão depois de tomar raspadinho rendeu 19% a mais de tempo do que tomar água gelada — 50 contra 41 minutos (Siegel et al., 2010).\n\nMas a honestidade científica pede contexto: esse é um estudo pequeno e bem controlado. Olhando o conjunto, o ganho é mais modesto — meta-análises apontam cerca de 6% em média com pré-resfriamento (Bongers et al., 2015), e gelo ingerido sozinho nem sempre melhora o desempenho; resfriamento externo (como imersão em água fria) tende a render mais (Choo et al., 2018).\n\nNa prática: faz sentido no calor de verdade e em provas longas onde você superaquece. Dose testada: ~7,5 g/kg (uns 500 g para 70 kg) na meia hora antes da largada, de preferência combinado com resfriar por fora. Em clima ameno, não espere milagre.\n\nFontes: Siegel R et al. Med Sci Sports Exerc. 2010;42(4):717-25. | Bongers CCWG et al. Br J Sports Med. 2015;49(6):377-84. | Choo HC et al. Eur J Sport Sci. 2018;18(2):170-81.\n\nFotos: Damian Gadal (CC BY 2.0).",
+  "cta": "Salva pra próxima prova no calor e manda pro parceiro que acha que água gelada resolve tudo.",
+  "scientific_sources": [
+    {
+      "title": "Ice slurry ingestion increases core temperature capacity and running time in the heat",
+      "authors": "Siegel R, Maté J, Brearley MB, Watson G, Nosaka K, Laursen PB",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2010,
+      "volume": "42",
+      "issue": "4",
+      "pages": "717-725",
+      "doi": "10.1249/MSS.0b013e3181bf257a",
+      "url": "https://doi.org/10.1249/MSS.0b013e3181bf257a",
+      "level": "B"
+    },
+    {
+      "title": "Precooling and percooling (cooling during exercise) both improve performance in the heat: a meta-analytical review",
+      "authors": "Bongers CCWG, Thijssen DHJ, Veltmeijer MTW, Hopman MTE, Eijsvogels TMH",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2015,
+      "volume": "49",
+      "issue": "6",
+      "pages": "377-384",
+      "doi": "10.1136/bjsports-2013-092928",
+      "url": "https://bjsm.bmj.com/content/49/6/377",
+      "level": "A"
+    },
+    {
+      "title": "Ergogenic effects of precooling with cold water immersion and ice ingestion: a meta-analysis",
+      "authors": "Choo HC, Nosaka K, Peiffer JJ, Ihsan M, Abbiss CR",
+      "journal": "European Journal of Sport Science",
+      "year": 2018,
+      "volume": "18",
+      "issue": "2",
+      "pages": "170-181",
+      "doi": "10.1080/17461391.2017.1405077",
+      "url": "https://doi.org/10.1080/17461391.2017.1405077",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Raspadinho de gelo antes da prova: o que o pré-resfriamento interno faz (e não faz) no calor",
+    "slug": "raspadinho-de-gelo-pre-resfriamento-calor",
+    "excerpt": "No calor, a temperatura do corpo é que limita. Entenda o pré-resfriamento interno com raspadinho de gelo (ice slurry): o mecanismo, o que a evidência mostra de verdade e como usar.",
+    "meta_title": "Raspadinho de gelo (ice slurry): pré-resfriamento no calor",
+    "tags": [
+      "Calor",
+      "Termorregulação",
+      "Pré-resfriamento",
+      "Endurance",
+      "Hidratação"
+    ],
+    "html": "<p>Quando a prova é no calor, o que te obriga a desacelerar quase nunca é a sede — é a <strong>temperatura do corpo subindo</strong>. À medida que o núcleo esquenta, o sistema nervoso reduz o ritmo para proteger você. É por isso que um simples gole de água gelada ajuda pouco: ele refresca a boca, mas quase não muda a sua temperatura interna.</p>\n\n<h2>O que é pré-resfriamento interno</h2>\n\n<p>Pré-resfriar é baixar a temperatura do corpo <em>antes</em> do esforço, criando uma margem térmica que você gasta durante a prova. Uma das formas mais práticas é o <strong>raspadinho de gelo</strong> (em inglês, <em>ice slurry</em>): uma mistura meio congelada de gelo picado com um pouco de líquido, que você ingere nos minutos que antecedem a largada.</p>\n\n<h2>Por que o gelo funciona melhor que a água gelada</h2>\n\n<p>A diferença está na física. Para <strong>derreter</strong>, o gelo precisa absorver uma grande quantidade de calor (o chamado calor latente de fusão) — muito mais do que a mesma quantidade de água apenas gelada precisa absorver para esquentar alguns graus. Na prática, cada grama de gelo que derrete dentro de você funciona como um <strong>sumidouro de calor</strong> bem maior que a água fria. O resultado é uma queda real na temperatura central antes de você começar a correr.</p>\n\n<h2>O que a evidência mostra</h2>\n\n<p>O estudo que mais chama atenção é o de <strong>Siegel e colegas (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2010)</strong>. Em ambiente quente (34°C), dez corredores fizeram um teste de corrida até a exaustão depois de ingerir raspadinho de gelo (a −1°C, 7,5 g/kg) ou água gelada (a 4°C). Com o raspadinho, o tempo até a exaustão subiu de <strong>40,7 para 50,2 minutos — cerca de 19% a mais</strong>. Curiosamente, eles também aguentaram chegar a uma temperatura central mais alta antes de parar, sinal de que o pré-resfriamento ampliou a 'capacidade de armazenar calor'.</p>\n\n<p>Esse é um resultado forte, mas é <strong>um estudo pequeno e muito controlado</strong>. Quando olhamos o conjunto da literatura, o efeito fica mais modesto e menos uniforme:</p>\n\n<ul>\n<li>A meta-análise de <strong>Bongers e colegas (<em>British Journal of Sports Medicine</em>, 2015)</strong> encontrou melhora média de <strong>~6%</strong> no desempenho no calor com pré-resfriamento (e ganho semelhante com resfriamento durante o exercício).</li>\n<li>A meta-análise de <strong>Choo e colegas (<em>European Journal of Sport Science</em>, 2018)</strong>, reunindo 22 estudos, concluiu que <strong>o gelo ingerido sozinho nem sempre melhora o desempenho</strong> — o efeito foi incerto —, enquanto o resfriamento externo (imersão em água fria) mostrou efeito mais consistente.</li>\n</ul>\n\n<p>Ou seja: o pré-resfriamento interno é uma ferramenta legítima, não um truque mágico. Ele tende a ajudar justamente quando o <strong>calor é o fator limitante</strong>.</p>\n\n<h2>Como usar na prática</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação prática</th></tr></thead>\n<tbody>\n<tr><td>Quando vale</td><td>Calor de verdade e esforços longos, em que você superaquece</td></tr>\n<tr><td>Dose testada</td><td>~7,5 g/kg (cerca de 500 g para quem pesa 70 kg)</td></tr>\n<tr><td>Timing</td><td>Nos ~30 minutos antes da largada</td></tr>\n<tr><td>Potencializa</td><td>Combinar com resfriamento externo: molhar o corpo, gelo na pele, sombra</td></tr>\n<tr><td>Quando não esperar ganho</td><td>Clima ameno, provas curtas sem estresse térmico</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>No calor, o limite é térmico, e o raspadinho de gelo ataca exatamente isso: ao derreter por dentro, ele absorve muito mais calor que a água gelada e abre uma folga de temperatura antes da prova. A evidência mostra benefício — expressivo em um estudo clássico, mais modesto no conjunto — e funciona melhor combinado com resfriar o corpo por fora. É barato, portátil e vale o teste em treino antes de usar numa prova quente.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Siegel R, Maté J, Brearley MB, Watson G, Nosaka K, Laursen PB. Ice slurry ingestion increases core temperature capacity and running time in the heat. <em>Med Sci Sports Exerc</em>. 2010;42(4):717–725. doi:10.1249/MSS.0b013e3181bf257a</li>\n<li>Bongers CCWG, Thijssen DHJ, Veltmeijer MTW, Hopman MTE, Eijsvogels TMH. Precooling and percooling (cooling during exercise) both improve performance in the heat: a meta-analytical review. <em>Br J Sports Med</em>. 2015;49(6):377–384. doi:10.1136/bjsports-2013-092928</li>\n<li>Choo HC, Nosaka K, Peiffer JJ, Ihsan M, Abbiss CR. Ergogenic effects of precooling with cold water immersion and ice ingestion: a meta-analysis. <em>Eur J Sport Sci</em>. 2018;18(2):170–181. doi:10.1080/17461391.2017.1405077</li>\n</ol>\n",
+    "cover": "content/drafts/der_ice_slurry_carrossel/cover.png",
+    "cover_alt": "Raspadinho de gelo (ice slurry) para o calor — Somente os Fatos Nutrição"
+  },
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Lone Runner",
+      "creator": "Damian Gadal",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/23024164@N06/8260256387"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "como funciona",
+      "title": "Ice Cube",
+      "creator": "Altered Reality",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/ice-cube-FFJ1LG6DXV"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Nearly 21,000 runners crossed the start",
+      "creator": "U.S. Marine Corps",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/3578962/free-photo-image-sports-run-women-men"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/der_ice_slurry_carrossel/slide_01.png",
+    "content/drafts/der_ice_slurry_carrossel/slide_02.png",
+    "content/drafts/der_ice_slurry_carrossel/slide_03.png",
+    "content/drafts/der_ice_slurry_carrossel/slide_04.png",
+    "content/drafts/der_ice_slurry_carrossel/slide_05.png",
+    "content/drafts/der_ice_slurry_carrossel/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  }
+}
