@@ -1,0 +1,213 @@
+{
+  "local_id": "vs_002",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-10-10T00:00:00Z",
+  "topic": "creatina monohidratada: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Creatina: Growth vs. Max Titanium. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:creatina",
+    "pair:growth-maxtitanium"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Growth Supplements",
+      "brand": "Growth Supplements",
+      "image": "content/drafts/vs_002/img/growth_creatina.jpg",
+      "label_source": {
+        "url": "https://www.gsuplementos.com.br/creatina-monohidratada-500g-pouch",
+        "consulted": "2026-10-10",
+        "notes": "Informação Nutricional da página oficial: porção 5 g (4 dosadores) = 5.000 mg de creatina; ingrediente único (creatina monohidratada); sem glúten; sem valor energético/carbo/açúcar/sódio. Tamanhos 100/250/500 g."
+      }
+    },
+    {
+      "name": "Max Titanium",
+      "brand": "Max Titanium",
+      "image": "content/drafts/vs_002/img/max_creatina.jpg",
+      "label_source": {
+        "url": "https://www.maxtitanium.com.br/creatina-pote-300g/p?skuid=31",
+        "consulted": "2026-10-10",
+        "notes": "Imagem oficial da Tabela Nutricional (Creatina 300 g): porção 5 g (1 dosador) = 5.000 mg de creatina; 60 porções; sem valor energético/carbo/açúcar/sódio. Ingredientes da página: creatina monohidratada e antiumectante dióxido de silício; sem glúten; pode conter derivados de leite, ovo e soja."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas creatinas.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_002/img/growth_creatina.jpg",
+          "mode": "multiply",
+          "label": "Growth Supplements",
+          "sub": "Creatina Monohidratada"
+        },
+        {
+          "image": "content/drafts/vs_002/img/max_creatina.jpg",
+          "mode": "multiply",
+          "label": "Max Titanium",
+          "sub": "Creatina"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Creatina por porção",
+      "values": [
+        {
+          "value": "5.000 mg"
+        },
+        {
+          "value": "5.000 mg"
+        }
+      ],
+      "footnote": "Os dois declaram 5 g de creatina por porção. Nenhum traz valor energético, carboidrato, açúcar ou sódio."
+    },
+    {
+      "type": "metric",
+      "headline": "Tipo de creatina",
+      "values": [
+        {
+          "value": "Monohidratada"
+        },
+        {
+          "value": "Monohidratada"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem no pote",
+      "values": [
+        {
+          "value": "Só creatina",
+          "note": "nenhum aditivo declarado"
+        },
+        {
+          "value": "+ antiumectante",
+          "note": "dióxido de silício (antiempedrante)"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Dosador para a porção de 5 g",
+      "values": [
+        {
+          "value": "4 dosadores"
+        },
+        {
+          "value": "1 dosador"
+        }
+      ],
+      "footnote": "A porção é a mesma — 5 g. Muda só a colher-medida que acompanha cada marca."
+    },
+    {
+      "type": "metric",
+      "headline": "Aviso de alérgenos no rótulo",
+      "values": [
+        {
+          "value": "Sem aviso",
+          "note": "o rótulo lista só creatina"
+        },
+        {
+          "value": "Pode conter",
+          "note": "traços de leite, ovo e soja"
+        }
+      ],
+      "footnote": "Os dois declaram: não contém glúten."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Os dois entregam 5 g de creatina monohidratada por porção — a forma mais estudada e a dose de manutenção da maioria das pesquisas. A fase de saturação (cerca de 20 g por dia, por 5 a 7 dias) enche os estoques mais rápido, mas é opcional: tomar a dose todo dia chega no mesmo ponto.\n\nA evidência mais forte da creatina está em esforços curtos e intensos, força e recuperação entre tiros. O que mais pesa é a constância — o aditivo e o número de dosadores mudam o manuseio, não a creatina que chega ao músculo.",
+      "source": "Rótulos e sites oficiais Growth Supplements e Max Titanium, consultados em 10/10/2026.\nKreider RB et al. J Int Soc Sports Nutr. 2017;14:18.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha é sua.\n\nGrowth Supplements — Creatina Monohidratada: porção de 5 g (4 dosadores) com 5.000 mg de creatina monohidratada, ingrediente único, sem glúten. Sem valor energético, carboidrato, açúcar ou sódio.\n\nMax Titanium — Creatina: porção de 5 g (1 dosador) com 5.000 mg de creatina monohidratada; traz também o antiumectante dióxido de silício. Sem glúten; o rótulo avisa que pode conter traços de leite, ovo e soja. Sem carboidrato, açúcar ou sódio.\n\nOs dois declaram a mesma dose de creatina por porção. O que muda está nas letras miúdas: o aditivo, o dosador e o aviso de alérgenos.\n\nDados dos rótulos e sites oficiais, consultados em 10/10/2026. Confira sempre o rótulo do pote que você tem em mãos, porque fórmula e apresentação podem mudar de lote para lote.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Kreider RB, Kalman DS, Antonio J, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. J Int Soc Sports Nutr. 2017;14:18.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Max Titanium.\n\n#nutricaoesportiva #creatina #suplementos #corrida #ciclismo #triathlon #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "authors": "Kreider RB, Kalman DS, Antonio J, et al",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "18",
+      "doi": "10.1186/s12970-017-0173-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Growth Supplements",
+      "kind": "packshot",
+      "title": "creatina-monohidratada-500g-pouch.jpg",
+      "creator": "Growth Supplements",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gsuplementos.com.br/creatina-monohidratada-500g-pouch",
+      "changes": "fundo composto em branco e aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Max Titanium",
+      "kind": "packshot",
+      "title": "Creatine-300g-Frente.png",
+      "creator": "Max Titanium",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maxtitanium.com.br/creatina-pote-300g/p?skuid=31",
+      "changes": "composto sobre branco e aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-10 nas páginas oficiais. Growth (gsuplementos.com.br): Informação Nutricional texto — porção 5 g (4 dosadores), 5.000 mg creatina, ingrediente único, sem glúten, sem energia/carbo/açúcar/sódio; tamanhos 100/250/500 g. Max Titanium (maxtitanium.com.br): imagem oficial da Tabela Nutricional (Creatina 300 g) — porção 5 g (1 dosador), 5.000 mg creatina, 60 porções, sem energia/carbo/açúcar/sódio; ingredientes creatina monohidratada + antiumectante dióxido de silício, sem glúten, pode conter traços de leite/ovo/soja. A página da Max tinha um destaque de marketing com '3.000 mg/dose' que contradiz a Tabela Nutricional oficial (5.000 mg/porção); usei a Tabela Nutricional.",
+  "creative_files": [
+    "content/drafts/vs_002/slide_01.png",
+    "content/drafts/vs_002/slide_02.png",
+    "content/drafts/vs_002/slide_03.png",
+    "content/drafts/vs_002/slide_04.png",
+    "content/drafts/vs_002/slide_05.png",
+    "content/drafts/vs_002/slide_06.png",
+    "content/drafts/vs_002/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18201924175332140",
+  "published_at": "2026-10-10T20:05:03.461545+00:00"
+}

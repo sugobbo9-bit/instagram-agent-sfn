@@ -382,3 +382,10 @@
 {"ts": "2026-10-09T19:44:54.271512+00:00", "level": "INFO", "msg": "PUBLICADO: vs_001 -> media_id 18130862674813920"}
 {"ts": "2026-10-09T19:44:54.287441+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-10T16:58:11.839606+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-10T20:04:18.259258+00:00", "level": "INFO", "msg": "Publicando vs_002 (carousel) \u2014 creatina monohidratada: Growth Supplements vs Max Titanium (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-10T20:04:18.262220+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-10T20:04:18.262301+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_002/slide_01.png"}
+{"ts": "2026-10-10T20:04:19.300163+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-10T20:04:50.590778+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-10T20:05:03.461351+00:00", "level": "INFO", "msg": "PUBLICADO: vs_002 -> media_id 18201924175332140"}
+{"ts": "2026-10-10T20:05:03.474638+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

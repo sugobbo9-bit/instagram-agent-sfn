@@ -720,11 +720,13 @@
       "format": "carousel",
       "topic": "creatina monohidratada: Growth Supplements vs Max Titanium (rótulo lado a lado)",
       "hook": "Creatina: Growth vs. Max Titanium. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-10T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:creatina, pair:growth-maxtitanium"
+      "notes": "marca x marca — category:creatina, pair:growth-maxtitanium",
+      "published_at": "2026-10-10T20:05:03.461545+00:00",
+      "post_id": "18201924175332140"
     }
   ]
 }

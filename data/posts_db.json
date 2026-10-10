@@ -7618,6 +7618,49 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18201924175332140",
+      "local_id": "vs_002",
+      "publication_date": "2026-10-10T20:05:03.461545+00:00",
+      "format": "carousel",
+      "topic": "creatina monohidratada: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Creatina: Growth vs. Max Titanium. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha é sua.\n\nGrowth Supplements — Creatina Monohidratada: porção de 5 g (4 dosadores) com 5.000 mg de creatina monohidratada, ingrediente único, sem glúten. Sem valor energético, carboidrato, açúcar ou sódio.\n\nMax Titanium — Creatina: porção de 5 g (1 dosador) com 5.000 mg de creatina monohidratada; traz também o antiumectante dióxido de silício. Sem glúten; o rótulo avisa que pode conter traços de leite, ovo e soja. Sem carboidrato, açúcar ou sódio.\n\nOs dois declaram a mesma dose de creatina por porção. O que muda está nas letras miúdas: o aditivo, o dosador e o aviso de alérgenos.\n\nDados dos rótulos e sites oficiais, consultados em 10/10/2026. Confira sempre o rótulo do pote que você tem em mãos, porque fórmula e apresentação podem mudar de lote para lote.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Kreider RB, Kalman DS, Antonio J, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. J Int Soc Sports Nutr. 2017;14:18.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Max Titanium.\n\n#nutricaoesportiva #creatina #suplementos #corrida #ciclismo #triathlon #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "authors": "Kreider RB, Kalman DS, Antonio J, et al",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "18",
+          "doi": "10.1186/s12970-017-0173-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_002/slide_01.png",
+        "content/drafts/vs_002/slide_02.png",
+        "content/drafts/vs_002/slide_03.png",
+        "content/drafts/vs_002/slide_04.png",
+        "content/drafts/vs_002/slide_05.png",
+        "content/drafts/vs_002/slide_06.png",
+        "content/drafts/vs_002/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:creatina",
+        "pair:growth-maxtitanium"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
