@@ -714,6 +714,17 @@
       "notes": "PILOTO marca x marca (template:versus). Publicação autorizada pelo Victor em 2026-10-09 para o slot das 17h. Status 'hold_17h' evita que o disparo do técnico do meio-dia publique este item; a rotina das 17h troca para 'approved' e publica.",
       "published_at": "2026-10-09T19:44:54.271698+00:00",
       "post_id": "18130862674813920"
+    },
+    {
+      "local_id": "vs_002",
+      "format": "carousel",
+      "topic": "creatina monohidratada: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+      "hook": "Creatina: Growth vs. Max Titanium. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-10-10T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:creatina, pair:growth-maxtitanium"
     }
   ]
 }
