@@ -142,8 +142,30 @@
         "tópico de dor real e universal no público de endurance; acionável"
       ],
       "content_family": "erros/mitos práticos de treino (cãibra, hidratação)",
-      "derivatives_created": []
+      "derivatives_created": [
+        "der_caibra_mitos (novo 2026-10-11)"
+      ]
+    },
+    {
+      "post_id": "der_carga_carbo_passo_1661",
+      "permalink_hint": "carga de carboidrato: passo a passo prático — técnico com foto (2026-10-07)",
+      "format": "carousel",
+      "reach": 1661,
+      "shares_per_reach": 0.026,
+      "saves_per_reach": 0.049,
+      "tier": "top10_recent",
+      "why_it_worked": [
+        "MAIOR alcance do era-agente (1661, ~p90 all-time 1218) e MAIOR saves/reach recente (0,049)",
+        "convergência de TODAS as alavancas: família vencedora (carga de carbo) + formato técnico COM FOTO + hook numérico contraintuitivo ('não é jantar macarrão na véspera. É 10 g/kg por 2 dias') + janela 14-15h UTC",
+        "protocolo acionável passo a passo = altíssimo valor de salvamento (durável)",
+        "VALIDA o novo formato técnico-com-foto (direção do Victor) e a consumação da fila der_* (pendência de 4 semanas resolvida)"
+      ],
+      "content_family": "carga de carboidrato / periodização de fueling",
+      "derivatives_created": [
+        "der_carga_carbo_erros",
+        "der_carga_carbo_curta (novo)"
+      ]
     }
   ],
-  "_last_review": "2026-10-04"
+  "_last_review": "2026-10-11"
 }

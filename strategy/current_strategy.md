@@ -1,73 +1,82 @@
 # Estratégia Atual — @sofatosnutricao
-_Atualizado: 2026-10-04, revisão estratégica semanal_
-_Base: 9.529 seguidores (+111 na semana) | 168 publicações com métricas reais (Graph API, coletadas 04/10)_
+_Atualizado: 2026-10-11, revisão estratégica semanal_
+_Base: 9.516 seguidores (−13 na semana — 1ª semana não-positiva) | 178 publicações com métricas reais (Graph API, coletadas 11/10)_
 
-## Mudanças de 2026-10-06 (decididas com o Victor — valem até a próxima revisão)
+## O que mudou nesta semana (a virada de processo)
 
-1. **Dois carrosséis por dia.** Técnico (`draft_*` / `der_*`, seg–sex ~12h BRT, com Ghost) + **provocativo com imagens** (`prov_*`, diário ~17h BRT, só Instagram). O estático "você sabia" está encerrado; `STATIC_PAUSED` continua ligado.
-2. **Técnico com foto:** capa com foto + kicker, 2–3 slides do miolo com foto, hook mais afiado. A rotina **consome a fila `der_*` primeiro** (prioridade → `scheduled_for`) e só cria tema novo quando a fila esvaziar.
-3. **Provocativo:** humor com fato no fim, mecânicas em rodízio, marca real só em `comparativo` (máx. 1x/semana), Z2 só em `comparativo`. Regras, fontes de imagem e métricas em **`strategy/playbook_visual.md`** — leia antes de produzir.
-4. **Horário é teste, não fato.** A evidência de "15h UTC" está confundida por lote (ver correção em `learnings.md`). Não cite 3x.
-5. **Para a revisão de domingo:** medir `prov_*` por shares/reach e por `series`; medir técnico com foto (`visual:foto`) contra os `draft_*` só-texto de setembro; não declarar vencedor antes de 10 posts de cada.
+Depois de **4 semanas** em que as duas decisões centrais (pausar estático; publicar a fila estratégica) ficavam só no documento, elas **chegaram à produção**:
+
+1. **Estático pausado DE VERDADE.** 10 carrosséis e **0 estáticos** nos últimos 7 dias. A flag `STATIC_PAUSED` no `publisher.py` está segurando — a série "você sabia" sumiu do feed.
+2. **Fila `der_*` sendo consumida.** 3 derivados publicados na semana (`der_carga_carbo_passo`, `der_sono_retest`, `der_ice_slurry`). Restam 5 em `draft` (ritmo ~3/semana).
+3. **O formato técnico-com-foto funcionou — forte.** `der_carga_carbo_passo` fez **1.661 de alcance** (maior do era-agente, perto do p90 all-time), **saves/reach 0,049** (maior recente) e 43 shares. A direção de foto do Victor está validada.
+
+## A receita vencedora desta semana (repetir)
+
+O breakout não foi sorte: foi **convergência de todas as alavancas**.
+**família vencedora + formato técnico COM FOTO + hook numérico contraintuitivo + janela 14–15h UTC.**
+Hook do post: _"Carga de carbo não é jantar macarrão na véspera. É 10 g/kg por 2 dias."_ (derruba crença + número + protocolo).
+Essa é a fórmula padrão do slot técnico daqui pra frente.
 
 ## O que os dados dizem agora
 
 ### Medianas por formato (amostra completa, normalizado)
-| formato | n | alcance mediano | p90 | p75 | p25 | shares/reach | saves/reach |
-|---|---|---|---|---|---|---|---|
-| **carrossel** | 69 | **418** | 1.218 | 828 | 196 | — | — |
-| reel | 77 | 256 | 515 | 381 | 168 | ~0 | baixo |
-| estático | 22 | 209 | 356 | 272 | 168 | baixo | baixo |
+| formato | n | alcance mediano | p90 | p75 | p25 |
+|---|---|---|---|---|---|
+| **carrossel** | 79 | **366** | 1.219 | 764 | 197 |
+| reel | 77 | 256 | 515 | 381 | 168 |
+| estático | 22 | 226 | 356 | 318 | 176 |
 
-### Janela recente (o que saiu de fato)
-- **Últimos 7 dias:** 4 carrosséis (mediana **204**) + 5 estáticos (mediana 221) + 0 Reels.
-- **Últimos 14 dias:** 8 carrosséis (mediana **241**) + 10 estáticos (mediana 199) + 0 Reels.
-- O alcance recente do carrossel está **muito abaixo do baseline** (241 vs 418) e o baseline all-time caiu (474→418). Causa dominante: quase todo carrossel recente saiu **às 11h UTC** (janela fraca) e os estáticos diários seguem no fundo.
+Baseline do carrossel caiu 418→366: os 10 posts novos incluem janelas fracas (11h) e os formatos de teste que fraquejaram (analogia `prov_*`, `vs_002`), que puxam a mediana para baixo apesar do breakout de 1.661.
 
-## Conclusões
+### Janela recente
+- **7 dias:** 10 carrosséis (mediana **262**), 0 estáticos, 0 Reels.
+- **14 dias:** 14 carrosséis (mediana 257) + 5 estáticos (cauda da série já encerrada).
+O alcance mediano segue abaixo do baseline, mas a **distribuição melhorou**: o topo subiu (1.661) e o lixo estático saiu.
 
-### 1 — Crescimento desacelerou, mas segue positivo.
-+111 na semana (9.418 → 9.529), abaixo do pico anterior (+152) mas ainda saudável, apesar do alcance recente fraco. A conta converte bem por alcance (puxada pelos poucos carrosséis de alto salvamento). follows/reach por post segue cego na Graph API — otimização de conversão não é possível no nível do post. **Não sacrificar qualidade por alcance bruto.**
+### Horário — análise por DIAS DISTINTOS (corrige o confundimento de lote)
+A regra antiga "15h UTC rende 3x" estava inflada por lotes (os 17 posts de 15h vêm de só 5 dias). Contando **dias distintos**:
 
-### 2 — A causa do alcance fraco é execução, não estratégia (4ª semana).
-Quase todo carrossel recente saiu **às 11h UTC** (mediana histórica 269) em vez de **15h UTC** (mediana 828) — a diferença é de ~3x. E a **série estática diária** continua saindo, toda no fundo. As duas maiores alavancas identificadas há 4 semanas seguiram desligadas. **A estratégia e a fila estão certas; o que falha é a aplicação na rotina diária.**
+| janela | dias distintos | alcance mediano | leitura |
+|---|---|---|---|
+| **18h UTC** | 7 | **696** | melhor janela limpa |
+| 19h UTC | 6 | 504 | boa |
+| **14h UTC** | 6 | **449** | boa (e o breakout saiu aqui) |
+| 11h UTC | 15 | 300 | fraca (amostra limpa e grande) |
+| 20h UTC | 4 | 454 | ok no geral, mas **fraca no era-agente** (109, 253) |
+| 15h UTC | 5 | 828 | **ainda confundida por lote — não usar como âncora** |
 
-### 3 — Ação executada neste ciclo: pausa do estático agora é código.
-Em vez de só reescrever o documento (4ª vez), a pausa do estático foi **enforçada no `publisher.py`** (`STATIC_PAUSED`): o publisher recusa qualquer item `static` e publica o próximo carrossel/Reel aprovado. É o único ponto por onde toda publicação passa, então vale **independentemente** do que a rotina diária aprove. Reversível. A série "você sabia" (backlog de 17 drafts `vsabia_*`) deixa de poluir o feed.
+No **era-agente** (últimos 30d, mais limpo): **14h e 18h UTC são as melhores**; 11h só salva quando o tópico é muito forte (cafeína/carga fizeram 951/979 às 11h).
 
-### 4 — O horário (15h UTC) ainda depende do Victor / rotina diária.
-O `publisher.py` ignora `scheduled_for` e publica o próximo `approved` por prioridade quando é dispachado. **Quem define o horário é (a) o cron do `publish.yml` (`0 12` UTC) e (b) os `workflow_dispatch` da rotina diária (~11h).** O cron está em `.github/workflows/` — fora do alcance do token atual (fine-grained, sem permissão de Workflows); a tentativa de mover `0 12`→`0 15` está registrada no log semanal. Os dispatches diários vêm da rotina diária (outra tarefa agendada), que este loop não controla.
+### Dia da semana (dias distintos)
+Sexta é o **pior dia, agora com 9 dias distintos** (mediana 259) — deixou de ser artefato de lote. Melhores: **segunda (654), terça (552)**. Quarta/quinta ~424.
 
-### 5 — A fila estratégica não está sendo publicada.
-Os derivados de vencedores (gel vs bebida, carga de carbo passo a passo/erros, lactato prático, ice slurry, mouth rinse) e o **reteste de sono** seguem como `draft` **sem arquivo renderizado** em `content/`. A rotina diária não os promoveu a `approved` nem os renderizou — publicou a própria série estática. Resultado: o experimento de sono não concluiu e os vencedores não geraram derivados no ar. **Lever: a rotina diária precisa consumir a fila estratégica.**
+## Formatos em teste
 
-### 6 — Vencedores reconfirmados (famílias para explorar).
-- **Carga de carboidrato/depleção (950, saves/reach 0,039)** — maior valor de salvamento; protocolo prático + myth-busting.
-- **Cafeína (979)** — família recorrente; funciona mesmo em horário ruim.
-- **Cãibra muscular (654, saves/reach 0,031)** — NOVO; corrige mito prático universal (cãibra ≠ só sal/água). Família "erros/mitos práticos de treino".
-- Padrão vencedor estável: **derrubar uma crença + entregar protocolo acionável**. Comparação de produto segue como motor de compartilhamento (gel 0,045).
+- **Técnico com foto (slot ~14h):** VALIDADO (breakout 1.661). Receita acima. Consome a fila `der_*` primeiro.
+- **Provocativo "Se X fosse Y" (`prov_*`): ENCERRADO.** Dados confirmam a decisão do Victor (09/10): 484 → 164 → 253, shares baixíssimos. A analogia não sustenta curiosidade após o 1º post.
+- **Versus "marca vs marca, só o rótulo" (`vs_*`):** cedo demais (n=2, misto). **gel diferenciado (Maurten hidrogel × GU) = 436; creatina commodity = 109, 0 shares.** Hipótese: versus só funciona quando os produtos **diferem de fato** — não comparar duas monohidratadas iguais. Manter o teste só com produtos realmente distintos.
 
-### 7 — "Fracassos" recentes são confundidos pelo horário — não condenar tópicos.
-Ferro (156) e keto/low-carb (194) saíram **às 11h UTC**. Ferro teve shares/reach 0,038 (bom sinal). Não são testes limpos: o alcance baixo é dominado pela janela ruim. **Retestar em 15h UTC antes de desistir** — ferro com hook de sintoma; low-carb com ângulo de periodização (train-low), não mito keto.
+## Vencedores reconfirmados (famílias para explorar)
+- **Carga de carboidrato (breakout 1.661, saves/reach 0,049)** — família campeã; protocolo + myth-busting + foto. Derivados: `der_carga_carbo_erros` (na fila), `der_carga_carbo_curta` (novo — "quando NÃO fazer").
+- **Cafeína** — vencedora recorrente (fez 979 até em janela ruim). Reframe com hook numérico mais afiado no slot 14h.
+- **Cãibra (654, saves/reach 0,031)** — mito prático universal; 1º derivado agora na fila (`der_caibra_mitos`).
+- Padrão estável: **derrubar uma crença + número + protocolo acionável.**
 
-### 8 — Horário e dia (reconfirmado).
-Melhor: **15h UTC (12h BRT) mediana 828** (n=17); depois 18h (762), 20h (754), 14h (627). Piores: **11h (269)**, 16h (158), 17h (212). Pior dia: **sexta (236, n=32)**; melhores segunda (668) e terça (630).
+## Experimento concluído
+**Sono (hook + timing):** variante venceu **+53% (272 vs 178)** — hook numérico e janela melhor recuperam parte do alcance (confirmado). **Mas** 272 ficou muito abaixo do teto do tópico sono (1.164): o ângulo "extensão de sono" é fraco. Priorizar o ângulo campeão (**privação de sono → composição corporal**, que fez 2.437).
 
 ## Decisões para o próximo ciclo
-
-1. **Carrossel = formato padrão** (mantido). Reel só como experimento de conteúdo intrinsecamente visual.
-2. **Estático PAUSADO — agora em código** (`publisher.py STATIC_PAUSED`). Só volta como dado/gráfico único excepcional, e apenas desligando a flag.
-3. **Publicar às 15h UTC (12h BRT).** *Depende do Victor (cron) e da rotina diária (dispatch) — ver Pendências.* Nunca 11h/16h/17h; nunca carrossel na sexta.
-4. **Rotina diária deve consumir a fila estratégica:** renderizar e aprovar os derivados de vencedores e o reteste de sono, em vez de gerar série estática. *Escalado.*
-5. **Explorar famílias vencedoras:** carga de carbo (passo a passo; erros), cafeína (dose/timing), cãibra/erros práticos, comparação de produto.
-6. **Retestar ferro e low-carb em 15h UTC** com os ângulos acima antes de arquivá-los.
-7. **Meta do ciclo:** recuperar o alcance mediano do carrossel para 500+ ligando a janela de 15h UTC e consumindo a fila; concluir o experimento de sono.
+1. **Carrossel técnico com foto = formato padrão**, com a receita do breakout (família vencedora + hook numérico + foto).
+2. **Slots:** técnico ~**14h UTC**; 2º post do dia ~**18–19h UTC** (janelas limpas mais fortes). **Abandonar a âncora "15h"** (confundida) e **evitar 11h e 20h**. **Nunca carrossel na sexta.**
+3. **Consumir a fila `der_*`** antes de criar tema novo (restam 5). Aplicar a receita de foto+número aos novos derivados (`der_caibra_mitos`, `der_carga_carbo_curta`).
+4. **Versus:** só com produtos que diferem de verdade (géis, bebidas com fórmulas distintas) — não commodities.
+5. **Sono:** se voltar ao tópico, usar o ângulo de privação/composição, não extensão.
+6. **Meta do ciclo:** recuperar a mediana de carrossel para 400+ concentrando a publicação em 14h/18h e mantendo a receita do breakout; voltar o crescimento de seguidores ao positivo.
 
 ## Pendências de dados / execução
-- **CRÍTICO (4ª semana): a rotina DIÁRIA precisa (a) dispachar carrosséis às 15h UTC (não 11h) e (b) renderizar/aprovar a fila estratégica** em vez de produzir estáticos. O estático já está barrado no publisher, mas o horário e a publicação dos vencedores dependem da rotina diária, fora do alcance deste loop.
-- **CRÍTICO: dar permissão de Workflows ao token** (ou o Victor mudar o cron à mão). O token atual (fine-grained) não edita `.github/workflows/`; mover o cron `0 12`→`0 15` UTC precisa disso. Ver resultado da tentativa no log semanal.
-- follows/reach e visitas ao perfil ainda não vêm no import da Graph API — conversão em seguidor segue cega no nível do post.
-- Demografia/`online_followers` e **texto** dos comentários: o token da Página tem escopos suficientes (`instagram_manage_insights`, `instagram_manage_comments`), mas vive só como Secret do Actions; falta **instrumentar um passo no workflow** que commite `data/audience_demographics.json` e `data/comments_recent.json`. Enquanto isso, o banco de perguntas da audiência não começa.
+- **Seguidores estagnaram (−13).** Provável platô/ruído, mas vigiar na próxima coleta. follows/reach por post segue cego na Graph API — conversão não otimizável no nível do post.
+- **Horário ainda depende da rotina DIÁRIA + cron.** O breakout saiu às 14h48 (perto da janela boa) — bom sinal de que a rotina diária está dispachando melhor. Confirmar se é consistente. O cron do `publish.yml` continua fora do alcance do token (sem escopo `workflow`); o Victor move à mão se quiser cron fixo em 14h/18h.
+- **Demografia/comentários:** o token da Página tem escopo (`instagram_manage_insights`, `instagram_manage_comments`) mas vive só como Secret do Actions. Falta **instrumentar um passo no workflow** que commite `data/audience_demographics.json` e `data/comments_recent.json`. Até lá, o banco de perguntas da audiência não começa.
 
 ## Regras imutáveis
 Integridade científica, sem engajamento falso, sem gasto sem aprovação, rastreabilidade completa: ideia → pesquisa → criativo → publicação → métricas → aprendizado.

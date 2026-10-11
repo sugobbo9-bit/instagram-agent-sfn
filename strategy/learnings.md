@@ -123,3 +123,36 @@ Publicação falhou na 1ª tentativa com "Media ID is not available" (2ª ocorr�
 ### 2026-10-09 — "Se X fosse Y" encerrado; 17h vira marca x marca
 O Victor achou as analogias exageradas depois de 3 posts (`prov_001`–`prov_003`). Novo formato do slot das 17h: **dois produtos reais lado a lado, só com dados do rótulo oficial, sem julgamento de valor** (`template: versus`). Gate reprova palavras de julgamento e produto sem fonte de rótulo datada. Piloto `vs_001` (Maurten Gel 100 x GU Energy Gel) aguardando OK.
 
+
+## Ciclo 2026-10-11
+
+### Sobre a Conta
+9.516 seguidores (**−13 na semana** — 1ª semana não-positiva após +137/+152/+111). Provável platô/ruído de contagem (follows/reach segue cego na Graph API), mas é a 1ª reversão registrada — vigiar. No MESMO período a qualidade de conteúdo subiu (maior post do era-agente). 178 posts com métricas, coletadas 11/10.
+
+### Processo — a virada depois de 4 semanas (NOVO, importante)
+As 2 decisões que ficaram 4 ciclos só no documento **chegaram à produção**:
+- **Estático pausado de verdade:** 10 carrosséis / 0 estáticos em 7 dias. A flag `STATIC_PAUSED` no `publisher.py` (enforce em código, ciclo 04/10) está segurando — confirmado em produção. Lição reconfirmada: **decisão que importa vai para o código, no chokepoint que o loop controla**, não para o prompt nem só para o documento.
+- **Fila `der_*` consumida:** 3 derivados publicados (carga_carbo_passo, sono_retest, ice_slurry). A rotina diária passou a renderizar/aprovar a fila. Restam 5 em draft (~3/semana).
+
+### Sobre Formato/Criativo (NOVO — forte)
+**Técnico com foto validado.** `der_carga_carbo_passo` = **1.661 de alcance** (maior do era-agente, ~p90 all-time 1.218), **saves/reach 0,049**, 43 shares. Não foi sorte: **convergência de todas as alavancas** — família vencedora (carga de carbo) + foto + **hook numérico contraintuitivo** ("não é jantar macarrão na véspera. É 10 g/kg por 2 dias") + janela 14-15h UTC. Essa é a **receita padrão** do slot técnico.
+
+### Sobre Horário (CORREÇÃO METODOLÓGICA — contar dias distintos)
+Refeita a análise contando **dias distintos** (a de "15h=828" estava inflada por lotes — 17 posts, só 5 dias). Janelas limpas: **18h UTC 696 (7 dias) > 19h 504 (6) > 14h 449 (6) > 11h 300 (15, fraca) > 20h 454 mas fraca no era-agente**. 15h (5 dias) **segue confundida — abandonar como âncora**. No era-agente (30d) **14h e 18h são as melhores**. **Sexta = pior dia, agora com 9 dias distintos (259)** — deixou de ser artefato de lote; segunda (654) e terça (552) melhores.
+
+### Sobre Formatos de Teste (NOVO)
+- **"Se X fosse Y" (`prov_*`) ENCERRADO e justificado pelos dados:** 484 (prov_001) → 164 (prov_002, 0 shares) → 253 (prov_003). A analogia não sustenta curiosidade/compartilhamento após o 1º post. Decisão do Victor (09/10) confirmada.
+- **Versus "só o rótulo" (`vs_*`):** n=2, misto. gel diferenciado (Maurten hidrogel × GU) = 436; **creatina commodity = 109, 0 shares**. Hipótese: versus só gera compartilhamento quando os produtos **diferem de fato** — comparar duas monohidratadas idênticas não tem gap de curiosidade. Não comparar commodities.
+
+### Experimento concluído — sono (hook+timing)
+Variante `der_sono_retest` (hook numérico, 14h45 UTC) = 272 vs controle 178 (hook mole, 11h) → **variant_won +53%**. Hook+timing importam (confirmado). **Mas** 272 ≪ teto do tópico sono (1.164): o ângulo **"extensão de sono" é fraco** perto do campeão **"privação → composição corporal"** (sono_2437 = 2.437). Lição: o ângulo importa mais que o tópico nu.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-10-11 | **Técnico com foto vira formato/receita padrão** (família vencedora + hook numérico + foto) | Breakout de 1.661 (maior do era-agente), saves/reach 0,049 | der_carga_carbo_passo (post 18088426325310705) |
+| 2026-10-11 | **Guia de horário migra de "15h=828" (confundido) para "14h e 18h UTC; nunca sexta; evitar 11h/20h"** | Reanálise por dias distintos: 18h 696/7d, 14h 449/6d, 11h 300/15d; sexta 259/9d | posts_db normalizado por dias distintos |
+| 2026-10-11 | **"Se X fosse Y" removido; versus mantido só p/ produtos que diferem** | prov_* 484→164→253 shares baixos; vs commodity 109/0 vs vs diferenciado 436 | prov_001-003, vs_001-002 |
+| 2026-10-11 | Experimento sono concluído (variant_won parcial); priorizar ângulo "privação/composição" | 272 vs 178 (+53%) mas ≪ teto 1.164 | exp_sono_hook_timing |
+| 2026-10-11 | +1 vencedor (carga_carbo 1.661) e +2 fracassos (vs_002 creatina, prov_002 analogia); +2 derivados (caibra, carga_curta) | Winner/failure/recycling systems | winner_library / failure_log / queue |
+| 2026-10-11 | Confirmado em produção: STATIC_PAUSED segurando (0 estáticos/7d) e fila der_* consumida (3 publicados) | Fim de 4 semanas de pendência de execução | posts_db 7d: 10 carrosséis / 0 estáticos |

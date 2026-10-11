@@ -111,7 +111,29 @@
       "diagnosis": "timing + saturação de ângulo",
       "detail": "Alcance 194 às 11h UTC (janela fraca). low-carb vs high-carb é tópico de interesse forte (evidência A), então o alcance baixo é parcialmente horário. Possível fadiga do ângulo 'keto não serve p/ endurance' (já batido). Retestar em 15h com ângulo prático novo (ex.: periodização train-low) em vez de mito keto.",
       "idea_verdict": "retestar em 15h com ângulo de periodização, não mito keto"
+    },
+    {
+      "post_id": "vs_002_creatina_109",
+      "topic": "creatina monohidratada: Growth vs Max Titanium (versus só-rótulo)",
+      "format": "carousel",
+      "reach": 109,
+      "tier": "bottom25",
+      "date": "2026-10-10",
+      "diagnosis": "payoff/novidade + commodity",
+      "detail": "Formato 'versus só o rótulo, sem julgamento' aplicado a DUAS creatinas monohidratadas — produtos quimicamente idênticos no rótulo. Sem gap de curiosidade nem payoff: 109 de alcance, 0 shares (sh/r 0). Comparação de produto costuma gerar compartilhamento, mas só quando os produtos DIFEREM de fato. Contraste: vs_001 (Maurten hidrogel vs GU maltodextrina — produtos que diferem) fez 436. Amostra do formato versus ainda pequena (n=2).",
+      "idea_verdict": "versus só funciona com produtos que diferem de verdade; não comparar commodities idênticas"
+    },
+    {
+      "post_id": "prov_002_proteina_banda_164",
+      "topic": "tipos de proteína (analogia 'se fosse banda')",
+      "format": "carousel",
+      "reach": 164,
+      "tier": "bottom25",
+      "date": "2026-10-07",
+      "diagnosis": "formato (analogia)",
+      "detail": "2o post do formato provocativo 'Se X fosse Y': 164 de alcance, 0 shares. A série caiu 484 (prov_001) -> 164 (prov_002) -> 253 (prov_003), shares baixíssimos. Victor encerrou o formato em 09/10 por achar as analogias exageradas — os dados confirmam: a analogia não sustenta curiosidade nem compartilhamento após a novidade do 1o post.",
+      "idea_verdict": "formato encerrado; não ressuscitar analogias 'se X fosse Y'"
     }
   ],
-  "_last_review": "2026-10-04"
+  "_last_review": "2026-10-11"
 }

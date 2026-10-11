@@ -18,7 +18,7 @@
     },
     "static": {
       "sample_size": 22,
-      "median_reach": 226.0,
+      "median_reach": 226,
       "median_shares_per_reach": 0.0075,
       "median_saves_per_reach": 0.0129,
       "median_comments_per_reach": 0.0
@@ -133,6 +133,57 @@
         "+1 vencedor (cãibra) e +2 fracassos (ferro, keto, ambos com diagnóstico de confondimento de horário).",
         "ESCALADO ao Victor: a rotina DIÁRIA precisa (a) dispachar às 15h UTC e (b) aprovar/renderizar a fila estratégica de carrosséis em vez de gerar série estática."
       ]
+    },
+    {
+      "week_ending": "2026-10-11",
+      "followers_count": 9516,
+      "followers_delta_week": -13,
+      "posts_last_7d": {
+        "carousel": 10,
+        "static": 0,
+        "reel": 0
+      },
+      "medians_last_7d": {
+        "carousel_reach": 262.5,
+        "static_reach": null
+      },
+      "posts_last_14d": {
+        "carousel": 14,
+        "static": 5,
+        "reel": 0
+      },
+      "medians_last_14d": {
+        "carousel_reach": 257.5,
+        "static_reach": 283
+      },
+      "baseline_full": {
+        "carousel_reach": 366,
+        "reel_reach": 256,
+        "static_reach": 226
+      },
+      "percentiles_carousel": {
+        "p90": 1218.6,
+        "p75": 763.5,
+        "median": 366,
+        "p25": 197
+      },
+      "key_findings": [
+        "VIRADA DE PROCESSO: 10 carrosséis / 0 estáticos nos últimos 7 dias. A pausa do estático (STATIC_PAUSED no publisher.py) ESTÁ valendo em produção — fim de 4 semanas de série estática no fundo do feed.",
+        "FILA ESTRATÉGICA SENDO CONSUMIDA: 3 der_* publicados na semana (carga_carbo_passo, sono_retest, ice_slurry) — pendência de 4 semanas finalmente destravada. Restam 5 der_* em draft (consumo ~3/semana).",
+        "BREAKOUT: der_carga_carbo_passo = 1661 de alcance (maior do era-agente, ~p90 all-time), saves/reach 0,049 (maior recente), 43 shares. Convergência: família vencedora + formato TÉCNICO COM FOTO + hook numérico + janela 14-15h UTC. Valida a direção de foto do Victor.",
+        "Seguidores ESTAGNARAM: 9516 (-13 na semana), 1a semana não-positiva após +137/+152/+111. Provável platô/ruído de contagem (follows/reach segue cego), mas vigiar. Qualidade de conteúdo SUBIU no mesmo período.",
+        "Baseline de carrossel caiu 418->366 (n=79): os 10 novos posts incluem janelas fracas (11h: 185, 390) e os formatos de teste que fraquejaram (prov_* analogia, vs_002 creatina), puxando a mediana — apesar do breakout.",
+        "Timing (análise por DIAS DISTINTOS, corrigindo confondimento de lote): janelas limpas boas = 14h (449, 6 dias), 18h (696, 7 dias), 19h (504, 6 dias); fracas = 11h (300, 15 dias), 20h (454 mas cauda fraca no era-agente). Era-agente: 14h e 18h são as melhores. Sexta confirmada PIOR dia (259, 9 dias distintos).",
+        "Experimento sono CONCLUÍDO: variante venceu (+53%: 272 vs 178) — hook+timing importam — mas ficou muito abaixo do teto do tópico (1164): o ângulo 'extensão' é fraco; priorizar 'privação/composição corporal'.",
+        "'Se X fosse Y' (prov_*) encerrado e justificado pelos dados (484->164->253, shares baixíssimos). Versus só-rótulo (vs_*): n=2 misto — gel diferenciado 436 vs creatina commodity 109/0 shares."
+      ],
+      "key_decisions": [
+        "Novo vencedor registrado (der_carga_carbo_passo 1661) + formato técnico-com-foto validado como receita padrão.",
+        "2 fracassos registrados (vs_002 creatina, prov_002 analogia) com diagnóstico.",
+        "2 derivados novos enfileirados (der_caibra_mitos, der_carga_carbo_curta) aplicando a receita do breakout.",
+        "Experimento de sono concluído (variant_won parcial).",
+        "Estratégia reescrita: guia de horário migra do confundido '15h=828' para o limpo '14h e 18h UTC; nunca sexta; 11h/20h fracos'. Regra 'se X fosse Y' removida; versus mantido só para produtos que DIFEREM de fato."
+      ]
     }
   ],
   "account": {
@@ -140,6 +191,6 @@
     "username": "sofatosnutricao",
     "followers_count": 9516,
     "media_count": 158,
-    "bootstrapped_at": "2026-10-11T12:21:52.594293+00:00"
+    "bootstrapped_at": "2026-10-11T12:21:52+00:00"
   }
 }
