@@ -1,0 +1,238 @@
+{
+  "local_id": "vs_003",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-10-11T00:00:00Z",
+  "topic": "bebida de carboidrato em pó: Maurten Drink Mix 320 vs GU Roctane Energy Drink Mix (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Maurten Drink Mix 320 vs. GU Roctane. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:bebida-carbo-po",
+    "pair:maurten-gu"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Maurten Drink Mix 320",
+      "brand": "Maurten",
+      "image": "content/drafts/vs_003/img/maurten_dm320.png",
+      "label_source": {
+        "url": "https://www.maurten.com/products/drink-mix-320-box-us",
+        "consulted": "2026-10-11",
+        "notes": "Nutrition Facts (versão EUA): 1 sachê 83 g dissolvido em 500 ml; 320 kcal, 80 g de carboidrato, 245 mg de sódio, 0 g de proteína. Ingredientes do rótulo: maltodextrina, frutose, alginato de sódio, pectina, sal, bicarbonato de sódio. Sem cafeína (há a versão Caf 100 à parte, com 100 mg)."
+      }
+    },
+    {
+      "name": "GU Roctane Energy Drink Mix",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_003/img/gu_roctane_dm.png",
+      "label_source": {
+        "url": "https://guenergy.com/products/roctane-energy-drink-mix",
+        "consulted": "2026-10-11",
+        "notes": "Supplement Facts do sabor Lemon Berry (versão EUA): 2 scoops 65 g; 250 kcal, 59 g de carboidrato, 320 mg de sódio, blend de aminoácidos 1900 mg (taurina, leucina, valina, beta-alanina, isoleucina), 35 mg de cafeína. Maltodextrina + frutose. Cafeína varia por sabor (Uva e Morango-Hibisco sem cafeína)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois pós de carbo.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_003/img/maurten_dm320.png",
+          "mode": "multiply",
+          "label": "Maurten Drink Mix 320"
+        },
+        {
+          "image": "content/drafts/vs_003/img/gu_roctane_dm.png",
+          "mode": "multiply",
+          "label": "GU Roctane"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da porção",
+      "values": [
+        {
+          "value": "1 sachê — 83 g",
+          "note": "para 500 ml de água"
+        },
+        {
+          "value": "2 scoops — 65 g"
+        }
+      ],
+      "footnote": "Por porção, os rótulos declaram 320 kcal (Maurten) e 250 kcal (GU Roctane)."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção",
+      "values": [
+        {
+          "value": "80 g"
+        },
+        {
+          "value": "59 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Maltodextrina + frutose",
+          "note": "em matriz de hidrogel (alginato + pectina)"
+        },
+        {
+          "value": "Maltodextrina + frutose",
+          "note": "proporção não informada"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção",
+      "values": [
+        {
+          "value": "245 mg"
+        },
+        {
+          "value": "320 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "há a versão Caf 100 à parte, com 100 mg"
+        },
+        {
+          "value": "35 mg",
+          "note": "sabor Lemon Berry; varia com o sabor (0 mg em Uva e Morango-Hibisco)"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Alginato e pectina",
+          "note": "formam o hidrogel; + sal e bicarbonato"
+        },
+        {
+          "value": "1900 mg de aminoácidos",
+          "note": "taurina, leucina, valina, beta-alanina e isoleucina"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "As recomendações de carboidrato vão de cerca de 30 a 60 g por hora e sobem para perto de 90 g por hora nas provas mais longas — sempre misturando fontes de transportadores diferentes, como maltodextrina e frutose. Um sachê de Maurten traz 80 g de carbo; uma porção de GU Roctane, 59 g.\n\nO sódio de uma porção, 245 mg de um lado e 320 mg do outro, é pouco perto do que sai no suor — de 230 a 2.000 mg por litro, conforme a pessoa e o calor. Um dos rótulos ainda lista aminoácidos e cafeína; o outro, não.",
+      "source": "Rótulos e sites oficiais Maurten e GU Energy (versões internacionais), consultados em 11/10/2026.\nThomas DT, Erdman KA, Burke LM. J Acad Nutr Diet. 2016;116(3):501-528. Baker LB. Sports Med. 2017;47(S1):111-128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nMaurten Drink Mix 320: 1 sachê de 83 g dissolvido em 500 ml, 80 g de carboidrato (maltodextrina e frutose, em hidrogel), 245 mg de sódio, 320 kcal, sem cafeína e sem aminoácidos no rótulo.\n\nGU Roctane Energy Drink Mix: 2 scoops de 65 g, 59 g de carboidrato (maltodextrina e frutose), 320 mg de sódio, 250 kcal, 1900 mg de um blend de aminoácidos e 35 mg de cafeína no sabor Lemon Berry (há sabores sem cafeína).\n\nDados dos rótulos e sites oficiais, consultados em 11/10/2026. São as versões internacionais; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. J Acad Nutr Diet. 2016;116(3):501–528.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes: a review. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Maurten e da GU Energy Labs.\n\n#nutricaoesportiva #carboidrato #hidratacao #corrida #ciclismo #triathlon #maratona #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "year": 2016,
+      "volume": "116",
+      "issue": "3",
+      "pages": "501-528",
+      "doi": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "level": "A"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Maurten Drink Mix 320",
+      "kind": "packshot",
+      "title": "Entry-Card-Maurten-Drink-Mix-320-1.png",
+      "creator": "Maurten AB",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maurten.com/products/drink-mix-320-box-us",
+      "changes": "fundo branco aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "GU Roctane Energy Drink Mix",
+      "kind": "packshot",
+      "title": "GU_Roctane_DrinkMix_Single_-_Lemon_Berry.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://guenergy.com/products/roctane-energy-drink-mix",
+      "changes": "fundo branco aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-11 nas páginas oficiais (versões internacionais). Maurten Drink Mix 320: Nutrition Facts US lida da imagem oficial (sachê 83 g, 320 kcal, 80 g carbo, 245 mg Na, 0 g proteína; ingredientes maltodextrina, frutose, alginato de sódio, pectina, sal, bicarbonato). GU Roctane Energy Drink Mix: Supplement Facts US (Lemon Berry) lida da imagem oficial (2 scoops 65 g, 250 kcal, 59 g carbo, 320 mg Na, blend de aminoácidos 1900 mg, 35 mg cafeína; maltodextrina e frutose; sabores Uva e Morango-Hibisco sem cafeína).",
+  "creative_files": [
+    "content/drafts/vs_003/slide_01.png",
+    "content/drafts/vs_003/slide_02.png",
+    "content/drafts/vs_003/slide_03.png",
+    "content/drafts/vs_003/slide_04.png",
+    "content/drafts/vs_003/slide_05.png",
+    "content/drafts/vs_003/slide_06.png",
+    "content/drafts/vs_003/slide_07.png",
+    "content/drafts/vs_003/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}

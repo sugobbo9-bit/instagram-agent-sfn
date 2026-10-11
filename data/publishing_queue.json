@@ -749,6 +749,17 @@
       "scheduled_for": "2026-10-15T14:30:00Z",
       "priority": 2,
       "notes": "Derivado contrarian do breakout der_carga_carbo_passo (1661, saves/reach 0,049). Reaproveita a família campeã com ângulo novo (quando NÃO fazer). Técnico com foto + hook numérico. Fonte: duração/intensidade x depleção de glicogênio."
+    },
+    {
+      "local_id": "vs_003",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: Maurten Drink Mix 320 vs GU Roctane Energy Drink Mix (rótulo lado a lado)",
+      "hook": "Maurten Drink Mix 320 vs. GU Roctane. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-10-11T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:bebida-carbo-po, pair:maurten-gu"
     }
   ]
 }
