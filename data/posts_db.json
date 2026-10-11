@@ -7811,6 +7811,63 @@
       "performance_tier": null,
       "derivatives_created": [],
       "permalink": "https://www.instagram.com/p/DeU5n4oDF4l/"
+    },
+    {
+      "post_id": "18083769836646144",
+      "local_id": "vs_003",
+      "publication_date": "2026-10-11T20:00:20.165114+00:00",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: Maurten Drink Mix 320 vs GU Roctane Energy Drink Mix (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Maurten Drink Mix 320 vs. GU Roctane. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nMaurten Drink Mix 320: 1 sachê de 83 g dissolvido em 500 ml, 80 g de carboidrato (maltodextrina e frutose, em hidrogel), 245 mg de sódio, 320 kcal, sem cafeína e sem aminoácidos no rótulo.\n\nGU Roctane Energy Drink Mix: 2 scoops de 65 g, 59 g de carboidrato (maltodextrina e frutose), 320 mg de sódio, 250 kcal, 1900 mg de um blend de aminoácidos e 35 mg de cafeína no sabor Lemon Berry (há sabores sem cafeína).\n\nDados dos rótulos e sites oficiais, consultados em 11/10/2026. São as versões internacionais; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. J Acad Nutr Diet. 2016;116(3):501–528.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes: a review. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Maurten e da GU Energy Labs.\n\n#nutricaoesportiva #carboidrato #hidratacao #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Journal of the Academy of Nutrition and Dietetics",
+          "year": 2016,
+          "volume": "116",
+          "issue": "3",
+          "pages": "501-528",
+          "doi": "10.1016/j.jand.2015.12.006",
+          "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+          "level": "A"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_003/slide_01.png",
+        "content/drafts/vs_003/slide_02.png",
+        "content/drafts/vs_003/slide_03.png",
+        "content/drafts/vs_003/slide_04.png",
+        "content/drafts/vs_003/slide_05.png",
+        "content/drafts/vs_003/slide_06.png",
+        "content/drafts/vs_003/slide_07.png",
+        "content/drafts/vs_003/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:bebida-carbo-po",
+        "pair:maurten-gu"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

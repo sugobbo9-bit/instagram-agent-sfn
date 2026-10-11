@@ -390,3 +390,10 @@
 {"ts": "2026-10-10T20:05:03.461351+00:00", "level": "INFO", "msg": "PUBLICADO: vs_002 -> media_id 18201924175332140"}
 {"ts": "2026-10-10T20:05:03.474638+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-11T17:19:03.359494+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-11T19:59:30.334907+00:00", "level": "INFO", "msg": "Publicando vs_003 (carousel) \u2014 bebida de carboidrato em p\u00f3: Maurten Drink Mix 320 vs GU Roctane Energy Drink Mix (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-11T19:59:30.338238+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-11T19:59:30.338315+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_003/slide_01.png"}
+{"ts": "2026-10-11T19:59:31.637806+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-11T20:00:11.046803+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-11T20:00:20.164946+00:00", "level": "INFO", "msg": "PUBLICADO: vs_003 -> media_id 18083769836646144"}
+{"ts": "2026-10-11T20:00:20.178388+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
