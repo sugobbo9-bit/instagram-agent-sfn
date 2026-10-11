@@ -389,3 +389,4 @@
 {"ts": "2026-10-10T20:04:50.590778+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-10T20:05:03.461351+00:00", "level": "INFO", "msg": "PUBLICADO: vs_002 -> media_id 18201924175332140"}
 {"ts": "2026-10-10T20:05:03.474638+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-11T17:19:03.359494+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
