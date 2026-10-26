@@ -768,11 +768,13 @@
       "format": "carousel",
       "topic": "whey protein concentrado: Probiótica 100% Pure Whey vs New Millen Whey 100% (rótulo lado a lado)",
       "hook": "Whey concentrado: Probiótica vs. New Millen. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-26T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:whey-concentrado, pair:probiotica-newmillen"
+      "notes": "marca x marca — category:whey-concentrado, pair:probiotica-newmillen",
+      "published_at": "2026-10-26T13:16:29.193977+00:00",
+      "post_id": "18119737049066086"
     }
   ]
 }

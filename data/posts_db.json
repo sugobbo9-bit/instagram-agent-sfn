@@ -7868,6 +7868,61 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18119737049066086",
+      "local_id": "vs_004",
+      "publication_date": "2026-10-26T13:16:29.193977+00:00",
+      "format": "carousel",
+      "topic": "whey protein concentrado: Probiótica 100% Pure Whey vs New Millen Whey 100% (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Whey concentrado: Probiótica vs. New Millen. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu objetivo, do seu paladar e do seu bolso.\n\nProbiótica 100% Pure Whey (concentrado): porção de 30 g (2 dosadores), 124 kcal, 20 g de proteína, 6,3 g de carboidrato (5,3 g de açúcares), 2,1 g de gordura e 101 mg de sódio. Sabor baunilha.\n\nNew Millen Whey 100% (concentrado): porção de 30 g (2 dosadores), 122 kcal, 21 g de proteína, 6 g de carboidrato (6 g de açúcares), 1,5 g de gordura e 134 mg de sódio. Sabor baunilha.\n\nOs dois são whey concentrado (WPC). Os valores vêm da informação nutricional de cada site oficial; a frente da embalagem da Probiótica destaca 21 g de proteína, enquanto a tabela do sabor baunilha traz 20 g. Os números variam com o sabor, então confira o rótulo do produto que você tem em mãos.\n\nDados consultados em 26/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Moore DR. Maximizing post-exercise anabolism: the case for relative protein intakes. Front Nutr. 2019;6:147.\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: Nutrition and Athletic Performance. Med Sci Sports Exerc. 2016;48(3):543–568.\n\nImagens: fotos de produto dos sites oficiais da Probiótica e da New Millen.\n\n#nutricaoesportiva #whey #wheyprotein #proteina #endurance #recuperacao #corrida",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "Maximizing Post-exercise Anabolism: The Case for Relative Protein Intakes",
+          "authors": "Moore DR",
+          "journal": "Frontiers in Nutrition",
+          "year": 2019,
+          "volume": "6",
+          "pages": "147",
+          "doi": "10.3389/fnut.2019.00147",
+          "url": "https://doi.org/10.3389/fnut.2019.00147",
+          "level": "B"
+        },
+        {
+          "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2016,
+          "volume": "48",
+          "issue": "3",
+          "pages": "543-568",
+          "doi": "10.1249/MSS.0000000000000852",
+          "url": "https://doi.org/10.1249/MSS.0000000000000852",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_004/slide_01.png",
+        "content/drafts/vs_004/slide_02.png",
+        "content/drafts/vs_004/slide_03.png",
+        "content/drafts/vs_004/slide_04.png",
+        "content/drafts/vs_004/slide_05.png",
+        "content/drafts/vs_004/slide_06.png",
+        "content/drafts/vs_004/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:whey-concentrado",
+        "pair:probiotica-newmillen"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

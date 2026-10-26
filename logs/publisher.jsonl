@@ -411,3 +411,10 @@
 {"ts": "2026-10-23T16:27:46.972505+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-10-24T15:23:02.490496+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-10-25T15:33:08.387539+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-26T13:15:37.070157+00:00", "level": "INFO", "msg": "Publicando vs_004 (carousel) \u2014 whey protein concentrado: Probi\u00f3tica 100% Pure Whey vs New Millen Whey 100% (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-26T13:15:37.073232+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-26T13:15:37.073308+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_004/slide_01.png"}
+{"ts": "2026-10-26T13:15:38.988864+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-26T13:16:15.944010+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-26T13:16:29.193658+00:00", "level": "INFO", "msg": "PUBLICADO: vs_004 -> media_id 18119737049066086"}
+{"ts": "2026-10-26T13:16:29.207587+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
