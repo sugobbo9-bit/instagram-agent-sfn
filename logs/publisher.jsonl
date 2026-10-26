@@ -425,3 +425,4 @@
 {"ts": "2026-10-26T14:55:38.490790+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-26T14:55:51.843716+00:00", "level": "INFO", "msg": "PUBLICADO: der_caibra_mitos -> media_id 18114895643150546"}
 {"ts": "2026-10-26T14:55:51.860508+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-26T18:13:52.730857+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
