@@ -1,0 +1,144 @@
+{
+  "local_id": "der_caibra_mitos",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-10-26T00:00:00Z",
+  "topic": "cãibra muscular: por que não é só sal e água",
+  "content_pillar": "cramps",
+  "hook": "Cãibra não é falta de sal nem de água. É o nervo disparando sozinho.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:caibra",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:erros-mitos-praticos"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O MITO",
+      "headline": "Cãibra não é falta de sal.",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/der_caibra_mitos/cover/cand_04.jpg",
+        "focus": "center 38%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Sal e água não explicam",
+      "body": "A crença: cãibra é desidratação e perda de sal — por isso o conselho é beber isotônico e tomar sal.\n\nMas quatro estudos que acompanharam atletas de endurance não acharam diferença de hidratação ou de sódio no sangue entre quem teve cãibra e quem não teve.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE ACONTECE",
+      "headline": "O músculo cansa e o freio falha",
+      "body": "Com a fadiga, o controle do músculo se desregula: os sensores que mandam contrair (fusos musculares) ficam hiperativos e o reflexo que manda relaxar (órgão tendinoso de Golgi) é inibido.\n\nO neurônio motor passa a disparar repetido e o músculo trava numa contração involuntária. É problema de nervo, não de garrafa.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O que a ciência mostra",
+      "body": "Revisão no Br J Sports Med (Schwellnus, 2009): o controle neuromuscular alterado é a explicação mais sustentada; desidratação e eletrólitos têm suporte fraco.\n\nNum ensaio, suco de picles (vinagre) cortou a cãibra em ~85 s vs ~134 s com água — rápido demais pra ser reposição de eletrólito. O ácido agiu por reflexo na boca, acalmando o nervo.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que corta a cãibra na hora",
+      "body": "Alongue o músculo, devagar e sustentado: esticar ativa o reflexo que manda relaxar — é a medida que mais funciona na hora.\n\nReduza o ritmo: a fadiga é o gatilho.\n\nA longo prazo: treine na intensidade da prova e respeite a recuperação. Sal e líquido só ajudam se você estiver de fato desidratado — não são a causa.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "A cãibra é do nervo, não da garrafa.",
+      "body": "Salva e manda pro parceiro que enche de sal esperando parar de travar.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "2012 IMT Des Moines Marathon",
+      "creator": "Phil Roeder",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/88876166@N00/8113284229"
+    }
+  ],
+  "caption": "Toda cãibra vira culpa do sal ou da água. Mas o que a evidência mostra é diferente: em atletas de endurance, quatro estudos de acompanhamento não acharam diferença de hidratação ou de sódio no sangue entre quem teve cãibra e quem não teve.\n\nA explicação mais sustentada é o controle neuromuscular alterado: quando o músculo fadiga, os sensores que mandam contrair ficam hiperativos e o reflexo que manda relaxar é inibido. O neurônio motor dispara descontrolado e o músculo trava. É um problema de nervo, não de garrafa.\n\nPor isso o que mais funciona na hora é alongar o músculo devagar e sustentado (reativa o reflexo inibitório) e baixar o ritmo. Num ensaio, o suco de picles (vinagre) encurtou a cãibra para ~85 s contra ~134 s com água — rápido demais para ser reposição de eletrólito; o ácido agiu por reflexo na boca. Sal e líquido só entram se você estiver de fato desidratado — não são a causa da cãibra.\n\nFontes: Schwellnus MP. Br J Sports Med. 2009;43(6):401-8. | Miller KC et al. Med Sci Sports Exerc. 2010;42(5):953-61.\n\nFoto: Phil Roeder (CC BY 2.0).",
+  "cta": "Salva e manda pra quem culpa o sal toda vez que a panturrilha trava.",
+  "scientific_sources": [
+    {
+      "title": "Cause of exercise associated muscle cramps (EAMC) - altered neuromuscular control, dehydration or electrolyte depletion?",
+      "authors": "Schwellnus MP",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2009,
+      "volume": "43",
+      "issue": "6",
+      "pages": "401-408",
+      "doi": "10.1136/bjsm.2008.050401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18981039/",
+      "level": "A"
+    },
+    {
+      "title": "Reflex inhibition of electrically induced muscle cramps in hypohydrated humans",
+      "authors": "Miller KC, Mack GW, Knight KL, Hopkins JT, Draper DO, Fields PJ, Hunter I",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2010,
+      "volume": "42",
+      "issue": "5",
+      "pages": "953-961",
+      "doi": "10.1249/MSS.0b013e3181c0647e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19997012/",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Cãibra no exercício: por que não é (só) falta de sal e água",
+    "slug": "caibra-exercicio-nao-e-falta-de-sal-o-que-a-ciencia-mostra",
+    "excerpt": "A cãibra do exercício é quase sempre atribuída à desidratação e à perda de sal. A evidência aponta para outra causa — o controle neuromuscular alterado — e muda o que realmente funciona para aliviar e prevenir.",
+    "meta_title": "Cãibra no exercício: a causa neuromuscular e o que fazer",
+    "tags": [
+      "Cãibra",
+      "Hidratação",
+      "Eletrólitos",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Deu cãibra na prova, e a explicação vem automática: \"faltou sal\", \"faltou água\". O conselho que segue é sempre o mesmo — mais isotônico, mais sal, mais eletrólito. O problema é que a <strong>evidência não sustenta</strong> essa história como causa principal da cãibra do exercício (a chamada cãibra associada ao exercício, ou EAMC).</p>\n\n<h2>O que os estudos de acompanhamento mostraram</h2>\n\n<p>A revisão de Schwellnus no <em>British Journal of Sports Medicine</em> (2009) reuniu o que havia sobre as causas da EAMC. A ideia de desidratação e depleção de eletrólitos se apoia, sobretudo, em observação clínica, relatos de poucos casos e um pequeno estudo caso-controle. Em contrapartida, <strong>quatro estudos prospectivos</strong> que acompanharam atletas de endurance <strong>não encontraram diferença</strong> de estado de hidratação ou de concentração de sódio no sangue entre quem teve cãibra e quem não teve.</p>\n\n<p>Ou seja: se perder água e sal fosse a causa, os que cãibram deveriam estar mais desidratados e com o sódio mais baixo — e não é o que os dados mostram.</p>\n\n<h2>A explicação mais sustentada: controle neuromuscular alterado</h2>\n\n<p>A hipótese com melhor respaldo é a do <strong>controle neuromuscular alterado</strong>. Quando o músculo fadiga — por intensidade acima do habitual, prova mais dura que o treino, ritmo forte no fim —, o equilíbrio entre os sinais que mandam o músculo contrair e relaxar se desregula.</p>\n\n<p>De um lado, os <strong>fusos musculares</strong> (sensores que estimulam a contração) ficam hiperativos. De outro, o reflexo do <strong>órgão tendinoso de Golgi</strong> (que normalmente manda o músculo relaxar quando a tensão sobe) é inibido. O resultado é um neurônio motor disparando de forma repetida e descontrolada, e o músculo travando numa contração involuntária e dolorosa. É um evento do <strong>sistema nervoso</strong>, não um simples déficit de líquido na garrafa.</p>\n\n<h2>O experimento do suco de picles</h2>\n\n<p>Um estudo de Miller e colegas (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2010) ajudou a entender o mecanismo. Em voluntários levemente desidratados, cãibras induzidas eletricamente foram aliviadas em cerca de <strong>85 segundos</strong> após ingerir uma pequena dose de suco de picles (rico em vinagre), contra cerca de <strong>134 segundos</strong> com água e ~153 segundos sem nada.</p>\n\n<p>O detalhe decisivo: <strong>85 segundos é rápido demais</strong> para que os eletrólitos do líquido fossem absorvidos e chegassem ao músculo — as concentrações de sódio, potássio, magnésio e cálcio no sangue quase não mudaram nesse intervalo. A interpretação dos autores é que o ácido disparou um <strong>reflexo na boca e na garganta</strong> que reduziu o disparo do neurônio motor. Mais uma peça a favor da origem neural, e contra a ideia de \"repor o que faltou\".</p>\n\n<h2>O que realmente funciona</h2>\n\n<table>\n<thead><tr><th>Situação</th><th>O que fazer</th></tr></thead>\n<tbody>\n<tr><td>Na hora da cãibra</td><td>Alongar o músculo de forma lenta e sustentada — estica e ativa o reflexo que manda relaxar. É a medida mais eficaz imediatamente.</td></tr>\n<tr><td>Durante o esforço</td><td>Reduzir o ritmo/intensidade: a fadiga é o gatilho.</td></tr>\n<tr><td>Prevenção a longo prazo</td><td>Treinar na intensidade e duração da prova, progredir a carga e respeitar a recuperação, para a musculatura não fadigar antes da hora.</td></tr>\n<tr><td>Sal e líquidos</td><td>Importam para hidratação e desempenho em geral, mas só aliviam cãibra se houver desidratação real — não são a causa do fenômeno.</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>A cãibra do exercício é, na melhor evidência disponível, um problema de <strong>controle neuromuscular</strong> ligado à fadiga, não um sinal direto de que faltou sal ou água. Por isso o alongamento sustentado e o controle do ritmo funcionam na hora, enquanto o condicionamento específico previne a médio prazo. Hidratar-se e repor sódio continuam fazendo sentido pelo desempenho — só não são o remédio da cãibra.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Schwellnus MP. Cause of exercise associated muscle cramps (EAMC) — altered neuromuscular control, dehydration or electrolyte depletion? <em>Br J Sports Med</em>. 2009;43(6):401–408. doi:10.1136/bjsm.2008.050401</li>\n<li>Miller KC, Mack GW, Knight KL, et al. Reflex inhibition of electrically induced muscle cramps in hypohydrated humans. <em>Med Sci Sports Exerc</em>. 2010;42(5):953–961. doi:10.1249/MSS.0b013e3181c0647e</li>\n</ol>\n",
+    "cover": "content/drafts/der_caibra_mitos/cover.png",
+    "cover_alt": "Cãibra no exercício: por que não é só falta de sal e água — Somente os Fatos Nutrição"
+  },
+  "face_check": {
+    "checked": 1,
+    "unverified": [],
+    "with_faces": []
+  },
+  "creative_files": [
+    "content/drafts/der_caibra_mitos/slide_01.png",
+    "content/drafts/der_caibra_mitos/slide_02.png",
+    "content/drafts/der_caibra_mitos/slide_03.png",
+    "content/drafts/der_caibra_mitos/slide_04.png",
+    "content/drafts/der_caibra_mitos/slide_05.png",
+    "content/drafts/der_caibra_mitos/slide_06.png"
+  ],
+  "post_id": "18114895643150546",
+  "published_at": "2026-10-26T14:55:51.843931+00:00"
+}

@@ -7923,6 +7923,64 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18114895643150546",
+      "local_id": "der_caibra_mitos",
+      "publication_date": "2026-10-26T14:55:51.843931+00:00",
+      "format": "carousel",
+      "topic": "cãibra muscular: por que não é só sal e água",
+      "content_pillar": "cramps",
+      "hook": "Cãibra não é falta de sal nem de água. É o nervo disparando sozinho.",
+      "caption": "Toda cãibra vira culpa do sal ou da água. Mas o que a evidência mostra é diferente: em atletas de endurance, quatro estudos de acompanhamento não acharam diferença de hidratação ou de sódio no sangue entre quem teve cãibra e quem não teve.\n\nA explicação mais sustentada é o controle neuromuscular alterado: quando o músculo fadiga, os sensores que mandam contrair ficam hiperativos e o reflexo que manda relaxar é inibido. O neurônio motor dispara descontrolado e o músculo trava. É um problema de nervo, não de garrafa.\n\nPor isso o que mais funciona na hora é alongar o músculo devagar e sustentado (reativa o reflexo inibitório) e baixar o ritmo. Num ensaio, o suco de picles (vinagre) encurtou a cãibra para ~85 s contra ~134 s com água — rápido demais para ser reposição de eletrólito; o ácido agiu por reflexo na boca. Sal e líquido só entram se você estiver de fato desidratado — não são a causa da cãibra.\n\nFontes: Schwellnus MP. Br J Sports Med. 2009;43(6):401-8. | Miller KC et al. Med Sci Sports Exerc. 2010;42(5):953-61.\n\nFoto: Phil Roeder (CC BY 2.0).",
+      "cta": "Salva e manda pra quem culpa o sal toda vez que a panturrilha trava.",
+      "scientific_sources": [
+        {
+          "title": "Cause of exercise associated muscle cramps (EAMC) - altered neuromuscular control, dehydration or electrolyte depletion?",
+          "authors": "Schwellnus MP",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2009,
+          "volume": "43",
+          "issue": "6",
+          "pages": "401-408",
+          "doi": "10.1136/bjsm.2008.050401",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18981039/",
+          "level": "A"
+        },
+        {
+          "title": "Reflex inhibition of electrically induced muscle cramps in hypohydrated humans",
+          "authors": "Miller KC, Mack GW, Knight KL, Hopkins JT, Draper DO, Fields PJ, Hunter I",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2010,
+          "volume": "42",
+          "issue": "5",
+          "pages": "953-961",
+          "doi": "10.1249/MSS.0b013e3181c0647e",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19997012/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_caibra_mitos/slide_01.png",
+        "content/drafts/der_caibra_mitos/slide_02.png",
+        "content/drafts/der_caibra_mitos/slide_03.png",
+        "content/drafts/der_caibra_mitos/slide_04.png",
+        "content/drafts/der_caibra_mitos/slide_05.png",
+        "content/drafts/der_caibra_mitos/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:caibra",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:erros-mitos-praticos"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6adf69f93eb4e3000106e355",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/caibra-exercicio-nao-e-falta-de-sal-o-que-a-ciencia-mostra/"
     }
   ]
 }

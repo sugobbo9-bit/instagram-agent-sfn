@@ -733,11 +733,16 @@
       "format": "carousel",
       "topic": "cãibra muscular: por que não é só sal e água",
       "hook": "Cãibra não é falta de sal nem de água. É o nervo disparando sozinho.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-26T00:00:00Z",
       "scheduled_for": "2026-10-13T14:30:00Z",
       "priority": 1,
-      "notes": "Derivado do vencedor cãibra (654, saves/reach 0,031) — família 'erros/mitos práticos', sem derivado até agora. Formato TÉCNICO COM FOTO + hook numérico/contraintuitivo (receita do breakout carga_carbo 1661). Fonte: origem neuromuscular da cãibra (teoria do controle neuromuscular alterado, revisões recentes). Janela 14-15h UTC."
+      "notes": "Derivado do vencedor cãibra (654, saves/reach 0,031) — família 'erros/mitos práticos', sem derivado até agora. Formato TÉCNICO COM FOTO + hook numérico/contraintuitivo (receita do breakout carga_carbo 1661). Fonte: origem neuromuscular da cãibra (teoria do controle neuromuscular alterado, revisões recentes). Janela 14-15h UTC.",
+      "published_at": "2026-10-26T14:55:51.843931+00:00",
+      "post_id": "18114895643150546",
+      "ghost_post_id": "6adf69f93eb4e3000106e355",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/caibra-exercicio-nao-e-falta-de-sal-o-que-a-ciencia-mostra/",
+      "ghost_status": "published"
     },
     {
       "local_id": "der_carga_carbo_curta",

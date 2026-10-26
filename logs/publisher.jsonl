@@ -418,3 +418,10 @@
 {"ts": "2026-10-26T13:16:15.944010+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-26T13:16:29.193658+00:00", "level": "INFO", "msg": "PUBLICADO: vs_004 -> media_id 18119737049066086"}
 {"ts": "2026-10-26T13:16:29.207587+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-26T14:55:09.355246+00:00", "level": "INFO", "msg": "Publicando der_caibra_mitos (carousel) \u2014 c\u00e3ibra muscular: por que n\u00e3o \u00e9 s\u00f3 sal e \u00e1gua"}
+{"ts": "2026-10-26T14:55:09.359197+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-26T14:55:09.359293+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_caibra_mitos/slide_01.png"}
+{"ts": "2026-10-26T14:55:10.594899+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-26T14:55:38.490790+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-26T14:55:51.843716+00:00", "level": "INFO", "msg": "PUBLICADO: der_caibra_mitos -> media_id 18114895643150546"}
+{"ts": "2026-10-26T14:55:51.860508+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
