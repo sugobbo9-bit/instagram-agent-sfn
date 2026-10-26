@@ -762,6 +762,17 @@
       "notes": "marca x marca — category:bebida-carbo-po, pair:maurten-gu",
       "published_at": "2026-10-11T20:00:20.165114+00:00",
       "post_id": "18083769836646144"
+    },
+    {
+      "local_id": "vs_004",
+      "format": "carousel",
+      "topic": "whey protein concentrado: Probiótica 100% Pure Whey vs New Millen Whey 100% (rótulo lado a lado)",
+      "hook": "Whey concentrado: Probiótica vs. New Millen. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-10-26T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:whey-concentrado, pair:probiotica-newmillen"
     }
   ]
 }

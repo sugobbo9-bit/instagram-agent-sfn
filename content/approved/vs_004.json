@@ -1,0 +1,225 @@
+{
+  "local_id": "vs_004",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "rendered",
+  "created_at": "2026-10-26T00:00:00Z",
+  "topic": "whey protein concentrado: Probiótica 100% Pure Whey vs New Millen Whey 100% (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Whey concentrado: Probiótica vs. New Millen. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:whey-concentrado",
+    "pair:probiotica-newmillen"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Probiótica 100% Pure Whey",
+      "brand": "Probiótica",
+      "image": "content/drafts/vs_004/img/probiotica_100purewhey.jpg",
+      "label_source": {
+        "url": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?skuId=171",
+        "consulted": "2026-10-26",
+        "notes": "Informação nutricional do sabor Baunilha lida da imagem oficial da tabela (porção de 30 g = 2 dosadores): 124 kcal, 20 g proteína, 6,3 g carbo (5,3 g açúcares), 2,1 g gordura (1,3 g sat), 101 mg sódio, 146 mg cálcio; leucina 2080 + isoleucina 1193 + valina 1180 mg. Tipo WPC e ingredientes do texto da página. A frente da embalagem anuncia 21 g de proteína."
+      }
+    },
+    {
+      "name": "New Millen Whey 100%",
+      "brand": "New Millen",
+      "image": "content/drafts/vs_004/img/newmillen_whey100.jpg",
+      "label_source": {
+        "url": "https://loja.newmillen.com.br/produtos/whey-100-pote-900g/",
+        "consulted": "2026-10-26",
+        "notes": "Informação nutricional lida da imagem oficial da tabela do produto (porção de 30 g = 2 copos dosadores): 122 kcal, 21 g proteína, 6 g carbo (6 g açúcares), 1,5 g gordura (1 g sat), 0 g fibra, 134 mg sódio. Tipo WPC e dose do texto da página. O sabor não é identificado na tabela; a página informa o ingrediente principal (WPC)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois wheys.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_004/img/probiotica_100purewhey.jpg",
+          "mode": "multiply",
+          "label": "Probiótica 100% Pure Whey"
+        },
+        {
+          "image": "content/drafts/vs_004/img/newmillen_whey100.jpg",
+          "mode": "multiply",
+          "label": "New Millen Whey 100%"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da dose",
+      "values": [
+        {
+          "value": "30 g",
+          "note": "2 dosadores"
+        },
+        {
+          "value": "30 g",
+          "note": "2 dosadores"
+        }
+      ],
+      "footnote": "A dose recomendada no rótulo é a mesma nos dois."
+    },
+    {
+      "type": "metric",
+      "headline": "Proteína por dose",
+      "values": [
+        {
+          "value": "20 g"
+        },
+        {
+          "value": "21 g"
+        }
+      ],
+      "footnote": "Informação nutricional do sabor baunilha. A frente da embalagem da Probiótica anuncia 21 g."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por dose",
+      "values": [
+        {
+          "value": "6,3 g",
+          "note": "5,3 g de açúcares"
+        },
+        {
+          "value": "6 g",
+          "note": "6 g de açúcares"
+        }
+      ],
+      "footnote": "Sabor baunilha; os valores variam com o sabor."
+    },
+    {
+      "type": "metric",
+      "headline": "Gordura por dose",
+      "values": [
+        {
+          "value": "2,1 g",
+          "note": "1,3 g saturadas"
+        },
+        {
+          "value": "1,5 g",
+          "note": "1 g saturada"
+        }
+      ],
+      "footnote": "Sabor baunilha."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por dose",
+      "values": [
+        {
+          "value": "101 mg"
+        },
+        {
+          "value": "134 mg"
+        }
+      ],
+      "footnote": "Sabor baunilha; os valores variam com o sabor."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Depois do treino, a construção muscular costuma chegar ao máximo com cerca de 0,3 g de proteína por quilo numa refeição — perto de 20 g para quem tem uns 70 kg. Uma dose de whey já cai nessa faixa; o que passa disso conta para o total do dia, mas a resposta por refeição se estabiliza.\n\nNo rótulo, \"proteína\" é a proteína total do pó, e os aminoácidos que a formam (leucina, isoleucina, valina) já entram nesse número. O que mais pesa no resultado é a proteína total do dia — por volta de 1,2 a 2,0 g por quilo — e não uma dose isolada.",
+      "source": "Rótulos oficiais Probiótica e New Millen (26/10/2026). Moore DR, Front Nutr 2019;6:147. Thomas DT et al., Med Sci Sports Exerc 2016;48(3):543‑568.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu objetivo, do seu paladar e do seu bolso.\n\nProbiótica 100% Pure Whey (concentrado): porção de 30 g (2 dosadores), 124 kcal, 20 g de proteína, 6,3 g de carboidrato (5,3 g de açúcares), 2,1 g de gordura e 101 mg de sódio. Sabor baunilha.\n\nNew Millen Whey 100% (concentrado): porção de 30 g (2 dosadores), 122 kcal, 21 g de proteína, 6 g de carboidrato (6 g de açúcares), 1,5 g de gordura e 134 mg de sódio. Sabor baunilha.\n\nOs dois são whey concentrado (WPC). Os valores vêm da informação nutricional de cada site oficial; a frente da embalagem da Probiótica destaca 21 g de proteína, enquanto a tabela do sabor baunilha traz 20 g. Os números variam com o sabor, então confira o rótulo do produto que você tem em mãos.\n\nDados consultados em 26/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Moore DR. Maximizing post-exercise anabolism: the case for relative protein intakes. Front Nutr. 2019;6:147.\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: Nutrition and Athletic Performance. Med Sci Sports Exerc. 2016;48(3):543–568.\n\nImagens: fotos de produto dos sites oficiais da Probiótica e da New Millen.\n\n#nutricaoesportiva #whey #wheyprotein #proteina #endurance #recuperacao #corrida",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Maximizing Post-exercise Anabolism: The Case for Relative Protein Intakes",
+      "authors": "Moore DR",
+      "journal": "Frontiers in Nutrition",
+      "year": 2019,
+      "volume": "6",
+      "pages": "147",
+      "doi": "10.3389/fnut.2019.00147",
+      "url": "https://doi.org/10.3389/fnut.2019.00147",
+      "level": "B"
+    },
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "url": "https://doi.org/10.1249/MSS.0000000000000852",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Probiótica 100% Pure Whey",
+      "kind": "packshot",
+      "title": "PROB---Atualizacao_Novas-Embalagens_Site---100--Whey-Baunilha---1.jpg",
+      "creator": "Probiótica (Supley Lab)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?skuId=171",
+      "changes": "fundo branco aparado e centralizado em quadrado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "New Millen Whey 100%",
+      "kind": "packshot",
+      "title": "pote_whey100_baunilha.webp",
+      "creator": "New Millen",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://loja.newmillen.com.br/produtos/whey-100-pote-900g/",
+      "changes": "convertida de webp; fundo branco aparado e centralizado em quadrado"
+    }
+  ],
+  "notes": "marca x marca — category:whey-concentrado, pair:probiotica-newmillen. Dados de rótulo conferidos em 2026-10-26 nas páginas oficiais. Probiótica 100% Pure Whey (baunilha, 30 g/2 dosadores): 124 kcal, 20 g proteína, 6,3 g carbo (5,3 g açúcares), 2,1 g gordura (1,3 sat), 101 mg sódio, 146 mg cálcio, BCAA (leu 2080+iso 1193+val 1180) ~4,45 g — tabela em imagem oficial. New Millen Whey 100% (30 g/2 dosadores): 122 kcal, 21 g proteína, 6 g carbo (6 g açúcares), 1,5 g gordura (1 sat), 134 mg sódio — tabela em imagem oficial, sabor não identificado na tabela. Ambos WPC concentrado. Categoria nova (whey), dupla nova; última vs foi vs_003 (bebida-carbo-po). Sem Z2.",
+  "creative_files": [
+    "content/drafts/vs_004/slide_01.png",
+    "content/drafts/vs_004/slide_02.png",
+    "content/drafts/vs_004/slide_03.png",
+    "content/drafts/vs_004/slide_04.png",
+    "content/drafts/vs_004/slide_05.png",
+    "content/drafts/vs_004/slide_06.png",
+    "content/drafts/vs_004/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}
