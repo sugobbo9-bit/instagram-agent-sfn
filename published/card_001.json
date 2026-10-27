@@ -1,0 +1,58 @@
+{
+  "local_id": "card_001",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-10-27T11:30:00-03:00",
+  "topic": "suspensão provisória de Peres Jepchirchir por EPO (antidoping, maratona)",
+  "content_pillar": "noticias",
+  "hook": "Peres Jepchirchir, campeã mundial da maratona, foi suspensa provisoriamente pela AIU após teste positivo para EPO.",
+  "subtext": "Amostra fora de competição, no Quênia, antes da vitória em Sydney. Suspensão provisória não é condenação: ela pode contestar.",
+  "source_line": "Athletics Integrity Unit (AIU), 23/10/2026 · via CITIUS Mag e Canadian Running",
+  "badge": "Notícia",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:noticia",
+    "topic:jepchirchir-epo-aiu"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "A Athletics Integrity Unit (AIU) anunciou em 23/10 a suspensão provisória da queniana Peres Jepchirchir — atual campeã mundial (Tóquio 2025) e campeã olímpica em Tóquio 2020 — por resultado analítico adverso para EPO. A amostra foi coletada fora de competição, no Quênia, antes da vitória dela na Maratona de Sydney (30/08). Suspensão provisória significa que ela não compete enquanto o caso corre; não é veredito. A atleta pode pedir a contraprova (amostra B) e contestar no processo disciplinar.\n\nPor que importa para quem treina: a EPO (eritropoetina) é um hormônio que aumenta a produção de glóbulos vermelhos e, com isso, o transporte de oxigênio — por isso é a substância proibida mais associada ao endurance e está na classe S2 da lista da WADA. É também o caso que lembra que resultado de elite não é referência direta para o que funciona em você.\n\nLeia mais: https://citiusmag.com/articles/peres-jepchirchir-doping-provisionally-suspended-epo\n\n#antidoping #maratona #corrida #endurance #nutricaoesportiva #altaperformance #somenteosfatos",
+  "cta": "Acompanhe: atualizamos quando a AIU se pronunciar de novo.",
+  "scientific_sources": [
+    {
+      "title": "Olympic Marathon Champion Peres Jepchirchir Provisionally Suspended After Positive EPO Test",
+      "authors": "CITIUS Mag",
+      "journal": "citiusmag.com",
+      "year": 2026,
+      "url": "https://citiusmag.com/articles/peres-jepchirchir-doping-provisionally-suspended-epo",
+      "level": "news"
+    },
+    {
+      "title": "Marathon world champion Peres Jepchirchir provisionally suspended",
+      "authors": "Canadian Running Magazine",
+      "journal": "runningmagazine.ca",
+      "year": 2026,
+      "url": "https://runningmagazine.ca/the-scene/marathon-world-champion-peres-jepchirchir-provisionally-suspended/",
+      "level": "news"
+    },
+    {
+      "title": "Campeã mundial e olímpica de maratona é suspensa por doping",
+      "authors": "Veja",
+      "journal": "veja.abril.com.br",
+      "year": 2026,
+      "url": "https://veja.abril.com.br/esporte/campea-mundial-e-olimpica-de-maratona-e-suspensa-por-doping/",
+      "level": "news"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_001/card.png"
+  ],
+  "post_id": "18640995430019748",
+  "published_at": "2026-10-27T14:18:20.930135+00:00"
+}

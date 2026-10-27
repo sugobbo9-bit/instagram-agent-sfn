@@ -426,3 +426,9 @@
 {"ts": "2026-10-26T14:55:51.843716+00:00", "level": "INFO", "msg": "PUBLICADO: der_caibra_mitos -> media_id 18114895643150546"}
 {"ts": "2026-10-26T14:55:51.860508+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-26T18:13:52.730857+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-27T14:18:08.396783+00:00", "level": "INFO", "msg": "Publicando card_001 (static) \u2014 suspens\u00e3o provis\u00f3ria de Peres Jepchirchir por EPO (antidoping, maratona)"}
+{"ts": "2026-10-27T14:18:08.400221+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-27T14:18:08.400334+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_001/card.png"}
+{"ts": "2026-10-27T14:18:08.565700+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-27T14:18:20.929950+00:00", "level": "INFO", "msg": "PUBLICADO: card_001 -> media_id 18640995430019748"}
+{"ts": "2026-10-27T14:18:20.946074+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

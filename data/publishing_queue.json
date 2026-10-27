@@ -786,11 +786,13 @@
       "format": "static",
       "topic": "suspensão provisória de Peres Jepchirchir por EPO (antidoping, maratona)",
       "hook": "Peres Jepchirchir, campeã mundial da maratona, foi suspensa provisoriamente pela AIU após teste positivo para EPO.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-27T11:30:00-03:00",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:noticia, topic:jepchirchir-epo-aiu"
+      "notes": "card informativo — mode:noticia, topic:jepchirchir-epo-aiu",
+      "published_at": "2026-10-27T14:18:20.930135+00:00",
+      "post_id": "18640995430019748"
     }
   ]
 }
