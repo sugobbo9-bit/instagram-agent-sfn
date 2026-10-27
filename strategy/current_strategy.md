@@ -1,4 +1,7 @@
 # Estratégia Atual — @sofatosnutricao
+
+> **Decisão do Victor (27/10/2026) — card informativo volta como 3º post diário.** A série antiga "você sabia" (`vsabia_*`) segue encerrada; a nova série `card_NNN` (`series:card-informativo`: ativos, técnicas, biohacks e notícias da alta performance; playbook seção 5) sai 1x/dia pela manhã. `STATIC_PAUSED` foi desligada no `publisher.py`. A revisão semanal mede a série nova separadamente e **não a re-pausa automaticamente** — só reporta e deixa a decisão com o Victor após ≥ 4 semanas.
+
 _Atualizado: 2026-10-11, revisão estratégica semanal_
 _Base: 9.516 seguidores (−13 na semana — 1ª semana não-positiva) | 178 publicações com métricas reais (Graph API, coletadas 11/10)_
 

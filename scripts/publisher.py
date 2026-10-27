@@ -84,7 +84,11 @@ if not pend:
 # publisher RECUSA itens 'static' e publica o proximo carrossel/Reel
 # aprovado. Reversivel: STATIC_PAUSED=False reativa o formato.
 # Ver strategy/current_strategy.md (ciclo 2026-10-04).
-STATIC_PAUSED = True
+# 2026-10-27 — decisao do Victor: o card informativo volta como 3o post
+# diario (serie NOVA card_NNN: ativos, tecnicas, biohacks e noticias da
+# alta performance; ver playbook_visual.md secao 5). Flag desligada;
+# a serie nova e medida separadamente (tag series:card-informativo).
+STATIC_PAUSED = False
 if STATIC_PAUSED:
     statics = [i for i in pend if i.get("format") == "static"]
     if statics:

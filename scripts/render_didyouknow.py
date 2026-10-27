@@ -4,7 +4,7 @@ Formato leve e succinto para Instagram (sem carrossel, sem capa, sem Ghost).
 Paleta INVERTIDA em relacao ao carrossel: fundo lima, texto preto.
 Uso: python render_didyouknow.py <draft.json> <output_dir>
 Campos usados do JSON: hook (fato principal), subtext (1 linha), source_line,
-design{bg,text_color,ink2,padding}, username.
+design{bg,text_color,ink2,padding}, username, badge (opcional), ornament (opcional).
 Escreve creative_files=[<card.png>] e status="rendered" de volta no JSON.
 """
 import json, sys, re
@@ -52,9 +52,9 @@ body{{background:{page};color:{ink};font-family:Inter,'Helvetica Neue',Arial,san
  letter-spacing:.03em;color:{ink};opacity:.9}}
 .bar{{position:absolute;left:0;bottom:0;height:8px;width:100%;background:{ink};opacity:.9}}
 </style></head><body>
-<div class="glow"></div><div class="qmark">?</div>
+<div class="glow"></div><div class="qmark">{ornament}</div>
 <div class="wrap">
-  <div class="badge">Você sabia?</div>
+  <div class="badge">{badge}</div>
   <div class="fact">{fact}</div>
   {rule}
   {sub}
@@ -79,9 +79,13 @@ def render(src_path, out_dir):
     src = f'<div class="src">Fonte: {esc(src_line)}</div>' if src_line else ""
     n = len(post.get("hook", ""))
     fsize = 76 if n <= 90 else (66 if n <= 130 else 58)
+    # badge opcional (serie card_NNN): "Você sabia?" (padrao), "Notícia", "Ativo", "Técnica"...
+    badge = post.get("badge") or "Você sabia?"
+    ornament = post.get("ornament") or ("!" if badge.strip().lower().startswith("not") else "?")
 
     html = TPL.format(W=W, H=H, page=page, ink=ink, ink2=ink2, pad=d.get("padding", 80),
-                      fsize=fsize, fact=fact, rule=rule, sub=sub, src=src, user=esc(user))
+                      fsize=fsize, fact=fact, rule=rule, sub=sub, src=src, user=esc(user),
+                      badge=esc(badge), ornament=esc(ornament))
 
     out_dir = Path(out_dir); out_dir.mkdir(parents=True, exist_ok=True)
     card = out_dir / "card.png"

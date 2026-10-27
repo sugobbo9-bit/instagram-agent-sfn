@@ -84,3 +84,27 @@ Conclusão honesta: **meio-dia BRT é um teste razoável, não um fato medido.**
 - Métrica principal do marca x marca: **saves/reach e shares/reach** (baseline do técnico recente ≈ 1,1% e 0,8%). Compare também com os 3 `prov_*`.
 - Métrica principal do técnico: **saves/reach** e alcance mediano (meta: voltar a 500+).
 - Depois de 10 `vs_*`: quais categorias seguram saves/shares acima da mediana do técnico? Dobre nelas.
+
+## 5. Card informativo (`card_NNN`, 1 por dia, manhã ~8h30 BRT) — diretriz do Victor (27/10/2026)
+
+Terceiro post diário, ao lado do carrossel técnico (~12h) e do marca x marca (~17h). **Um card único** 1080×1350, fundo lima `#D4FF00`, texto preto, renderizado por `scripts/render_didyouknow.py` (mesmo motor da série antiga `vsabia_*`, que fica como histórico — não reutilize os temas dela).
+
+### O que cabe no card
+Dois modos, escolhidos pelo agente a cada dia:
+
+**A. Tema (padrão, ~5 de 7 dias)** — um ativo, vitamina/mineral, recurso ergogênico, suplemento, biohack, técnica, protocolo ou fato de fisiologia do universo da nutrição/performance esportiva. Um fato só, com número, e uma fonte científica real (revisão/meta-análise/position stand/RCT), conferida. Badge: `"Você sabia?"` (padrão) ou algo curto como `"Ativo"`, `"Técnica"`, `"Biohack"`.
+
+**B. Notícia (eventual, quando houver algo relevante nas últimas ~72h)** — fato do mundo da alta performance: doping, recorde, mudança de regra, estudo de impacto, resultado marcante. Badge: `"Notícia"`. Regras duras:
+- Só fonte confiável, e **duas** fontes independentes quando o fato for sensível (AIU, WADA, World Athletics, federações, COI, agências como Reuters/AP, Globo/ge, Veja, Folha, Estadão, LetsRun, Runner's World, Canadian Running, Cycling Weekly etc.). Nunca post de rede social como única fonte.
+- Linguagem factual e neutra, sem opinião e sem presunção de culpa: "suspensa provisoriamente", "testou positivo para X segundo a AIU", "investigação em andamento". Nada de adjetivo, ironia ou especulação sobre o atleta.
+- O card traz o fato; a legenda traz o contexto (o que é a substância/regra, por que importa para quem treina) e **"Leia mais:" com o link** da fonte principal.
+- `source_line` no card = veículo/órgão + data.
+
+### Schema (modelo: `content/approved/vsabia_018.json`, mais `badge`)
+`local_id` card_NNN · `format` "static" · `status` "approved" · `created_at` · `topic` · `content_pillar` · `hook` (o fato, ≤ 130 caracteres, com número quando houver) · `subtext` (1 frase: o mecanismo ou o "e daí") · `source_line` · `badge` · `experiment_tags` ["format:static","series:card-informativo","mode:tema"|"mode:noticia","topic:..."] · `username` · `design` {"bg":"#D4FF00","text_color":"#0A0A0A","ink2":"#2E4B00","padding":80} · `caption` · `cta` · `scientific_sources` (≥1 com doi ou url; na notícia, as fontes jornalísticas/oficiais com url) · `creative_files` ["content/drafts/card_NNN/card.png"].
+
+### Não negocie
+Sem marca de suplemento no modo tema (e a Z2 nunca). Sem inventar número, estudo ou fonte. Um fato por card. Legenda curta (≤ 900 caracteres), com fonte. Não repita tema dos últimos 30 posts nem dos `vsabia_*`.
+
+### Medição
+A série é **nova** (`series:card-informativo`) e deve ser avaliada separadamente da `voce-sabia` antiga, por formato. A revisão semanal **não** re-pausa o formato por conta própria: reporta os números (alcance, saves/reach, shares/reach vs. carrossel) e deixa a decisão com o Victor, após ≥ 4 semanas de amostra.
