@@ -299,11 +299,11 @@
       "local_id": "der_cafeina_dose_timing",
       "format": "carousel",
       "topic": "cafeína: dose e timing práticos",
-      "hook": "A dose de cafeína que funciona não é a que você toma. É a que a ciência mediu.",
-      "status": "draft",
-      "created_at": null,
+      "hook": "Cafeína que rende não se mede em xícaras. São 3 a 6 mg por kg de peso.",
+      "status": "approved",
+      "created_at": "2026-10-27",
       "scheduled_for": "2026-09-24T15:00:00Z",
-      "priority": 2,
+      "priority": 1,
       "notes": "Derivado de cafeína (1558) + cafeína/sono (607). Família de conteúdo sobre vencedor. Ângulo: mg/kg, janela pré-prova, e o corte para não prejudicar o sono. Publicar qui 12h BRT."
     },
     {
