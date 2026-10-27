@@ -432,3 +432,10 @@
 {"ts": "2026-10-27T14:18:08.565700+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-27T14:18:20.929950+00:00", "level": "INFO", "msg": "PUBLICADO: card_001 -> media_id 18640995430019748"}
 {"ts": "2026-10-27T14:18:20.946074+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-27T15:15:43.694745+00:00", "level": "INFO", "msg": "Publicando der_cafeina_dose_timing (carousel) \u2014 cafe\u00edna: dose e timing pr\u00e1ticos"}
+{"ts": "2026-10-27T15:15:43.698907+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-27T15:15:43.699009+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_cafeina_dose_timing/slide_01.png"}
+{"ts": "2026-10-27T15:15:44.745111+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-27T15:16:14.229602+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-27T15:16:28.026126+00:00", "level": "INFO", "msg": "PUBLICADO: der_cafeina_dose_timing -> media_id 18084218228517994"}
+{"ts": "2026-10-27T15:16:28.043184+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

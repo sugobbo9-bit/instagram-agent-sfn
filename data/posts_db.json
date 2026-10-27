@@ -8030,6 +8030,64 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18084218228517994",
+      "local_id": "der_cafeina_dose_timing",
+      "publication_date": "2026-10-27T15:16:28.026322+00:00",
+      "format": "carousel",
+      "topic": "cafeína: dose (mg/kg) e timing práticos no esporte",
+      "content_pillar": "supplements",
+      "hook": "Cafeína que rende não se mede em xícaras. São 3 a 6 mg por kg de peso.",
+      "caption": "Cafeína é um dos recursos com melhor evidência no esporte — mas quase todo mundo erra a dose e o horário. “Um café antes do treino” não é protocolo: uma xícara varia de 60 a 180 mg, e tomar na largada é cedo demais.\n\nA dose com evidência é medida por peso: 3 a 6 mg por kg de corpo (210 a 420 mg para quem tem 70 kg). Doses menores, de 2 a 3 mg/kg, já ajudam — comece por elas. Acima de ~9 mg/kg não há ganho extra de desempenho, só mais efeitos colaterais (ISSN, 2021).\n\nTiming: em cápsula, o pico vem ~60 min depois, então tome cerca de 1 hora antes — não na hora. E à noite, cuidado: cafeína 4 a 6 h antes de dormir ainda reduz a qualidade do sono em atletas, mesmo quando as medidas objetivas mudam pouco (Kocak et al., 2025). Se treina à tarde, teste a sua janela.\n\nFontes: Guest NS et al. ISSN position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18(1):1. | Kocak A et al. The Effect of Consuming Caffeine Before Late Afternoon/Evening Training or Competition on Sleep. Sports (Basel). 2025;13(9):317.\n\nFotos: Heiti Paves (CC BY 4.0), freestocks.org, MarkSweep.",
+      "cta": "Salva e manda pra quem toma café na largada achando que isso é dose de cafeína.",
+      "scientific_sources": [
+        {
+          "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+          "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, Arent SM, Antonio J, Stout JR, Trexler ET, Smith-Ryan AE, Goldstein ER, Kalman DS, Campbell BI",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "volume": "18",
+          "issue": "1",
+          "pages": "1",
+          "doi": "10.1186/s12970-020-00383-4",
+          "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00383-4",
+          "level": "A"
+        },
+        {
+          "title": "The Effect of Consuming Caffeine Before Late Afternoon/Evening Training or Competition on Sleep: A Systematic Review with Meta-Analysis",
+          "authors": "Kocak A, Georgousopoulou E, Knight-Agarwal CR, Matthews R, Minehan M",
+          "journal": "Sports (Basel)",
+          "year": 2025,
+          "volume": "13",
+          "issue": "9",
+          "pages": "317",
+          "doi": "10.3390/sports13090317",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12473705/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_cafeina_dose_timing/slide_01.png",
+        "content/drafts/der_cafeina_dose_timing/slide_02.png",
+        "content/drafts/der_cafeina_dose_timing/slide_03.png",
+        "content/drafts/der_cafeina_dose_timing/slide_04.png",
+        "content/drafts/der_cafeina_dose_timing/slide_05.png",
+        "content/drafts/der_cafeina_dose_timing/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:cafeina",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:cafeina"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ae0c04defe13f0001b809dc",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-esporte-dose-timing-evidencia/"
     }
   ]
 }

@@ -1,0 +1,175 @@
+{
+  "local_id": "der_cafeina_dose_timing",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-10-27T00:00:00Z",
+  "topic": "cafeína: dose (mg/kg) e timing práticos no esporte",
+  "content_pillar": "supplements",
+  "hook": "Cafeína que rende não se mede em xícaras. São 3 a 6 mg por kg de peso.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:cafeina",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:cafeina"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "A DOSE",
+      "headline": "Cafeína não se mede em xícaras.",
+      "body": null,
+      "label": null,
+      "image": {
+        "path": "/tmp/img/der_cafeina_dose_timing/cover/cand_02.jpg",
+        "focus": "center 50%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O ERRO",
+      "headline": "“Um café antes do treino.”",
+      "body": "A conta de sempre: tomar um café e ir treinar.\n\nSó que uma xícara varia de 60 a 180 mg de cafeína — você não sabe a dose que tomou. E “antes” quase sempre vira 10 minutos antes: cedo demais pro efeito aparecer.",
+      "image": {
+        "path": "/tmp/img/der_cafeina_dose_timing/s2/cand_02.jpg",
+        "focus": "center 55%"
+      },
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A DOSE CERTA",
+      "headline": "A dose tem número: mg por kg.",
+      "body": "A evidência mede cafeína por peso corporal: 3 a 6 mg por kg.\n\nNum atleta de 70 kg, são 210 a 420 mg. Doses menores (2 a 3 mg/kg) já ajudam — comece por elas.\n\nPassar de 9 mg/kg não rende mais desempenho: só aumenta tremor, coração disparado e dor de barriga.",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O relógio pesa tanto quanto a dose.",
+      "body": "Em cápsula (cafeína anidra), o pico no sangue vem cerca de 60 minutos depois.\n\nPor isso a referência é tomar ~1 hora antes do esforço — não na largada. Goma e enxágue bucal agem mais rápido; o tempo ideal depende da forma.\n\n(ISSN, 2021)",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como usar sem estragar o sono.",
+      "body": "Dose: 3 a 6 mg/kg, ~60 min antes. Comece pela menor.\n\nÀ noite, atenção: cafeína 4 a 6 h antes de dormir ainda pode roubar seu sono — às vezes sem você perceber.\n\nTreina ou corre à tarde? Teste a sua janela antes de depender dela.",
+      "image": {
+        "path": "/tmp/img/der_cafeina_dose_timing/s5/cand_01.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Dose e relógio. Não “um cafezinho”.",
+      "body": "Salva e manda pro parceiro que toma café na largada esperando efeito.",
+      "label": null,
+      "image": null,
+      "divider": false
+    }
+  ],
+  "caption": "Cafeína é um dos recursos com melhor evidência no esporte — mas quase todo mundo erra a dose e o horário. “Um café antes do treino” não é protocolo: uma xícara varia de 60 a 180 mg, e tomar na largada é cedo demais.\n\nA dose com evidência é medida por peso: 3 a 6 mg por kg de corpo (210 a 420 mg para quem tem 70 kg). Doses menores, de 2 a 3 mg/kg, já ajudam — comece por elas. Acima de ~9 mg/kg não há ganho extra de desempenho, só mais efeitos colaterais (ISSN, 2021).\n\nTiming: em cápsula, o pico vem ~60 min depois, então tome cerca de 1 hora antes — não na hora. E à noite, cuidado: cafeína 4 a 6 h antes de dormir ainda reduz a qualidade do sono em atletas, mesmo quando as medidas objetivas mudam pouco (Kocak et al., 2025). Se treina à tarde, teste a sua janela.\n\nFontes: Guest NS et al. ISSN position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18(1):1. | Kocak A et al. The Effect of Consuming Caffeine Before Late Afternoon/Evening Training or Competition on Sleep. Sports (Basel). 2025;13(9):317.\n\nFotos: Heiti Paves (CC BY 4.0), freestocks.org, MarkSweep.",
+  "cta": "Salva e manda pra quem toma café na largada achando que isso é dose de cafeína.",
+  "scientific_sources": [
+    {
+      "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+      "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, Arent SM, Antonio J, Stout JR, Trexler ET, Smith-Ryan AE, Goldstein ER, Kalman DS, Campbell BI",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "1",
+      "doi": "10.1186/s12970-020-00383-4",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00383-4",
+      "level": "A"
+    },
+    {
+      "title": "The Effect of Consuming Caffeine Before Late Afternoon/Evening Training or Competition on Sleep: A Systematic Review with Meta-Analysis",
+      "authors": "Kocak A, Georgousopoulou E, Knight-Agarwal CR, Matthews R, Minehan M",
+      "journal": "Sports (Basel)",
+      "year": 2025,
+      "volume": "13",
+      "issue": "9",
+      "pages": "317",
+      "doi": "10.3390/sports13090317",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12473705/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "From coffee bean to instant coffee",
+      "creator": "Heiti Paves",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:From_coffee_bean_to_instant_coffee_01.jpg"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o erro",
+      "title": "Mug of Coffee on a Wooden Table",
+      "creator": "freestocks.org",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mug_of_Coffee_on_a_Wooden_Table_(26804116318).jpg"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na prática",
+      "title": "Roasted coffee beans",
+      "creator": "MarkSweep",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg"
+    }
+  ],
+  "article": {
+    "title": "Cafeína no esporte: a dose e o horário que a ciência mede",
+    "slug": "cafeina-esporte-dose-timing-evidencia",
+    "excerpt": "Cafeína não se mede em xícaras. Veja a dose com evidência (3 a 6 mg/kg), o timing certo (~60 min antes) e por que a cafeína da tarde ainda atrapalha o sono.",
+    "meta_title": "Cafeína no esporte: dose (mg/kg) e timing segundo a ciência",
+    "tags": [
+      "Cafeína",
+      "Suplementação",
+      "Endurance",
+      "Desempenho",
+      "Sono"
+    ],
+    "html": "<p>Cafeína é um dos recursos ergogênicos com <strong>melhor evidência</strong> no esporte. Ainda assim, é um dos mais mal usados: a maioria toma “um café antes do treino”, na largada, sem a menor ideia de quanta cafeína ingeriu. Dose e horário — os dois pontos que mais importam — ficam no chute.</p>\n\n<h2>“Um café” não é uma dose</h2>\n\n<p>O problema começa na conta. Uma xícara de café pode ter de <strong>60 a 180 mg</strong> de cafeína, dependendo do grão, da torra e do método de preparo. “Um café”, portanto, não diz quase nada sobre a dose que você realmente tomou. E tomar logo antes de começar o esforço costuma ser cedo demais para o efeito aparecer.</p>\n\n<h2>A dose tem número: miligramas por quilo</h2>\n\n<p>O <em>position stand</em> da International Society of Sports Nutrition (ISSN, 2021) é direto: a cafeína melhora o desempenho de forma consistente em doses de <strong>3 a 6 mg por kg de massa corporal</strong>. Para um atleta de 70 kg, isso significa cerca de <strong>210 a 420 mg</strong>.</p>\n\n<p>Doses menores também funcionam: há efeito ergogênico mensurável já em torno de <strong>2 a 3 mg/kg</strong> — um bom ponto de partida, com menos risco de efeitos colaterais. No outro extremo, subir para <strong>9 mg/kg ou mais não aumenta o desempenho</strong>; apenas eleva a chance de tremor, taquicardia, agitação e desconforto gastrointestinal.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação com evidência (ISSN, 2021)</th></tr></thead>\n<tbody>\n<tr><td>Dose eficaz</td><td>3 a 6 mg/kg de peso corporal</td></tr>\n<tr><td>Dose de entrada</td><td>2 a 3 mg/kg (já ergogênica, menos efeitos)</td></tr>\n<tr><td>Teto útil</td><td>≥9 mg/kg não rende mais — só mais efeitos colaterais</td></tr>\n<tr><td>Timing (cápsula)</td><td>~60 min antes do esforço</td></tr>\n<tr><td>Formas rápidas</td><td>Goma e enxágue bucal agem mais rápido</td></tr>\n</tbody>\n</table>\n\n<h2>O relógio pesa tanto quanto a dose</h2>\n\n<p>A cafeína anidra em cápsula atinge o pico no sangue cerca de <strong>60 minutos</strong> após a ingestão. Por isso a referência prática é tomar aproximadamente <strong>uma hora antes</strong> do esforço — e não no momento da largada. A forma importa: <strong>goma de mascar</strong> e <strong>enxágue bucal</strong> com cafeína têm absorção mais rápida e podem exigir menos antecedência. Como resume a ISSN, o timing ideal “depende da fonte de cafeína”.</p>\n\n<h2>E à noite? Cuidado com o sono</h2>\n\n<p>Para quem treina ou compete no fim da tarde, há um custo escondido. Uma revisão sistemática com meta-análise (Kocak et al., <em>Sports</em>, 2025) reuniu estudos com cafeína (3 a 6 mg/kg) consumida entre as 16h e as 20h e encontrou uma <strong>pequena redução na eficiência do sono</strong> (diferença média de cerca de −5%) e uma tendência de menos tempo total de sono. Tão importante quanto: os atletas <strong>relataram dormir pior</strong> de forma consistente, mesmo quando as medidas objetivas mudaram pouco.</p>\n\n<p>A certeza da evidência é baixa, e o efeito varia muito de pessoa para pessoa. A recomendação dos autores é prática: teste a sua própria janela — por exemplo, tomando cerca de 3 mg/kg de 4 a 6 horas antes do horário habitual de dormir — e observe o seu sono antes de depender da cafeína em treinos da tarde ou da noite.</p>\n\n<h2>Resumo</h2>\n\n<p>Cafeína funciona, mas como dose e horário, não como ritual. Use <strong>3 a 6 mg/kg</strong> (começando pela ponta de baixo), cerca de <strong>60 minutos antes</strong> do esforço, e lembre que a cafeína da tarde ainda pode custar o seu sono. “Um cafezinho na largada” não é nada disso.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Guest NS, VanDusseldorp TA, Nelson MT, et al. International society of sports nutrition position stand: caffeine and exercise performance. <em>J Int Soc Sports Nutr</em>. 2021;18(1):1. doi:10.1186/s12970-020-00383-4</li>\n<li>Kocak A, Georgousopoulou E, Knight-Agarwal CR, Matthews R, Minehan M. The Effect of Consuming Caffeine Before Late Afternoon/Evening Training or Competition on Sleep: A Systematic Review with Meta-Analysis. <em>Sports (Basel)</em>. 2025;13(9):317. doi:10.3390/sports13090317</li>\n</ol>\n",
+    "cover": "content/drafts/der_cafeina_dose_timing/cover.png",
+    "cover_alt": "Cafeína no esporte: a dose e o timing que a ciência mede — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/der_cafeina_dose_timing/slide_01.png",
+    "content/drafts/der_cafeina_dose_timing/slide_02.png",
+    "content/drafts/der_cafeina_dose_timing/slide_03.png",
+    "content/drafts/der_cafeina_dose_timing/slide_04.png",
+    "content/drafts/der_cafeina_dose_timing/slide_05.png",
+    "content/drafts/der_cafeina_dose_timing/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18084218228517994",
+  "published_at": "2026-10-27T15:16:28.026322+00:00"
+}
