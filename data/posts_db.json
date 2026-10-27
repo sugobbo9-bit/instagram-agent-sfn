@@ -8088,6 +8088,49 @@
       "derivatives_created": [],
       "ghost_post_id": "6ae0c04defe13f0001b809dc",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-esporte-dose-timing-evidencia/"
+    },
+    {
+      "post_id": "18130253593849035",
+      "local_id": "vs_005",
+      "publication_date": "2026-10-27T19:57:48.976646+00:00",
+      "format": "carousel",
+      "topic": "beta-alanina: Max Titanium vs Atlhetica Nutrition (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Max Titanium vs. Atlhetica. Beta-alanina, só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu objetivo, da sua rotina e do seu bolso.\n\nMax Titanium Beta-Alanina: pote de 150 g, 2.000 mg de beta-alanina por porção (1 dosador de 2 g), 75 porções, com antiumectante (dióxido de silício) na composição. O rótulo declara que pode conter ovo, leite e soja e que não contém glúten.\n\nAtlhetica Beta Alanine 100% Pure: pote de 200 g, 2.000 mg de beta-alanina por porção (meio dosador de 2 g), descrita como 100% pura, com o número de porções não informado no rótulo consultado. O rótulo declara não conter glúten, lactose e açúcar.\n\nDados dos rótulos e sites oficiais da Max Titanium e da Atlhetica Nutrition, consultados em 27/10/2026. Confira sempre o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Trexler ET, Smith-Ryan AE, Stout JR, et al. International Society of Sports Nutrition position stand: Beta-Alanine. J Int Soc Sports Nutr. 2015;12:30.\n\nImagens: fotos de produto dos sites oficiais da Max Titanium e da Atlhetica Nutrition.\n\n#nutricaoesportiva #betaalanina #corrida #ciclismo #triathlon #endurance #suplementos",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: Beta-Alanine",
+          "authors": "Trexler ET, Smith-Ryan AE, Stout JR, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2015,
+          "volume": "12",
+          "pages": "30",
+          "doi": "10.1186/s12970-015-0090-y",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_005/slide_01.png",
+        "content/drafts/vs_005/slide_02.png",
+        "content/drafts/vs_005/slide_03.png",
+        "content/drafts/vs_005/slide_04.png",
+        "content/drafts/vs_005/slide_05.png",
+        "content/drafts/vs_005/slide_06.png",
+        "content/drafts/vs_005/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:beta-alanina",
+        "pair:maxtitanium-atlhetica"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

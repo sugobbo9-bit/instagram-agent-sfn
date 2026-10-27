@@ -440,3 +440,10 @@
 {"ts": "2026-10-27T15:16:28.026126+00:00", "level": "INFO", "msg": "PUBLICADO: der_cafeina_dose_timing -> media_id 18084218228517994"}
 {"ts": "2026-10-27T15:16:28.043184+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-27T17:28:01.646769+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-27T19:56:53.263552+00:00", "level": "INFO", "msg": "Publicando vs_005 (carousel) \u2014 beta-alanina: Max Titanium vs Atlhetica Nutrition (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-27T19:56:53.266905+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-27T19:56:53.266981+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_005/slide_01.png"}
+{"ts": "2026-10-27T19:56:54.507369+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-27T19:57:34.308649+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-27T19:57:48.976459+00:00", "level": "INFO", "msg": "PUBLICADO: vs_005 -> media_id 18130253593849035"}
+{"ts": "2026-10-27T19:57:48.990369+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
