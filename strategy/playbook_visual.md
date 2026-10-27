@@ -85,7 +85,7 @@ Conclusão honesta: **meio-dia BRT é um teste razoável, não um fato medido.**
 - Métrica principal do técnico: **saves/reach** e alcance mediano (meta: voltar a 500+).
 - Depois de 10 `vs_*`: quais categorias seguram saves/shares acima da mediana do técnico? Dobre nelas.
 
-## 5. Card informativo (`card_NNN`, 1 por dia, manhã ~8h30 BRT) — diretriz do Victor (27/10/2026)
+## 5. Card informativo (`card_NNN`, 1 por dia, noite ~19h30 BRT) — diretriz do Victor (27/10/2026)
 
 Terceiro post diário, ao lado do carrossel técnico (~12h) e do marca x marca (~17h). **Um card único** 1080×1350, fundo lima `#D4FF00`, texto preto, renderizado por `scripts/render_didyouknow.py` (mesmo motor da série antiga `vsabia_*`, que fica como histórico — não reutilize os temas dela).
 
