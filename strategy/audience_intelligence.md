@@ -1,6 +1,6 @@
 # Inteligência de Audiência — @sofatosnutricao (SFN)
-_Documento vivo mantido pela rotina semanal de estudo (quarta-feira). SOMENTE análise — não publica, não comenta, não interage._
-_Última execução: 2026-10-07_
+_Documento vivo mantido pela rotina semanal de estudo. SOMENTE análise — não publica, não comenta, não interage._
+_Última execução: 2026-10-28 (6ª execução)_
 
 ---
 
@@ -8,102 +8,117 @@ _Última execução: 2026-10-07_
 _(resumo que evolui a cada semana — leia isto primeiro)_
 
 ### Quem são
-- **Demografia ainda NÃO medida por dado próprio.** Faixa etária, gênero, país/cidade e horários de atividade (`online_followers`) seguem **desconhecidos**. Motivo (inalterado e reconfirmado nesta rodada): o token válido da Página existe apenas como **Secret do GitHub Actions** (`secrets.INSTAGRAM_ACCESS_TOKEN`) e esta rotina roda **no Mac**, fora do Actions — `INSTAGRAM_ACCESS_TOKEN` está **vazio** neste ambiente e **não há `.env`**; e **não há arquivo de demografia commitado** no repo (`data/` não tem `audience_demographics.json` nem `comments_recent.json`). Ver "Demografia — bloqueio".
-- Base declarada no projeto: **9.529 seguidores** (+111 na semana; snapshot da revisão de 04/10 em `current_strategy.md`). Crescimento desacelerou vs. o pico anterior (+152) mas segue positivo, apesar do alcance recente fraco. Conta `sofatosnutricao`, IG id `17841472609243044`.
+- **Demografia ainda NÃO medida por dado próprio** (idade, gênero, país/cidade, `online_followers` seguem **desconhecidos**). O bloqueio mudou de forma nesta rodada: **agora existe um `.env` no Mac** (`SFN/Instagram Agent/.env`) com um `INSTAGRAM_ACCESS_TOKEN` de 306 chars — mas ele está **EXPIRADO desde 26/08/2026** (Graph API devolve OAuthException 190, "Session has expired"). O token válido continua vivendo só como **Secret do GitHub Actions**. E **não há arquivo de demografia/comentários commitado** no repo (`data/` não tem `audience_demographics.json` nem `comments_recent.json` — reconfirmado). Ver "Demografia — bloqueio".
+- **Base: 9.516 seguidores** (snapshot do bootstrap de 11/10). A série semanal: 9.266 → 9.418 (+152) → 9.529 (+111) → **9.516 (−13)**. A **1ª semana não-positiva** segue sendo o dado mais recente — **não há coleta nova desde 11/10** para confirmar se virou tendência ou ruído. Conta `sofatosnutricao`, IG id `17841472609243044`.
 - Perfil presumido pelo nicho (hipótese, **não medido**): público brasileiro de endurance (corrida, ciclismo, triatlo) interessado em nutrição esportiva baseada em evidência.
 
-### O que engaja (medido em 168 posts com métricas reais, coleta de 04/10/2026; 171 posts no total; posts de 05–06/10 ainda sem métrica)
-- **O carrossel domina — padrão forte e repetido em todas as coletas (16/09 → 04/10).**
+### O que engaja (medido em 178 posts com métricas reais; coleta única "import" de 11/10/2026; 185 posts no total)
+- **O carrossel domina — padrão forte e repetido em 6 coletas (16/09 → 11/10).**
 
   | formato | n | alcance mediano | p90 | p75 | p25 | média saves/r | média shares/r | média likes/r | média comments/r |
   |---|---|---|---|---|---|---|---|---|---|
-  | **carrossel** | 69 | **418** | 1.219 | 828 | 196 | 0,0193 | 0,0145 | 0,0417 | 0,0012 |
-  | reel | 77 | 256 | 515 | 381 | 168 | 0,0068 | 0,0040 | 0,0135 | 0,0010 |
-  | estático | 22 | 209 | 356 | 272 | 168 | 0,0125 | 0,0069 | 0,0325 | 0,0018 |
+  | **carrossel** | 79 | **366** | 1.245 | 764 | 197 | 0,0189 | 0,0143 | 0,0421 | 0,0011 |
+  | reel | 77 | 256 | 520 | 381 | 168 | 0,0068 | 0,0040 | 0,0135 | 0,0010 |
+  | estático | 22 | 226 | 359 | 326 | 171 | 0,0122 | 0,0069 | 0,0323 | 0,0017 |
 
-  Dos posts de maior alcance da conta (top 10%), a esmagadora maioria são carrosséis; os maiores alcances vão de ~900 a 2.450. Entre os 25% de menor alcance, os Reels dominam, com carrosséis fracos e alguns estáticos no fundo.
-- **Baseline do carrossel recuou:** mediana all-time **418** (n=69), contra 474 na coleta de 27/09 — os grandes carrosséis de maio–julho pesam menos à medida que a base cresce. A **janela recente segue muito abaixo do baseline**: últimos 14 dias mediana **242** (n=8 carrosséis), últimos 7 dias **204** (n=4); o post medido mais recente é de **03/10** (a coleta foi 04/10). Causa dominante apontada pela estratégia: quase todo carrossel recente saiu **~11h UTC / 8h BRT** (a janela fraca, mediana 269) e a série estática diária seguia no fundo — **execução, não tópico**.
-- **Temas que mais engajam (hierarquia estável das coletas anteriores; só 36/168 posts têm tópico estruturado — os 132 "historico_pre_agente" não têm categoria):** sono/recuperação > timing/janela > comparação/ranking (maior shares/reach) > hidratação/eletrólitos (maior densidade save+share) > mito genérico. Mais fraco e com teto baixo confirmado: **suplemento de nicho** (BCAA, cetonas exógenas, antioxidantes) e saúde hormonal. _(Não recalculado com bucketing grosseiro nesta rodada; a hierarquia vem da categorização estruturada + captions das coletas anteriores sobre essencialmente os mesmos posts.)_
-- **Estrutura vencedora confirmada:** os maiores alcances derrubam uma crença aceita e entregam protocolo — lactato não é vilão (2.450 / 1.516), privação de sono e composição (2.437), cafeína não desidrata (1.558), 60 g carbo/h exige intestino treinado (1.426), creatina (1.249), hidrogel comparado (1.245), janela de 30 min (1.212), magnésio/sono (1.164). Todos de maio–julho; **nenhum vencedor novo de grande alcance apareceu na janela recente** (os recentes são medianos). Comparação concreta de produto é o que mais gera compartilhamento.
+  O top 10% de alcance da conta é quase todo carrossel (900–2.450); o fundo (bottom 25%) é dominado por Reels (incluindo os Reels em inglês de abr/2026, pré-pivô) e carrosséis de versus/commodity. Baseline do carrossel **estável em 366** vs. a coleta de 04/10.
+- **Estrutura vencedora reconfirmada:** os maiores alcances derrubam uma crença aceita + entregam protocolo. Campeões (mai–jul): lactato (2.450 / 1.516), privação de sono→composição (2.441), cafeína (1.558), intestino treinado 60g/h (1.426), creatina (1.249), hidrogel comparado (1.245), janela de 30 min (1.212), RED-S (1.180), magnésio/sono (1.164). **Único vencedor novo de grande alcance:** o breakout de **carga de carbo (1.661, 07/10, saves/r 0,049 — o maior da conta)**.
+- **NOVO ACHADO (hook): contrarian > myth genérico.** Com os posts agente-era já medidos:
+  - `hook:contrarian` (**n=7**): alcance mediano **424**, saves/r mediano **0,018**. Inclui carga-carbo 1.661, periodização 951, bicarbonato 424.
+  - `hook:myth` (**n=16**): alcance mediano **312**, saves/r mediano **0,011**. Backbone estável (cafeína 979, proteína 683, cãibra 656, jejum 627), mas teto e densidade de save menores que o contrarian.
+  - Leitura: enquadrar como "o protocolo que quase todo mundo faz errado" (contrarian) rende mais save que "esse mito diz X" (myth). Amostra ainda modesta, mas a direção é consistente com os campeões all-time.
 
 ### O que eles comentam
-- **A audiência salva e compartilha, mas quase não comenta** — comportamento idêntico em todas as coletas. **90 comentários** somando 168 posts; apenas **37 posts com ≥1** comentário; **mediana de 0 por post**. Comentar não é o comportamento dominante.
-- Maior ímã de comentário (contagem, não texto): **Reel de nitrato (~16 comentários)**, muito acima de tudo; depois um pelotão de ~4–5 em Reels/carrosséis de **comparação de produto** (maltodextrina, ranking de carboidrato, hidrogel, "15 g de carbo/h", gel) e no carrossel de **magnésio/sono** (1.164 de alcance, 4 comentários). Hipótese fraca (poucos casos): perguntas "serve pra mim?" concentram-se em **comparação de produto**.
-- **Análise temática do TEXTO dos comentários: ainda não executada** — depende da Graph API com escopo `instagram_manage_comments`, inacessível a esta rotina (ver abaixo). O `posts_db.json` guarda só a **contagem** de comentários, não o texto.
+- **A audiência salva e compartilha, mas quase não comenta** — idêntico em todas as coletas. **91 comentários** somando 178 posts; apenas **38 posts com ≥1**; **mediana 0 por post**. Comentar não é o comportamento dominante.
+- Maior ímã de comentário (contagem): **Reel de nitrato (16 comentários)**, muito acima de tudo; depois um pelotão de ~3–5 em **comparação de produto** (maltodextrina 5, ranking carbo em pó 5, hidrogel 5, "15 g carbo/h" 5, melhor-café humor 4, gel 4) e no carrossel de **magnésio/sono (4)**. Hipótese estável (ainda só por contagem): perguntas "serve pra mim?" concentram-se em **comparação de produto** — exatamente o terreno do futuro banco de respostas.
+- **Texto dos comentários: ainda não lido** — depende de token válido + escopo `instagram_manage_comments`. O `posts_db.json` guarda só a contagem.
+
+### Novos formatos (agente-era) — AGORA com métrica (coleta 11/10), mas amostras pequenas
+- **Técnico com foto (`visual:foto`, n=3):** 1.661 / 272 / 226. O breakout foi **UM post** — e era a **família campeã (carga de carbo)**. Os outros dois posts com foto (sono 272, ice-slurry 226) foram medianos. **A foto NÃO é a alavanca isolada** — ela andou junto do tópico campeão. Não declarar "foto = padrão vencedor" com n=3; medir ≥10.
+- **Provocativo / "se fosse" (`prov_*`/`se-fosse`, n=3):** 484 → 253 → 164, saves/shares baixíssimos. **Confirma a decisão de ENCERRAR** (o Victor já encerrou). A curiosidade não se sustenta após o 1º.
+- **Versus "marca vs marca" (`vs_*`, n=2):** 436 (gel diferenciado Maurten×GU) vs **109 (creatina commodity, 0 shares)**. **Confirma a hipótese:** versus só rende quando os produtos **diferem de fato**. (Nota: `vs_005` beta-alanina Max×Atlhetica foi publicado 27/10 — ainda sem métrica; vai testar de novo a regra "só produtos distintos".)
+- **hook:number (n=2):** 272/226 — fraco até agora, amostra mínima.
 
 ### Implicação de conteúdo (o que os dados sustentam)
-Otimizar para **salvável/compartilhável** (carrossel de mito + comparação de produto), não para "pergunta no fim que peça comentário". Priorizar fueling / hidratação / sono / cafeína / comparação de produto; reduzir suplemento de nicho. A alavanca de alcance mais provável segue sendo **tirar o carrossel da janela de 8h BRT (11h UTC)** — mas ver a ressalva de confundimento abaixo antes de tratar qualquer horário como regra fechada.
+Otimizar para **salvável/compartilhável** (carrossel de **mito/contrarian + comparação de produto que diferem**), não para "pergunta no fim pedindo comentário". Priorizar fueling / hidratação / sono / cafeína / **carga de carbo (família campeã)** / comparação de produto distinto; **reduzir suplemento de nicho** (pillar supplements n=12: alcance 234, shares/r só 0,004 — o fundo). Preferir hook **contrarian** ("quase todo mundo faz errado + número + protocolo") ao hook myth genérico.
 
-### Janelas de publicação (carrossel, BRT) — LER COM A RESSALVA DE LOTE
-- **Por dia:** segunda **668** (n=14) e terça **630** (n=5) no topo; quinta 590 (n=8); quarta 412 (n=10); **sexta é o pior (236, n=32)** — e concentra o maior volume histórico. _Não há carrossel medido em fim de semana._
-- **Por hora:** 12h BRT = **828** (n=17), 15h BRT = 762 (n=9), 17h = 754 (n=2), 16h = 594 (n=6); **8h BRT = 269 (n=13) — a janela fraca, e é onde a automação realmente publica**; 13h–14h são os piores (158–212).
-- **⚠️ Ressalva de integridade (registrada em `learnings.md`, 06/10):** a leitura "12h/15h BRT rende ~3x" está **confundida por lote** — dos 17 carrosséis de 12h BRT (15h UTC), 8 saíram no mesmo dia (03/07) e 6 em 07/08; as faixas "piores" de fim de tarde são quase inteiras o lote de 07/08 (17 posts num dia só). O **único sinal limpo por dias distintos é 8h BRT (11h UTC), n=13, mediana 269** — e coincide com a fase de carrossel só-texto. "Pior dia = sexta" (n=32) também concentra lotes. **Tratar horário/dia como teste a validar (≥10 posts por janela em dias distintos), não como fato.**
+### Janelas de publicação (carrossel, UTC) — com correção de LOTE (dias distintos)
+Reconfirmado sobre o dataset de 11/10:
+
+| janela UTC | nPosts | medPost | dias distintos | med/dia | leitura |
+|---|---|---|---|---|---|
+| **18h** | 10 | 696 | 7 | **630** | **melhor janela limpa** |
+| 19h | 8 | 504 | 6 | 459 | boa |
+| **14h** | 6 | 449 | 6 | **449** | boa (o breakout saiu aqui, 14h48) |
+| 11h | 15 | 300 | 15 | 300 | **fraca, limpa e grande — e é onde a automação publica** |
+| 20h | 4 | 454 | 4 | 454 | ok |
+| 15h | 17 | 828 | 5 | 973 | **ainda confundida por lote — NÃO usar como âncora** |
+| 16h / 17h | 6 / 7 | 158 / 213 | 2 / 2 | — | confundidas (poucos dias) |
+
+**Dia da semana (dias distintos):** ter **552** (melhor) > qua 484 > qui 449 > seg 364 > **sex 331 (pior, 9 dias distintos)**. Fim de semana sem amostra. _(Nota: a seg caiu de 654→364 na recontagem por dias distintos desta rodada — não tratar seg como janela forte sem reteste.)_
+
+**Janela recente:** últimos 10 carrosséis mediana **262** (05–10/10); últimos 20 = **267**. **Segue bem abaixo do baseline 366** — o problema recente é de alcance, não de formato.
 
 ---
 
-## ⚠️ Achados operacionais (status das alavancas — contexto de `current_strategy.md` 04/10 e `learnings.md`)
-1. **Estático "você sabia" — pausa agora ENFORÇADA EM CÓDIGO (04/10).** A flag `STATIC_PAUSED` no `publisher.py` faz o publisher recusar qualquer item `static`. Era a decisão que ficou 4 semanas só no documento. Resolvido no único chokepoint que o loop semanal controla.
-2. **Horário (12h BRT / 15h UTC) ainda depende da rotina DIÁRIA e do cron.** O `publisher.py` ignora `scheduled_for`; quem define o horário é o cron do `publish.yml` (`0 12 * * *` UTC) e os `workflow_dispatch` da rotina diária (~11h). Mover `0 12`→`0 15` precisa de permissão de Workflows no token (que o token fine-grained não tem) — **escalado ao Victor**.
-3. **Novidades de 06/10 (decididas com o Victor) — ainda SEM dado próprio para medir:** novo carrossel provocativo diário com imagens (`prov_*`, ~17h BRT); carrossel técnico passa a ter foto na capa + miolo e hook mais afiado (~12h BRT); rotina diária passa a consumir a fila `der_*` (derivados de vencedores) antes de criar tema novo; quality gate ganhou travas em código. **Nenhum `prov_*` nem carrossel-com-foto tem métrica ainda** (coleta é de 04/10; esses posts são de 05–06/10 em diante).
-
-_Estes são achados de observação; esta rotina é só de estudo e não altera nada._
-
----
-
-## Demografia — bloqueio (arquitetural, inalterado)
-- O token válido da Página é gravado como **Secret do GitHub Actions** (`secrets.INSTAGRAM_ACCESS_TOKEN`). Secrets do GitHub são **write-only** — não podem ser lidos de volta.
-- Esta rotina roda **no Mac**, fora do Actions, então **não alcança o token** (confirmado nesta rodada: `INSTAGRAM_ACCESS_TOKEN` vazio, sem `.env`; `scripts/instagram_api.py` lê o token de `INSTAGRAM_ACCESS_TOKEN`). Nenhuma chamada à Graph API (`follower_demographics`/`engaged_audience` com breakdown age/gender/city/country, `online_followers`, `{media-id}/comments`) é possível a partir daqui.
-- **Não há arquivo de dado próprio de demografia/comentários commitado** no repo (verificado nesta rodada).
+## Demografia — bloqueio (agora: token do Mac EXPIRADO)
+- Existe um `.env` no Mac (`SFN/Instagram Agent/.env`) com `INSTAGRAM_ACCESS_TOKEN` — porém **expirado em 26/08/2026** (OAuthException 190). Testado nesta rodada via `debug_token` e `GET /{ig-id}`: inválido.
+- O token válido da Página segue como **Secret do GitHub Actions** (`secrets.INSTAGRAM_ACCESS_TOKEN`), write-only, inalcançável a esta rotina que roda no Mac.
+- **Não há arquivo de demografia/comentários commitado** no repo (reconfirmado).
+- Nenhuma chamada a `follower_demographics`/`engaged_audience` (breakdown age/gender/city/country), `online_followers` ou `{media-id}/comments` é possível a partir daqui.
 
 **Para desbloquear (decisão do Victor):**
-- **(preferida)** Adicionar um passo no **GitHub Actions** (ex.: estender `bootstrap.py`/`analytics_collector.py`) que puxe `follower_demographics`/`online_followers` **e o texto dos comentários** dos ~15 posts recentes e faça **commit** de um JSON no repo (`data/audience_demographics.json`, `data/comments_recent.json`). Aí esta rotina passa a ler dado próprio — sem precisar do token no Mac.
-- **(alternativa, menos segura)** Colocar um token de leitura válido (com `instagram_manage_insights` e `instagram_manage_comments`) acessível ao Mac — duplica credencial fora do Actions.
-
-> Nomes de métricas: a Graph API depreciou `audience_*`; o vigente é `follower_demographics` (e/ou `engaged_audience`) com `breakdown` em `age`/`gender`/`city`/`country`, e `online_followers` para horários. Requisito mínimo de seguidores (9,5k) costuma ser atendido; confirmar permissão/escopo ao instrumentar.
+- **(preferida)** Passo no **GitHub Actions** que puxe `follower_demographics`/`online_followers` **e o texto dos comentários** dos ~15 posts recentes e **commite** `data/audience_demographics.json` + `data/comments_recent.json`. Aí esta rotina lê dado próprio sem token no Mac.
+- **(rápida p/ já)** Regerar o token de longa duração e atualizar o `.env` do Mac (com `instagram_manage_insights` + `instagram_manage_comments`) — duplica credencial fora do Actions, mas destrava demografia E comentários imediatamente para o estudo.
+- Métricas vigentes: `follower_demographics`/`engaged_audience` com `breakdown` age/gender/city/country; `online_followers` p/ horários. Requisito mínimo de seguidores (9,5k) costuma ser atendido; confirmar escopo ao instrumentar.
 
 ---
 
-## Comentários — PENDENTE de instrumentação + escopo `instagram_manage_comments`
-O estudo do **texto** dos comentários dos posts recentes continua **não executado**, por dois bloqueios encadeados: (1) o token só existe no Actions, inacessível a esta rotina no Mac; (2) ler (e futuramente responder) comentários exige o escopo **`instagram_manage_comments`** — o mesmo necessário para responder no futuro. Enquanto isso, o levantamento de sentimento e das perguntas/objeções mais frequentes (embrião do futuro **banco de respostas**) fica parado. O que dá para dizer só por contagem: volume baixíssimo (90 comentários / 168 posts, mediana 0), concentrado em **comparação de produto** e no **Reel de nitrato**.
+## Comentários — PENDENTE de token válido + escopo `instagram_manage_comments`
+O estudo do **texto** dos comentários segue **não executado**: (1) token do Mac expirado; (2) ler/responder comentário exige **`instagram_manage_comments`** — o mesmo escopo necessário para responder no futuro. O embrião do **banco de respostas** (sentimento + perguntas/objeções mais frequentes) fica parado. Só por contagem: volume baixíssimo (91 comentários / 178 posts, mediana 0), concentrado em **comparação de produto** e no **Reel de nitrato**.
 
 ---
 
 ## Lacunas de dados (o que ainda não conseguimos medir)
-- Demografia (idade/gênero/local) e `online_followers` — bloqueado pelo acesso ao token (acima).
-- **follows/reach** e `profile_visits` por post — não vêm no import atual do `posts_db.json`; conversão em seguidor segue **cega no nível do post** (só o agregado é visível, e está saudável: +111/semana).
-- Texto/sentimento dos comentários — ver seção acima.
-- Efeito dos novos formatos de 06/10 (`prov_*`, carrossel com foto) — sem métrica até a próxima coleta.
+- Demografia (idade/gênero/local) e `online_followers` — token do Mac expirado; sem arquivo próprio.
+- **follows/reach** e `profile_visits` por post — o snapshot `import` do `posts_db.json` não traz esses campos; conversão em seguidor segue **cega no nível do post**.
+- Texto/sentimento dos comentários — ver acima.
+- **Coleta de métricas parada em 11/10 (~17 dias atrás).** O agente seguiu publicando até 27/10 (cards informativos `card_*`, `der_cafeina_dose_timing`, `vs_005`), mas **nada depois de 10/10 foi medido** (5 posts de 26–27/10 sem métrica). Toda a safra pós-11/10 — inclusive a nova série `card_*` de 19h30 — está **invisível** até a próxima coleta.
 
 ---
 
 ## HISTÓRICO POR EXECUÇÃO
 
-### 2026-10-07 (5ª execução)
-**O que foi feito:** re-análise completa de engajamento sobre a **nova coleta de 04/10** do `posts_db.json` (168 posts com métricas / 171 no total). Reconfirmação dos bloqueios de token/demografia/comentários no Mac (token vazio, sem `.env`, sem arquivo próprio commitado). O documento vivo foi alinhado ao dataset de 04/10 e às decisões da revisão de 04–06/10.
+### 2026-10-28 (6ª execução)
+**O que foi feito:** 1ª análise de audiência sobre a **coleta de 11/10** (178 posts medidos / 185 no total). Teste direto do token agora presente no `.env` do Mac (resultado: **expirado 26/08**). Reconfirmação de que não há arquivo de demografia/comentários no repo. Reanálise de engajamento por formato, hook, pillar, janela (dias distintos) e contagem de comentários. Novos formatos agente-era medidos pela 1ª vez.
 
-**O que mudou desde a última execução (30/09):**
-- **Chegou uma coleta nova (04/10).** O doc anterior refletia a coleta de 27/09 (160 posts); agora há **168 posts medidos**, todos com `collected_at = 2026-10-04`. O post medido mais recente é de **03/10**; os posts de 05–06/10 (inclui os novos `prov_*` e carrosséis com foto) **ainda não têm métrica**.
-- **Baseline do carrossel recomputado para baixo: 474 → 418** (n 65→69). Janela recente segue fraca: 14d=242 (n=8), 7d=204 (n=4). Alinha com `current_strategy.md` (04/10).
-- **Base de seguidores:** 9.418 → **9.529** (+111; abaixo do pico de +152, ainda positivo).
-- **Decisões de estratégia implementadas/novas desde 30/09:** `STATIC_PAUSED` agora **em código** no `publisher.py` (04/10); novos formatos diários decididos em 06/10 (`prov_*` provocativo com imagem; carrossel técnico com foto; rotina diária consome fila `der_*`; travas no quality gate).
-- **Correção de integridade incorporada ao resumo:** a vantagem de "12h/15h BRT ~3x" está **confundida por lote** (registrado em `learnings.md` 06/10). O resumo de janelas agora traz essa ressalva; só 8h BRT (n=13, dias distintos) é sinal limpo.
+**O que mudou desde a última execução (07/10):**
+- **Coleta nova (11/10):** de 168→**178 posts medidos** (185 total). Todos com checkpoint único `import`, `collected_at = 11/10`. Post medido mais recente: **10/10**.
+- **Novos formatos finalmente têm número:** foto (n=3), provocativo (n=3), versus (n=2), hook:number (n=2) — ver seção "Novos formatos". Principais leituras: **o breakout da foto foi 1 post de família campeã (não a foto isolada)**; provocativo e versus-commodity confirmados como fracos.
+- **Novo achado de hook:** **contrarian (n=7, med 424, saves/r 0,018) > myth genérico (n=16, med 312, saves/r 0,011)** — direção consistente; adicionado a `learnings.md`.
+- **Seguidores:** série fechou em **9.516 (−13)**, 1ª semana não-positiva — e **sem dado novo desde 11/10** para confirmar tendência.
+- **Token do Mac:** antes "vazio/sem .env"; agora **há .env, mas token expirado** — refinamento do bloqueio (regerar o token destrava tudo imediatamente).
+- **Janelas reconfirmadas por dias distintos:** 18h UTC melhor limpa (630); 15h ainda confundida por lote; seg caiu para 364 na recontagem.
 
-**Achados reconfirmados (estáveis em 5 coletas):** carrossel domina (418 vs reel 256 vs estático 209); myth-busting + protocolo prático vence; comparação de produto gera compartilhamento; suplemento de nicho no fundo; audiência salva/compartilha e quase não comenta (90 comentários, mediana 0, Reel de nitrato como outlier de comentário); nenhum vencedor novo de grande alcance na janela recente.
+**Achados reconfirmados (estáveis em 6 coletas):** carrossel domina (366 vs 256 vs 226); myth/contrarian + protocolo vence; comparação de produto gera compartilhamento e concentra os poucos comentários; suplemento de nicho no fundo; audiência salva/compartilha e quase não comenta (mediana 0, Reel de nitrato outlier); alcance recente de carrossel (262) abaixo do baseline.
 
-**Bloqueios que persistem:** demografia e texto de comentários seguem **não medíveis** por esta rotina — sem token acessível no Mac e sem arquivo de dado próprio commitado. Depende de instrumentação no Actions (+ escopo `instagram_manage_comments` para comentários).
+**Bloqueios que persistem:** demografia e texto de comentários **não medíveis** (token do Mac expirado, sem arquivo próprio commitado). **Coleta de métricas parada em 11/10** — a safra pós-11/10 (cards, novos der_*, vs_005) está invisível.
 
 **A confirmar na próxima execução:**
-- Se houve **nova coleta** após 04/10, para finalmente medir os `prov_*` e os carrosséis com foto (hipótese de 06/10: provocativo com imagem teve shares/reach ~4,5% num único post — medir em ≥10).
-- Se o cron de horário (15h UTC) e o consumo da fila `der_*` chegaram de fato à rotina diária (render + approve), subindo o alcance mediano do carrossel para 500+.
-- Se foi criado o **passo de Actions** que commita demografia/comentários — e, se sim, iniciar a análise demográfica e temática dos comentários com dado próprio.
+- Se houve **coleta nova após 11/10** — destrava medir a série `card_*` (19h30), `vs_005` beta-alanina, `der_cafeina_dose_timing` e confirmar se o −13 virou tendência.
+- Se o token do Mac foi **regerado** (ou se entrou o passo de Actions que commita demografia/comentários) — aí iniciar demografia + análise temática de comentários.
+- Reteste do hook **contrarian > myth** com mais posts; e da foto como alavanca (≥10 posts com foto).
+
+### 2026-10-07 (5ª execução)
+Reanálise sobre a coleta de 04/10 (168 posts / 171 total). Reconfirmou bloqueios de token/demografia/comentários no Mac (à época: token vazio, sem `.env`). Baseline carrossel recomputado 474→418. Base 9.418→9.529 (+111). Incorporou correção de integridade das janelas (confundimento por lote; só 8h BRT era sinal limpo).
 
 ### 2026-09-30 (4ª execução)
-Re-análise de engajamento sobre `posts_db.json` (160 posts / 163 total; coleta de 27/09). Nenhuma coleta nova desde 27/09 à época — quadro idêntico ao do ciclo 27/09. Documento alinhado ao dataset de 160 posts; base 9.266→9.418 (+152). Reconfirmado: carrossel domina; myth-busting vence; comparação de produto compartilha; nicho no fundo; mediana 0 de comentário; alcance recente de carrossel abaixo do baseline (319 vs 474). Bloqueios de demografia/comentários persistem.
+Reanálise (160 posts / 163 total; coleta 27/09). Quadro idêntico ao ciclo 27/09. Base 9.266→9.418 (+152). Carrossel domina; myth-busting vence; comparação compartilha; nicho no fundo; mediana 0 de comentário.
 
 ### 2026-09-23 (3ª execução)
-Re-análise de engajamento (151 posts). Sem novos posts medidos desde 19/09. Diagnóstico do bloqueio de demografia mudou de "token expirado" para **arquitetural** (token só no Actions, inalcançável do Mac). Recomendação: instrumentar passo no Actions que commite demografia/comentários. Registrados dois achados operacionais: horário não corrigido (publica ~08h BRT) e estático não pausado.
+Reanálise (151 posts). Diagnóstico do bloqueio de demografia mudou de "token expirado" para **arquitetural** (token só no Actions). Registrados achados operacionais: horário publica ~08h BRT; estático não pausado.
 
-### 2026-09-16 (1ª execução desta rotina)
-Primeira montagem do documento; análise de engajamento com 135 posts. Graph API falhou por **token expirado (26/08)**. Achados: carrossel > Reel; sono/recuperação é o tema de maior alcance mediano (1.164); sexta é o pior dia; audiência salva/compartilha e quase não comenta (mediana 0).
+### 2026-09-16 (1ª execução)
+Primeira montagem do documento; 135 posts. Graph API falhou por token expirado (26/08). Achados: carrossel > Reel; sono/recuperação maior alcance mediano (1.164); sexta pior dia; audiência salva/compartilha e quase não comenta.
 
-_(A revisão estratégica de 20/09 e os ciclos de 27/09 e 04–06/10 — pausa/enforce do estático, proibição de sexta, padrão 12h BRT, corte de suplemento de nicho, família "carga de carbo", reteste de sono, novos formatos `prov_*`/foto — estão em `current_strategy.md` e `learnings.md`.)_
+_(As revisões estratégicas e decisões — pausa/enforce do estático, proibição de sexta, famílias vencedoras, retestes, formatos prov_*/foto/versus, volta do card informativo 19h30 — estão em `current_strategy.md` e `learnings.md`.)_
