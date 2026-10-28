@@ -822,11 +822,13 @@
       "format": "carousel",
       "topic": "cafeína em cápsula: Max Titanium Fire Black vs Probiótica Thermogenic (rótulo lado a lado)",
       "hook": "Cafeína em cápsula: Max Titanium vs. Probiótica. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-28T20:07:15.991423+00:00",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:cafeina, pair:maxtitanium-probiotica"
+      "notes": "marca x marca — category:cafeina, pair:maxtitanium-probiotica",
+      "published_at": "2026-10-28T20:08:41.805000+00:00",
+      "post_id": "18428481298148106"
     }
   ]
 }

@@ -455,3 +455,10 @@
 {"ts": "2026-10-28T15:01:19.999694+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_erros -> media_id 18640230325058244"}
 {"ts": "2026-10-28T15:01:20.017364+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-28T17:53:52.336939+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-28T20:07:51.950359+00:00", "level": "INFO", "msg": "Publicando vs_006 (carousel) \u2014 cafe\u00edna em c\u00e1psula: Max Titanium Fire Black vs Probi\u00f3tica Thermogenic (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-28T20:07:51.953487+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-28T20:07:51.953573+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_006/slide_01.png"}
+{"ts": "2026-10-28T20:07:53.373778+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-28T20:08:34.338697+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-28T20:08:41.804832+00:00", "level": "INFO", "msg": "PUBLICADO: vs_006 -> media_id 18428481298148106"}
+{"ts": "2026-10-28T20:08:41.818959+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

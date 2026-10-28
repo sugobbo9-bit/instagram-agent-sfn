@@ -1,0 +1,224 @@
+{
+  "local_id": "vs_006",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-10-28T00:00:00Z",
+  "topic": "cafeína em cápsula: Max Titanium Fire Black vs Probiótica Thermogenic (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Cafeína em cápsula: Max Titanium vs. Probiótica. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:cafeina",
+    "pair:maxtitanium-probiotica"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Max Titanium Fire Black",
+      "brand": "Max Titanium",
+      "image": "content/drafts/vs_006/img/max_fireblack.png",
+      "label_source": {
+        "url": "https://www.maxtitanium.com.br/fire-black-60-caps/p?skuid=16",
+        "consulted": "2026-10-28",
+        "notes": "Informação Nutricional (porção 0,7 g = 2 cápsulas = 400 mg de cafeína; 30 porções por embalagem) + descrição e ingredientes da página oficial; pote de 60 cápsulas; dispensado de registro na Anvisa (RDC 27/2010)."
+      }
+    },
+    {
+      "name": "Probiótica Thermogenic",
+      "brand": "Probiótica",
+      "image": "content/drafts/vs_006/img/prob_thermogenic.jpg",
+      "label_source": {
+        "url": "https://www.probiotica.com.br/thermogenic-120-capsulas/p",
+        "consulted": "2026-10-28",
+        "notes": "Descrição, ingredientes e recomendação de uso da página oficial: cafeína anidra 200 mg/cápsula; porção de 2 cápsulas = 400 mg; pote de 120 cápsulas; dispensado de registro na Anvisa (RDC 27/2010)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas cafeínas.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_006/img/max_fireblack.png",
+          "mode": "multiply",
+          "label": "Max Titanium Fire Black"
+        },
+        {
+          "image": "content/drafts/vs_006/img/prob_thermogenic.jpg",
+          "mode": "multiply",
+          "label": "Probiótica Thermogenic"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína por cápsula",
+      "values": [
+        {
+          "value": "200 mg"
+        },
+        {
+          "value": "200 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Porção recomendada",
+      "values": [
+        {
+          "value": "2 cápsulas"
+        },
+        {
+          "value": "2 cápsulas"
+        }
+      ],
+      "footnote": "Nos dois, a porção declara 400 mg de cafeína."
+    },
+    {
+      "type": "metric",
+      "headline": "Tipo de cafeína",
+      "values": [
+        {
+          "value": "Anidra"
+        },
+        {
+          "value": "Anidra"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Outros ativos além da cafeína",
+      "values": [
+        {
+          "value": "Nenhum",
+          "note": "só excipientes: amido de milho e antiumectantes"
+        },
+        {
+          "value": "Nenhum",
+          "note": "só excipientes: amido de milho e antiumectantes"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cápsulas por pote",
+      "values": [
+        {
+          "value": "60"
+        },
+        {
+          "value": "120"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Porções por pote",
+      "values": [
+        {
+          "value": "30"
+        },
+        {
+          "value": "60"
+        }
+      ],
+      "footnote": "Uma porção = 2 cápsulas nos dois rótulos."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "A dose de cafeína com evidência de efeito na resistência fica entre 3 e 6 mg por quilo de peso, cerca de 60 minutos antes do esforço. Para alguém de 70 kg, isso dá de 210 a 420 mg, ou seja, de 1 a 2 cápsulas de 200 mg.\n\nAcima de ~9 mg/kg os efeitos colaterais aumentam sem benefício a mais no desempenho. Por isso o número que conta no rótulo é a cafeína por cápsula: é ele que você ajusta contra o seu peso.",
+      "source": "Rótulos e sites oficiais Max Titanium e Probiótica, consultados em 28/10/2026.\nGuest NS, VanDusseldorp TA, Nelson MT, et al. J Int Soc Sports Nutr. 2021;18(1):1.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu peso, do seu objetivo e de quantas doses você quer no pote.\n\nMax Titanium Fire Black: cafeína anidra, 200 mg por cápsula, porção de 2 cápsulas (400 mg), pote de 60 cápsulas (30 porções). Dispensado de registro na Anvisa (RDC 27/2010).\n\nProbiótica Thermogenic: cafeína anidra, 200 mg por cápsula, porção de 2 cápsulas (400 mg), pote de 120 cápsulas (60 porções). Dispensado de registro na Anvisa (RDC 27/2010).\n\nNos dois, o único ativo declarado é a cafeína; o resto são excipientes (amido de milho e antiumectantes).\n\nDados dos rótulos e sites oficiais da Max Titanium e da Probiótica, consultados em 28/10/2026. São as versões vendidas no Brasil; confira sempre o rótulo do pote que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Guest NS, VanDusseldorp TA, Nelson MT, et al. International society of sports nutrition position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18(1):1.\n\nImagens: fotos de produto dos sites oficiais da Max Titanium e da Probiótica.\n\n#nutricaoesportiva #cafeina #cafeinaanidra #corrida #ciclismo #triathlon #endurance #suplementos",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+      "authors": "Guest NS, VanDusseldorp TA, Nelson MT, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "1",
+      "doi": "10.1186/s12970-020-00383-4",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00383-4",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Max Titanium Fire Black",
+      "kind": "packshot",
+      "title": "Fire-Black---Frente.png",
+      "creator": "Max Titanium",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maxtitanium.com.br/fire-black-60-caps/p?skuid=16",
+      "changes": "sem alteração (fundo branco original)"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Probiótica Thermogenic",
+      "kind": "packshot",
+      "title": "Thermogenic-1.jpg",
+      "creator": "Probiótica",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.probiotica.com.br/thermogenic-120-capsulas/p",
+      "changes": "sem alteração (fundo branco original)"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-28 nas páginas oficiais. Max Titanium Fire Black: Informação Nutricional (porção 0,7 g / 2 cápsulas / 400 mg cafeína; 30 porções; 60 cápsulas) + ingredientes (cafeína anidra + amido de milho + antiumectantes dióxido de silício e fosfato tricálcico). Probiótica Thermogenic: 200 mg cafeína anidra/cápsula; porção 2 cápsulas / 400 mg; 120 cápsulas; mesmos excipientes. Os dois dispensados de registro na Anvisa (RDC 27/2010).",
+  "creative_files": [
+    "content/drafts/vs_006/slide_01.png",
+    "content/drafts/vs_006/slide_02.png",
+    "content/drafts/vs_006/slide_03.png",
+    "content/drafts/vs_006/slide_04.png",
+    "content/drafts/vs_006/slide_05.png",
+    "content/drafts/vs_006/slide_06.png",
+    "content/drafts/vs_006/slide_07.png",
+    "content/drafts/vs_006/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18428481298148106",
+  "published_at": "2026-10-28T20:08:41.805000+00:00"
+}
