@@ -462,3 +462,9 @@
 {"ts": "2026-10-28T20:08:34.338697+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-10-28T20:08:41.804832+00:00", "level": "INFO", "msg": "PUBLICADO: vs_006 -> media_id 18428481298148106"}
 {"ts": "2026-10-28T20:08:41.818959+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-28T22:39:03.440196+00:00", "level": "INFO", "msg": "Publicando card_002 (static) \u2014 aclimata\u00e7\u00e3o ao calor (heat acclimation) melhora o desempenho at\u00e9 em clima fresco"}
+{"ts": "2026-10-28T22:39:03.443067+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-28T22:39:03.443135+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_002/card.png"}
+{"ts": "2026-10-28T22:39:03.645942+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-28T22:39:15.129019+00:00", "level": "INFO", "msg": "PUBLICADO: card_002 -> media_id 18026524589921835"}
+{"ts": "2026-10-28T22:39:15.142781+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

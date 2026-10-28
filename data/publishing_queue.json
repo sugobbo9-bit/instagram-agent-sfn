@@ -835,11 +835,13 @@
       "format": "static",
       "topic": "aclimatação ao calor (heat acclimation) melhora o desempenho até em clima fresco",
       "hook": "10 dias treinando no calor melhoraram o contrarrelógio em 8% no calor — e em 6% até em clima fresco.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-28T19:40:00-03:00",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:aclimatacao-calor"
+      "notes": "card informativo — mode:tema, topic:aclimatacao-calor",
+      "published_at": "2026-10-28T22:39:15.129180+00:00",
+      "post_id": "18026524589921835"
     }
   ]
 }

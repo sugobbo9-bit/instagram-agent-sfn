@@ -1,0 +1,46 @@
+{
+  "local_id": "card_002",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-10-28T19:40:00-03:00",
+  "topic": "aclimatação ao calor (heat acclimation) melhora o desempenho até em clima fresco",
+  "content_pillar": "fisiologia",
+  "hook": "10 dias treinando no calor melhoraram o contrarrelógio em 8% no calor — e em 6% até em clima fresco.",
+  "subtext": "O calor expande o volume de plasma (+6,5%) e o débito cardíaco: mais sangue por batimento, em qualquer temperatura.",
+  "source_line": "Lorenzo et al., J Appl Physiol, 2010 (12 ciclistas treinados, 10 dias a 40 °C)",
+  "badge": "Técnica",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:aclimatacao-calor"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Treinar no calor não é só pra aguentar o calor. 🥵\n\nNum estudo com 12 ciclistas treinados, 10 dias de aclimatação (pedal leve a 40 °C) melhoraram o contrarrelógio em 8% no calor (38 °C) e em 6% num ambiente fresco (13 °C). O VO2max subiu 5% no fresco e 8% no calor. O grupo controle, com o mesmo treino a 13 °C, não mudou nada. O mecanismo: o calor expande o volume de plasma (+6,5%) e o débito cardíaco máximo — mais sangue por batimento, em qualquer temperatura.\n\nNa prática: com o verão chegando, os treinos quentes já são a aclimatação. Progrida aos poucos (5 a 10 dias), hidrate bem e segure a intensidade no começo — o ganho vem da exposição, não do sofrimento.\n\nFonte: Lorenzo et al., Heat acclimation improves exercise performance. J Appl Physiol, 2010. DOI 10.1152/japplphysiol.00495.2010\n\n#nutricaoesportiva #aclimatacao #treinonocalor #corrida #ciclismo #triathlon #endurance",
+  "cta": "Salva pra montar seu bloco de calor antes da próxima prova.",
+  "scientific_sources": [
+    {
+      "title": "Heat acclimation improves exercise performance",
+      "authors": "Lorenzo S, Halliwill JR, Sawka MN, Minson CT",
+      "journal": "Journal of Applied Physiology",
+      "year": 2010,
+      "volume": "109",
+      "issue": "4",
+      "pages": "1140-1147",
+      "doi": "10.1152/japplphysiol.00495.2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20724560",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_002/card.png"
+  ],
+  "post_id": "18026524589921835",
+  "published_at": "2026-10-28T22:39:15.129180+00:00"
+}
