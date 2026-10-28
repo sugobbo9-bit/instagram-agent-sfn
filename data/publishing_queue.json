@@ -488,11 +488,16 @@
       "format": "carousel",
       "topic": "os erros que sabotam a carga de carboidrato",
       "hook": "3 erros de carga de carbo que te fazem largar pesado — nenhum é comer demais.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-28",
       "scheduled_for": "2026-10-08T15:00:00Z",
       "priority": 1,
-      "notes": "Segundo derivado de carga_carbo_918. Versão 'mistake-based' da família vencedora. Preserva o insight, muda a embalagem. Publicar qui 12h BRT (15h UTC)."
+      "notes": "Segundo derivado de carga_carbo_918. Versão 'mistake-based' da família vencedora. Preserva o insight, muda a embalagem. Publicar qui 12h BRT (15h UTC).",
+      "published_at": "2026-10-28T15:01:19.999873+00:00",
+      "post_id": "18640230325058244",
+      "ghost_post_id": "6ae20e417e51a200012dd82a",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-3-erros-largar-pesado/",
+      "ghost_status": "published"
     },
     {
       "local_id": "der_sono_retest",

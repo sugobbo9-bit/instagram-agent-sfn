@@ -1,0 +1,137 @@
+{
+  "local_id": "der_carga_carbo_erros",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-10-28T00:00:00Z",
+  "topic": "os erros que sabotam a carga de carboidrato",
+  "content_pillar": "fueling",
+  "hook": "3 erros de carga de carbo que te fazem largar pesado — nenhum é comer demais.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carga-carbo",
+    "format:carousel",
+    "visual:texto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "3 erros que te fazem largar pesado",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A ARMADILHA",
+      "headline": "Largar pesado quase nunca é comer demais",
+      "body": "A cena clássica: um prato de macarrão transbordando na véspera e a ordem de 'comer o máximo que aguentar'.\n\nSó que o peso na largada raramente vem da quantidade. Vem de três erros de execução — e dá pra evitar os três.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "ERRO 1 — POUCO E TARDE",
+      "headline": "Só o macarrão da véspera",
+      "body": "Um jantarzão não enche o glicogênio. O estoque sobe com carboidrato ao longo do dia e o treino reduzido.\n\nNum estudo com atletas, 10 g/kg de carbo por dia + repouso levaram o glicogênio muscular de 95 para 180 mmol/kg em 24h.\n\nPara provas acima de 90 min, a recomendação é 10 a 12 g/kg por dia, por 36 a 48h. Uma refeição não chega perto disso.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "ERRO 2 — FIBRA E GORDURA JUNTO",
+      "headline": "Carbo cheio de fibra, gordura e proteína",
+      "body": "Integral, salada, feijão e prato gorduroso na véspera deixam o intestino cheio — e é daí que vem a sensação de peso na largada.\n\n30 a 50% dos atletas de endurance relatam sintomas gástricos. A sugestão (de evidência ainda limitada): nos dias anteriores, priorizar carbo de baixa fibra e já testado no treino.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "ERRO 3 — TREINO NO TALO",
+      "headline": "Encher de carbo e treinar forte",
+      "body": "O glicogênio supercompensa com descanso. No mesmo estudo das 24h, o que fez o estoque disparar foi carbo somado a ficar parado.\n\nManter o volume alto na semana da prova queima justamente o que você tenta estocar.\n\nCarga de carbo é carboidrato pra cima e treino pra baixo — ao mesmo tempo.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Carbo certo, pouca fibra, treino leve.",
+      "body": "A carga que funciona não é a maior — é a mais bem feita. E o 1 a 2 kg que a balança mostra depois? É glicogênio com água, combustível normal.\n\nSalva e manda pro parceiro que 'carrega' só no macarrão da véspera.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Carga de carboidrato é um dos poucos protocolos de nutrição com efeito claro em prova — mas quase todo mundo erra a execução. E o 'peso' na largada raramente vem de comer demais.\n\nErro 1 — pouco e tarde: um jantar de macarrão na véspera não é carga de carbo. Num estudo com atletas treinados, 10 g/kg de carbo por dia somados a repouso elevaram o glicogênio muscular de 95 para 180 mmol/kg em apenas 24h (Bussau, 2002). A recomendação de consenso para provas acima de 90 min é 10 a 12 g/kg por dia, por 36 a 48h (position stand ACSM / Academy of Nutrition and Dietetics, 2016).\n\nErro 2 — fibra, gordura e proteína junto: encher o prato de integrais, salada e comida gordurosa deixa o intestino cheio no dia da prova. Entre 30 e 50% dos atletas de endurance têm sintomas gastrointestinais; reduzir a fibra nos dias anteriores é uma recomendação prática (de evidência ainda limitada) para chegar mais leve (de Oliveira, Burini & Jeukendrup, 2014).\n\nErro 3 — treinar forte: o glicogênio só supercompensa com o treino reduzido. Manter o volume alto queima o que você tenta estocar. Carga de carbo é carbo pra cima e treino pra baixo, ao mesmo tempo.\n\nE a balança subindo 1 a 2 kg? É glicogênio com a água que ele retém — combustível, não gordura.\n\nFontes: Bussau et al., Eur J Appl Physiol, 2002. | Thomas, Erdman & Burke, Position Stand (Academy of Nutrition and Dietetics / Dietitians of Canada / ACSM), J Acad Nutr Diet, 2016. | de Oliveira, Burini & Jeukendrup, Sports Med, 2014.",
+  "cta": "Salva e manda pro parceiro que acha que carga de carbo é só o macarrão da véspera.",
+  "scientific_sources": [
+    {
+      "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+      "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+      "journal": "European Journal of Applied Physiology",
+      "year": 2002,
+      "volume": "87",
+      "issue": "3",
+      "pages": "290-295",
+      "doi": "10.1007/s00421-002-0621-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12111292/",
+      "level": "B"
+    },
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "year": 2016,
+      "volume": "116",
+      "issue": "3",
+      "pages": "501-528",
+      "doi": "10.1016/j.jand.2015.12.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+      "level": "A"
+    },
+    {
+      "title": "Gastrointestinal complaints during exercise: prevalence, etiology, and nutritional recommendations",
+      "authors": "de Oliveira EP, Burini RC, Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S79-S85",
+      "doi": "10.1007/s40279-014-0153-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791919/",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Carga de carboidrato: 3 erros que te fazem largar pesado",
+    "slug": "carga-de-carboidrato-3-erros-largar-pesado",
+    "excerpt": "Largar pesado quase nunca é comer demais. Os três erros de execução que sabotam a carga de carboidrato — e o que a ciência recomenda em cada um.",
+    "meta_title": "Carga de carboidrato: 3 erros comuns e o que a ciência diz",
+    "tags": [
+      "Carga de carboidrato",
+      "Glicogênio",
+      "Nutrição pré-prova",
+      "Endurance"
+    ],
+    "html": "<p>A carga de carboidrato é um dos poucos protocolos de nutrição esportiva com efeito claro no desempenho de provas longas. Ainda assim, é um dos mais mal executados. E o detalhe que mais incomoda — a sensação de <strong>largar pesado</strong> — quase nunca vem de \"comer demais\". Vem de três erros de execução.</p>\n\n<h2>Erro 1: tratar a carga como o macarrão da véspera</h2>\n\n<p>Um jantarzão na noite anterior não enche o glicogênio. O estoque muscular se constrói com carboidrato ao longo do dia e com o treino reduzido — não em uma refeição.</p>\n\n<p>O estudo de Bussau e colegas (<em>European Journal of Applied Physiology</em>, 2002) mostrou que atletas treinados que comeram <strong>10 g/kg de carboidrato por dia</strong> e ficaram em repouso elevaram o glicogênio muscular de <strong>95 para 180 mmol/kg</strong> de massa úmida em apenas <strong>24 horas</strong> — e o estoque se manteve estável depois disso, sem precisar da clássica fase de depleção. O ponto prático: o que enche o tanque é o <em>dia inteiro</em> comendo carboidrato, não um prato isolado.</p>\n\n<p>O <em>position stand</em> conjunto da Academy of Nutrition and Dietetics, Dietitians of Canada e American College of Sports Medicine (2016) recomenda, para provas acima de <strong>90 minutos</strong>, uma ingestão de <strong>10 a 12 g/kg de carboidrato por dia, por 36 a 48 horas</strong>. Uma única refeição não chega perto disso.</p>\n\n<h2>Erro 2: carregar carbo junto com fibra, gordura e proteína</h2>\n\n<p>Encher o prato de integrais, salada, feijão e comida gordurosa na véspera deixa o intestino cheio no dia da prova — e é daí que costuma vir a verdadeira sensação de peso na largada. Não é a quantidade de carboidrato: é o resíduo que ainda está sendo digerido.</p>\n\n<p>Problemas gastrointestinais são comuns em endurance: a revisão de de Oliveira, Burini e Jeukendrup (<em>Sports Medicine</em>, 2014) aponta que <strong>30 a 50% dos atletas</strong> relatam esse tipo de sintoma. Uma recomendação prática — ainda de <strong>evidência limitada</strong>, vale dizer — é reduzir a fibra nos dias que antecedem a prova, priorizando carboidratos de baixa fibra (arroz branco, massa comum, pão branco) e já testados no treino. O objetivo é chegar à largada com o tanque cheio e o intestino leve.</p>\n\n<h2>Erro 3: encher de carbo e continuar treinando forte</h2>\n\n<p>O glicogênio só supercompensa quando o treino é reduzido. No próprio estudo das 24 horas, o que fez o estoque disparar foi a combinação de carboidrato alto <em>somado ao repouso</em>. Manter o volume de treino alto na semana da prova queima justamente o que você está tentando estocar.</p>\n\n<p>Na prática: carga de carboidrato é <strong>carboidrato para cima e treino para baixo, ao mesmo tempo</strong>. Um sem o outro não entrega o resultado.</p>\n\n<h2>E o peso na balança?</h2>\n\n<p>Cada grama de glicogênio é estocado junto com água. Por isso é normal a balança subir cerca de <strong>1 a 2 kg</strong> após uma carga bem feita. Esse peso é combustível com água — não é gordura, e não é o \"peso\" ruim que atrapalha a largada. O peso que atrapalha é o do intestino cheio (erro 2).</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Quando vale a pena</td><td>Provas contínuas acima de ~90 min</td></tr>\n<tr><td>Quantidade</td><td>10 a 12 g/kg de carboidrato por dia</td></tr>\n<tr><td>Duração</td><td>36 a 48 h antes da prova (24 h já eleva bastante)</td></tr>\n<tr><td>Fibra</td><td>Reduzir nos dias anteriores (baixo resíduo)</td></tr>\n<tr><td>Treino</td><td>Reduzido (taper) durante a carga</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>A carga que funciona não é a maior — é a mais bem feita: carboidrato suficiente e distribuído ao longo de 36 a 48 h, baixa fibra nos dias anteriores e treino reduzido. Faça os três juntos e você larga leve, com o tanque cheio.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA. Carbohydrate loading in human muscle: an improved 1 day protocol. <em>Eur J Appl Physiol</em>. 2002;87(3):290–295. doi:10.1007/s00421-002-0621-5</li>\n<li>Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. <em>J Acad Nutr Diet</em>. 2016;116(3):501–528. doi:10.1016/j.jand.2015.12.006</li>\n<li>de Oliveira EP, Burini RC, Jeukendrup A. Gastrointestinal complaints during exercise: prevalence, etiology, and nutritional recommendations. <em>Sports Med</em>. 2014;44(Suppl 1):S79–S85. doi:10.1007/s40279-014-0153-2</li>\n</ol>\n",
+    "cover": "content/drafts/der_carga_carbo_erros/cover.png",
+    "cover_alt": "Carga de carboidrato: 3 erros que te fazem largar pesado — Somente os Fatos Nutrição"
+  },
+  "face_check": {
+    "checked": 0,
+    "unverified": [],
+    "with_faces": []
+  },
+  "creative_files": [
+    "content/drafts/der_carga_carbo_erros/slide_01.png",
+    "content/drafts/der_carga_carbo_erros/slide_02.png",
+    "content/drafts/der_carga_carbo_erros/slide_03.png",
+    "content/drafts/der_carga_carbo_erros/slide_04.png",
+    "content/drafts/der_carga_carbo_erros/slide_05.png",
+    "content/drafts/der_carga_carbo_erros/slide_06.png"
+  ],
+  "post_id": "18640230325058244",
+  "published_at": "2026-10-28T15:01:19.999873+00:00"
+}

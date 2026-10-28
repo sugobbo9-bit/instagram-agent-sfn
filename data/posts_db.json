@@ -8131,6 +8131,75 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18640230325058244",
+      "local_id": "der_carga_carbo_erros",
+      "publication_date": "2026-10-28T15:01:19.999873+00:00",
+      "format": "carousel",
+      "topic": "os erros que sabotam a carga de carboidrato",
+      "content_pillar": "fueling",
+      "hook": "3 erros de carga de carbo que te fazem largar pesado — nenhum é comer demais.",
+      "caption": "Carga de carboidrato é um dos poucos protocolos de nutrição com efeito claro em prova — mas quase todo mundo erra a execução. E o 'peso' na largada raramente vem de comer demais.\n\nErro 1 — pouco e tarde: um jantar de macarrão na véspera não é carga de carbo. Num estudo com atletas treinados, 10 g/kg de carbo por dia somados a repouso elevaram o glicogênio muscular de 95 para 180 mmol/kg em apenas 24h (Bussau, 2002). A recomendação de consenso para provas acima de 90 min é 10 a 12 g/kg por dia, por 36 a 48h (position stand ACSM / Academy of Nutrition and Dietetics, 2016).\n\nErro 2 — fibra, gordura e proteína junto: encher o prato de integrais, salada e comida gordurosa deixa o intestino cheio no dia da prova. Entre 30 e 50% dos atletas de endurance têm sintomas gastrointestinais; reduzir a fibra nos dias anteriores é uma recomendação prática (de evidência ainda limitada) para chegar mais leve (de Oliveira, Burini & Jeukendrup, 2014).\n\nErro 3 — treinar forte: o glicogênio só supercompensa com o treino reduzido. Manter o volume alto queima o que você tenta estocar. Carga de carbo é carbo pra cima e treino pra baixo, ao mesmo tempo.\n\nE a balança subindo 1 a 2 kg? É glicogênio com a água que ele retém — combustível, não gordura.\n\nFontes: Bussau et al., Eur J Appl Physiol, 2002. | Thomas, Erdman & Burke, Position Stand (Academy of Nutrition and Dietetics / Dietitians of Canada / ACSM), J Acad Nutr Diet, 2016. | de Oliveira, Burini & Jeukendrup, Sports Med, 2014.",
+      "cta": "Salva e manda pro parceiro que acha que carga de carbo é só o macarrão da véspera.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+          "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+          "journal": "European Journal of Applied Physiology",
+          "year": 2002,
+          "volume": "87",
+          "issue": "3",
+          "pages": "290-295",
+          "doi": "10.1007/s00421-002-0621-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12111292/",
+          "level": "B"
+        },
+        {
+          "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Journal of the Academy of Nutrition and Dietetics",
+          "year": 2016,
+          "volume": "116",
+          "issue": "3",
+          "pages": "501-528",
+          "doi": "10.1016/j.jand.2015.12.006",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+          "level": "A"
+        },
+        {
+          "title": "Gastrointestinal complaints during exercise: prevalence, etiology, and nutritional recommendations",
+          "authors": "de Oliveira EP, Burini RC, Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S79-S85",
+          "doi": "10.1007/s40279-014-0153-2",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791919/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_carga_carbo_erros/slide_01.png",
+        "content/drafts/der_carga_carbo_erros/slide_02.png",
+        "content/drafts/der_carga_carbo_erros/slide_03.png",
+        "content/drafts/der_carga_carbo_erros/slide_04.png",
+        "content/drafts/der_carga_carbo_erros/slide_05.png",
+        "content/drafts/der_carga_carbo_erros/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:carga-carbo",
+        "format:carousel",
+        "visual:texto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ae20e417e51a200012dd82a",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-3-erros-largar-pesado/"
     }
   ]
 }

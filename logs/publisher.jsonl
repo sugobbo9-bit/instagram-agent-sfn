@@ -447,3 +447,10 @@
 {"ts": "2026-10-27T19:57:34.308649+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-27T19:57:48.976459+00:00", "level": "INFO", "msg": "PUBLICADO: vs_005 -> media_id 18130253593849035"}
 {"ts": "2026-10-27T19:57:48.990369+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-28T15:00:41.476364+00:00", "level": "INFO", "msg": "Publicando der_carga_carbo_erros (carousel) \u2014 os erros que sabotam a carga de carboidrato"}
+{"ts": "2026-10-28T15:00:41.480453+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-28T15:00:41.480553+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_carga_carbo_erros/slide_01.png"}
+{"ts": "2026-10-28T15:00:42.531977+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-28T15:01:08.578733+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-28T15:01:19.999694+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_erros -> media_id 18640230325058244"}
+{"ts": "2026-10-28T15:01:20.017364+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
