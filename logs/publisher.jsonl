@@ -483,3 +483,9 @@
 {"ts": "2026-10-29T19:59:46.732778+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-10-29T19:59:59.390535+00:00", "level": "INFO", "msg": "PUBLICADO: vs_007 -> media_id 18106918907371178"}
 {"ts": "2026-10-29T19:59:59.408499+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-29T22:38:51.950609+00:00", "level": "INFO", "msg": "Publicando card_003 (static) \u2014 vitamina D insuficiente em atletas (preval\u00eancia em meta-an\u00e1lise)"}
+{"ts": "2026-10-29T22:38:51.953681+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-29T22:38:51.953762+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_003/card.png"}
+{"ts": "2026-10-29T22:38:52.172661+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-29T22:39:01.264739+00:00", "level": "INFO", "msg": "PUBLICADO: card_003 -> media_id 18135591571737616"}
+{"ts": "2026-10-29T22:39:01.281638+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

@@ -866,11 +866,13 @@
       "format": "static",
       "topic": "vitamina D insuficiente em atletas (prevalência em meta-análise)",
       "hook": "56% dos atletas têm vitamina D insuficiente — mesmo jovens, saudáveis e treinando todo dia.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-29T07:30:00-03:00",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:vitamina-d-atletas"
+      "notes": "card informativo — mode:tema, topic:vitamina-d-atletas",
+      "published_at": "2026-10-29T22:39:01.264988+00:00",
+      "post_id": "18135591571737616"
     }
   ]
 }
