@@ -475,3 +475,4 @@
 {"ts": "2026-10-29T15:01:31.715783+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-29T15:01:43.340243+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_pratico -> media_id 18120577741756347"}
 {"ts": "2026-10-29T15:01:43.358439+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-29T18:00:38.039410+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
