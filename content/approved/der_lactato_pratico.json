@@ -1,0 +1,124 @@
+{
+  "local_id": "der_lactato_pratico",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-29T00:00:00Z",
+  "topic": "lactato — o que fazer com ele no treino (ferramenta de ritmo, não vilão)",
+  "content_pillar": "physiology",
+  "hook": "O lactato não te cansa. Ele te diz, em 2 pontos, o ritmo de cada treino.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:lactato",
+    "format:carousel",
+    "visual:texto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "O lactato não te cansa.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Trataram ele como lixo ácido",
+      "body": "A crença: o lactato é o resíduo do esforço sem oxigênio, o 'ácido' que queima o músculo, te cansa e dá dor no dia seguinte.\n\nÉ a imagem errada. O lactato não é o que te derruba na prova — e jogar fora esse número é perder a melhor bússola de ritmo que você tem.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Ele é combustível — e seu corpo o recicla o tempo todo",
+      "body": "Seu corpo produz lactato continuamente, inclusive em repouso e com oxigênio de sobra. Músculo, coração e cérebro o captam e queimam como energia — é o 'lactate shuttle'.\n\nOu seja: não é um resíduo acumulado. É um combustível em trânsito. A acidez do esforço forte vem de outra via, não do lactato em si.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "A curva de lactato tem 2 pontos que organizam o treino",
+      "body": "Numa rampa de esforço, o lactato no sangue marca dois limiares: o 1º, quando começa a subir acima do repouso; o 2º, o ritmo mais forte que você sustenta sem ele disparar.\n\nRevisão de 32 estudos (Faude, 2009): os limiares de lactato têm correlação linear forte com o desempenho de endurance — sobretudo na corrida.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "2 fronteiras, 3 intensidades",
+      "body": "Abaixo do 1º limiar: a base tranquila, onde mora a maior parte do volume.\n\nEntre os dois: o esforço controlado de limiar, forte mas sustentável.\n\nAcima do 2º: os tiros curtos e intensos.\n\nUm teste de lactato (ou de ritmo) marca essas fronteiras. Você treina pelo número, não pelo medo do 'ácido'.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Pare de temer o lactato. Comece a lê-lo.",
+      "body": "Salva pra consultar antes do próximo bloco de treino — e manda pro parceiro que ainda acha que lactato é o vilão da história.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "O lactato carrega uma fama que a ciência já desmontou. Ele não é o 'ácido lático' que queima o músculo e te cansa, e não é um resíduo do esforço sem oxigênio. Seu corpo produz lactato o tempo todo — até em repouso — e o reaproveita como combustível: músculo, coração e cérebro captam e queimam lactato (o 'lactate shuttle', revisado por Brooks, 2018). A acidez de um esforço muito forte vem de outra via metabólica, não do lactato em si.\n\nO valor prático dele é outro: medir. Numa rampa de esforço, a curva de lactato mostra dois limiares — o primeiro, quando o lactato começa a subir acima do nível de repouso, e o segundo, o ritmo mais forte que você consegue manter sem ele disparar (o máximo estado estável de lactato). Uma revisão de 32 estudos (Faude, Kindermann & Meyer, 2009) mostra que esses limiares têm correlação linear forte com o desempenho de endurance, principalmente na corrida.\n\nNa prática, esses dois pontos dividem seu treino em três intensidades: a base tranquila (abaixo do 1º limiar, onde fica a maior parte do volume), o esforço de limiar (entre os dois, forte mas sustentável) e os tiros curtos e intensos (acima do 2º). Um teste de lactato — ou um teste de ritmo bem feito — marca essas fronteiras. Você passa a treinar pelo número, não pelo medo do 'ácido'.\n\nFontes: Brooks GA. The Science and Translation of Lactate Shuttle Theory. Cell Metab. 2018;27(4):757-785. | Faude O, Kindermann W, Meyer T. Lactate threshold concepts: how valid are they? Sports Med. 2009;39(6):469-490.",
+  "cta": "Salva e manda pro parceiro de treino que ainda acha que o lactato é o vilão da prova.",
+  "scientific_sources": [
+    {
+      "title": "The Science and Translation of Lactate Shuttle Theory",
+      "authors": "Brooks GA",
+      "journal": "Cell Metabolism",
+      "year": 2018,
+      "volume": "27",
+      "issue": "4",
+      "pages": "757-785",
+      "doi": "10.1016/j.cmet.2018.03.008",
+      "url": "https://doi.org/10.1016/j.cmet.2018.03.008",
+      "level": "A"
+    },
+    {
+      "title": "Lactate threshold concepts: how valid are they?",
+      "authors": "Faude O, Kindermann W, Meyer T",
+      "journal": "Sports Medicine",
+      "year": 2009,
+      "volume": "39",
+      "issue": "6",
+      "pages": "469-490",
+      "doi": "10.2165/00007256-200939060-00003",
+      "url": "https://doi.org/10.2165/00007256-200939060-00003",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Lactato: por que ele não é o vilão — e como usá-lo para treinar no ritmo certo",
+    "slug": "lactato-nao-e-vilao-como-usar-no-treino",
+    "excerpt": "O lactato não é o 'ácido' que te cansa nem um resíduo do esforço. É combustível — e o melhor marcador prático do ritmo que você sustenta. Entenda o mecanismo e como os dois limiares de lactato organizam seu treino.",
+    "meta_title": "Lactato no treino: não é vilão, é a sua bússola de ritmo",
+    "tags": [
+      "Lactato",
+      "Limiar de lactato",
+      "Endurance",
+      "Fisiologia do exercício",
+      "Zonas de treino"
+    ],
+    "html": "<p>Poucos conceitos de fisiologia do exercício foram tão mal contados quanto o lactato. Por décadas ele foi apresentado como o <strong>\"ácido lático\"</strong>: o resíduo que o músculo produz quando falta oxigênio, o veneno que queima as pernas, derruba o ritmo e ainda cobra a conta na dor do dia seguinte. É uma história convincente — e errada em quase todos os pontos.</p>\n\n<h2>O lactato não é lixo. É combustível em trânsito.</h2>\n\n<p>Seu corpo produz lactato <strong>o tempo todo</strong>, inclusive em repouso e com oxigênio de sobra. Ele não espera a falta de ar para aparecer. E, longe de se acumular como um detrito, o lactato é <strong>captado e oxidado como fonte de energia</strong> por outros tecidos: a fibra muscular vizinha, o coração, o cérebro. George Brooks descreveu isso como o <em>lactate shuttle</em> (a \"lançadeira de lactato\"): o lactato é produzido num lugar e consumido em outro, servindo de combustível que circula entre as células (Brooks, <em>Cell Metabolism</em>, 2018).</p>\n\n<p>E a queimação do esforço muito intenso? Ela está ligada à acidose muscular, que vem do conjunto de reações da via glicolítica rápida — <strong>não do lactato em si</strong>. Na verdade, a produção de lactato ajuda a <em>tamponar</em> parte dessa carga. Culpar o lactato pela fadiga é confundir a testemunha com o culpado.</p>\n\n<h2>Onde o lactato realmente importa para quem treina: como medida</h2>\n\n<p>Se o lactato não é o vilão, qual é a utilidade prática dele? <strong>Medir.</strong> Quando você faz um teste de esforço progressivo (uma rampa, aumentando ritmo ou carga em degraus), a concentração de lactato no sangue desenha uma curva com dois pontos de virada:</p>\n\n<ul>\n<li><strong>1º limiar</strong> — o ritmo em que o lactato começa a subir acima do nível de repouso. Abaixo dele, o esforço é confortável e sustentável por muito tempo.</li>\n<li><strong>2º limiar (máximo estado estável de lactato, MLSS)</strong> — o ritmo mais forte que você consegue manter com o lactato <em>estável</em>, sem disparar. Passou disso, o relógio começa a correr contra você.</li>\n</ul>\n\n<p>Esses pontos não são curiosidade de laboratório. Uma revisão de <strong>32 estudos</strong> sobre a relação entre limiares de lactato e desempenho concluiu que eles têm <strong>correlação linear forte</strong> com a performance em provas de endurance — de forma especialmente consistente na corrida (Faude, Kindermann &amp; Meyer, <em>Sports Medicine</em>, 2009). Em muitos casos, o limiar de lactato prevê o desempenho melhor do que o próprio VO₂máx, porque reflete o ritmo que você <em>sustenta</em>, não apenas o teto do seu motor.</p>\n\n<h2>Dois limiares, três intensidades</h2>\n\n<p>A grande sacada é que esses dois limiares dividem todo o seu treino em três faixas de intensidade, cada uma com um propósito:</p>\n\n<table>\n<thead><tr><th>Faixa</th><th>Onde fica</th><th>Para que serve</th></tr></thead>\n<tbody>\n<tr><td>Base</td><td>Abaixo do 1º limiar</td><td>A maior parte do volume. Constrói a base aeróbia com baixo desgaste.</td></tr>\n<tr><td>Limiar</td><td>Entre o 1º e o 2º limiar</td><td>Esforço controlado, forte mas sustentável. Eleva o ritmo que você segura.</td></tr>\n<tr><td>Intenso</td><td>Acima do 2º limiar</td><td>Tiros curtos e intensos. Trabalha potência e tolerância ao esforço máximo.</td></tr>\n</tbody>\n</table>\n\n<p>O erro mais comum do amador é viver na terra-de-ninguém entre as faixas: treino \"médio\" demais para ser recuperação, leve demais para ser estímulo de verdade. Conhecer os seus dois limiares — por um teste de lactato ou por um teste de ritmo bem conduzido — resolve isso: você sabe exatamente quão rápido ir em cada tipo de treino.</p>\n\n<h2>Resumo</h2>\n\n<p>O lactato não é o que te cansa, não é um resíduo e não é o inimigo. É combustível que seu corpo recicla e, sobretudo, o <strong>melhor marcador prático do ritmo que você aguenta</strong>. Pare de temê-lo como \"ácido\" e comece a usá-lo como bússola: dois limiares, três intensidades, cada treino no ritmo certo.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Brooks GA. The Science and Translation of Lactate Shuttle Theory. <em>Cell Metab</em>. 2018;27(4):757–785. doi:10.1016/j.cmet.2018.03.008</li>\n<li>Faude O, Kindermann W, Meyer T. Lactate threshold concepts: how valid are they? <em>Sports Med</em>. 2009;39(6):469–490. doi:10.2165/00007256-200939060-00003</li>\n</ol>\n",
+    "cover": "content/drafts/der_lactato_pratico/cover.png",
+    "cover_alt": "Lactato no treino: não é vilão, é a bússola do seu ritmo — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/der_lactato_pratico/slide_01.png",
+    "content/drafts/der_lactato_pratico/slide_02.png",
+    "content/drafts/der_lactato_pratico/slide_03.png",
+    "content/drafts/der_lactato_pratico/slide_04.png",
+    "content/drafts/der_lactato_pratico/slide_05.png",
+    "content/drafts/der_lactato_pratico/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 0,
+    "unverified": [],
+    "with_faces": []
+  }
+}

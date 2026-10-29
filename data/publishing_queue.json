@@ -331,11 +331,11 @@
       "local_id": "der_lactato_pratico",
       "format": "carousel",
       "topic": "lactato — o que fazer com ele no treino",
-      "hook": "O lactato não te cansa. Ele pode te dizer exatamente em que ritmo treinar.",
-      "status": "draft",
-      "created_at": null,
+      "hook": "O lactato não te cansa. Ele te diz, em 2 pontos, o ritmo de cada treino.",
+      "status": "approved",
+      "created_at": "2026-10-29",
       "scheduled_for": "2026-09-29T15:00:00Z",
-      "priority": 3,
+      "priority": 1,
       "notes": "Derivado do maior vencedor da conta (lactato 2450/1516). Ângulo prático NOVO: lactato como ferramenta de zonas/limiar, não como vilão. Preserva o insight, reinventa a embalagem. Publicar ter 12h BRT."
     },
     {
