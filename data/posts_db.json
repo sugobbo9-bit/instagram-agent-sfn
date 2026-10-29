@@ -8339,6 +8339,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6ae35fda7f2c760001ae7dbf",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/lactato-nao-e-vilao-como-usar-no-treino/"
+    },
+    {
+      "post_id": "18106918907371178",
+      "local_id": "vs_007",
+      "publication_date": "2026-10-29T19:59:59.390726+00:00",
+      "format": "carousel",
+      "topic": "pastilha de eletrólito: GU Hydration Drink Tabs vs SiS GO Hydro (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "GU Hydration Tabs vs. SiS GO Hydro. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu suor e do seu bolso.\n\nGU Hydration Drink Tabs (Lemon Lime): pastilha de 4,5 g, 10 kcal, 3 g de carboidrato (1 g de açúcar), 320 mg de sódio e 50 mg de potássio. Adoçada com estévia; traz riboflavina como corante. Cálcio, magnésio e cloreto não constam no rótulo.\n\nSiS GO Hydro (Lemon): pastilha de 4,5 g, 9 kcal, 0,7 g de carboidrato (0 g de açúcar), 345 mg de sódio, 65 mg de potássio, 102 mg de cálcio, 8,1 mg de magnésio e 269 mg de cloreto, com vitaminas B1, B2 e B6. Adoçada com sucralose. Preparo: 1 pastilha em 500 ml de água.\n\nAs duas versões padrão são sem cafeína; cada marca tem uma versão à parte com cafeína.\n\nDados dos rótulos e sites oficiais da GU Energy e da Science in Sport, consultados em 29/10/2026. São as versões internacionais; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111-128.\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25-33.\n\nImagens: fotos de produto dos sites oficiais da GU Energy e da Science in Sport.\n\n#nutricaoesportiva #hidratacao #eletrolitos #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        },
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_007/slide_01.png",
+        "content/drafts/vs_007/slide_02.png",
+        "content/drafts/vs_007/slide_03.png",
+        "content/drafts/vs_007/slide_04.png",
+        "content/drafts/vs_007/slide_05.png",
+        "content/drafts/vs_007/slide_06.png",
+        "content/drafts/vs_007/slide_07.png",
+        "content/drafts/vs_007/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:eletrolito-pastilha",
+        "pair:gu-sis"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

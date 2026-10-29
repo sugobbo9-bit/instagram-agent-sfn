@@ -1,0 +1,240 @@
+{
+  "local_id": "vs_007",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-10-29T00:00:00Z",
+  "topic": "pastilha de eletrólito: GU Hydration Drink Tabs vs SiS GO Hydro (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "GU Hydration Tabs vs. SiS GO Hydro. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:eletrolito-pastilha",
+    "pair:gu-sis"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "GU Hydration Drink Tabs",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_007/img/gu_hydration_tabs.jpg",
+      "label_source": {
+        "url": "https://orders.guenergy.com/products/hydration-drink-tabs",
+        "consulted": "2026-10-29",
+        "notes": "Nutrition Facts oficial do sabor Lemon Lime (PNG do site): pastilha 4,5 g (54 g / 12 tabs), 10 kcal, 3 g carbo (1 g açúcar), 320 mg sódio, 50 mg potássio; ingredientes com estévia, dextrose, cana-de-açúcar, riboflavina (corante); versão padrão sem cafeína (há sabor com cafeína)."
+      }
+    },
+    {
+      "name": "SiS GO Hydro",
+      "brand": "Science in Sport",
+      "image": "content/drafts/vs_007/img/sis_go_hydro.jpg",
+      "label_source": {
+        "url": "https://www.scienceinsport.com/sis-hydro-tablets-pack",
+        "consulted": "2026-10-29",
+        "notes": "Tabela nutricional oficial (por porção = pastilha 4,5 g + 500 ml água): 9 kcal, 0,7 g carbo (0 g açúcar), 345 mg sódio, 65 mg potássio, 102 mg cálcio, 8,1 mg magnésio, 269 mg cloreto, B1/B2/B6; ingredientes com sucralose, sorbitol, inulina; versão padrão sem cafeína (há versão Hydro + Caffeine)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas pastilhas.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_007/img/gu_hydration_tabs.jpg",
+          "mode": "multiply",
+          "label": "GU Hydration Drink Tabs"
+        },
+        {
+          "image": "content/drafts/vs_007/img/sis_go_hydro.jpg",
+          "mode": "multiply",
+          "label": "SiS GO Hydro"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da pastilha",
+      "values": [
+        {
+          "value": "4,5 g"
+        },
+        {
+          "value": "4,5 g"
+        }
+      ],
+      "footnote": "Preparo: a SiS indica 1 pastilha em 500 ml de água; a GU não especifica o volume na página oficial."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por pastilha",
+      "values": [
+        {
+          "value": "320 mg"
+        },
+        {
+          "value": "345 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Potássio por pastilha",
+      "values": [
+        {
+          "value": "50 mg"
+        },
+        {
+          "value": "65 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cálcio, magnésio e cloreto",
+      "values": [
+        {
+          "value": "Não informados",
+          "note": "não constam no rótulo"
+        },
+        {
+          "value": "102 / 8,1 / 269 mg",
+          "note": "cálcio / magnésio / cloreto"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por pastilha",
+      "values": [
+        {
+          "value": "3 g",
+          "note": "1 g de açúcar"
+        },
+        {
+          "value": "0,7 g",
+          "note": "0 g de açúcar"
+        }
+      ],
+      "footnote": "São pastilhas de hidratação, não de energia."
+    },
+    {
+      "type": "metric",
+      "headline": "Adoçante e vitaminas",
+      "values": [
+        {
+          "value": "Estévia",
+          "note": "riboflavina (usada como corante)"
+        },
+        {
+          "value": "Sucralose",
+          "note": "vitaminas B1, B2 e B6"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "O sódio é o eletrólito que mais pesa na hidratação em esforços longos ou no calor. O que sai no suor varia muito de pessoa para pessoa, de cerca de 230 a 2.000 mg por litro. Uma pastilha repõe uma fração do sódio de um litro de suor, e quanto repor é uma conta individual.\n\nSão pastilhas de hidratação, não de energia: trazem pouco ou nenhum carboidrato. Acima de cerca de 60 g de carboidrato por hora, a recomendação é usar uma fonte de carbo à parte, como gel, bebida ou alimento.",
+      "source": "Rótulos e sites oficiais GU Energy e Science in Sport (versões internacionais), consultados em 29/10/2026.\nBaker LB. Sports Med. 2017;47(S1):111-128. Jeukendrup A. Sports Med. 2014;44(S1):S25-33.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu suor e do seu bolso.\n\nGU Hydration Drink Tabs (Lemon Lime): pastilha de 4,5 g, 10 kcal, 3 g de carboidrato (1 g de açúcar), 320 mg de sódio e 50 mg de potássio. Adoçada com estévia; traz riboflavina como corante. Cálcio, magnésio e cloreto não constam no rótulo.\n\nSiS GO Hydro (Lemon): pastilha de 4,5 g, 9 kcal, 0,7 g de carboidrato (0 g de açúcar), 345 mg de sódio, 65 mg de potássio, 102 mg de cálcio, 8,1 mg de magnésio e 269 mg de cloreto, com vitaminas B1, B2 e B6. Adoçada com sucralose. Preparo: 1 pastilha em 500 ml de água.\n\nAs duas versões padrão são sem cafeína; cada marca tem uma versão à parte com cafeína.\n\nDados dos rótulos e sites oficiais da GU Energy e da Science in Sport, consultados em 29/10/2026. São as versões internacionais; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111-128.\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25-33.\n\nImagens: fotos de produto dos sites oficiais da GU Energy e da Science in Sport.\n\n#nutricaoesportiva #hidratacao #eletrolitos #corrida #ciclismo #triathlon #maratona #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    },
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "GU Hydration Drink Tabs",
+      "kind": "packshot",
+      "title": "Tube_Hydration_Tabs_Lemon_Lime.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://orders.guenergy.com/products/hydration-drink-tabs",
+      "changes": "fundo aparado e composto sobre branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "SiS GO Hydro",
+      "kind": "packshot",
+      "title": "hydro_single_lemon.png",
+      "creator": "Science in Sport",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.scienceinsport.com/sis-hydro-tablets-pack",
+      "changes": "fundo aparado e composto sobre branco"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-29 nas páginas oficiais (versões internacionais). GU Hydration Drink Tabs: Nutrition Facts US Lemon Lime (4,5 g/tab, 10 kcal, 3 g carbo, 1 g açúcar, 320 mg Na, 50 mg K; ingredientes estévia/dextrose/cana/riboflavina corante). SiS GO Hydro: tabela oficial por pastilha de 4,5 g + 500 ml (9 kcal, 0,7 g carbo, 0 g açúcar, 345 mg Na, 65 mg K, 102 mg Ca, 8,1 mg Mg, 269 mg Cl, B1/B2/B6; sucralose/sorbitol/inulina). Ambas versão padrão sem cafeína.",
+  "creative_files": [
+    "content/drafts/vs_007/slide_01.png",
+    "content/drafts/vs_007/slide_02.png",
+    "content/drafts/vs_007/slide_03.png",
+    "content/drafts/vs_007/slide_04.png",
+    "content/drafts/vs_007/slide_05.png",
+    "content/drafts/vs_007/slide_06.png",
+    "content/drafts/vs_007/slide_07.png",
+    "content/drafts/vs_007/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18106918907371178",
+  "published_at": "2026-10-29T19:59:59.390726+00:00"
+}

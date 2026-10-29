@@ -853,11 +853,13 @@
       "format": "carousel",
       "topic": "pastilha de eletrólito: GU Hydration Drink Tabs vs SiS GO Hydro (rótulo lado a lado)",
       "hook": "GU Hydration Tabs vs. SiS GO Hydro. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-29T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:eletrolito-pastilha, pair:gu-sis"
+      "notes": "marca x marca — category:eletrolito-pastilha, pair:gu-sis",
+      "published_at": "2026-10-29T19:59:59.390726+00:00",
+      "post_id": "18106918907371178"
     }
   ]
 }

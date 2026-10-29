@@ -476,3 +476,10 @@
 {"ts": "2026-10-29T15:01:43.340243+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_pratico -> media_id 18120577741756347"}
 {"ts": "2026-10-29T15:01:43.358439+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-29T18:00:38.039410+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-29T19:59:03.250817+00:00", "level": "INFO", "msg": "Publicando vs_007 (carousel) \u2014 pastilha de eletr\u00f3lito: GU Hydration Drink Tabs vs SiS GO Hydro (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-29T19:59:03.254865+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-29T19:59:03.254967+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_007/slide_01.png"}
+{"ts": "2026-10-29T19:59:04.416051+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-29T19:59:46.732778+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-10-29T19:59:59.390535+00:00", "level": "INFO", "msg": "PUBLICADO: vs_007 -> media_id 18106918907371178"}
+{"ts": "2026-10-29T19:59:59.408499+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
