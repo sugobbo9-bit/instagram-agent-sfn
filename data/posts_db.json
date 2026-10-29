@@ -8282,6 +8282,63 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18120577741756347",
+      "local_id": "der_lactato_pratico",
+      "publication_date": "2026-10-29T15:01:43.340422+00:00",
+      "format": "carousel",
+      "topic": "lactato — o que fazer com ele no treino (ferramenta de ritmo, não vilão)",
+      "content_pillar": "physiology",
+      "hook": "O lactato não te cansa. Ele te diz, em 2 pontos, o ritmo de cada treino.",
+      "caption": "O lactato carrega uma fama que a ciência já desmontou. Ele não é o 'ácido lático' que queima o músculo e te cansa, e não é um resíduo do esforço sem oxigênio. Seu corpo produz lactato o tempo todo — até em repouso — e o reaproveita como combustível: músculo, coração e cérebro captam e queimam lactato (o 'lactate shuttle', revisado por Brooks, 2018). A acidez de um esforço muito forte vem de outra via metabólica, não do lactato em si.\n\nO valor prático dele é outro: medir. Numa rampa de esforço, a curva de lactato mostra dois limiares — o primeiro, quando o lactato começa a subir acima do nível de repouso, e o segundo, o ritmo mais forte que você consegue manter sem ele disparar (o máximo estado estável de lactato). Uma revisão de 32 estudos (Faude, Kindermann & Meyer, 2009) mostra que esses limiares têm correlação linear forte com o desempenho de endurance, principalmente na corrida.\n\nNa prática, esses dois pontos dividem seu treino em três intensidades: a base tranquila (abaixo do 1º limiar, onde fica a maior parte do volume), o esforço de limiar (entre os dois, forte mas sustentável) e os tiros curtos e intensos (acima do 2º). Um teste de lactato — ou um teste de ritmo bem feito — marca essas fronteiras. Você passa a treinar pelo número, não pelo medo do 'ácido'.\n\nFontes: Brooks GA. The Science and Translation of Lactate Shuttle Theory. Cell Metab. 2018;27(4):757-785. | Faude O, Kindermann W, Meyer T. Lactate threshold concepts: how valid are they? Sports Med. 2009;39(6):469-490.",
+      "cta": "Salva e manda pro parceiro de treino que ainda acha que o lactato é o vilão da prova.",
+      "scientific_sources": [
+        {
+          "title": "The Science and Translation of Lactate Shuttle Theory",
+          "authors": "Brooks GA",
+          "journal": "Cell Metabolism",
+          "year": 2018,
+          "volume": "27",
+          "issue": "4",
+          "pages": "757-785",
+          "doi": "10.1016/j.cmet.2018.03.008",
+          "url": "https://doi.org/10.1016/j.cmet.2018.03.008",
+          "level": "A"
+        },
+        {
+          "title": "Lactate threshold concepts: how valid are they?",
+          "authors": "Faude O, Kindermann W, Meyer T",
+          "journal": "Sports Medicine",
+          "year": 2009,
+          "volume": "39",
+          "issue": "6",
+          "pages": "469-490",
+          "doi": "10.2165/00007256-200939060-00003",
+          "url": "https://doi.org/10.2165/00007256-200939060-00003",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_lactato_pratico/slide_01.png",
+        "content/drafts/der_lactato_pratico/slide_02.png",
+        "content/drafts/der_lactato_pratico/slide_03.png",
+        "content/drafts/der_lactato_pratico/slide_04.png",
+        "content/drafts/der_lactato_pratico/slide_05.png",
+        "content/drafts/der_lactato_pratico/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:lactato",
+        "format:carousel",
+        "visual:texto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ae35fda7f2c760001ae7dbf",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/lactato-nao-e-vilao-como-usar-no-treino/"
     }
   ]
 }

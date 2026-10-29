@@ -468,3 +468,10 @@
 {"ts": "2026-10-28T22:39:03.645942+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-28T22:39:15.129019+00:00", "level": "INFO", "msg": "PUBLICADO: card_002 -> media_id 18026524589921835"}
 {"ts": "2026-10-28T22:39:15.142781+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-29T15:01:06.546372+00:00", "level": "INFO", "msg": "Publicando der_lactato_pratico (carousel) \u2014 lactato \u2014 o que fazer com ele no treino"}
+{"ts": "2026-10-29T15:01:06.550457+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-29T15:01:06.550570+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_lactato_pratico/slide_01.png"}
+{"ts": "2026-10-29T15:01:07.805502+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-29T15:01:31.715783+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-29T15:01:43.340243+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_pratico -> media_id 18120577741756347"}
+{"ts": "2026-10-29T15:01:43.358439+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
