@@ -1,0 +1,44 @@
+{
+  "local_id": "card_003",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-10-29T07:30:00-03:00",
+  "topic": "vitamina D insuficiente em atletas (prevalência em meta-análise)",
+  "content_pillar": "micronutriente",
+  "hook": "56% dos atletas têm vitamina D insuficiente — mesmo jovens, saudáveis e treinando todo dia.",
+  "subtext": "Meta-análise com 2.313 atletas: o risco sobe 85% no inverno e na primavera, e 19% em esporte indoor.",
+  "source_line": "Farrokhyar et al., Sports Medicine, 2015 (23 estudos, 2.313 atletas)",
+  "badge": "Você sabia?",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:vitamina-d-atletas"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Treinar ao ar livre não garante vitamina D suficiente. ☀️\n\nMeta-análise de 23 estudos com 2.313 atletas (idade média 22 anos): 56% tinham vitamina D insuficiente (25(OH)D < 32 ng/mL). O risco foi 85% maior no inverno e na primavera, 19% maior em esportes indoor e variou muito com o lugar do mundo. A relação com lesões ficou em aberto.\n\nNa prática: treino cedo ou à noite, protetor solar, roupa e sessões indoor reduzem a exposição ao sol mesmo em país tropical. Vitamina D não é ergogênico — corrigir uma deficiência ajuda osso e saúde, não dá ganho extra a quem já está adequado. Antes de suplementar, meça o 25(OH)D e ajuste a dose com seu médico ou nutricionista.\n\nFonte: Farrokhyar et al. Prevalence of vitamin D inadequacy in athletes: a systematic-review and meta-analysis. Sports Medicine, 2015. DOI 10.1007/s40279-014-0267-6\n\n#nutricaoesportiva #vitaminad #corrida #ciclismo #triathlon #endurance #saudedoatleta",
+  "cta": "Salva e lembra de pedir o 25(OH)D no próximo check-up.",
+  "scientific_sources": [
+    {
+      "title": "Prevalence of vitamin D inadequacy in athletes: a systematic-review and meta-analysis",
+      "authors": "Farrokhyar F, Tabasinejad R, Dao D, Peterson D, Ayeni OR, Hadioonzadeh R, Bhandari M",
+      "journal": "Sports Medicine",
+      "year": 2015,
+      "volume": "45",
+      "issue": "3",
+      "pages": "365-378",
+      "doi": "10.1007/s40279-014-0267-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25277808",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_003/card.png"
+  ]
+}
