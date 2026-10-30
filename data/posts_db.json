@@ -8433,6 +8433,88 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18146180437564688",
+      "local_id": "der_comparacao_gel_bebida",
+      "publication_date": "2026-10-30T14:58:34.749259+00:00",
+      "format": "carousel",
+      "topic": "gel vs bebida esportiva vs comida real (combustível no endurance)",
+      "content_pillar": "fueling",
+      "hook": "Batata rendeu igual ao gel na prova: 33 min contra 33. O resto é logística.",
+      "caption": "Gel custa caro e carrega a fama de combustível 'otimizado'. Mas o corpo não lê rótulo: o que importa durante o exercício é quanto carboidrato chega por hora e de que tipo — não a embalagem.\n\nDois estudos deixam isso claro. Ciclistas treinados pedalaram 2h e fizeram um contrarrelógio consumindo batata, gel ou só água: batata e gel deram exatamente o mesmo tempo (33 min cada), e só água foi mais de 6 min mais lenta (Salvador et al., 2019). Em outro ensaio, comer banana rendeu igual a tomar bebida esportiva ao longo de 75 km — mesma performance e mesma glicose no sangue (Nieman et al., 2012).\n\nO guia de carboidrato durante o exercício confirma a lógica: até ~1h quase nada muda; de 2 a 3h o alvo é ~60 g por hora; acima disso, até ~90 g/h, desde que seja glicose + frutose juntas (elas usam transportadores diferentes no intestino). E a fonte pode ser líquida, em gel ou sólida (Jeukendrup, 2014).\n\nOu seja, a decisão real não é 'o que rende mais', e sim logística e tolerância: gel é leve e previsível (e mais caro); bebida junta carbo, água e sódio num gole só; comida de verdade é barata e saciante, mas pesa mais no estômago em ritmo forte. E tolerância se treina — a quantidade de carbo que você aguenta sem enjoo sobe com semanas de prática (Pfeiffer et al., 2012).\n\nFontes: Salvador AF et al. J Appl Physiol. 2019;127(6):1651-9. | Nieman DC et al. PLoS One. 2012;7(5):e37479. | Jeukendrup A. Sports Med. 2014;44(Suppl 1):S25-33. | Pfeiffer B et al. Med Sci Sports Exerc. 2012;44(2):344-51.\n\nFoto: ajay_suresh (CC BY 2.0).",
+      "cta": "Salva e manda pra quem gasta uma fortuna em gel achando que comida de verdade não rende.",
+      "scientific_sources": [
+        {
+          "title": "Potato ingestion is as effective as carbohydrate gels to support prolonged cycling performance",
+          "authors": "Salvador AF, McKenna CF, Alamilla RA, Cloud RMT, Keeble AR, Miltko A, Scaroni SE, Beals JW, Ulanov AV, Dilger RN, Bauer LL, Broad EM, Burd NA",
+          "journal": "Journal of Applied Physiology",
+          "year": 2019,
+          "volume": "127",
+          "issue": "6",
+          "pages": "1651-1659",
+          "doi": "10.1152/japplphysiol.00567.2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31622159/",
+          "level": "B"
+        },
+        {
+          "title": "Bananas as an energy source during exercise: a metabolomics approach",
+          "authors": "Nieman DC, Gillitt ND, Henson DA, Sha W, Shanely RA, Knab AM, Cialdella-Kam L, Jin F",
+          "journal": "PLoS One",
+          "year": 2012,
+          "volume": "7",
+          "issue": "5",
+          "pages": "e37479",
+          "doi": "10.1371/journal.pone.0037479",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22616015/",
+          "level": "B"
+        },
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-S33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "A"
+        },
+        {
+          "title": "Nutritional intake and gastrointestinal problems during competitive endurance events",
+          "authors": "Pfeiffer B, Stellingwerff T, Hodgson AB, Randell R, Pöttgen K, Res P, Jeukendrup AE",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2012,
+          "volume": "44",
+          "issue": "2",
+          "pages": "344-351",
+          "doi": "10.1249/MSS.0b013e31822dc809",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21775906/",
+          "level": "C"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_comparacao_gel_bebida/slide_01.png",
+        "content/drafts/der_comparacao_gel_bebida/slide_02.png",
+        "content/drafts/der_comparacao_gel_bebida/slide_03.png",
+        "content/drafts/der_comparacao_gel_bebida/slide_04.png",
+        "content/drafts/der_comparacao_gel_bebida/slide_05.png",
+        "content/drafts/der_comparacao_gel_bebida/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:fueling-comparacao",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:comparacao-produto"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ae4b0a15ad77000018bcbfb",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/gel-bebida-ou-comida-real-combustivel-endurance/"
     }
   ]
 }

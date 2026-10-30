@@ -489,3 +489,10 @@
 {"ts": "2026-10-29T22:38:52.172661+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-10-29T22:39:01.264739+00:00", "level": "INFO", "msg": "PUBLICADO: card_003 -> media_id 18135591571737616"}
 {"ts": "2026-10-29T22:39:01.281638+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-30T14:57:54.947856+00:00", "level": "INFO", "msg": "Publicando der_comparacao_gel_bebida (carousel) \u2014 gel vs bebida esportiva vs comida real"}
+{"ts": "2026-10-30T14:57:54.952106+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-30T14:57:54.952197+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_comparacao_gel_bebida/slide_01.png"}
+{"ts": "2026-10-30T14:57:55.731775+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-30T14:58:26.016181+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-10-30T14:58:34.749054+00:00", "level": "INFO", "msg": "PUBLICADO: der_comparacao_gel_bebida -> media_id 18146180437564688"}
+{"ts": "2026-10-30T14:58:34.768154+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
