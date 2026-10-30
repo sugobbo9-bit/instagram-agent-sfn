@@ -504,3 +504,9 @@
 {"ts": "2026-10-30T20:11:09.213656+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-10-30T20:11:21.482734+00:00", "level": "INFO", "msg": "PUBLICADO: vs_008 -> media_id 18037226942845130"}
 {"ts": "2026-10-30T20:11:21.501273+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-30T22:39:50.578579+00:00", "level": "INFO", "msg": "Publicando card_004 (static) \u2014 periodiza\u00e7\u00e3o de carboidrato 'sleep low' (train high / sleep low / train low) e desempenho de endurance"}
+{"ts": "2026-10-30T22:39:50.581457+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-30T22:39:50.581526+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_004/card.png"}
+{"ts": "2026-10-30T22:39:50.788947+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-30T22:40:03.553806+00:00", "level": "INFO", "msg": "PUBLICADO: card_004 -> media_id 17911335696560567"}
+{"ts": "2026-10-30T22:40:03.568493+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
