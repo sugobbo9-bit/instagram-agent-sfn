@@ -1,0 +1,56 @@
+{
+  "local_id": "card_004",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-10-30T19:30:00-03:00",
+  "topic": "periodização de carboidrato 'sleep low' (train high / sleep low / train low) e desempenho de endurance",
+  "content_pillar": "tecnica-protocolo",
+  "hook": "Mesmo carbo, outro horário: 3 semanas de 'sleep low' deixaram triatletas 2,9% mais rápidos nos 10 km.",
+  "subtext": "Tiro forte à noite com carbo, noite sem repor, treino leve em jejum de manhã: glicogênio baixo na hora certa amplifica a adaptação.",
+  "source_line": "Marquet et al., Med Sci Sports Exerc, 2016 (21 triatletas, 3 semanas)",
+  "badge": "Técnica",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:sleep-low-periodizacao-carbo"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Não é comer menos carboidrato. É comer na hora certa. 🍝⏰\n\nNo estudo do INSEP (França), 21 triatletas treinados comeram o mesmo carbo (6 g/kg/dia) por 3 semanas. Só o timing mudou: o grupo 'sleep low' fazia o intervalado forte à noite com carbo, não repunha antes de dormir e treinava leve em jejum de manhã. Resultado: 10 km 2,9% mais rápidos (controle não mudou), melhor economia no ciclismo e −8,5% de massa gorda, sem perder massa magra.\n\nNa prática: glicogênio baixo no treino leve 'liga' a adaptação mitocondrial — mas o tiro forte é sempre com carbo. Protocolo pra atleta treinado, em bloco curto de base, nunca na semana de prova.\n\nFonte: Marquet et al. Enhanced Endurance Performance by Periodization of Carbohydrate Intake: 'Sleep Low' Strategy. Med Sci Sports Exerc, 2016. DOI 10.1249/MSS.0000000000000823\n\n#nutricaoesportiva #sleeplow #carboidrato #corrida #triathlon #ciclismo #endurance",
+  "cta": "Salva e testa num bloco de base, nunca na semana da prova.",
+  "scientific_sources": [
+    {
+      "title": "Enhanced Endurance Performance by Periodization of Carbohydrate Intake: \"Sleep Low\" Strategy",
+      "authors": "Marquet LA, Brisswalter J, Louis J, Tiollier E, Burke LM, Hawley JA, Hausswirth C",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "4",
+      "pages": "663-672",
+      "doi": "10.1249/MSS.0000000000000823",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26741119",
+      "level": "B"
+    },
+    {
+      "title": "Periodization of Carbohydrate Intake: Short-Term Effect on Performance",
+      "authors": "Marquet LA, Hausswirth C, Molle O, Hawley JA, Burke LM, Tiollier E, Brisswalter J",
+      "journal": "Nutrients",
+      "year": 2016,
+      "volume": "8",
+      "issue": "12",
+      "pages": "755",
+      "doi": "10.3390/nu8120755",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27897989",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_004/card.png"
+  ]
+}

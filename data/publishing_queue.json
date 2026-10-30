@@ -891,6 +891,17 @@
       "notes": "marca x marca — category:whey-isolado, pair:growth-maxtitanium",
       "published_at": "2026-10-30T20:11:21.482917+00:00",
       "post_id": "18037226942845130"
+    },
+    {
+      "local_id": "card_004",
+      "format": "static",
+      "topic": "periodização de carboidrato 'sleep low' (train high / sleep low / train low) e desempenho de endurance",
+      "hook": "Mesmo carbo, outro horário: 3 semanas de 'sleep low' deixaram triatletas 2,9% mais rápidos nos 10 km.",
+      "status": "approved",
+      "created_at": "2026-10-30T19:30:00-03:00",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "card informativo — mode:tema, topic:sleep-low-periodizacao-carbo"
     }
   ]
 }
