@@ -1,0 +1,194 @@
+{
+  "local_id": "der_comparacao_gel_bebida",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-10-30T00:00:00Z",
+  "topic": "gel vs bebida esportiva vs comida real (combustível no endurance)",
+  "content_pillar": "fueling",
+  "hook": "Batata rendeu igual ao gel na prova: 33 min contra 33. O resto é logística.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:fueling-comparacao",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:comparacao-produto"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O TESTE",
+      "headline": "Batata rendeu igual ao gel.",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/der_comparacao_gel_bebida/potato/cand_03.jpg",
+        "focus": "center 55%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Gel é 'superior' à comida?",
+      "body": "A crença: carboidrato de verdade — banana, batata, pão — é coisa de amador. Pra render mesmo, você precisaria de um gel de laboratório, caro e 'otimizado'.\n\nMas o corpo não lê rótulo. Ele vê o carboidrato que chega — não a embalagem.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/der_comparacao_gel_bebida/pasta/cand_01.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "insight",
+      "label": "O QUE IMPORTA",
+      "headline": "O que decide é quanto e qual carbo",
+      "body": "Duas coisas mandam no combustível: a quantidade por hora e o tipo de açúcar.\n\nAté ~1h, quase nada muda. De 2 a 3h, o alvo é ~60 g de carbo por hora. Acima disso, até ~90 g/h — mas só com glicose + frutose juntas, que usam transportadores diferentes no intestino.\n\nE a fonte pode ser líquida, em gel ou sólida.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Comida real empatou com o gel",
+      "body": "Ciclistas treinados pedalaram 2h e fizeram um contrarrelógio. Batata e gel deram exatamente o mesmo tempo (33 min cada); só água foi mais de 6 min mais lento (Salvador, 2019).\n\nEm outro estudo, ao longo de 75 km, banana rendeu igual à bebida esportiva — mesma performance e mesma glicose no sangue (Nieman, 2012).",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Então, o que escolher?",
+      "body": "Escolha pela logística, não pela 'potência':\n→ Gel: leve e previsível, mais caro, sem fibra.\n→ Bebida: junta carbo, água e sódio — prática no calor.\n→ Comida real: barata e saciante, mas pesa mais no estômago em ritmo forte.\n\nE treine o estômago: a tolerância ao carbo sobe com semanas de prática.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/der_comparacao_gel_bebida/cover/cand_08.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "cta",
+      "headline": "O carbo é o mesmo. Muda a logística.",
+      "body": "Salva pra montar seu plano de prova — e manda pro parceiro que acha que comida de verdade 'não serve' pra treino longo.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Potatoes, boiled, with olive oil, garlic, salt - Massachusetts",
+      "creator": "Daderot",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Potatoes,_boiled,_with_olive_oil,_garlic,_salt_-_Massachusetts.jpg"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o mito",
+      "title": "Pasta (1)",
+      "creator": "Renee Comet",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pasta_(1).jpg"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Bananas - Cavendish Bananas",
+      "creator": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bananas_-_Cavendish_Bananas_(51013511991).jpg"
+    }
+  ],
+  "caption": "Gel custa caro e carrega a fama de combustível 'otimizado'. Mas o corpo não lê rótulo: o que importa durante o exercício é quanto carboidrato chega por hora e de que tipo — não a embalagem.\n\nDois estudos deixam isso claro. Ciclistas treinados pedalaram 2h e fizeram um contrarrelógio consumindo batata, gel ou só água: batata e gel deram exatamente o mesmo tempo (33 min cada), e só água foi mais de 6 min mais lenta (Salvador et al., 2019). Em outro ensaio, comer banana rendeu igual a tomar bebida esportiva ao longo de 75 km — mesma performance e mesma glicose no sangue (Nieman et al., 2012).\n\nO guia de carboidrato durante o exercício confirma a lógica: até ~1h quase nada muda; de 2 a 3h o alvo é ~60 g por hora; acima disso, até ~90 g/h, desde que seja glicose + frutose juntas (elas usam transportadores diferentes no intestino). E a fonte pode ser líquida, em gel ou sólida (Jeukendrup, 2014).\n\nOu seja, a decisão real não é 'o que rende mais', e sim logística e tolerância: gel é leve e previsível (e mais caro); bebida junta carbo, água e sódio num gole só; comida de verdade é barata e saciante, mas pesa mais no estômago em ritmo forte. E tolerância se treina — a quantidade de carbo que você aguenta sem enjoo sobe com semanas de prática (Pfeiffer et al., 2012).\n\nFontes: Salvador AF et al. J Appl Physiol. 2019;127(6):1651-9. | Nieman DC et al. PLoS One. 2012;7(5):e37479. | Jeukendrup A. Sports Med. 2014;44(Suppl 1):S25-33. | Pfeiffer B et al. Med Sci Sports Exerc. 2012;44(2):344-51.\n\nFoto: ajay_suresh (CC BY 2.0).",
+  "cta": "Salva e manda pra quem gasta uma fortuna em gel achando que comida de verdade não rende.",
+  "scientific_sources": [
+    {
+      "title": "Potato ingestion is as effective as carbohydrate gels to support prolonged cycling performance",
+      "authors": "Salvador AF, McKenna CF, Alamilla RA, Cloud RMT, Keeble AR, Miltko A, Scaroni SE, Beals JW, Ulanov AV, Dilger RN, Bauer LL, Broad EM, Burd NA",
+      "journal": "Journal of Applied Physiology",
+      "year": 2019,
+      "volume": "127",
+      "issue": "6",
+      "pages": "1651-1659",
+      "doi": "10.1152/japplphysiol.00567.2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31622159/",
+      "level": "B"
+    },
+    {
+      "title": "Bananas as an energy source during exercise: a metabolomics approach",
+      "authors": "Nieman DC, Gillitt ND, Henson DA, Sha W, Shanely RA, Knab AM, Cialdella-Kam L, Jin F",
+      "journal": "PLoS One",
+      "year": 2012,
+      "volume": "7",
+      "issue": "5",
+      "pages": "e37479",
+      "doi": "10.1371/journal.pone.0037479",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22616015/",
+      "level": "B"
+    },
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-S33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "A"
+    },
+    {
+      "title": "Nutritional intake and gastrointestinal problems during competitive endurance events",
+      "authors": "Pfeiffer B, Stellingwerff T, Hodgson AB, Randell R, Pöttgen K, Res P, Jeukendrup AE",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2012,
+      "volume": "44",
+      "issue": "2",
+      "pages": "344-351",
+      "doi": "10.1249/MSS.0b013e31822dc809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21775906/",
+      "level": "C"
+    }
+  ],
+  "article": {
+    "title": "Gel, bebida ou comida real: o que entrega mais carbo (e por que isso importa menos do que você pensa)",
+    "slug": "gel-bebida-ou-comida-real-combustivel-endurance",
+    "excerpt": "Gel, bebida esportiva e comida de verdade entregam o mesmo carboidrato — e a ciência mostra desempenho equivalente. A escolha real é de logística e tolerância, não de 'potência'.",
+    "meta_title": "Gel, bebida ou comida real: qual é o melhor combustível no endurance",
+    "tags": [
+      "Carboidrato",
+      "Fueling",
+      "Endurance",
+      "Gel",
+      "Desempenho"
+    ],
+    "html": "<p>Entre num grupo de corrida ou pedal e a conversa sobre combustível vira quase religião: tem quem só confie em gel \"de laboratório\", tem quem jure pela bebida esportiva e tem quem leve banana no bolso. A pergunta que raramente se faz é a mais importante: <strong>o formato do carboidrato muda o desempenho?</strong> A resposta curta é não — o que muda é a logística.</p>\n\n<h2>O corpo não lê rótulo</h2>\n\n<p>Durante o exercício, o que determina o efeito do carboidrato são duas variáveis: <strong>quanto</strong> chega por hora e de <strong>que tipo</strong> ele é. A revisão de Jeukendrup (<em>Sports Medicine</em>, 2014), que organizou as diretrizes modernas, deixa isso explícito: em esforços de até cerca de 1 hora, um bochecho ou pequenas quantidades já bastam; de 2 a 3 horas, o alvo é em torno de <strong>60 g de carboidrato por hora</strong>; e em provas muito longas pode-se chegar a cerca de <strong>90 g/h</strong>, desde que a mistura seja de <strong>glicose + frutose</strong>, que usam transportadores intestinais diferentes e permitem absorver mais sem sobrecarregar o intestino.</p>\n\n<p>O ponto decisivo vem na mesma frase do autor: <em>a fonte pode ser líquida, em gel ou sólida</em>. Ou seja, as diretrizes são sobre quantidade e tipo de açúcar — não sobre a embalagem.</p>\n\n<h2>O que os testes de desempenho mostraram</h2>\n\n<p>Essa teoria foi colocada à prova com comida de verdade. No estudo de Salvador e colegas (<em>Journal of Applied Physiology</em>, 2019), 12 ciclistas treinados pedalaram 2 horas e depois fizeram um contrarrelógio, em três ocasiões: consumindo purê de <strong>batata</strong>, <strong>gel</strong> comercial ou apenas <strong>água</strong>. O resultado: batata e gel produziram <strong>exatamente o mesmo tempo de prova (33,0 min cada)</strong>, enquanto a condição só com água foi bem mais lenta (39,5 min) — uma diferença de mais de 6 minutos. Entre batata e gel, nenhuma diferença.</p>\n\n<p>Antes disso, Nieman e colegas (<em>PLoS One</em>, 2012) já haviam comparado <strong>banana</strong> com uma <strong>bebida esportiva a 6%</strong> em um contrarrelógio de 75 km com 14 ciclistas. Performance, glicose sanguínea e a maior parte dos marcadores metabólicos foram equivalentes entre os dois. (Vale a nota de transparência: esse estudo teve financiamento da indústria da banana; ainda assim, o achado converge com o da batata, de grupo independente.)</p>\n\n<h2>Se rende igual, por que escolher?</h2>\n\n<p>Porque a diferença real não está na \"potência\", e sim no que cada opção pede de você em prova:</p>\n\n<table>\n<thead><tr><th>Opção</th><th>A favor</th><th>Contra</th></tr></thead>\n<tbody>\n<tr><td>Gel</td><td>Leve, previsível, dose conhecida, fácil de carregar</td><td>Mais caro; precisa de água junto; pouca saciedade</td></tr>\n<tr><td>Bebida esportiva</td><td>Entrega carbo + água + sódio num gole só; prática no calor</td><td>Volume a carregar; concentração fixa</td></tr>\n<tr><td>Comida real (banana, batata, pão, tâmara)</td><td>Barata, saciante, fácil de achar</td><td>Pesa mais no estômago em intensidade alta; dose menos precisa</td></tr>\n</tbody>\n</table>\n\n<h2>A variável esquecida: seu intestino</h2>\n\n<p>Pfeiffer e colegas (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2012) acompanharam 221 atletas em provas reais (Ironman, maratona, ciclismo) e encontraram taxas de ingestão de carboidrato que variaram de <strong>6 a 136 g/h</strong>. Ingestões mais altas se associaram a <strong>melhor desempenho</strong> nas provas de Ironman — mas também a mais náusea e flatulência, sobretudo em quem já tinha histórico de problemas gastrointestinais.</p>\n\n<p>A lição prática: a quantidade de carboidrato que você tolera não é fixa — ela se <strong>treina</strong>. Comer mais carbo nos treinos longos, de forma progressiva, aumenta ao longo de semanas o quanto o intestino absorve e tolera. Isso vale para qualquer formato.</p>\n\n<h2>Resumo</h2>\n\n<p>Gel, bebida e comida de verdade entregam o mesmo carboidrato, e os testes de desempenho mostram resultado equivalente quando a quantidade é a mesma. Escolha pelo que faz sentido para a sua prova — custo, peso, calor, estômago — e treine a tolerância antes do dia da largada. O combustível é o carboidrato; o resto é logística.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Salvador AF, McKenna CF, Alamilla RA, et al. Potato ingestion is as effective as carbohydrate gels to support prolonged cycling performance. <em>J Appl Physiol</em>. 2019;127(6):1651–1659. doi:10.1152/japplphysiol.00567.2019</li>\n<li>Nieman DC, Gillitt ND, Henson DA, et al. Bananas as an energy source during exercise: a metabolomics approach. <em>PLoS One</em>. 2012;7(5):e37479. doi:10.1371/journal.pone.0037479</li>\n<li>Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. <em>Sports Med</em>. 2014;44(Suppl 1):S25–S33. doi:10.1007/s40279-014-0148-z</li>\n<li>Pfeiffer B, Stellingwerff T, Hodgson AB, et al. Nutritional intake and gastrointestinal problems during competitive endurance events. <em>Med Sci Sports Exerc</em>. 2012;44(2):344–351. doi:10.1249/MSS.0b013e31822dc809</li>\n</ol>\n",
+    "cover": "content/drafts/der_comparacao_gel_bebida/cover.png",
+    "cover_alt": "Gel, bebida ou comida real: o que entrega mais carboidrato no endurance — Somente os Fatos Nutrição"
+  },
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "creative_files": [
+    "content/drafts/der_comparacao_gel_bebida/slide_01.png",
+    "content/drafts/der_comparacao_gel_bebida/slide_02.png",
+    "content/drafts/der_comparacao_gel_bebida/slide_03.png",
+    "content/drafts/der_comparacao_gel_bebida/slide_04.png",
+    "content/drafts/der_comparacao_gel_bebida/slide_05.png",
+    "content/drafts/der_comparacao_gel_bebida/slide_06.png"
+  ]
+}
