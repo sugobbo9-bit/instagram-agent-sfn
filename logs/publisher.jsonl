@@ -497,3 +497,10 @@
 {"ts": "2026-10-30T14:58:34.749054+00:00", "level": "INFO", "msg": "PUBLICADO: der_comparacao_gel_bebida -> media_id 18146180437564688"}
 {"ts": "2026-10-30T14:58:34.768154+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-30T17:42:24.745098+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-30T20:10:32.916948+00:00", "level": "INFO", "msg": "Publicando vs_008 (carousel) \u2014 whey protein isolado: Growth Supplements vs Max Titanium (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-30T20:10:32.921094+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-30T20:10:32.921223+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_008/slide_01.png"}
+{"ts": "2026-10-30T20:10:34.024449+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-30T20:11:09.213656+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-30T20:11:21.482734+00:00", "level": "INFO", "msg": "PUBLICADO: vs_008 -> media_id 18037226942845130"}
+{"ts": "2026-10-30T20:11:21.501273+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

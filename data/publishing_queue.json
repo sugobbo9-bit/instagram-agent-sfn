@@ -884,11 +884,13 @@
       "format": "carousel",
       "topic": "whey protein isolado: Growth Supplements vs Max Titanium (rótulo lado a lado)",
       "hook": "Whey isolado: Growth vs. Max Titanium. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-10-30T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:whey-isolado, pair:growth-maxtitanium"
+      "notes": "marca x marca — category:whey-isolado, pair:growth-maxtitanium",
+      "published_at": "2026-10-30T20:11:21.482917+00:00",
+      "post_id": "18037226942845130"
     }
   ]
 }

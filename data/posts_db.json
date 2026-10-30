@@ -8515,6 +8515,74 @@
       "derivatives_created": [],
       "ghost_post_id": "6ae4b0a15ad77000018bcbfb",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/gel-bebida-ou-comida-real-combustivel-endurance/"
+    },
+    {
+      "post_id": "18037226942845130",
+      "local_id": "vs_008",
+      "publication_date": "2026-10-30T20:11:21.482917+00:00",
+      "format": "carousel",
+      "topic": "whey protein isolado: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Whey isolado: Growth vs. Max Titanium. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu objetivo, do seu estômago (lactose) e do seu bolso.\n\nGrowth Supplements — Top Whey Isolado (sabor Natural): dose de 30 g (2½ dosadores), 27 g de proteína, 2 g de carboidrato, 116 kcal, ~2,84 g de leucina. Contém lactose.\n\nMax Titanium — Iso Whey (sabor Baunilha): dose de 30 g (2 dosadores), 26 g de proteína, 2,3 g de carboidrato, 118 kcal, ~2,85 g de leucina. Contém lactose.\n\nOs dois são whey isolado (WPI) e declaram concentração proteica perto de 90% por dose. Alguns números (carboidrato, gordura, sódio) variam com o sabor, então usei a versão mostrada em cada site oficial; confira o rótulo do produto que você tem em mãos.\n\nDados dos rótulos e sites oficiais, consultados em 30/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Witard OC et al. Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise. Am J Clin Nutr. 2014;99:86–95.\n• Moore DR et al. Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men. Am J Clin Nutr. 2009;89:161–168.\n• Morton RW et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains. Br J Sports Med. 2018;52:376–384.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Max Titanium.\n\n#nutricaoesportiva #wheyprotein #wheyisolado #proteina #corrida #ciclismo #triathlon #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise",
+          "authors": "Witard OC, Jackman SR, Breen L, Smith K, Selby A, Tipton KD",
+          "journal": "American Journal of Clinical Nutrition",
+          "year": 2014,
+          "volume": "99",
+          "issue": "1",
+          "pages": "86-95",
+          "doi": "10.3945/ajcn.112.055517",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24257722/",
+          "level": "B"
+        },
+        {
+          "title": "Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men",
+          "authors": "Moore DR, Robinson MJ, Fry JL, Tang JE, Glover EI, Wilkinson SB, Prior T, Tarnopolsky MA, Phillips SM",
+          "journal": "American Journal of Clinical Nutrition",
+          "year": 2009,
+          "volume": "89",
+          "issue": "1",
+          "pages": "161-168",
+          "doi": "10.3945/ajcn.2008.26401",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2669978",
+          "level": "B"
+        },
+        {
+          "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+          "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2018,
+          "volume": "52",
+          "issue": "6",
+          "pages": "376-384",
+          "doi": "10.1136/bjsports-2017-097608",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_008/slide_01.png",
+        "content/drafts/vs_008/slide_02.png",
+        "content/drafts/vs_008/slide_03.png",
+        "content/drafts/vs_008/slide_04.png",
+        "content/drafts/vs_008/slide_05.png",
+        "content/drafts/vs_008/slide_06.png",
+        "content/drafts/vs_008/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:whey-isolado",
+        "pair:growth-maxtitanium"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
