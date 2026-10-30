@@ -496,3 +496,4 @@
 {"ts": "2026-10-30T14:58:26.016181+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-10-30T14:58:34.749054+00:00", "level": "INFO", "msg": "PUBLICADO: der_comparacao_gel_bebida -> media_id 18146180437564688"}
 {"ts": "2026-10-30T14:58:34.768154+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-10-30T17:42:24.745098+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
