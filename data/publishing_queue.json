@@ -878,6 +878,17 @@
       "notes": "card informativo — mode:tema, topic:vitamina-d-atletas",
       "published_at": "2026-10-29T22:39:01.264988+00:00",
       "post_id": "18135591571737616"
+    },
+    {
+      "local_id": "vs_008",
+      "format": "carousel",
+      "topic": "whey protein isolado: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+      "hook": "Whey isolado: Growth vs. Max Titanium. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-10-30T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:whey-isolado, pair:growth-maxtitanium"
     }
   ]
 }

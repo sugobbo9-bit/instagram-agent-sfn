@@ -1,0 +1,234 @@
+{
+  "local_id": "vs_008",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-10-30T00:00:00Z",
+  "topic": "whey protein isolado: Growth Supplements vs Max Titanium (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Whey isolado: Growth vs. Max Titanium. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:whey-isolado",
+    "pair:growth-maxtitanium"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Growth Whey Isolado",
+      "brand": "Growth Supplements",
+      "image": "content/drafts/vs_008/img/growth_isolado.png",
+      "label_source": {
+        "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
+        "consulted": "2026-10-30",
+        "notes": "Tabela nutricional do sabor Natural (porção 30 g, 2½ dosadores): 116 kcal, 27 g proteína, 2 g carboidrato, 0 g açúcares, 0 g gorduras, 44 mg sódio, L-leucina 2.838 mg. Contém lactose. Proteína isolada do soro do leite (WPI)."
+      }
+    },
+    {
+      "name": "Max Titanium Iso Whey",
+      "brand": "Max Titanium",
+      "image": "content/drafts/vs_008/img/max_iso_whey.jpg",
+      "label_source": {
+        "url": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+        "consulted": "2026-10-30",
+        "notes": "Tabela nutricional (imagem oficial) do sabor Baunilha (porção 30 g, 2 dosadores): 118 kcal, 26 g proteína, 2,3 g carboidrato, 0,7 g açúcares totais, 0,5 g gorduras, 146 mg sódio, leucina 2.850 mg (BCAA 6.422 mg). Contém lactose. Proteína isolada do soro (WPI), lecitina de soja, sucralose."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois whey\nisolados.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_008/img/growth_isolado.png",
+          "mode": "multiply",
+          "label": "Growth Whey Isolado"
+        },
+        {
+          "image": "content/drafts/vs_008/img/max_iso_whey.jpg",
+          "mode": "multiply",
+          "label": "Max Titanium Iso Whey"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da dose",
+      "values": [
+        {
+          "value": "30 g",
+          "note": "2½ dosadores"
+        },
+        {
+          "value": "30 g",
+          "note": "2 dosadores"
+        }
+      ],
+      "footnote": "A dose declarada é a mesma; muda só o número de dosadores."
+    },
+    {
+      "type": "metric",
+      "headline": "Proteína por dose",
+      "values": [
+        {
+          "value": "27 g"
+        },
+        {
+          "value": "26 g"
+        }
+      ],
+      "footnote": "Por dose de 30 g. O valor varia um pouco com o sabor."
+    },
+    {
+      "type": "metric",
+      "headline": "Proteína em cada 100 g de pó",
+      "values": [
+        {
+          "value": "90 g"
+        },
+        {
+          "value": "≈87 g"
+        }
+      ],
+      "footnote": "Concentração proteica (proteína ÷ porção). Varia com o sabor."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por dose",
+      "values": [
+        {
+          "value": "2 g"
+        },
+        {
+          "value": "2,3 g"
+        }
+      ],
+      "footnote": "Por dose de 30 g. O valor varia com o sabor."
+    },
+    {
+      "type": "metric",
+      "headline": "Leucina por dose",
+      "values": [
+        {
+          "value": "2.838 mg"
+        },
+        {
+          "value": "2.850 mg"
+        }
+      ],
+      "footnote": "Leucina é o aminoácido mais ligado ao gatilho da síntese proteica."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Para maximizar a síntese de proteína muscular após o treino, a literatura aponta ~20 g de proteína de alto valor (cerca de 0,25 g/kg) por refeição; acima disso o estímulo extra é pequeno. As duas doses de 30 g trazem 26–27 g de proteína e ~2,8 g de leucina, o aminoácido que dispara esse processo.\n\nNo total do dia é que a conta fecha: uma meta-análise não viu ganho acima de ~1,6 g/kg/dia. 'Isolado' tem menos carboidrato, gordura e lactose que o concentrado — mas ainda contém lactose.",
+      "source": "Rótulos e sites oficiais: Growth Supplements (Top Whey Isolado, sabor Natural) e Max Titanium (Iso Whey, sabor Baunilha), consultados em 30/10/2026.\nWitard OC et al. Am J Clin Nutr. 2014;99:86–95. Moore DR et al. Am J Clin Nutr. 2009;89:161–168. Morton RW et al. Br J Sports Med. 2018;52:376–384.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu objetivo, do seu estômago (lactose) e do seu bolso.\n\nGrowth Supplements — Top Whey Isolado (sabor Natural): dose de 30 g (2½ dosadores), 27 g de proteína, 2 g de carboidrato, 116 kcal, ~2,84 g de leucina. Contém lactose.\n\nMax Titanium — Iso Whey (sabor Baunilha): dose de 30 g (2 dosadores), 26 g de proteína, 2,3 g de carboidrato, 118 kcal, ~2,85 g de leucina. Contém lactose.\n\nOs dois são whey isolado (WPI) e declaram concentração proteica perto de 90% por dose. Alguns números (carboidrato, gordura, sódio) variam com o sabor, então usei a versão mostrada em cada site oficial; confira o rótulo do produto que você tem em mãos.\n\nDados dos rótulos e sites oficiais, consultados em 30/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Witard OC et al. Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise. Am J Clin Nutr. 2014;99:86–95.\n• Moore DR et al. Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men. Am J Clin Nutr. 2009;89:161–168.\n• Morton RW et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains. Br J Sports Med. 2018;52:376–384.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Max Titanium.\n\n#nutricaoesportiva #wheyprotein #wheyisolado #proteina #corrida #ciclismo #triathlon #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise",
+      "authors": "Witard OC, Jackman SR, Breen L, Smith K, Selby A, Tipton KD",
+      "journal": "American Journal of Clinical Nutrition",
+      "year": 2014,
+      "volume": "99",
+      "issue": "1",
+      "pages": "86-95",
+      "doi": "10.3945/ajcn.112.055517",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24257722/",
+      "level": "B"
+    },
+    {
+      "title": "Ingested protein dose response of muscle and albumin protein synthesis after resistance exercise in young men",
+      "authors": "Moore DR, Robinson MJ, Fry JL, Tang JE, Glover EI, Wilkinson SB, Prior T, Tarnopolsky MA, Phillips SM",
+      "journal": "American Journal of Clinical Nutrition",
+      "year": 2009,
+      "volume": "89",
+      "issue": "1",
+      "pages": "161-168",
+      "doi": "10.3945/ajcn.2008.26401",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2669978",
+      "level": "B"
+    },
+    {
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2018,
+      "volume": "52",
+      "issue": "6",
+      "pages": "376-384",
+      "doi": "10.1136/bjsports-2017-097608",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Growth Whey Isolado",
+      "kind": "packshot",
+      "title": "Whey Protein Isolado 90% (1 kg) - Growth Supplements",
+      "creator": "Growth Supplements",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
+      "changes": "fundo branco aparado; redimensionada"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Max Titanium Iso Whey",
+      "kind": "packshot",
+      "title": "Iso Whey 900g Baunilha - Max Titanium",
+      "creator": "Max Titanium",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+      "changes": "fundo branco aparado"
+    }
+  ],
+  "notes": "marca x marca — category:whey-isolado, pair:growth-maxtitanium. Dados de rótulo conferidos em 2026-10-30 nos sites oficiais. Growth Top Whey Isolado: tabela em texto (sabor Natural). Max Iso Whey: tabela lida da imagem oficial (sabor Baunilha). Sódio omitido dos slides por variar fortemente com o sabor (Natural 44 mg vs Baunilha 146 mg) e não ser comparável entre sabores diferentes. Proteína em 100 g derivada da porção (27/30 e 26/30).",
+  "creative_files": [
+    "content/drafts/vs_008/slide_01.png",
+    "content/drafts/vs_008/slide_02.png",
+    "content/drafts/vs_008/slide_03.png",
+    "content/drafts/vs_008/slide_04.png",
+    "content/drafts/vs_008/slide_05.png",
+    "content/drafts/vs_008/slide_06.png",
+    "content/drafts/vs_008/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}
