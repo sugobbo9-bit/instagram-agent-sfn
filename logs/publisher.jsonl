@@ -511,3 +511,10 @@
 {"ts": "2026-10-30T22:40:03.553806+00:00", "level": "INFO", "msg": "PUBLICADO: card_004 -> media_id 17911335696560567"}
 {"ts": "2026-10-30T22:40:03.568493+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-10-31T16:48:50.761482+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-10-31T19:57:02.729815+00:00", "level": "INFO", "msg": "Publicando vs_009 (carousel) \u2014 isot\u00f4nico pronto: Gatorade vs Powerade (r\u00f3tulo lado a lado)"}
+{"ts": "2026-10-31T19:57:02.734312+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-10-31T19:57:02.734417+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_009/slide_01.png"}
+{"ts": "2026-10-31T19:57:04.524034+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-10-31T19:57:34.888318+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-10-31T19:57:48.242237+00:00", "level": "INFO", "msg": "PUBLICADO: vs_009 -> media_id 17915946123549068"}
+{"ts": "2026-10-31T19:57:48.260915+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

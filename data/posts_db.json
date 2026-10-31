@@ -8632,6 +8632,74 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17915946123549068",
+      "local_id": "vs_009",
+      "publication_date": "2026-10-31T19:57:48.242429+00:00",
+      "format": "carousel",
+      "topic": "isotônico pronto: Gatorade vs Powerade (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Gatorade vs. Powerade. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor.\n\nGatorade: por 100 mL, cerca de 5,8 g de carboidrato, 3,4 g de açúcares, 50 mg de sódio e 15 mg de potássio — valores próximos entre os sabores.\n\nPowerade: por 100 mL, de 3,6 a 5,4 g de carboidrato (vindo de açúcar), 50 a 89 mg de sódio e 10 a 21 mg de potássio, conforme o sabor.\n\nBase: 100 mL, comum às duas tabelas oficiais. Em uma garrafa de 500 mL, multiplique por 5. As duas marcas têm também uma linha sem açúcar (Zero).\n\nDados das tabelas nutricionais oficiais (gatorade.lat e Coca-Cola Brasil), consultadas em 31/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: Nutrition and Athletic Performance. J Acad Nutr Diet. 2016;116(3):501–528.\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Gatorade e do Powerade (Coca-Cola).\n\n#nutricaoesportiva #isotonico #hidratacao #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Journal of the Academy of Nutrition and Dietetics",
+          "year": 2016,
+          "volume": "116",
+          "issue": "3",
+          "pages": "501-528",
+          "doi": "10.1016/j.jand.2015.12.006",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+          "level": "A"
+        },
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_009/slide_01.png",
+        "content/drafts/vs_009/slide_02.png",
+        "content/drafts/vs_009/slide_03.png",
+        "content/drafts/vs_009/slide_04.png",
+        "content/drafts/vs_009/slide_05.png",
+        "content/drafts/vs_009/slide_06.png",
+        "content/drafts/vs_009/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:isotonico-pronto",
+        "pair:gatorade-powerade"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

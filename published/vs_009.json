@@ -1,0 +1,237 @@
+{
+  "local_id": "vs_009",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-10-31T00:00:00Z",
+  "topic": "isotônico pronto: Gatorade vs Powerade (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Gatorade vs. Powerade. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:isotonico-pronto",
+    "pair:gatorade-powerade"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Gatorade",
+      "brand": "Gatorade",
+      "image": "content/drafts/vs_009/img/gatorade_laranja.png",
+      "label_source": {
+        "url": "https://www.gatorade.lat/br/producto/gatorade",
+        "consulted": "2026-10-31",
+        "notes": "Tabela nutricional por 100 mL da página oficial, valores próximos entre os 5 sabores: 24 kcal, 5,8 g carboidrato, 3,4 g açúcares, 50-51 mg sódio, 15 mg potássio. A página traz a tabela nutricional, não a lista de ingredientes."
+      }
+    },
+    {
+      "name": "Powerade",
+      "brand": "Powerade (Coca-Cola)",
+      "image": "content/drafts/vs_009/img/powerade_laranja.png",
+      "label_source": {
+        "url": "https://www.coca-cola.com/br/pt/brands/powerade",
+        "consulted": "2026-10-31",
+        "notes": "Tabela nutricional por garrafa de 500 mL da página oficial, convertida para 100 mL. Sabores açucarados: carbo 18-27 g, sódio 250-445 mg, potássio 52-105 mg por garrafa. Lista de ingredientes traz açúcar como carboidrato. Há versão Zero (0 g carbo)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois isotônicos.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_009/img/gatorade_laranja.png",
+          "mode": "multiply",
+          "label": "Gatorade"
+        },
+        {
+          "image": "content/drafts/vs_009/img/powerade_laranja.png",
+          "mode": "multiply",
+          "label": "Powerade"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por 100 mL",
+      "values": [
+        {
+          "value": "5,8 g"
+        },
+        {
+          "value": "3,6–5,4 g",
+          "note": "varia com o sabor"
+        }
+      ],
+      "footnote": "Base: 100 mL, comum às duas tabelas oficiais. Em uma garrafa de 500 mL, multiplique por 5."
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcares por 100 mL",
+      "values": [
+        {
+          "value": "3,4 g",
+          "note": "parte do carboidrato não é açúcar"
+        },
+        {
+          "value": "3,6–5,4 g",
+          "note": "o carboidrato vem de açúcar"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por 100 mL",
+      "values": [
+        {
+          "value": "50 mg"
+        },
+        {
+          "value": "50–89 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Potássio por 100 mL",
+      "values": [
+        {
+          "value": "15 mg"
+        },
+        {
+          "value": "10–21 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carboidrato",
+      "values": [
+        {
+          "value": "Não especificado",
+          "note": "a página traz a tabela nutricional, não a lista de ingredientes"
+        },
+        {
+          "value": "Açúcar",
+          "note": "declarado na lista de ingredientes"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Isotônico é, antes de tudo, bebida de hidratação: carboidrato em torno de 5 a 6 g por 100 mL, com sódio e potássio. No exercício, a faixa usual é de 30 a 60 g de carboidrato por hora em esforços de até cerca de 2 a 3 horas; quanto cada bebida entrega depende de quanto você bebe, não só da concentração.\n\nO sódio perdido no suor varia muito: de cerca de 230 a mais de 2.000 mg por litro. Em 100 mL, essas bebidas trazem de 50 a 90 mg de sódio — em treinos longos ou no calor, repor sódio é uma conta à parte.",
+      "source": "Rótulos e tabelas oficiais Gatorade (gatorade.lat) e Powerade (Coca-Cola Brasil), consultados em 31/10/2026.\nThomas DT et al. J Acad Nutr Diet. 2016;116(3):501‑528. Jeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor.\n\nGatorade: por 100 mL, cerca de 5,8 g de carboidrato, 3,4 g de açúcares, 50 mg de sódio e 15 mg de potássio — valores próximos entre os sabores.\n\nPowerade: por 100 mL, de 3,6 a 5,4 g de carboidrato (vindo de açúcar), 50 a 89 mg de sódio e 10 a 21 mg de potássio, conforme o sabor.\n\nBase: 100 mL, comum às duas tabelas oficiais. Em uma garrafa de 500 mL, multiplique por 5. As duas marcas têm também uma linha sem açúcar (Zero).\n\nDados das tabelas nutricionais oficiais (gatorade.lat e Coca-Cola Brasil), consultadas em 31/10/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: Nutrition and Athletic Performance. J Acad Nutr Diet. 2016;116(3):501–528.\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Gatorade e do Powerade (Coca-Cola).\n\n#nutricaoesportiva #isotonico #hidratacao #corrida #ciclismo #triathlon #maratona #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "year": 2016,
+      "volume": "116",
+      "issue": "3",
+      "pages": "501-528",
+      "doi": "10.1016/j.jand.2015.12.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+      "level": "A"
+    },
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Gatorade Laranja",
+      "kind": "packshot",
+      "title": "gatorade-laranja.png",
+      "creator": "Gatorade (PepsiCo)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gatorade.lat/br/producto/gatorade",
+      "changes": "capturado da página oficial, fundo aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Powerade Laranja",
+      "kind": "packshot",
+      "title": "garrafa_laranja_750x750px.png",
+      "creator": "Powerade (The Coca-Cola Company)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.coca-cola.com/br/pt/brands/powerade",
+      "changes": "fundo branco composto, aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-10-31 nas tabelas nutricionais oficiais. Gatorade (gatorade.lat/br): tabela por 100 mL, valores próximos entre os 5 sabores (24 kcal, 5,8 g carbo, 3,4 g açúcares, 50-51 mg sódio, 15 mg potássio); página sem lista de ingredientes. Powerade (Coca-Cola Brasil): tabela por garrafa de 500 mL por sabor, convertida para 100 mL — carbo 3,6-5,4 g, sódio 50-89 mg, potássio 10-21 mg (sabores açucarados); carboidrato vem de açúcar (lista de ingredientes). Comparação feita por 100 mL, base comum às duas tabelas.",
+  "creative_files": [
+    "content/drafts/vs_009/slide_01.png",
+    "content/drafts/vs_009/slide_02.png",
+    "content/drafts/vs_009/slide_03.png",
+    "content/drafts/vs_009/slide_04.png",
+    "content/drafts/vs_009/slide_05.png",
+    "content/drafts/vs_009/slide_06.png",
+    "content/drafts/vs_009/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17915946123549068",
+  "published_at": "2026-10-31T19:57:48.242429+00:00"
+}
