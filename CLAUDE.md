@@ -204,6 +204,19 @@ Allocate attention dynamically based on:
 * competition calendar;
 * opportunity for highly shareable education.
 
+## CLAIM_CHECK (owner directive, 2026-10-31)
+
+Once per week, publish a "claim check" carousel (`claim_NNN`, `series:claim-check`) in the ~12h BRT technical slot: one marketing promise from a real energy gel sold in Brazil, confronted with the evidence. Fixed rotation: Maurten (hydrogel) → Dobro BT Nitrato (nitrate in an intra-workout gel) → Xtratus H2Gel (hydrogel) → repeat. Full dossier, angles, prices and rules in `strategy/playbook_visual.md` section 6.
+
+Non-negotiable:
+* the brand's claim is quoted from its official site/label with URL and date (`claim_source`);
+* every rebuttal cites a study (level A/B); mixed evidence is stated as mixed (Maurten has one favourable RCT — always say so);
+* no insults, no "scam/lie/garbage" language, no jokes at the brand's expense — the tone is the researcher who read the paper;
+* Z2 never appears in this series (text, photo, caption, "alternative"), and no product is recommended for purchase;
+* price only with source + date, expressed as R$ per gram of carbohydrate.
+
+This cadence is an owner decision: the weekly review measures it (shares/reach, saves/reach, comments) and tunes hooks/angles, but does not suspend it without the owner.
+
 ## SCIENTIFIC_STANDARD
 
 Scientific credibility is non-negotiable.

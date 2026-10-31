@@ -108,3 +108,57 @@ Sem marca de suplemento no modo tema (e a Z2 nunca). Sem inventar número, estud
 
 ### Medição
 A série é **nova** (`series:card-informativo`) e deve ser avaliada separadamente da `voce-sabia` antiga, por formato. A revisão semanal **não** re-pausa o formato por conta própria: reporta os números (alcance, saves/reach, shares/reach vs. carrossel) e deixa a decisão com o Victor, após ≥ 4 semanas de amostra.
+
+## 6. Claim check semanal (`claim_NNN`, 1x por semana no slot técnico ~12h BRT) — diretriz do Victor (31/10/2026)
+
+**O que é:** uma vez por semana, o carrossel técnico das 12h pega **uma promessa de marketing de um gel real vendido no Brasil** e a confronta com a evidência. Três marcas em rodízio fixo: **Maurten → Dobro (BT Nitrato) → Xtratus (H2Gel) → volta à Maurten**. É uma série diferente do marca x marca (`vs_*`): ali não há julgamento; aqui há **veredito de evidência**, sempre sustentado por estudo citado. O leitor deve sair pensando "então aquela promessa não está provada" — nunca "a marca é ruim".
+
+**Isso não substitui nada:** o `vs_*` das 17h e o `card_*` das 19h30 continuam. Na semana do claim check, ele ocupa o slot das 12h de um dia (preferir terça ou quarta — nunca sexta). Conta como 1 dos 60% de "temas provados" se a família já tiver vencedor; senão, como experimento adjacente.
+
+### Regras que não se negociam
+
+1. **Toda afirmação sobre a marca vem do site/rótulo oficial, com URL e data** (`claim_source`). Cite a promessa literalmente (curta) e diga onde está. Se a página mudou e a promessa sumiu, troque o ângulo — não invente o que a marca "costumava" dizer.
+2. **Toda contestação vem de estudo citado** (`scientific_sources`, nível A/B). Mostre o que o estudo mediu e o resultado; não adjetive.
+3. **Evidência mista é mista.** O caso Maurten tem um RCT favorável (Rowe 2022). Omitir isso quebra o padrão científico da conta e dá à marca a resposta fácil. O post fica mais forte dizendo "1 estudo a favor, 3 contra (um deles pago pela própria marca)".
+4. **Sem insulto, sem "ruim/golpe/enganação/marketing mentiroso"**, sem piada às custas da marca. O gate reprova. O tom é o do pesquisador que leu o paper: seco, específico, numérico.
+5. **Z2 nunca aparece** nesta série — nem no texto, nem na foto, nem na legenda, nem como "alternativa". Também não indique produto nenhum para comprar. O claim check perde toda a credibilidade se parecer propaganda de concorrente.
+6. **Preço só do site oficial ou de loja com URL e data**, e sempre convertido em **R$ por grama de carboidrato** — é a única comparação de preço que o leitor consegue checar.
+7. Foto: packshot oficial do site da marca (`image_credits` com `"kind": "packshot"`), fundo branco, rótulo intacto.
+
+### Dossiê por marca (ponto de partida — reverifique a página oficial no dia; confirme cada DOI no PubMed antes de publicar)
+
+**Maurten (Gel 100 / Gel 160) — a promessa do hidrogel**
+- Promessa: hidrogel (alginato + pectina) encapsula o carbo, "melhor absorção" e "menos desconforto GI"; marketing histórico de "combustível esportivo mais rápido do mundo".
+- Contra: King, Rowe & Burke 2020 (revisão, IJSNEM 30(5):305-314, doi 10.1123/ijsnem.2020-0102) — traçadores isotópicos mostram oxidação exógena similar; sintomas GI sem diferença; "os dados não sustentam vantagem metabólica ou de performance". McCubbin et al. 2020 (IJSNEM, doi 10.1123/ijsnem.2019-0090) — 90 g/h, sem diferença em oxidação, GI (100% nos dois braços) ou tempo até exaustão. Sutehall et al. 2022 (Front Nutr 8:810041, doi 10.3389/fnut.2021.810041) — **financiado pela Maurten AB**: a 70 g/h, alginato+pectina não alterou oxidação de glicose exógena nem sintomas GI.
+- A favor (citar sempre): Rowe et al. 2022 (MSSE 54(1):129-140, doi 10.1249/MSS.0000000000002764, n=11) — contrarrelógio 2,1% mais rápido e menos GI vs solução convencional.
+- Preço (velocita.com.br, 31/10/2026): Gel 100 R$ 24,99 / 25 g carbo = **R$ 1,00 por g de carbo**. Curiosidade de rótulo: o adesivo em português sugere "1 sachê por dia".
+- Ângulos: "O gel do recorde mundial: o que os estudos acharam" · "3 estudos, 1 a favor (e o pago pela marca não achou nada)" · "R$ 1 por grama de carbo: o que você está pagando".
+
+**Dobro BT Nitrato Gel (400) — nitrato dentro de um gel intra-treino**
+- Promessa (site/lojas): "1º gel de carboidratos com nitrato do Brasil", 400 mg de nitrato de beterraba, "melhora a eficiência energética", uso sugerido "1h antes ou a cada 45 min de exercício".
+- Contra (timing): nitrato plasmático pico ~1–2 h, nitrito ~2–3 h; protocolo eficaz = 2–3 h antes (Macuh & Knap 2021, Nutrients 13(9):3183, doi 10.3390/nu13093183; Lorenzo Calvo et al. 2020, Nutrients 12(6):1796, doi 10.3390/nu12061796). Um gel ingerido no km 25 só vira NO depois da chegada. Contra (dose): 400 mg ≈ 6,5 mmol, piso da faixa aguda eficaz (6–12,4 mmol). Contra (público): efeito mais consistente em menos treinados (VO₂max < 65) e esforços de ~10–17 min; em atletas de endurance bem treinados o efeito é incerto — exatamente o público-alvo do produto.
+- Preço (sportbr.com.br, 31/10/2026): BT Gel R$ 8,90 vs BT 400 Nitrato R$ 15,99 (20–22 g carbo) → ~R$ 7 a mais por sachê pelo nitrato, **R$ 0,80/g de carbo** (farmácia chega a R$ 22,50 = R$ 1,13/g).
+- Ângulos: "Nitrato no gel: o timing que a fisiologia não aceita" · "400 mg: a dose que fica no piso da evidência" · "Quem responde a nitrato (e por que não é você, maratonista)".
+
+**Xtratus H2Gel — hidrogel "para melhor absorção" (claim igual ao da Maurten, com os mesmos estudos contra)**
+- Promessa (velocita.com.br / drogarias): "nova geração de géis… tecnologia de hidrogel… melhor absorção dos nutrientes em comparação aos géis tradicionais", "contribui para reduzir desconfortos gastrointestinais", glicose:frutose 1:0,8, 40 g carbo/sachê (~75 g), 300 mg sódio, versão CAF com 150 mg cafeína.
+- Contra: os mesmos 3 estudos do hidrogel (King 2020; McCubbin 2020; Sutehall 2022) — a tecnologia é a mesma (alginato de sódio). Mérito a reconhecer: 1:0,8 e 40 g/sachê são escolhas alinhadas com a evidência (múltiplos carboidratos transportáveis — Jeukendrup 2010, Curr Opin Clin Nutr Metab Care; confirmar DOI antes de citar) — o problema é o claim de absorção, não a composição.
+- Preço (velocita.com.br / drogariaspacheco, 31/10/2026): R$ 26,99–27,00 por 40 g carbo = **R$ 0,67–0,68/g**. Comparar com géis convencionais do mesmo carbo (gel 30 g de carbo a R$ 7–15 ≈ R$ 0,25–0,50/g): o "prêmio do hidrogel" é a diferença.
+- Ângulos: "Hidrogel brasileiro, promessa importada" · "Paga 2x pelo alginato — o que o alginato faz (segundo os estudos)".
+
+### Referência de preço por grama (31/10/2026; atualize no dia)
+Dobro Carbs R$ 11,99/21 g = R$ 0,57 · GU R$ 14,49/22 g = R$ 0,66 · Xtratus H2Gel R$ 0,67 · Dobro BT Nitrato R$ 0,80 · Maurten Gel 100 R$ 1,00.
+
+### Schema (`template: "claim_check"`, renderiza com `render_carousel.py`)
+```
+{"local_id":"claim_001","format":"carousel","template":"claim_check","series":"claim-check",
+ "comparativo":true,"brand":"Maurten","product":"Gel 100",
+ "claim_source":{"url":"https://www.maurten.com/...","consulted":"2026-11-04","quote":"<frase curta do site>"},
+ "hook":"...","slides":[hook → claim (a promessa, literal) → evidence ×2–3 → nuance (o que há a favor) → practical (o que fazer com isso) → cta],
+ "scientific_sources":[...], "image_credits":[{"kind":"packshot", ...}],
+ "experiment_tags":["series:claim-check","brand:maurten","hook:<família>","time:12brt","visual:foto"]}
+```
+Rodízio: registre `brand:` nas tags e escolha a marca que está há mais tempo sem claim check. Não repita o mesmo claim da mesma marca em menos de 6 semanas — cada marca tem 3+ ângulos acima.
+
+### Medição
+Métrica principal: **shares/reach e saves/reach** contra o técnico das 12h. Segunda métrica: comentários (polêmica gera resposta — registre o texto quando a coleta de comentários voltar). Reporte separadamente na revisão de domingo. A série é **diretriz do dono**: a revisão semanal reporta e ajusta ângulo/hook, mas não suspende a cadência semanal sem decisão do Victor.

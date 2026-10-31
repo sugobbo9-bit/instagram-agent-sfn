@@ -108,6 +108,35 @@ def check_carousel(post: dict) -> tuple[bool, list]:
         if slides and slides[-1].get("type") != "fact":
             failures.append("VERSUS: o ultimo slide precisa ser type 'fact' com 'source'")
 
+    # CLAIM CHECK — promessa de marca x evidencia (diretriz do Victor, 31/10/2026)
+    if post.get("template") == "claim_check":
+        cs = post.get("claim_source") or {}
+        if not cs.get("url") or not cs.get("consulted") or not cs.get("quote"):
+            failures.append("CLAIM_CHECK: 'claim_source' precisa de url, consulted (data) e quote (a promessa literal)")
+        if not post.get("brand"):
+            failures.append("CLAIM_CHECK: campo 'brand' ausente")
+        if not post.get("comparativo"):
+            failures.append("CLAIM_CHECK: marque \"comparativo\": true (permite packshot oficial)")
+        srcs = post.get("scientific_sources") or []
+        if len(srcs) < 2:
+            failures.append("CLAIM_CHECK: cite pelo menos 2 estudos (o veredito nao pode depender de 1 fonte)")
+        if not any(sl.get("type") == "evidence" for sl in slides):
+            failures.append("CLAIM_CHECK: nenhum slide 'evidence'")
+        texto = " ".join([post.get("hook", ""), post.get("caption", ""), post.get("cta", "")] +
+                         [str(v) for sl in slides for k, v in sl.items() if k in
+                          ("headline", "kicker", "body", "cta", "footnote", "label")]).lower()
+        if re.search(r"\bz2\b", texto):
+            failures.append("CLAIM_CHECK: 'Z2' nao pode aparecer nesta serie (nem como alternativa)")
+        insulto = [w for w in ("golpe", "enganação", "enganacao", "mentira", "mentiroso", "lixo", "porcaria",
+                               "picareta", "farsa", "fraude", "burro", "otário", "otario", "vergonha", "ridículo", "ridiculo")
+                   if w in texto]
+        if insulto:
+            failures.append(f"CLAIM_CHECK: linguagem de insulto ({', '.join(insulto)}) — o veredito e da evidencia, nao da opiniao")
+        if re.search(r"\b(compre|recomendamos|melhor opção|melhor opcao|troque por)\b", texto):
+            failures.append("CLAIM_CHECK: nao indique produto para comprar nesta serie")
+        if post.get("brand", "").lower() in ("maurten", "xtratus") and "rowe" not in json.dumps(srcs, ensure_ascii=False).lower() and "hidrogel" in texto and "alginato" in texto:
+            failures.append("CLAIM_CHECK: claim de hidrogel sem citar o RCT favoravel (Rowe 2022) — evidencia mista tem que aparecer")
+
     # FORMATO PROVOCATIVO — humor so com o fato no fim
     if post.get("template") == "provocativo":
         last = slides[-1] if slides else {}

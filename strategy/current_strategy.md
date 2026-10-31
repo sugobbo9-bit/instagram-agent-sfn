@@ -1,5 +1,7 @@
 # Estratégia Atual — @sofatosnutricao
 
+> **Decisão do Victor (31/10/2026) — claim check semanal.** 1x por semana o slot técnico das 12h vira `claim_NNN` (`series:claim-check`, playbook seção 6): uma promessa de marketing de um gel real confrontada com a evidência, em rodízio fixo **Maurten → Dobro BT Nitrato → Xtratus H2Gel**. Veredito só com estudo citado, evidência mista declarada como mista, sem insulto, **Z2 nunca aparece**. Preferir terça/quarta. Cadência semanal é diretriz do dono: a revisão de domingo mede e ajusta hook/ângulo, não suspende.
+
 > **Decisão do Victor (27/10/2026) — card informativo volta como 3º post diário.** A série antiga "você sabia" (`vsabia_*`) segue encerrada; a nova série `card_NNN` (`series:card-informativo`: ativos, técnicas, biohacks e notícias da alta performance; playbook seção 5) sai 1x/dia à noite (~19h30). `STATIC_PAUSED` foi desligada no `publisher.py`. A revisão semanal mede a série nova separadamente e **não a re-pausa automaticamente** — só reporta e deixa a decisão com o Victor após ≥ 4 semanas.
 
 _Atualizado: 2026-10-11, revisão estratégica semanal_
