@@ -904,6 +904,17 @@
       "notes": "card informativo — mode:tema, topic:sleep-low-periodizacao-carbo",
       "published_at": "2026-10-30T22:40:03.553984+00:00",
       "post_id": "17911335696560567"
+    },
+    {
+      "local_id": "vs_009",
+      "format": "carousel",
+      "topic": "isotônico pronto: Gatorade vs Powerade (rótulo lado a lado)",
+      "hook": "Gatorade vs. Powerade. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-10-31T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:isotonico-pronto, pair:gatorade-powerade"
     }
   ]
 }
