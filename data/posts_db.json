@@ -8955,6 +8955,63 @@
       "performance_tier": null,
       "derivatives_created": [],
       "permalink": "https://www.instagram.com/p/DfK9fChlwjB/"
+    },
+    {
+      "post_id": "17986427276900577",
+      "local_id": "vs_010",
+      "publication_date": "2026-11-01T20:02:05.129872+00:00",
+      "format": "carousel",
+      "topic": "gel de carboidrato: Dobro Carbs vs GU Energy Gel (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Dobro Carbs vs. GU Energy Gel. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nDobro Carbs (sabor Neutro Fresh): sachê de 30 g, 84 kcal, 21 g de carboidrato (maltodextrina, glicose de milho e frutose), 100 mg de sódio, adoçado com estévia e sem açúcar adicionado. Vem sem cafeína — há uma versão com cafeína do guaraná à parte.\n\nGU Energy Gel: sachê de 32 g, 100 kcal, 21 a 23 g de carboidrato (maltodextrina e frutose), 60 a 125 mg de sódio, 450 mg de aminoácidos (BCAAs) e 0, 20 ou 40 mg de cafeína, conforme o sabor.\n\nDados dos rótulos e sites oficiais Dobro e GU, consultados em 01/11/2026. O GU é a versão internacional vendida no Brasil; a embalagem que você comprar pode ter pequenas diferenças, então confira o rótulo do produto em mãos.\n\nEm provas longas a recomendação chega a ~90 g de carboidrato por hora, com fontes que usam transportadores diferentes (glicose/maltodextrina + frutose) — os dois géis combinam essas fontes. O sódio de um sachê é pequeno perto do que sai no suor (~230 a ~2.000 mg por litro): repor sódio é uma conta à parte.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Dobro e da GU Energy Labs.\n\n#nutricaoesportiva #gel #corrida #ciclismo #triathlon #maratona #endurance #carboidrato",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_010/slide_01.png",
+        "content/drafts/vs_010/slide_02.png",
+        "content/drafts/vs_010/slide_03.png",
+        "content/drafts/vs_010/slide_04.png",
+        "content/drafts/vs_010/slide_05.png",
+        "content/drafts/vs_010/slide_06.png",
+        "content/drafts/vs_010/slide_07.png",
+        "content/drafts/vs_010/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:gel-carbo",
+        "pair:dobro-gu"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

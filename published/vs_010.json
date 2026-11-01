@@ -1,0 +1,240 @@
+{
+  "local_id": "vs_010",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-01T00:00:00Z",
+  "topic": "gel de carboidrato: Dobro Carbs vs GU Energy Gel (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Dobro Carbs vs. GU Energy Gel. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:gel-carbo",
+    "pair:dobro-gu"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Dobro Carbs",
+      "brand": "Dobro",
+      "image": "content/drafts/vs_010/img/dobro_carbs.png",
+      "label_source": {
+        "url": "https://www.soudobro.com.br/produto/carbs-gel-neutro-fresh-10x30g-150172",
+        "consulted": "2026-11-01",
+        "notes": "Tabela nutricional oficial (sabor Neutro Fresh): porção 30 g (1 sachê), 84 kcal, 21 g de carboidrato, 3,5 g de açúcares totais, 0 g de açúcar adicionado, 100 mg de sódio. Ingredientes: maltodextrina, água, glicose de milho, frutose, cloreto de sódio, ácido cítrico, aroma natural, estévia, benzoato de sódio, sorbato de potássio. Versão com cafeína do guaraná é SKU separado."
+      }
+    },
+    {
+      "name": "GU Energy Gel",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_010/img/gu_energy_gel.png",
+      "label_source": {
+        "url": "https://guenergy.com/products/energy-gel",
+        "consulted": "2026-11-01",
+        "notes": "Página oficial: sachê de 32 g (1,1 oz), 100 kcal, 21–23 g de carboidrato (varia com o sabor; tabela indica 22 g), 60–125 mg de sódio (varia com o sabor), 450 mg de aminoácidos (BCAAs), cafeína 0/20/40 mg conforme o sabor. Carboidrato de maltodextrina e frutose."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois géis.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_010/img/dobro_carbs.png",
+          "mode": "multiply",
+          "label": "Dobro Carbs"
+        },
+        {
+          "image": "content/drafts/vs_010/img/gu_energy_gel.png",
+          "mode": "multiply",
+          "label": "GU Energy Gel"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho do sachê",
+      "values": [
+        {
+          "value": "30 g"
+        },
+        {
+          "value": "32 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por sachê",
+      "values": [
+        {
+          "value": "21 g"
+        },
+        {
+          "value": "21–23 g",
+          "note": "varia com o sabor"
+        }
+      ],
+      "footnote": "Dobro declara 84 kcal por sachê; GU, 100 kcal."
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Maltodextrina, glicose e frutose"
+        },
+        {
+          "value": "Maltodextrina e frutose"
+        }
+      ],
+      "footnote": "Nenhum dos dois informa a proporção entre as fontes."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por sachê",
+      "values": [
+        {
+          "value": "100 mg"
+        },
+        {
+          "value": "60–125 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "há uma versão com cafeína do guaraná à parte"
+        },
+        {
+          "value": "0, 20 ou 40 mg",
+          "note": "depende do sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Adoçado com estévia",
+          "note": "sem açúcar adicionado"
+        },
+        {
+          "value": "450 mg de aminoácidos",
+          "note": "BCAAs"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Cada sachê traz cerca de 21 g de carboidrato. Em provas longas, a recomendação chega a ~90 g por hora — 4 a 5 sachês. Para passar de ~60 g/h, o intestino precisa de fontes com transportadores diferentes: glicose (ou maltodextrina) e frutose. Os dois géis combinam as duas.\n\nO sódio de um sachê é pequeno perto do que sai no suor: de ~230 a ~2.000 mg por litro, e saem de 0,5 a 2 litros de suor por hora. Repor sódio é uma conta à parte.",
+      "source": "Rótulos e sites oficiais Dobro (Carbs Gel, sabor Neutro Fresh) e GU (Energy Gel), consultados em 01/11/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nDobro Carbs (sabor Neutro Fresh): sachê de 30 g, 84 kcal, 21 g de carboidrato (maltodextrina, glicose de milho e frutose), 100 mg de sódio, adoçado com estévia e sem açúcar adicionado. Vem sem cafeína — há uma versão com cafeína do guaraná à parte.\n\nGU Energy Gel: sachê de 32 g, 100 kcal, 21 a 23 g de carboidrato (maltodextrina e frutose), 60 a 125 mg de sódio, 450 mg de aminoácidos (BCAAs) e 0, 20 ou 40 mg de cafeína, conforme o sabor.\n\nDados dos rótulos e sites oficiais Dobro e GU, consultados em 01/11/2026. O GU é a versão internacional vendida no Brasil; a embalagem que você comprar pode ter pequenas diferenças, então confira o rótulo do produto em mãos.\n\nEm provas longas a recomendação chega a ~90 g de carboidrato por hora, com fontes que usam transportadores diferentes (glicose/maltodextrina + frutose) — os dois géis combinam essas fontes. O sódio de um sachê é pequeno perto do que sai no suor (~230 a ~2.000 mg por litro): repor sódio é uma conta à parte.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Dobro e da GU Energy Labs.\n\n#nutricaoesportiva #gel #corrida #ciclismo #triathlon #maratona #endurance #carboidrato",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Dobro Carbs",
+      "kind": "packshot",
+      "title": "Dobro Carbs Gel Neutro Fresh (sachê 30 g)",
+      "creator": "Dobro",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.soudobro.com.br/produto/carbs-gel-neutro-fresh-10x30g-150172",
+      "changes": "sachê recortado do fundo e composto sobre branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "GU Energy Gel",
+      "kind": "packshot",
+      "title": "Single_Energy_Gel_Pack_Sour_Peach_1.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://guenergy.com/products/energy-gel",
+      "changes": "fundo transparente composto sobre branco"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-01 nas páginas oficiais. Dobro Carbs (soudobro.com.br, sabor Neutro Fresh): tabela nutricional oficial em imagem — 30 g, 84 kcal, 21 g carbo, 3,5 g açúcares (0 adicionado), 100 mg sódio; ingredientes maltodextrina + glicose de milho + frutose, adoçado com estévia, sem cafeína (versão com cafeína é SKU à parte). GU Energy Gel (guenergy.com): versão internacional vendida no Brasil (Velocità/drogarias) — 32 g, 100 kcal, 21–23 g carbo, 60–125 mg sódio, 450 mg aminoácidos (BCAAs), cafeína 0/20/40 mg por sabor; maltodextrina + frutose. Carb-Up (Probiótica) foi descartada como par por não ter rótulo oficial legível e confiável no site (tabela só do sabor Caldo de Cana, texto contraditório 15 g vs 20 g).",
+  "creative_files": [
+    "content/drafts/vs_010/slide_01.png",
+    "content/drafts/vs_010/slide_02.png",
+    "content/drafts/vs_010/slide_03.png",
+    "content/drafts/vs_010/slide_04.png",
+    "content/drafts/vs_010/slide_05.png",
+    "content/drafts/vs_010/slide_06.png",
+    "content/drafts/vs_010/slide_07.png",
+    "content/drafts/vs_010/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17986427276900577",
+  "published_at": "2026-11-01T20:02:05.129872+00:00"
+}
