@@ -939,6 +939,17 @@
       "scheduled_for": "2026-11-06T14:30:00Z",
       "priority": 1,
       "notes": "Reteste de der_carga_carbo_erros (122, hook de lista fraco). Mesma ideia (erros de carga), hook agora CONTRARIAN+NUMÉRICO no padrão do breakout (1840). Regra CLAUDE.md: boa ideia + hook fraco merece nova tentativa. Técnico com foto, slot 14h UTC. Se falhar de novo, família carga-carbo entra em descanso."
+    },
+    {
+      "local_id": "vs_010",
+      "format": "carousel",
+      "topic": "gel de carboidrato: Dobro Carbs vs GU Energy Gel (rótulo lado a lado)",
+      "hook": "Dobro Carbs vs. GU Energy Gel. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-01T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:gel-carbo, pair:dobro-gu"
     }
   ]
 }
