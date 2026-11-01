@@ -165,7 +165,42 @@
         "der_carga_carbo_erros",
         "der_carga_carbo_curta (novo)"
       ]
+    },
+    {
+      "post_id": "der_lactato_pratico_947",
+      "permalink_hint": "o lactato não te cansa, ele te diz o ritmo (2026-10-29)",
+      "format": "carousel",
+      "reach": 947,
+      "shares_per_reach": 0.013,
+      "saves_per_reach": 0.006,
+      "tier": "top10_recent",
+      "why_it_worked": [
+        "MAIOR alcance do ciclo (947) e derivado do maior vencedor all-time (lactato 2450) — família campeã reconfirmada",
+        "hook CONTRARIAN forte ('o lactato NÃO te cansa') + reenquadramento prático (lactato como informação/zonas, não vilão)",
+        "slot técnico das 15h UTC (janela forte), formato técnico com foto",
+        "reforça a direção de hook do ciclo: contrarian (430 med) > myth (312 med)"
+      ],
+      "content_family": "lactato / fisiologia da fadiga",
+      "derivatives_created": [
+        "der_lactato_limiar (novo 2026-11-01)"
+      ]
+    },
+    {
+      "post_id": "vs_009_gatorade_powerade_699",
+      "permalink_hint": "Gatorade vs Powerade, só o rótulo (2026-10-31)",
+      "format": "carousel",
+      "reach": 699,
+      "shares_per_reach": 0.009,
+      "saves_per_reach": 0.016,
+      "tier": "top25_recent",
+      "why_it_worked": [
+        "ÚNICO versus forte do ciclo (699) junto com Maurten×GU (495): a marca é MAINSTREAM e reconhecível (Gatorade/Powerade), não suplemento de nicho",
+        "gap de curiosidade real: todo mundo conhece as duas e nunca comparou o rótulo",
+        "confirma a hipótese do ciclo: versus só funciona com marcas de massa OU fórmulas de fato distintas — não com commodity brand-vs-brand de nicho"
+      ],
+      "content_family": "comparação de produto (marcas mainstream/diferenciadas)",
+      "derivatives_created": []
     }
   ],
-  "_last_review": "2026-10-11"
+  "_last_review": "2026-11-01"
 }

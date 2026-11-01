@@ -917,6 +917,28 @@
       "notes": "marca x marca — category:isotonico-pronto, pair:gatorade-powerade",
       "published_at": "2026-10-31T19:57:48.242429+00:00",
       "post_id": "17915946123549068"
+    },
+    {
+      "local_id": "der_lactato_limiar",
+      "format": "carousel",
+      "topic": "como achar seu limiar de lactato sem fazer teste de sangue",
+      "hook": "Você não precisa furar o dedo para achar seu limiar. Precisa de 2 treinos.",
+      "status": "draft",
+      "created_at": "2026-11-01T12:00:00Z",
+      "scheduled_for": "2026-11-04T14:30:00Z",
+      "priority": 1,
+      "notes": "Derivado do vencedor do ciclo der_lactato_pratico (947) e da família campeã lactato (2450). Ângulo prático NOVO e contrarian: limiar funcional sem laboratório (teste de 30 min / fala). Hook contrarian+numérico (direção vencedora do ciclo). Técnico com foto, slot 14h UTC."
+    },
+    {
+      "local_id": "der_carga_carbo_erros_v2",
+      "format": "carousel",
+      "topic": "carga de carbo: o número que quase todo mundo erra (reteste de hook)",
+      "hook": "Carregar carbo não é comer mais massa. São 8-12 g/kg/dia — a maioria faz metade disso.",
+      "status": "draft",
+      "created_at": "2026-11-01T12:00:00Z",
+      "scheduled_for": "2026-11-06T14:30:00Z",
+      "priority": 1,
+      "notes": "Reteste de der_carga_carbo_erros (122, hook de lista fraco). Mesma ideia (erros de carga), hook agora CONTRARIAN+NUMÉRICO no padrão do breakout (1840). Regra CLAUDE.md: boa ideia + hook fraco merece nova tentativa. Técnico com foto, slot 14h UTC. Se falhar de novo, família carga-carbo entra em descanso."
     }
   ]
 }

@@ -167,3 +167,38 @@ Variante `der_sono_retest` (hook numérico, 14h45 UTC) = 272 vs controle 178 (ho
 ### 2026-10-31 — Claim check semanal (diretriz do Victor)
 Nova série `claim_NNN` (`series:claim-check`), 1x/semana no slot técnico das 12h: promessa de marketing de um gel real x evidência, rodízio fixo Maurten → Dobro BT Nitrato → Xtratus H2Gel. Diferente do `vs_*` (neutro): aqui há veredito, mas só o que o estudo sustenta; evidência mista declarada; sem insulto; Z2 proibida na série; preço em R$/g de carbo com fonte e data. Dossiê completo no playbook (seção 6). Gate novo em `quality_gate.py` (`template: claim_check`). Hipótese: polêmica fundamentada rende shares/comentários acima do técnico comum — medir contra o baseline do slot.
 
+
+## Ciclo 2026-11-01
+
+### Sobre a Conta (ALERTA)
+9.086 seguidores — **queda de 430** desde 11/10 (9.516). Histórico: +137/+152/+111/−13/**−430**. 1ª queda grande registrada. Drivers prováveis, ambos de EXECUÇÃO: (1) **blackout de publicação de 14 dias (11/10→26/10)** seguido de burst de 15 posts em 6 dias; (2) feed recente diluído por versus de commodity e cards estáticos de baixo alcance. A ciência/formatos fortes seguem funcionando — o furo é consistência e curadoria.
+
+### Lição de processo (CRÍTICA): sumir e voltar em rajada derruba a conta
+O padrão "14 dias sem publicar → 15 posts em 6 dias, metade fraca" é o inverso do que a plataforma premia. A alavanca nº 1 do próximo ciclo não é mais um ângulo de conteúdo — é **garantir publicação diária contínua** e **não despejar conteúdo fraco só para cumprir volume**. Escalado ao Victor: investigar por que a rotina diária parou 14 dias.
+
+### Sobre Versus (DEFINITIVO, n=6)
+`vs_*` de commodity de nicho é a nova ineficiência, com evidência repetida: whey Growth×Max=80, beta-alanina=124, hydration tabs=159, creatina=167, whey=182, cafeína cápsula=185. Contraste nítido com versus **mainstream/diferenciado**: Gatorade×Powerade=699, Maurten×GU=495. Regra fechada: versus só com **marcas de massa** (todo mundo conhece) OU **fórmulas de fato distintas** (hidrogel × gel comum) — nunca duas marcas de nicho do mesmo produto. E fora do slot morto das 20h.
+
+### Sobre Horário (reconfirmado por dias distintos, 45d)
+Slot técnico **14h (436, 5 dias) e 15h (511, 3 dias)** é o único motor. **19h (188) e 20h (185) estão mortos** — e é exatamente onde a rotina diária joga os `vs_*`; os cards saem ~22h (110). Erro de execução: o conteúdo relevante precisa ir para 14–15h, não para os piores horários.
+
+### Sobre Hook (reconfirmado, n maior)
+**Contrarian (n=12) mediana 430, saves/reach 0,0166 > myth (n=16) 312, 0,0113.** Direção consistente com os campeões (lactato, carga-carbo). Hook contrarian+numérico vira o padrão de produção.
+
+### Sobre Vencedores/Fracassos
+- Vencedor do ciclo: **lactato (der_lactato_pratico=947)** — hook contrarian + reframe prático, slot 15h. Família campeã all-time reconfirmada.
+- Vencedor-nicho: **Gatorade×Powerade (699)** — único versus forte, por ser mainstream.
+- Fracasso diagnosticado: **der_carga_carbo_erros (122)** — família campeã mas hook de LISTA fraco; reteste com hook numérico (`der_carga_carbo_erros_v2`).
+- **card_*** (estático, med 110, n=4): tendência fraca, **sob observação por diretriz do Victor** (não re-pausar antes de ≥4 semanas).
+
+### Claim-check (status)
+0 publicados. Diretriz de 31/10; o 1º (`claim_001`, Maurten) depende da rotina diária renderizar. A revisão semanal mede quando houver dado.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-11-01 | **ESCALADO (prioridade nº 1): investigar/blindar blackouts de publicação** | Blackout de 14d (11-26/out) é o maior suspeito da queda de −430 seguidores | followers 9516→9086; gap de publicação confirmado em posts_db |
+| 2026-11-01 | **Versus de commodity de nicho APOSENTADO; versus só mainstream/diferenciado e no slot 14h** | 6 versus de commodity no fundo (80-185) vs Gatorade×Powerade 699 / Maurten×GU 495 | vs_002/004/005/006/007/008 |
+| 2026-11-01 | **Conteúdo relevante vai para 14-15h UTC; parar de usar slots mortos 19-22h** | 14h=436/15h=511 vs 19h=188/20h=185 (dias distintos, 45d) | posts_db normalizado por dias distintos |
+| 2026-11-01 | Hook contrarian+numérico vira padrão | contrarian 430/0,0166 > myth 312/0,0113 (n=12 vs 16) | tag hook: em posts_db |
+| 2026-11-01 | +2 vencedores (lactato 947, Gatorade×Powerade 699); +3 fracassos (versus-commodity, carga_erros 122, série card); +2 derivados na fila (lactato_limiar, carga_erros_v2) | Winner/failure/recycling systems | winner_library / failure_log / queue |

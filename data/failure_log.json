@@ -133,6 +133,39 @@
       "diagnosis": "formato (analogia)",
       "detail": "2o post do formato provocativo 'Se X fosse Y': 164 de alcance, 0 shares. A série caiu 484 (prov_001) -> 164 (prov_002) -> 253 (prov_003), shares baixíssimos. Victor encerrou o formato em 09/10 por achar as analogias exageradas — os dados confirmam: a analogia não sustenta curiosidade nem compartilhamento após a novidade do 1o post.",
       "idea_verdict": "formato encerrado; não ressuscitar analogias 'se X fosse Y'"
+    },
+    {
+      "post_id": "vs_commodity_pattern_2026-10",
+      "topic": "versus de marca-vs-marca de suplemento de nicho (whey, beta-alanina, creatina, cafeína cápsula, hydration tabs)",
+      "format": "carousel",
+      "reach": 146,
+      "tier": "bottom25",
+      "date": "2026-10-30",
+      "diagnosis": "tópico + formato de série + horário",
+      "detail": "6 versus de commodity no ciclo no fundo do alcance: vs_008 whey isolado Growth×Max=80, vs_005 beta-alanina=124, vs_007 hydration tabs=159, vs_002 creatina=167, vs_004 whey=182, vs_006 cafeína cápsula=185. Contraste nítido com versus MAINSTREAM/diferenciado: Gatorade×Powerade=699, Maurten×GU=495. Diagnóstico triplo: (1) marcas de nicho (Growth/Max Titanium/Probiótica/Atlhetica) não têm reconhecimento nem gap de curiosidade para o público; (2) a série vs_* sai diária no slot morto 19-20h UTC (mediana 185/188 por dias distintos) — os piores horários da conta; (3) commodity idêntica (duas monohidratadas, dois wheys) não tem o que comparar. FALHA REPETIDA (n=6) — não é ruído.",
+      "idea_verdict": "aposentar versus de commodity de nicho; manter versus só com marcas mainstream (Gatorade/Powerade/Red Bull/Coca) ou fórmulas de fato distintas (hidrogel×gel comum); mover para slot forte 14h, nunca 20h"
+    },
+    {
+      "post_id": "der_carga_carbo_erros_122",
+      "topic": "3 erros de carga de carboidrato",
+      "format": "carousel",
+      "reach": 122,
+      "tier": "bottom25",
+      "date": "2026-10-28",
+      "diagnosis": "hook + fadiga de família",
+      "detail": "Derivado da família CAMPEÃ (carga de carbo, breakout 1840) mas fez só 122 — o pior da família. Causa provável: hook de LISTA genérico ('3 erros de carga de carbo que te fazem largar...') sem o número contraintuitivo que fez o breakout voar ('não é jantar macarrão na véspera. É 10 g/kg por 2 dias'). Possível também saturação: 3º derivado da mesma família em pouco tempo. Boa ideia, hook fraco.",
+      "idea_verdict": "ideia boa, retestar com hook contrarian+numérico afiado (não lista) no slot 14h — ver der_carga_carbo_erros_v2 na fila"
+    },
+    {
+      "post_id": "card_informativo_serie_2026-10",
+      "topic": "série card informativo (estático, ~22h UTC): Jepchirchir, calor, vitamina D, sleep-low",
+      "format": "static",
+      "reach": 110,
+      "tier": "bottom25",
+      "date": "2026-10-30",
+      "diagnosis": "formato + horário (SOB OBSERVAÇÃO — decisão do dono)",
+      "detail": "Série card_* (volta do estático, diretriz do Victor 27/10) nos primeiros 4 posts: card_001=89, card_003=86, card_004=131, card_002=175 — mediana 110, todos no fundo, mesmo padrão da antiga série estática 'você sabia'. Saem ~22h UTC (fora de qualquer janela). AMOSTRA PEQUENA (n=4, ~1 semana). Por diretriz do Victor a série NÃO é re-pausada automaticamente: medir separadamente, reportar, decidir com o Victor após ≥4 semanas.",
+      "idea_verdict": "manter por diretriz do dono; reportar tendência fraca; reavaliar com o Victor em ≥4 semanas; ideias (ciência) são boas — se a série for encerrada, reaproveitar como carrossel"
     }
   ],
   "_last_review": "2026-10-11"

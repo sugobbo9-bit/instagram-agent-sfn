@@ -184,6 +184,50 @@
         "Experimento de sono concluído (variant_won parcial).",
         "Estratégia reescrita: guia de horário migra do confundido '15h=828' para o limpo '14h e 18h UTC; nunca sexta; 11h/20h fracos'. Regra 'se X fosse Y' removida; versus mantido só para produtos que DIFEREM de fato."
       ]
+    },
+    {
+      "week_ending": "2026-11-01",
+      "followers_count": 9086,
+      "followers_delta_week": -430,
+      "note_followers": "Queda de 9516 (11/10) para 9086: -430 em ~3 semanas. 1ª queda GRANDE (antes: +137/+152/+111/-13). Principal suspeito: blackout de publicação de 14 dias (11/10 a 26/10) + feed recente diluído por versus de commodity e cards estáticos de baixo alcance.",
+      "posts_last_7d": {
+        "carousel": 11,
+        "static": 4,
+        "reel": 0
+      },
+      "medians_last_7d": {
+        "carousel_reach": 185,
+        "static_reach": 110
+      },
+      "blackout": "14 dias sem publicar (2026-10-11 a 2026-10-26)",
+      "baseline_full": {
+        "carousel_reach": 366,
+        "reel_reach": 256,
+        "static_reach": 212
+      },
+      "percentiles_carousel": {
+        "p90": 1180,
+        "p75": 748,
+        "p50": 366,
+        "p25": 194,
+        "p10": 124
+      },
+      "key_findings": [
+        "SEGUIDORES -430 (9516->9086): 1ª queda grande. Driver provável = blackout de 14d (11-26/out) + burst de 15 posts em 6 dias com muitos versus/cards de baixo alcance.",
+        "vs_* de COMMODITY de nicho é a nova ineficiência: 6 no fundo (80-185). Versus só funciona MAINSTREAM/diferenciado: Gatorade×Powerade=699, Maurten×GU=495.",
+        "Slot técnico der_* às 14-15h é o único motor: der_lactato_pratico=947 (vencedor do ciclo, hook contrarian), der_cafeina=511, der_caibra=436. Slots 19-20h (vs_*) e 22h (cards) estão mortos (med 185/188/110).",
+        "Hook CONTRARIAN > myth reconfirmado e mais forte (430 vs 312; sv/r 0,0166 vs 0,0113; n=12 contrarian).",
+        "card-informativo (estático, n=4): med 110, padrão do antigo estático. Sob observação por diretriz do Victor — não re-pausar antes de ≥4 semanas.",
+        "claim-check: 0 publicados ainda (diretriz de 31/10); 1º claim_001 (Maurten) cabe à rotina diária renderizar."
+      ],
+      "key_decisions": [
+        "Aposentar versus de commodity de nicho; versus só com marcas mainstream OU fórmulas distintas, e no slot forte 14h (nunca 20h).",
+        "Concentrar o conteúdo que importa no slot 14-15h UTC; parar de jogar conteúdo relevante nos slots mortos 19-22h.",
+        "Priorizar hook contrarian+numérico como padrão.",
+        "+2 vencedores (lactato 947, Gatorade×Powerade 699) e +3 fracassos (versus-commodity, der_carga_carbo_erros 122, série card) registrados.",
+        "+2 derivados na fila p/ 14h: der_lactato_limiar e der_carga_carbo_erros_v2 (reteste de hook).",
+        "ESCALADO ao Victor: investigar e evitar novos blackouts de publicação (a rotina diária ficou 14d sem rodar/publicar) — maior suspeito da queda de seguidores."
+      ]
     }
   ],
   "account": {
