@@ -526,3 +526,10 @@
 {"ts": "2026-11-01T20:01:53.783786+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-11-01T20:02:05.129697+00:00", "level": "INFO", "msg": "PUBLICADO: vs_010 -> media_id 17986427276900577"}
 {"ts": "2026-11-01T20:02:05.145815+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-02T15:52:49.252302+00:00", "level": "INFO", "msg": "Publicando der_carga_carbo_erros_v2 (carousel) \u2014 carga de carbo: o n\u00famero que quase todo mundo erra (reteste de hook)"}
+{"ts": "2026-11-02T15:52:49.255200+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-02T15:52:49.255258+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_carga_carbo_erros_v2/slide_01.png"}
+{"ts": "2026-11-02T15:52:50.460820+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-02T15:53:19.931339+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-02T15:53:32.351053+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_erros_v2 -> media_id 17878934604572544"}
+{"ts": "2026-11-02T15:53:32.363347+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

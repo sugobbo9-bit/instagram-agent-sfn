@@ -934,11 +934,16 @@
       "format": "carousel",
       "topic": "carga de carbo: o número que quase todo mundo erra (reteste de hook)",
       "hook": "Carga de carbo é 10 g/kg por 2 dias. A maioria faz um terço.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-02T15:51:57Z",
       "scheduled_for": "2026-11-06T14:30:00Z",
       "priority": 1,
-      "notes": "Reteste de der_carga_carbo_erros (122, hook de lista fraco). Mesma ideia (erros de carga), hook agora CONTRARIAN+NUMÉRICO no padrão do breakout (1840). Regra CLAUDE.md: boa ideia + hook fraco merece nova tentativa. Técnico com foto, slot 14h UTC. Se falhar de novo, família carga-carbo entra em descanso."
+      "notes": "Reteste de der_carga_carbo_erros (122, hook de lista fraco). Mesma ideia (erros de carga), hook agora CONTRARIAN+NUMÉRICO no padrão do breakout (1840). Regra CLAUDE.md: boa ideia + hook fraco merece nova tentativa. Técnico com foto, slot 14h UTC. Se falhar de novo, família carga-carbo entra em descanso.",
+      "published_at": "2026-11-02T15:53:32.351236+00:00",
+      "post_id": "17878934604572544",
+      "ghost_post_id": "6ae8b1feb2aa3e0001ab0e8c",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-dose-por-kg-que-a-maioria-erra/",
+      "ghost_status": "published"
     },
     {
       "local_id": "vs_010",
