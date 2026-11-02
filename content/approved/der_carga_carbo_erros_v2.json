@@ -1,0 +1,136 @@
+{
+  "local_id": "der_carga_carbo_erros_v2",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-11-02T00:00:00Z",
+  "topic": "carga de carbo: a dose por kg que quase todo mundo erra",
+  "content_pillar": "carbohydrate loading",
+  "hook": "Carga de carbo é 10 g/kg por 2 dias. A maioria faz um terço.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carga-carbo",
+    "format:carousel",
+    "visual:texto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O NÚMERO",
+      "headline": "A maioria faz 1/3 da carga de carbo.",
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O ERRO",
+      "headline": "Volume não é dose.",
+      "body": "O prato gigante de macarrão na véspera parece carga de carbo. Mas carga não se mede em volume de comida — se mede em gramas de carboidrato por quilo de peso.\n\nE é aí que quase todo mundo tropeça: come muito e, ainda assim, fica bem abaixo do alvo.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE É CARGA",
+      "headline": "Carga tem alvo: g por kg de peso.",
+      "body": "A recomendação para provas acima de 90 min é 10 a 12 g de carbo por kg de peso, por dia, nas 36 a 48h antes.\n\nPara um corredor de 70 kg isso é 700 a 840 g de carbo por dia. Não é 'comer mais' — é bater um número.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Maratonistas: 3,4 g/kg na véspera.",
+      "body": "Um estudo de 2025 mediu o que atletas comeram no dia anterior à prova. Os maratonistas ficaram em média em 3,4 g/kg — cerca de um terço do alvo. Só 5% bateram a meta.\n\nE ainda superestimaram quanto tinham comido.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como realmente bater a meta.",
+      "body": "Conte, não olhe no olho. Prefira carbo de baixa fibra e baixa gordura (arroz branco, batata, pão, suco, bebida esportiva) para o volume não te travar antes do número.\n\nEspalhe pelo dia. Um dia a 10 g/kg já enche o tanque — não precisa esvaziar antes.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Carga é número, não volume.",
+      "body": "Salva e manda pro parceiro que 'carrega' com um prato de macarrão na véspera.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Carga de carboidrato não é comer um prato gigante de macarrão na véspera. É bater uma dose medida em gramas por quilo de peso — e é exatamente aí que a maioria erra.\n\nPara provas acima de 90 minutos, a recomendação é 10 a 12 g de carbo por kg de peso, por dia, nas 36 a 48h antes (Thomas et al., posicionamento conjunto ACSM/AND/DC, 2016). Para alguém de 70 kg, são 700 a 840 g de carbo por dia.\n\nO problema é que volume de comida não é dose. Um estudo de 2025 (Lanpir et al.) mediu o consumo de atletas no dia anterior à prova: os maratonistas ficaram em média em 3,4 g/kg — cerca de um terço do alvo — e só 5% bateram a meta. De quebra, superestimaram quanto tinham comido.\n\nNa prática: conte o carbo em vez de confiar no olho, priorize fontes de baixa fibra e baixa gordura (arroz branco, batata, pão, suco, bebida esportiva) para o volume não te travar antes de chegar ao número, e espalhe ao longo do dia. E não precisa daquela fase de depleção sofrida: um único dia a ~10 g/kg já supercompensa o glicogênio em quem treina (Bussau et al., 2002).\n\nFontes: Thomas DT, Erdman KA, Burke LM. Med Sci Sports Exerc. 2016. | Lanpir et al. Eur J Sport Sci. 2025. | Bussau et al. Eur J Appl Physiol. 2002.",
+  "cta": "Salva e manda pro parceiro que 'carrega' com um prato de macarrão na véspera.",
+  "scientific_sources": [
+    {
+      "title": "Nutrition and Athletic Performance (Joint Position Statement — ACSM, Academy of Nutrition and Dietetics, Dietitians of Canada)",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "url": "https://doi.org/10.1249/MSS.0000000000000852",
+      "level": "A"
+    },
+    {
+      "title": "Under Consumed and Overestimated: Discrepancies in Race-Day Carbohydrate Intake Among Endurance Athletes",
+      "authors": "Lanpir AD, Eroğlu MN, Özyıldırım M, Louis J",
+      "journal": "European Journal of Sport Science",
+      "year": 2025,
+      "volume": "25",
+      "issue": "11",
+      "pages": "e70055",
+      "doi": "10.1002/ejsc.70055",
+      "url": "https://doi.org/10.1002/ejsc.70055",
+      "level": "B"
+    },
+    {
+      "title": "Carbohydrate loading in human muscle: an improved 1 day protocol",
+      "authors": "Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA",
+      "journal": "European Journal of Applied Physiology",
+      "year": 2002,
+      "volume": "87",
+      "issue": "3",
+      "pages": "290-295",
+      "doi": "10.1007/s00421-002-0621-5",
+      "url": "https://doi.org/10.1007/s00421-002-0621-5",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Carga de carboidrato: a dose por quilo que quase todo mundo erra",
+    "slug": "carga-de-carboidrato-dose-por-kg-que-a-maioria-erra",
+    "excerpt": "Carga de carbo não é comer um prato gigante de macarrão. É bater 10 a 12 g de carbo por kg de peso por dia — e estudos mostram que a maioria dos atletas fica em cerca de um terço disso. Veja o alvo, a evidência e como realmente atingir o número.",
+    "meta_title": "Carga de carboidrato: a dose certa em g/kg (e por que a maioria erra)",
+    "tags": [
+      "Carboidrato",
+      "Carga de carbo",
+      "Endurance",
+      "Nutrição esportiva"
+    ],
+    "html": "<p>\"Vou carregar carbo\" quase sempre vira a mesma cena: um prato gigante de macarrão na noite anterior à prova. O gesto parece certo, mas a lógica está trocada. Carga de carboidrato <strong>não se mede em volume de comida</strong> — se mede em gramas de carboidrato por quilo de peso corporal. E é justamente nesse ponto que a maioria dos atletas erra, por falta de número, não por falta de esforço.</p>\n\n<h2>Carga tem alvo, e o alvo é por quilo</h2>\n\n<p>O posicionamento conjunto da American College of Sports Medicine, Academy of Nutrition and Dietetics e Dietitians of Canada (Thomas, Erdman &amp; Burke, <em>Med Sci Sports Exerc</em>, 2016) é direto: para eventos sustentados acima de <strong>90 minutos</strong>, o protocolo de supercompensação é consumir <strong>10 a 12 g de carboidrato por kg de peso, por dia, nas 36 a 48 horas</strong> que antecedem a competição.</p>\n\n<p>Traduzindo para um corpo real: um corredor de 70 kg precisa de <strong>700 a 840 g de carboidrato por dia</strong>. Isso não é \"comer mais\" no sentido vago — é cumprir uma meta específica. E um prato de macarrão, por maior que pareça, raramente chega perto desse valor sozinho.</p>\n\n<h2>O que os atletas realmente comem</h2>\n\n<p>Aqui está a parte incômoda. Um estudo de 2025 (Lanpir e colegas, <em>European Journal of Sport Science</em>) mediu o consumo real de carboidrato de atletas de endurance no dia anterior à prova. Os maratonistas ficaram, em média, em <strong>3,4 g/kg</strong> — cerca de <strong>um terço</strong> do alvo de 10 a 12 g/kg. Apenas <strong>5%</strong> atingiram a recomendação.</p>\n\n<p>Mais revelador ainda: os participantes <strong>superestimaram</strong> o quanto tinham comido. Ou seja, não é só que comem pouco — é que acham que comeram o suficiente. Volume de comida no prato dá a sensação de carga; o número na conta mostra outra coisa.</p>\n\n<h2>Por que o volume engana</h2>\n\n<p>O estômago enche antes de a conta fechar. Alimentos ricos em fibra, gordura e proteína ocupam espaço e saciam rápido, mas entregam pouco carboidrato por grama. Por isso a estratégia prática de quem precisa atingir 8, 10 ou 12 g/kg passa por <strong>fontes de carboidrato densas e de baixa fibra/baixa gordura</strong>: arroz branco, batata, pão branco, massas simples, sucos, bebidas esportivas e géis. Não é o momento da salada e do integral — é o momento de facilitar a chegada ao número.</p>\n\n<h2>Como atingir a meta na prática</h2>\n\n<ul>\n<li><strong>Conte, não estime.</strong> Faça uma conta rápida do carbo das refeições do dia. \"Achei que comi bastante\" é o erro central documentado na literatura.</li>\n<li><strong>Escolha carbo denso e leve no estômago.</strong> Baixa fibra e baixa gordura para o volume não travar antes do número.</li>\n<li><strong>Espalhe pelo dia.</strong> Várias refeições e lanches ricos em carbo rendem mais do que uma única super-refeição.</li>\n<li><strong>Não precisa sofrer com depleção.</strong> O protocolo clássico de \"esvaziar o tanque\" antes caiu: um único dia a ~10 g/kg já supercompensa o glicogênio muscular em pessoas treinadas (Bussau et al., <em>Eur J Appl Physiol</em>, 2002).</li>\n</ul>\n\n<h2>Resumo</h2>\n\n<p>Carga de carboidrato é um número, não um ritual. Para provas acima de 90 minutos, mire 10 a 12 g/kg por dia nas 36 a 48h anteriores, usando carboidratos densos e de fácil digestão, distribuídos ao longo do dia. E lembre: a maioria acha que carregou e fez cerca de um terço. A diferença entre largar leve e largar pesado costuma estar nessa conta que ninguém faz.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance. <em>Med Sci Sports Exerc</em>. 2016;48(3):543–568. doi:10.1249/MSS.0000000000000852</li>\n<li>Lanpir AD, Eroğlu MN, Özyıldırım M, Louis J. Under Consumed and Overestimated: Discrepancies in Race-Day Carbohydrate Intake Among Endurance Athletes. <em>Eur J Sport Sci</em>. 2025;25(11):e70055. doi:10.1002/ejsc.70055</li>\n<li>Bussau VA, Fairchild TJ, Rao A, Steele P, Fournier PA. Carbohydrate loading in human muscle: an improved 1 day protocol. <em>Eur J Appl Physiol</em>. 2002;87(3):290–295. doi:10.1007/s00421-002-0621-5</li>\n</ol>\n",
+    "cover": "content/drafts/der_carga_carbo_erros_v2/cover.png",
+    "cover_alt": "Carga de carboidrato: a dose por quilo que a maioria erra — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/der_carga_carbo_erros_v2/slide_01.png",
+    "content/drafts/der_carga_carbo_erros_v2/slide_02.png",
+    "content/drafts/der_carga_carbo_erros_v2/slide_03.png",
+    "content/drafts/der_carga_carbo_erros_v2/slide_04.png",
+    "content/drafts/der_carga_carbo_erros_v2/slide_05.png",
+    "content/drafts/der_carga_carbo_erros_v2/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 0,
+    "unverified": [],
+    "with_faces": []
+  }
+}

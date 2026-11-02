@@ -933,9 +933,9 @@
       "local_id": "der_carga_carbo_erros_v2",
       "format": "carousel",
       "topic": "carga de carbo: o número que quase todo mundo erra (reteste de hook)",
-      "hook": "Carregar carbo não é comer mais massa. São 8-12 g/kg/dia — a maioria faz metade disso.",
-      "status": "draft",
-      "created_at": "2026-11-01T12:00:00Z",
+      "hook": "Carga de carbo é 10 g/kg por 2 dias. A maioria faz um terço.",
+      "status": "approved",
+      "created_at": "2026-11-02T15:51:57Z",
       "scheduled_for": "2026-11-06T14:30:00Z",
       "priority": 1,
       "notes": "Reteste de der_carga_carbo_erros (122, hook de lista fraco). Mesma ideia (erros de carga), hook agora CONTRARIAN+NUMÉRICO no padrão do breakout (1840). Regra CLAUDE.md: boa ideia + hook fraco merece nova tentativa. Técnico com foto, slot 14h UTC. Se falhar de novo, família carga-carbo entra em descanso."
