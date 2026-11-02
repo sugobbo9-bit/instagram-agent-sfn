@@ -963,11 +963,13 @@
       "format": "carousel",
       "topic": "creatina Creapure: Integralmédica vs Growth Supplements (rótulo lado a lado)",
       "hook": "Creatina Creapure: Integralmédica vs. Growth. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-02T19:58:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:creatina, pair:integralmedica-growth"
+      "notes": "marca x marca — category:creatina, pair:integralmedica-growth",
+      "published_at": "2026-11-02T20:01:56.157128+00:00",
+      "post_id": "17996469377844468"
     }
   ]
 }

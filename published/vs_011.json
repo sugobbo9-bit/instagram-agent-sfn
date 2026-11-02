@@ -1,0 +1,222 @@
+{
+  "local_id": "vs_011",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-02T00:00:00Z",
+  "topic": "creatina Creapure: Integralmédica Creatina Creapure vs Growth Supplements Creatina Creapure (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Creatina Creapure: Integralmédica vs. Growth. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:creatina",
+    "pair:integralmedica-growth"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Integralmédica Creatina Creapure",
+      "brand": "Integralmédica",
+      "image": "content/drafts/vs_011/img/integralmedica_creapure.jpg",
+      "label_source": {
+        "url": "https://www.integralmedica.com.br/creatina-creapure-300g/p",
+        "consulted": "2026-11-02",
+        "notes": "Página oficial: porção 5 g (1 dosador) = 5.000 mg de creatina; Creapure (matéria-prima alemã); ingredientes 'Creatina monohidratada. Pode conter leite, soja e ovo. Não contém glúten'; pote 300 g; preço R$ 171,00."
+      }
+    },
+    {
+      "name": "Growth Supplements Creatina Creapure",
+      "brand": "Growth Supplements",
+      "image": "content/drafts/vs_011/img/growth_creapure.jpg",
+      "label_source": {
+        "url": "https://www.gsuplementos.com.br/creatina-250g-creapure-growth-supplements-p985824",
+        "consulted": "2026-11-02",
+        "notes": "Página oficial: porção 5 g (4 dosadores) = 5.000 mg de creatina, 0 kcal; Creapure produzida na Alemanha; ingredientes 'Creatina monohidratada em pó. Não contém glúten'; pote 250 g; preço R$ 109,90 à vista."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas creatinas Creapure.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_011/img/integralmedica_creapure.jpg",
+          "mode": "multiply",
+          "label": "Integralmédica Creapure"
+        },
+        {
+          "image": "content/drafts/vs_011/img/growth_creapure.jpg",
+          "mode": "multiply",
+          "label": "Growth Creapure"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Creatina por porção",
+      "values": [
+        {
+          "value": "5.000 mg"
+        },
+        {
+          "value": "5.000 mg"
+        }
+      ],
+      "footnote": "Os dois declaram a porção de 5 g."
+    },
+    {
+      "type": "metric",
+      "headline": "Matéria-prima no rótulo",
+      "values": [
+        {
+          "value": "Creapure®",
+          "note": "creatina de origem alemã"
+        },
+        {
+          "value": "Creapure®",
+          "note": "produzida na Alemanha"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Dosador para a porção de 5 g",
+      "values": [
+        {
+          "value": "1 dosador"
+        },
+        {
+          "value": "4 dosadores"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho do pote",
+      "values": [
+        {
+          "value": "300 g"
+        },
+        {
+          "value": "250 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Preço no site oficial",
+      "values": [
+        {
+          "value": "R$ 171,00",
+          "note": "pote de 300 g — R$ 0,57 por grama"
+        },
+        {
+          "value": "R$ 109,90",
+          "note": "pote de 250 g, à vista — R$ 0,44 por grama"
+        }
+      ],
+      "footnote": "Preços consultados nos sites oficiais em 02/11/2026; mudam com frequência."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Creapure® é um selo de pureza, não uma creatina diferente: é creatina monohidratada fabricada na Alemanha, a mesma forma usada na maior parte dos estudos. Os dois potes entregam 5 g dessa mesma molécula por porção.\n\nA dose com evidência é de 3 a 5 g por dia, todo dia. A fase de saturação — cerca de 20 g por dia (4 doses de 5 g) por 5 a 7 dias — enche o músculo mais rápido; é opcional, porque 3 a 5 g diários chegam ao mesmo platô em 3 a 4 semanas.",
+      "source": "Rótulos e sites oficiais Integralmédica e Growth Supplements, consultados em 02/11/2026.\nKreider RB et al. J Int Soc Sports Nutr. 2017;14:18. Hultman E et al. J Appl Physiol. 1996;81(1):232‑237.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: as duas são creatina monohidratada Creapure®, o mesmo selo de pureza e a mesma matéria-prima alemã.\n\nIntegralmédica Creatina Creapure: porção de 5 g (1 dosador) com 5.000 mg de creatina, pote de 300 g, a R$ 171,00 no site (R$ 0,57 por grama).\n\nGrowth Supplements Creatina Creapure: porção de 5 g (4 dosadores) com 5.000 mg de creatina, pote de 250 g, a R$ 109,90 à vista no site (R$ 0,44 por grama).\n\nDados dos rótulos e dos sites oficiais, consultados em 02/11/2026. Preço muda com frequência; confira na data da sua compra.\n\nO que o rótulo não diz: Creapure® é um selo de pureza, não um tipo diferente de creatina. A dose com evidência é de 3 a 5 g por dia; a saturação com ~20 g/dia por 5 a 7 dias apenas acelera, e é opcional.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. J Int Soc Sports Nutr. 2017;14:18.\n• Hultman E, Söderlund K, Timmons JA, et al. Muscle creatine loading in men. J Appl Physiol. 1996;81(1):232–237.\n\nImagens: fotos de produto dos sites oficiais da Integralmédica e da Growth Supplements.\n\n#nutricaoesportiva #creatina #creapure #corrida #ciclismo #triathlon #endurance #suplementos",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "authors": "Kreider RB, Kalman DS, Antonio J, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "18",
+      "doi": "10.1186/s12970-017-0173-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+      "level": "A"
+    },
+    {
+      "title": "Muscle creatine loading in men",
+      "authors": "Hultman E, Söderlund K, Timmons JA, Cederblad G, Greenhaff PL",
+      "journal": "Journal of Applied Physiology",
+      "year": 1996,
+      "volume": "81",
+      "issue": "1",
+      "pages": "232-237",
+      "doi": "10.1152/jappl.1996.81.1.232",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8828669/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Integralmédica Creatina Creapure",
+      "kind": "packshot",
+      "title": "creatina-creapure-300g.png",
+      "creator": "Integralmédica",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.integralmedica.com.br/creatina-creapure-300g/p",
+      "changes": "fundo aparado e composto sobre branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Growth Supplements Creatina Creapure",
+      "kind": "packshot",
+      "title": "creatina-250g-creapure-growth-supplements-1.webp",
+      "creator": "Growth Supplements",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gsuplementos.com.br/creatina-250g-creapure-growth-supplements-p985824",
+      "changes": "fundo aparado e composto sobre branco"
+    }
+  ],
+  "notes": "marca x marca — category:creatina, pair:integralmedica-growth. Dados de rótulo conferidos em 2026-11-02 nas páginas oficiais. Integralmédica Creatina Creapure 300g: porção 5 g (1 dosador) = 5.000 mg, Creapure alemã, 'pode conter leite, soja e ovo', R$ 171,00. Growth Creatina Creapure 250g: porção 5 g (4 dosadores) = 5.000 mg, 0 kcal, Creapure produzida na Alemanha, R$ 109,90 à vista. Ambas monohidratada Creapure. Ângulo distinto do vs_002 (lá foi monohidratada padrão Growth vs Max).",
+  "creative_files": [
+    "content/drafts/vs_011/slide_01.png",
+    "content/drafts/vs_011/slide_02.png",
+    "content/drafts/vs_011/slide_03.png",
+    "content/drafts/vs_011/slide_04.png",
+    "content/drafts/vs_011/slide_05.png",
+    "content/drafts/vs_011/slide_06.png",
+    "content/drafts/vs_011/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17996469377844468",
+  "published_at": "2026-11-02T20:01:56.157128+00:00"
+}

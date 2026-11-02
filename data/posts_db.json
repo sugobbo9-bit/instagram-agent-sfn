@@ -9081,6 +9081,61 @@
       "derivatives_created": [],
       "ghost_post_id": "6ae8b1feb2aa3e0001ab0e8c",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-dose-por-kg-que-a-maioria-erra/"
+    },
+    {
+      "post_id": "17996469377844468",
+      "local_id": "vs_011",
+      "publication_date": "2026-11-02T20:01:56.157128+00:00",
+      "format": "carousel",
+      "topic": "creatina Creapure: Integralmédica Creatina Creapure vs Growth Supplements Creatina Creapure (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Creatina Creapure: Integralmédica vs. Growth. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: as duas são creatina monohidratada Creapure®, o mesmo selo de pureza e a mesma matéria-prima alemã.\n\nIntegralmédica Creatina Creapure: porção de 5 g (1 dosador) com 5.000 mg de creatina, pote de 300 g, a R$ 171,00 no site (R$ 0,57 por grama).\n\nGrowth Supplements Creatina Creapure: porção de 5 g (4 dosadores) com 5.000 mg de creatina, pote de 250 g, a R$ 109,90 à vista no site (R$ 0,44 por grama).\n\nDados dos rótulos e dos sites oficiais, consultados em 02/11/2026. Preço muda com frequência; confira na data da sua compra.\n\nO que o rótulo não diz: Creapure® é um selo de pureza, não um tipo diferente de creatina. A dose com evidência é de 3 a 5 g por dia; a saturação com ~20 g/dia por 5 a 7 dias apenas acelera, e é opcional.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. J Int Soc Sports Nutr. 2017;14:18.\n• Hultman E, Söderlund K, Timmons JA, et al. Muscle creatine loading in men. J Appl Physiol. 1996;81(1):232–237.\n\nImagens: fotos de produto dos sites oficiais da Integralmédica e da Growth Supplements.\n\n#nutricaoesportiva #creatina #creapure #corrida #ciclismo #triathlon #endurance #suplementos",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "authors": "Kreider RB, Kalman DS, Antonio J, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "18",
+          "doi": "10.1186/s12970-017-0173-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+          "level": "A"
+        },
+        {
+          "title": "Muscle creatine loading in men",
+          "authors": "Hultman E, Söderlund K, Timmons JA, Cederblad G, Greenhaff PL",
+          "journal": "Journal of Applied Physiology",
+          "year": 1996,
+          "volume": "81",
+          "issue": "1",
+          "pages": "232-237",
+          "doi": "10.1152/jappl.1996.81.1.232",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8828669/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_011/slide_01.png",
+        "content/drafts/vs_011/slide_02.png",
+        "content/drafts/vs_011/slide_03.png",
+        "content/drafts/vs_011/slide_04.png",
+        "content/drafts/vs_011/slide_05.png",
+        "content/drafts/vs_011/slide_06.png",
+        "content/drafts/vs_011/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:creatina",
+        "pair:integralmedica-growth"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
