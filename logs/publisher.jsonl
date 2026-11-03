@@ -548,3 +548,4 @@
 {"ts": "2026-11-03T14:58:46.953061+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-11-03T14:58:57.911369+00:00", "level": "INFO", "msg": "PUBLICADO: der_mouth_rinse_carrossel -> media_id 18129916774847617"}
 {"ts": "2026-11-03T14:58:57.932919+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-03T19:02:04.514525+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
