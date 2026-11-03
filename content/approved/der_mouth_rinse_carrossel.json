@@ -1,0 +1,165 @@
+{
+  "local_id": "der_mouth_rinse_carrossel",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-11-03T12:00:00Z",
+  "topic": "bochecho de carboidrato em provas curtas",
+  "content_pillar": "fueling",
+  "hook": "Em prova de até 1 h, bochechar carbo sem engolir já te deixa mais rápido.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:mouth-rinse",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:fueling-pratico"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O TESTE",
+      "headline": "O carbo age sem você engolir.",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/der_mouth_rinse_carrossel/cover/cand_01.jpg",
+        "focus": "center 45%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Carbo só serve se for engolido?",
+      "body": "A crença: carboidrato no treino é combustível que precisa descer e virar energia no músculo. E, de quebra, que quanto mais doce, mais funciona.\n\nEm esforços de até ~1 hora, os dois pontos caem: o glicogênio já dá conta do combustível, e o efeito não vem do açúcar.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "A boca avisa o cérebro",
+      "body": "Há sensores de carboidrato na boca ligados a áreas do cérebro de recompensa e controle motor.\n\nNum estudo com ressonância (Chambers, 2009), bochechar carbo acendeu essas áreas; bochechar adoçante artificial, não. Não é o doce — é o carboidrato sendo detectado.\n\nO cérebro 'entende' que vem energia e autoriza um pouco mais de esforço.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Pequeno, mas real e repetido",
+      "body": "No estudo original (Carter, 2004), bochechar carbo num contrarrelógio de 1 h deixou ciclistas 1,8 min mais rápidos: 59,6 contra 61,4 min.\n\nMeta-análise de ciclismo (Brietzke, 2019): mais potência média com o bochecho. Uma revisão de 2026 com 90 ensaios confirma o efeito — pequeno, porém consistente.\n\nO ganho aparece em esforços intensos de ~30 a 75 min.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Quando (e como) usar",
+      "body": "Vale em prova intensa de ~30 a 75 min, ou quando o estômago embrulha com gel.\n\nBochecha ~25 ml de solução a 6% de carbo (maltodextrina) por 5 a 10 s e cospe — a cada 10-15 min.\n\nNão substitui o fueling da prova longa: acima de ~90 min, aí você precisa mesmo engolir o carbo.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "A energia pode começar na boca, não no estômago.",
+      "body": "Salva e manda pro parceiro que engole gel numa prova de 40 min achando que precisa.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Cyclists race one another",
+      "creator": "U.S. Forest Service",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/8741362/photo-image-public-domain-person"
+    }
+  ],
+  "caption": "Em provas intensas de até ~1 hora, você não precisa engolir carboidrato para ir mais rápido — basta bochechar e cuspir. Parece mágica, mas tem mecanismo: existem sensores de carboidrato na boca ligados a áreas do cérebro de recompensa e controle motor.\n\nNum estudo com ressonância magnética (Chambers, 2009), bochechar glicose ou maltodextrina acendeu essas áreas do cérebro — e bochechar um adoçante artificial, não. Ou seja: o efeito não é do sabor doce, e sim do carboidrato sendo detectado na boca. O cérebro 'lê' que vem energia e libera um pouco mais de esforço, sem depender da digestão.\n\nO tamanho do efeito é modesto, mas real e repetido: no estudo original (Carter, 2004), ciclistas completaram um contrarrelógio de 1 h cerca de 1,8 min mais rápido bochechando carbo (59,6 vs 61,4 min). A meta-análise de ciclismo de Brietzke (2019) encontrou mais potência média com o bochecho, e uma revisão de 2026 com 90 ensaios confirma um ganho pequeno e consistente. Funciona melhor em esforços intensos de ~30 a 75 minutos.\n\nNa prática: ~25 ml de solução a 6% de carboidrato (maltodextrina), bochechados por 5-10 s e cuspidos, a cada 10-15 min. Não troca o fueling de prova longa — acima de ~90 min você precisa de fato ingerir carbo. É um recurso para quando o estômago não aceita gel ou a prova é curta e intensa.\n\nFontes: Carter JM, Jeukendrup AE, Jones DA. Med Sci Sports Exerc. 2004;36(12):2107-11. | Chambers ES, Bridge MW, Jones DA. J Physiol. 2009;587(8):1779-94. | Brietzke C et al. Sports Med. 2019;49(1):57-66. | Zalagkitis C et al. Nutrients. 2026;18(18):3099.",
+  "cta": "Salva e manda pra quem toma gel em prova curta achando que é combustível.",
+  "scientific_sources": [
+    {
+      "title": "The effect of carbohydrate mouth rinse on 1-h cycle time trial performance",
+      "authors": "Carter JM, Jeukendrup AE, Jones DA",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2004,
+      "volume": "36",
+      "issue": "12",
+      "pages": "2107-2111",
+      "doi": "10.1249/01.mss.0000147585.65709.6f",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15570147/",
+      "level": "B"
+    },
+    {
+      "title": "Carbohydrate sensing in the human mouth: effects on exercise performance and brain activity",
+      "authors": "Chambers ES, Bridge MW, Jones DA",
+      "journal": "The Journal of Physiology",
+      "year": 2009,
+      "volume": "587",
+      "issue": "8",
+      "pages": "1779-1794",
+      "doi": "10.1113/jphysiol.2008.164285",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19237430/",
+      "level": "B"
+    },
+    {
+      "title": "Effects of Carbohydrate Mouth Rinse on Cycling Time Trial Performance: A Systematic Review and Meta-Analysis",
+      "authors": "Brietzke C, Franco-Alvarenga PE, Coelho-Júnior HJ, Silveira R, Asano RY, Pires FO",
+      "journal": "Sports Medicine",
+      "year": 2019,
+      "volume": "49",
+      "issue": "1",
+      "pages": "57-66",
+      "doi": "10.1007/s40279-018-1029-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30488186/",
+      "level": "A"
+    },
+    {
+      "title": "Effects of Carbohydrate Mouth Rinse on Human Capacity and Performance: A Systematic Review and Meta-Analysis of 90 Controlled Trials",
+      "authors": "Zalagkitis C, et al.",
+      "journal": "Nutrients",
+      "year": 2026,
+      "volume": "18",
+      "issue": "18",
+      "pages": "3099",
+      "doi": "10.3390/nu18183099",
+      "url": "https://www.mdpi.com/2072-6643/18/18/3099",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Bochecho de carboidrato: por que cuspir o carbo melhora a prova curta",
+    "slug": "bochecho-de-carboidrato-provas-curtas-o-que-a-ciencia-mostra",
+    "excerpt": "Em provas intensas de até uma hora, bochechar carboidrato e cuspir já melhora o desempenho — sem engolir. Entenda o mecanismo na boca e no cérebro, o tamanho real do efeito e como usar.",
+    "meta_title": "Bochecho de carboidrato (mouth rinse): como e quando funciona",
+    "tags": [
+      "Carboidrato",
+      "Fueling",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Todo mundo aprende que carboidrato no esforço é <strong>combustível</strong>: precisa engolir, digerir e virar energia no músculo. Isso é verdade nas provas longas. Mas em esforços intensos de até cerca de uma hora acontece algo contraintuitivo: <strong>só bochechar o carboidrato e cuspir já melhora o desempenho</strong>, sem ingerir nada. O chamado <em>carbohydrate mouth rinse</em> é um dos achados mais curiosos (e mais bem documentados) da nutrição esportiva.</p>\n\n<h2>A boca conversa com o cérebro</h2>\n\n<p>A explicação não está no estômago. Existem <strong>sensores orais de carboidrato</strong> — distintos dos receptores de sabor doce — ligados a regiões do cérebro envolvidas em recompensa e controle motor. Quando o carboidrato toca a boca, essas áreas são ativadas e o sistema nervoso libera um pouco mais de disposição para o esforço.</p>\n\n<p>O estudo que fechou o mecanismo foi o de Chambers, Bridge e Jones (<em>The Journal of Physiology</em>, 2009). Usando ressonância magnética funcional (fMRI), os pesquisadores mostraram que bochechar <strong>glicose</strong> ou <strong>maltodextrina</strong> ativava regiões de recompensa (córtex cingulado anterior, estriado, ínsula, córtex orbitofrontal) — enquanto um <strong>adoçante artificial</strong> (sacarina), igualmente doce, <strong>não</strong> ativava. A maltodextrina, que quase não tem sabor, funcionou tão bem quanto a glicose. A conclusão: o efeito não depende do sabor doce, e sim da presença de carboidrato detectada por receptores orais ainda não totalmente identificados.</p>\n\n<h2>O tamanho do efeito: pequeno, mas real</h2>\n\n<p>O estudo original é de Carter, Jeukendrup e Jones (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2004). Nove ciclistas completaram um contrarrelógio equivalente a cerca de 1 hora bochechando uma solução de maltodextrina a 6,4% (sem engolir, cuspindo a cada trecho). O tempo caiu de <strong>61,4 para 59,6 minutos</strong> (cerca de 1,8 min, ou ~2,9% mais rápido), com maior potência média — e sem mudança em frequência cardíaca ou percepção de esforço. Os autores concluíram que o ganho vem de um aumento do <strong>drive central</strong> (motivação/recrutamento), não de causa metabólica.</p>\n\n<p>Quando se junta a literatura, o efeito se confirma, mas é <strong>modesto</strong>. A meta-análise de Brietzke e colegas (<em>Sports Medicine</em>, 2019), com 13 estudos e 16 ensaios de ciclismo, encontrou aumento significativo da <strong>potência média</strong> com o bochecho (diferença média padronizada 0,25), ainda que o tempo para completar a prova não tenha melhorado de forma significativa no conjunto. Uma revisão sistemática mais recente (<em>Nutrients</em>, 2026), reunindo 90 ensaios controlados, encontrou efeitos <strong>pequenos, porém consistentes</strong> sobre tempo, distância, velocidade e carga de trabalho. Ou seja: não é um atalho mágico, é um ganho fino que pode importar numa prova disputada.</p>\n\n<h2>Em jejum ou alimentado?</h2>\n\n<p>Por muito tempo se assumiu que o bochecho só funcionava <strong>em jejum</strong> ou com o glicogênio baixo — a lógica era que, com o corpo \"carente\" de energia, o sinal oral teria mais peso. A evidência recente complica essa história: uma meta-análise de três níveis publicada em 2025 (<em>Journal of the International Society of Sports Nutrition</em>) analisou especificamente o estado <strong>alimentado</strong> e encontrou um efeito ergogênico <strong>pequeno, mas significativo</strong> também depois de comer, sobretudo em exercício aeróbio, com maltodextrina, bochecho de até 10 segundos e após refeição rica em carboidrato. A certeza da evidência ainda é baixa, mas a mensagem prática é que o recurso não fica inútil só porque você se alimentou.</p>\n\n<h2>Como usar na prática</h2>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação prática</th></tr></thead>\n<tbody>\n<tr><td>Quando</td><td>Provas/esforços intensos de ~30 a 75 min, ou quando o estômago não aceita gel/bebida</td></tr>\n<tr><td>Solução</td><td>~6% de carboidrato (maltodextrina serve bem — não precisa ser doce)</td></tr>\n<tr><td>Como</td><td>Bocheche ~25 ml por 5 a 10 segundos e cuspa</td></tr>\n<tr><td>Frequência</td><td>A cada 10 a 15 minutos</td></tr>\n<tr><td>Quando NÃO basta</td><td>Provas acima de ~90 min: aí o carboidrato precisa ser ingerido de verdade para fornecer energia</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>Em esforços curtos e intensos, parte do benefício do carboidrato não vem da digestão, e sim da <strong>boca avisando o cérebro</strong> que energia está a caminho. Por isso bochechar e cuspir já melhora o desempenho — um efeito pequeno, repetido em dezenas de estudos, que não depende do sabor doce. É uma ferramenta útil quando engolir é um problema, mas <strong>não substitui o fueling</strong> das provas longas, onde o corpo realmente precisa do carboidrato ingerido.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Carter JM, Jeukendrup AE, Jones DA. The effect of carbohydrate mouth rinse on 1-h cycle time trial performance. <em>Med Sci Sports Exerc</em>. 2004;36(12):2107–2111. doi:10.1249/01.mss.0000147585.65709.6f</li>\n<li>Chambers ES, Bridge MW, Jones DA. Carbohydrate sensing in the human mouth: effects on exercise performance and brain activity. <em>J Physiol</em>. 2009;587(8):1779–1794. doi:10.1113/jphysiol.2008.164285</li>\n<li>Brietzke C, Franco-Alvarenga PE, Coelho-Júnior HJ, et al. Effects of Carbohydrate Mouth Rinse on Cycling Time Trial Performance: A Systematic Review and Meta-Analysis. <em>Sports Med</em>. 2019;49(1):57–66. doi:10.1007/s40279-018-1029-7</li>\n<li>Zalagkitis C, et al. Effects of Carbohydrate Mouth Rinse on Human Capacity and Performance: A Systematic Review and Meta-Analysis of 90 Controlled Trials. <em>Nutrients</em>. 2026;18(18):3099. doi:10.3390/nu18183099</li>\n<li>Deng H, Fan X, Liu P, et al. Fed, not fasted: is carbohydrate mouth rinsing still ergogenic? A three-level meta-analysis. <em>J Int Soc Sports Nutr</em>. 2025;22(1):2579027. doi:10.1080/15502783.2025.2579027</li>\n</ol>\n",
+    "cover": "content/drafts/der_mouth_rinse_carrossel/cover.png",
+    "cover_alt": "Bochecho de carboidrato em provas curtas: o que a ciência mostra — Somente os Fatos Nutrição"
+  },
+  "face_check": {
+    "checked": 1,
+    "unverified": [],
+    "with_faces": []
+  },
+  "creative_files": [
+    "content/drafts/der_mouth_rinse_carrossel/slide_01.png",
+    "content/drafts/der_mouth_rinse_carrossel/slide_02.png",
+    "content/drafts/der_mouth_rinse_carrossel/slide_03.png",
+    "content/drafts/der_mouth_rinse_carrossel/slide_04.png",
+    "content/drafts/der_mouth_rinse_carrossel/slide_05.png",
+    "content/drafts/der_mouth_rinse_carrossel/slide_06.png"
+  ]
+}
