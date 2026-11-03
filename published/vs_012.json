@@ -1,0 +1,226 @@
+{
+  "local_id": "vs_012",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-03T20:00:00Z",
+  "topic": "bebida de carboidrato em pó: Z2 Power Powder Original vs Maurten Drink Mix 320 (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Z2 Power Powder vs. Maurten Drink Mix 320. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:bebida-carbo-po",
+    "pair:z2-maurten"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Z2 Power Powder",
+      "brand": "Z2",
+      "image": "content/drafts/vs_012/img/z2_power_powder.jpg",
+      "label_source": {
+        "url": "https://z2performance.com/collections/all/products/energy-drink-power-powder-z2-original-900g",
+        "consulted": "2026-11-03",
+        "notes": "Informacao Nutricional oficial (porcao 90 g / 3 medidas): 336 kcal, 84 g carbo, 50 g acucares, 309 mg sodio. Ingredientes: maltodextrina, frutose, cloreto de sodio, acido citrico, dioxido de silicio, citrato de sodio, aromatizante. Rotulo diz maltodextrina e frutose 1:0,8. Pote 900 g, 10 doses."
+      }
+    },
+    {
+      "name": "Maurten Drink Mix 320",
+      "brand": "Maurten",
+      "image": "content/drafts/vs_012/img/maurten_dm320.png",
+      "label_source": {
+        "url": "https://www.maurten.com/products/drink-mix-320",
+        "consulted": "2026-11-03",
+        "notes": "Nutrition Facts (versao EUA), sache de 83 g: 320 kcal, 80 g carbo, 37 g acucares, 245 mg sodio. Ingredientes: maltodextrina, frutose, alginato de sodio, pectina, sal, bicarbonato de sodio. Caixa com 14 saches."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas bebidas de carbo.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_012/img/z2_power_powder.jpg",
+          "mode": "multiply",
+          "label": "Z2 Power Powder"
+        },
+        {
+          "image": "content/drafts/vs_012/img/maurten_dm320.png",
+          "mode": "multiply",
+          "label": "Maurten Drink Mix 320"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Porção e preparo",
+      "values": [
+        {
+          "value": "90 g",
+          "note": "3 medidas · 500–700 ml de água"
+        },
+        {
+          "value": "83 g",
+          "note": "1 sachê · 500 ml de água"
+        }
+      ],
+      "footnote": "Z2: pote de 900 g (10 porções). Maurten: caixa com 14 sachês."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção",
+      "values": [
+        {
+          "value": "84 g"
+        },
+        {
+          "value": "80 g"
+        }
+      ],
+      "footnote": "Energia declarada: 336 kcal (Z2) e 320 kcal (Maurten)."
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Maltodextrina\n+ frutose",
+          "note": "1:0,8 (malto:frutose) no rótulo"
+        },
+        {
+          "value": "Maltodextrina\n+ frutose",
+          "note": "proporção não informada"
+        }
+      ],
+      "footnote": "Os dois juntam dois carboidratos que usam transportadores diferentes no intestino."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção",
+      "values": [
+        {
+          "value": "309 mg"
+        },
+        {
+          "value": "245 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem no rótulo",
+      "values": [
+        {
+          "value": "Só carbo e sal",
+          "note": "maltodextrina, frutose, cloreto de sódio, ácido cítrico"
+        },
+        {
+          "value": "Alginato e pectina",
+          "note": "+ bicarbonato de sódio — a base do hidrogel"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Em esforços longos, a orientação é ingerir de 30 a 90 g de carboidrato por hora, e acima de ~60 g/h a literatura sugere misturar fontes que usam transportadores diferentes no intestino, como maltodextrina (ou glicose) e frutose. As duas bebidas fazem essa mistura; uma porção de cada traz cerca de 80 g de carbo.\n\nO sódio de uma porção é pequeno perto do que sai no suor: de ~230 a ~2.000 mg por litro, conforme a pessoa e o calor. Repor sódio é uma conta à parte, que depende de quanto você sua.",
+      "source": "Rótulos e sites oficiais Z2 (porção 90 g) e Maurten (Nutrition Facts, versão EUA), consultados em 03/11/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nZ2 Power Powder (Original): porção de 90 g (3 medidas), 84 g de carboidrato (maltodextrina e frutose, 1:0,8 no rótulo), 50 g de açúcares e 309 mg de sódio; 336 kcal. Pote de 900 g, 10 porções.\n\nMaurten Drink Mix 320: sachê de 83 g, 80 g de carboidrato (maltodextrina e frutose), 37 g de açúcares e 245 mg de sódio; 320 kcal. Além do carbo, traz alginato de sódio, pectina e bicarbonato de sódio — a base da tecnologia de hidrogel. Caixa com 14 sachês.\n\nOs dois combinam dois carboidratos com transportadores diferentes no intestino, algo que a literatura associa a uma oxidação maior de carboidrato por hora em esforços longos.\n\nDados dos rótulos e sites oficiais, consultados em 03/11/2026. A tabela da Maurten é a versão vendida nos EUA (Nutrition Facts); a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Z2 e da Maurten.\n\n#nutricaoesportiva #carboidrato #corrida #ciclismo #triathlon #maratona #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Z2 Power Powder",
+      "kind": "packshot",
+      "title": "Z2_PP_img_original_pouch.jpg",
+      "creator": "Z2",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://z2performance.com/collections/all/products/energy-drink-power-powder-z2-original-900g",
+      "changes": "sobre fundo branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Maurten Drink Mix 320",
+      "kind": "packshot",
+      "title": "Entry-Card-Maurten-Drink-Mix-320-1.png",
+      "creator": "Maurten",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maurten.com/products/drink-mix-320",
+      "changes": "fundo branco (reaproveitada de vs_003)"
+    }
+  ],
+  "notes": "Dados de rotulo conferidos em 2026-11-03. Z2 Power Powder Original: Informacao Nutricional oficial (z2performance.com), porcao 90 g (3 medidas) = 336 kcal, 84 g carbo, 50 g acucares, 309 mg sodio; ingredientes maltodextrina, frutose, cloreto de sodio, acido citrico, dioxido de silicio, citrato de sodio, aromatizante; rotulo diz 1:0,8 malto:frutose; pote 900 g, 10 doses. Maurten Drink Mix 320: Nutrition Facts US (maurten.com) sache 83 g = 320 kcal, 80 g carbo, 37 g acucares, 245 mg sodio; ingredientes maltodextrina, frutose, alginato de sodio, pectina, sal, bicarbonato de sodio; caixa 14 saches. Packshot Maurten reaproveitado de vs_003.",
+  "creative_files": [
+    "content/drafts/vs_012/slide_01.png",
+    "content/drafts/vs_012/slide_02.png",
+    "content/drafts/vs_012/slide_03.png",
+    "content/drafts/vs_012/slide_04.png",
+    "content/drafts/vs_012/slide_05.png",
+    "content/drafts/vs_012/slide_06.png",
+    "content/drafts/vs_012/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18079454417448903",
+  "published_at": "2026-11-03T20:08:03.621500+00:00"
+}

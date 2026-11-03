@@ -9218,6 +9218,62 @@
       "derivatives_created": [],
       "ghost_post_id": "6ae9f6b341448b000163d2df",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bochecho-de-carboidrato-provas-curtas-o-que-a-ciencia-mostra/"
+    },
+    {
+      "post_id": "18079454417448903",
+      "local_id": "vs_012",
+      "publication_date": "2026-11-03T20:08:03.621500+00:00",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: Z2 Power Powder Original vs Maurten Drink Mix 320 (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Z2 Power Powder vs. Maurten Drink Mix 320. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nZ2 Power Powder (Original): porção de 90 g (3 medidas), 84 g de carboidrato (maltodextrina e frutose, 1:0,8 no rótulo), 50 g de açúcares e 309 mg de sódio; 336 kcal. Pote de 900 g, 10 porções.\n\nMaurten Drink Mix 320: sachê de 83 g, 80 g de carboidrato (maltodextrina e frutose), 37 g de açúcares e 245 mg de sódio; 320 kcal. Além do carbo, traz alginato de sódio, pectina e bicarbonato de sódio — a base da tecnologia de hidrogel. Caixa com 14 sachês.\n\nOs dois combinam dois carboidratos com transportadores diferentes no intestino, algo que a literatura associa a uma oxidação maior de carboidrato por hora em esforços longos.\n\nDados dos rótulos e sites oficiais, consultados em 03/11/2026. A tabela da Maurten é a versão vendida nos EUA (Nutrition Facts); a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Z2 e da Maurten.\n\n#nutricaoesportiva #carboidrato #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_012/slide_01.png",
+        "content/drafts/vs_012/slide_02.png",
+        "content/drafts/vs_012/slide_03.png",
+        "content/drafts/vs_012/slide_04.png",
+        "content/drafts/vs_012/slide_05.png",
+        "content/drafts/vs_012/slide_06.png",
+        "content/drafts/vs_012/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:bebida-carbo-po",
+        "pair:z2-maurten"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
