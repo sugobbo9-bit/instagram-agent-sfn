@@ -353,11 +353,16 @@
       "format": "carousel",
       "topic": "bochecho de carboidrato em provas curtas",
       "hook": "Em prova de até 1 h, bochechar carbo sem engolir já te deixa mais rápido.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-03T12:00:00Z",
       "scheduled_for": "2026-10-01T15:00:00Z",
       "priority": 1,
-      "notes": "Reaproveita a ideia do estático mouth-rinse (105) como carrossel. Contraintuitivo + prático. Publicar qui 12h BRT."
+      "notes": "Reaproveita a ideia do estático mouth-rinse (105) como carrossel. Contraintuitivo + prático. Publicar qui 12h BRT.",
+      "published_at": "2026-11-03T14:58:57.911573+00:00",
+      "post_id": "18129916774847617",
+      "ghost_post_id": "6ae9f6b341448b000163d2df",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bochecho-de-carboidrato-provas-curtas-o-que-a-ciencia-mostra/",
+      "ghost_status": "published"
     },
     {
       "local_id": "vsabia_008",

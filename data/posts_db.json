@@ -9136,6 +9136,88 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18129916774847617",
+      "local_id": "der_mouth_rinse_carrossel",
+      "publication_date": "2026-11-03T14:58:57.911573+00:00",
+      "format": "carousel",
+      "topic": "bochecho de carboidrato em provas curtas",
+      "content_pillar": "fueling",
+      "hook": "Em prova de até 1 h, bochechar carbo sem engolir já te deixa mais rápido.",
+      "caption": "Em provas intensas de até ~1 hora, você não precisa engolir carboidrato para ir mais rápido — basta bochechar e cuspir. Parece mágica, mas tem mecanismo: existem sensores de carboidrato na boca ligados a áreas do cérebro de recompensa e controle motor.\n\nNum estudo com ressonância magnética (Chambers, 2009), bochechar glicose ou maltodextrina acendeu essas áreas do cérebro — e bochechar um adoçante artificial, não. Ou seja: o efeito não é do sabor doce, e sim do carboidrato sendo detectado na boca. O cérebro 'lê' que vem energia e libera um pouco mais de esforço, sem depender da digestão.\n\nO tamanho do efeito é modesto, mas real e repetido: no estudo original (Carter, 2004), ciclistas completaram um contrarrelógio de 1 h cerca de 1,8 min mais rápido bochechando carbo (59,6 vs 61,4 min). A meta-análise de ciclismo de Brietzke (2019) encontrou mais potência média com o bochecho, e uma revisão de 2026 com 90 ensaios confirma um ganho pequeno e consistente. Funciona melhor em esforços intensos de ~30 a 75 minutos.\n\nNa prática: ~25 ml de solução a 6% de carboidrato (maltodextrina), bochechados por 5-10 s e cuspidos, a cada 10-15 min. Não troca o fueling de prova longa — acima de ~90 min você precisa de fato ingerir carbo. É um recurso para quando o estômago não aceita gel ou a prova é curta e intensa.\n\nFontes: Carter JM, Jeukendrup AE, Jones DA. Med Sci Sports Exerc. 2004;36(12):2107-11. | Chambers ES, Bridge MW, Jones DA. J Physiol. 2009;587(8):1779-94. | Brietzke C et al. Sports Med. 2019;49(1):57-66. | Zalagkitis C et al. Nutrients. 2026;18(18):3099.",
+      "cta": "Salva e manda pra quem toma gel em prova curta achando que é combustível.",
+      "scientific_sources": [
+        {
+          "title": "The effect of carbohydrate mouth rinse on 1-h cycle time trial performance",
+          "authors": "Carter JM, Jeukendrup AE, Jones DA",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2004,
+          "volume": "36",
+          "issue": "12",
+          "pages": "2107-2111",
+          "doi": "10.1249/01.mss.0000147585.65709.6f",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15570147/",
+          "level": "B"
+        },
+        {
+          "title": "Carbohydrate sensing in the human mouth: effects on exercise performance and brain activity",
+          "authors": "Chambers ES, Bridge MW, Jones DA",
+          "journal": "The Journal of Physiology",
+          "year": 2009,
+          "volume": "587",
+          "issue": "8",
+          "pages": "1779-1794",
+          "doi": "10.1113/jphysiol.2008.164285",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19237430/",
+          "level": "B"
+        },
+        {
+          "title": "Effects of Carbohydrate Mouth Rinse on Cycling Time Trial Performance: A Systematic Review and Meta-Analysis",
+          "authors": "Brietzke C, Franco-Alvarenga PE, Coelho-Júnior HJ, Silveira R, Asano RY, Pires FO",
+          "journal": "Sports Medicine",
+          "year": 2019,
+          "volume": "49",
+          "issue": "1",
+          "pages": "57-66",
+          "doi": "10.1007/s40279-018-1029-7",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30488186/",
+          "level": "A"
+        },
+        {
+          "title": "Effects of Carbohydrate Mouth Rinse on Human Capacity and Performance: A Systematic Review and Meta-Analysis of 90 Controlled Trials",
+          "authors": "Zalagkitis C, et al.",
+          "journal": "Nutrients",
+          "year": 2026,
+          "volume": "18",
+          "issue": "18",
+          "pages": "3099",
+          "doi": "10.3390/nu18183099",
+          "url": "https://www.mdpi.com/2072-6643/18/18/3099",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_mouth_rinse_carrossel/slide_01.png",
+        "content/drafts/der_mouth_rinse_carrossel/slide_02.png",
+        "content/drafts/der_mouth_rinse_carrossel/slide_03.png",
+        "content/drafts/der_mouth_rinse_carrossel/slide_04.png",
+        "content/drafts/der_mouth_rinse_carrossel/slide_05.png",
+        "content/drafts/der_mouth_rinse_carrossel/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:mouth-rinse",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:fueling-pratico"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6ae9f6b341448b000163d2df",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/bochecho-de-carboidrato-provas-curtas-o-que-a-ciencia-mostra/"
     }
   ]
 }

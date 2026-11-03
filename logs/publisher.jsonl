@@ -541,3 +541,10 @@
 {"ts": "2026-11-02T20:01:56.156975+00:00", "level": "INFO", "msg": "PUBLICADO: vs_011 -> media_id 17996469377844468"}
 {"ts": "2026-11-02T20:01:56.176477+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-02T21:23:50.028066+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-03T14:58:18.733175+00:00", "level": "INFO", "msg": "Publicando der_mouth_rinse_carrossel (carousel) \u2014 bochecho de carboidrato em provas curtas"}
+{"ts": "2026-11-03T14:58:18.737820+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-03T14:58:18.737937+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_mouth_rinse_carrossel/slide_01.png"}
+{"ts": "2026-11-03T14:58:19.938681+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-03T14:58:46.953061+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-03T14:58:57.911369+00:00", "level": "INFO", "msg": "PUBLICADO: der_mouth_rinse_carrossel -> media_id 18129916774847617"}
+{"ts": "2026-11-03T14:58:57.932919+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
