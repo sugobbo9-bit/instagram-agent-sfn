@@ -975,6 +975,17 @@
       "notes": "marca x marca — category:creatina, pair:integralmedica-growth",
       "published_at": "2026-11-02T20:01:56.157128+00:00",
       "post_id": "17996469377844468"
+    },
+    {
+      "local_id": "vs_012",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: Z2 Power Powder Original vs Maurten Drink Mix 320 (rótulo lado a lado)",
+      "hook": "Z2 Power Powder vs. Maurten Drink Mix 320. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-03T20:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:bebida-carbo-po, pair:z2-maurten"
     }
   ]
 }
