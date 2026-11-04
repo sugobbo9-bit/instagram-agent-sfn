@@ -9343,6 +9343,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6aeb45f4791be40001d86b86",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/achar-limiar-lactato-sem-sangue-testes-de-campo/"
+    },
+    {
+      "post_id": "17948680347359504",
+      "local_id": "vs_013",
+      "publication_date": "2026-11-04T20:14:04.148342+00:00",
+      "format": "carousel",
+      "topic": "gel de carboidrato: Dux Energy Gel vs Probiótica Carb Up Gel Super Fórmula (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Dux Energy Gel vs. Probiótica Carb Up. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nDux Energy Gel: sachê de 30 g, 88 kcal, 22 g de carboidrato (açúcar invertido, maltodextrina e isomaltulose), 18 g de açúcares, 150 mg de sódio, 252 mg de taurina e sem cafeína (há uma versão à parte com 85 mg).\n\nProbiótica Carb Up Gel Super Fórmula, sabor Caldo de Cana com Limão: sachê de 30 g, 60 kcal, 15 g de carboidrato (melado de cana-de-açúcar), 14 g de açúcares, 88 mg de sódio, 78 mg de magnésio e sem cafeína (a versão Carb Up Black tem cafeína).\n\nOs números da Probiótica são do sabor Caldo de Cana com Limão, o único painel nutricional publicado na página do produto; os outros sabores usam maltodextrina, frutose e dextrose e podem ter valores diferentes. Confira sempre o rótulo do sachê que você tem em mãos.\n\nDados dos rótulos e sites oficiais, consultados em 04/11/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Dux Nutrition e da Probiótica.\n\n#nutricaoesportiva #geldecarboidrato #corrida #ciclismo #triathlon #maratona #endurance",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_013/slide_01.png",
+        "content/drafts/vs_013/slide_02.png",
+        "content/drafts/vs_013/slide_03.png",
+        "content/drafts/vs_013/slide_04.png",
+        "content/drafts/vs_013/slide_05.png",
+        "content/drafts/vs_013/slide_06.png",
+        "content/drafts/vs_013/slide_07.png",
+        "content/drafts/vs_013/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:gel-carbo",
+        "pair:dux-probiotica"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

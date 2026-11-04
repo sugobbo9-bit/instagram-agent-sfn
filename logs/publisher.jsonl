@@ -564,3 +564,10 @@
 {"ts": "2026-11-04T14:49:22.367967+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_limiar -> media_id 18137475862644223"}
 {"ts": "2026-11-04T14:49:22.380356+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-04T19:21:48.647311+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-04T20:13:10.169333+00:00", "level": "INFO", "msg": "Publicando vs_013 (carousel) \u2014 gel de carboidrato: Dux Energy Gel vs Probi\u00f3tica Carb Up Gel Super F\u00f3rmula (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-04T20:13:10.172184+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-04T20:13:10.172256+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_013/slide_01.png"}
+{"ts": "2026-11-04T20:13:11.405832+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-04T20:13:51.908731+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-04T20:14:04.148168+00:00", "level": "INFO", "msg": "PUBLICADO: vs_013 -> media_id 17948680347359504"}
+{"ts": "2026-11-04T20:14:04.162311+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
