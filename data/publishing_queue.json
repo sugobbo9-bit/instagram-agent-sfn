@@ -993,6 +993,17 @@
       "notes": "marca x marca — category:bebida-carbo-po, pair:z2-maurten",
       "published_at": "2026-11-03T20:08:03.621500+00:00",
       "post_id": "18079454417448903"
+    },
+    {
+      "local_id": "vs_013",
+      "format": "carousel",
+      "topic": "gel de carboidrato: Dux Energy Gel vs Probiótica Carb Up Gel Super Fórmula (rótulo lado a lado)",
+      "hook": "Dux Energy Gel vs. Probiótica Carb Up. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-04T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:gel-carbo, pair:dux-probiotica"
     }
   ]
 }
