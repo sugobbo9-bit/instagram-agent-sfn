@@ -927,9 +927,9 @@
       "local_id": "der_lactato_limiar",
       "format": "carousel",
       "topic": "como achar seu limiar de lactato sem fazer teste de sangue",
-      "hook": "Você não precisa furar o dedo para achar seu limiar. Precisa de 2 treinos.",
-      "status": "draft",
-      "created_at": "2026-11-01T12:00:00Z",
+      "hook": "Você não precisa furar o dedo pra achar seu limiar. Bastam 2 testes.",
+      "status": "approved",
+      "created_at": "2026-11-04T00:00:00Z",
       "scheduled_for": "2026-11-04T14:30:00Z",
       "priority": 1,
       "notes": "Derivado do vencedor do ciclo der_lactato_pratico (947) e da família campeã lactato (2450). Ângulo prático NOVO e contrarian: limiar funcional sem laboratório (teste de 30 min / fala). Hook contrarian+numérico (direção vencedora do ciclo). Técnico com foto, slot 14h UTC."

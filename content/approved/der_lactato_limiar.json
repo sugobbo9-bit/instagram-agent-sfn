@@ -1,0 +1,181 @@
+{
+  "local_id": "der_lactato_limiar",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-11-04T00:00:00Z",
+  "topic": "como estimar o limiar de lactato sem teste de sangue (testes de campo)",
+  "content_pillar": "physiology",
+  "hook": "Você não precisa furar o dedo pra achar seu limiar. Bastam 2 testes.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:lactato",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:lactato"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Ache seu limiar sem furar o dedo.",
+      "body": null,
+      "label": null,
+      "kicker": "O TESTE",
+      "image": {
+        "path": "/tmp/img/der_lactato_limiar/cover/cand_01.jpg",
+        "focus": "center 50%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O ERRO",
+      "headline": "Sem o número, você vive no 'médio'",
+      "body": "A crença: pra saber seu limiar, só com teste de sangue no laboratório — agulha, dedo furado, dinheiro.\n\nResultado: quase ninguém mede. E quem não conhece as duas fronteiras do próprio esforço treina sempre no mesmo ritmo médio: pesado demais pra recuperar, leve demais pra evoluir.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "A IDEIA",
+      "headline": "Duas fronteiras, dois testes de campo",
+      "body": "Seu treino tem duas bordas: a de baixo (a base tranquila) e a de cima (o ritmo forte que você ainda sustenta).\n\nCada uma tem um teste grátis pra marcar: a conversa acha a de baixo, o relógio acha a de cima. Nenhum precisa de sangue.",
+      "image": {
+        "path": "/tmp/img/der_lactato_limiar/cover/cand_05.jpg",
+        "focus": "center 45%"
+      },
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Os testes de campo batem perto do laboratório",
+      "body": "Teste da fala: no ponto em que a frase começa a sair picada, a intensidade cai quase em cima do limiar ventilatório (Persinger, 2004; esteira e bike).\n\nContrarrelógio de 20–30 min: o ritmo fica perto do limiar de laboratório na média, mas com variação individual grande (Borszcz, 2018). Serve pra marcar a zona, não pra cravar o número.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como fazer os 2 testes",
+      "body": "Fala: acelere até a 1ª vez que a frase sai picada. Ali é a borda de baixo — fique abaixo nos rodagens.\n\nRelógio: 30 min sozinho, no ritmo mais forte que você segura estável. A FC média dos últimos 20 min é seu limiar de cima. Refaça a cada 6–8 semanas.",
+      "image": {
+        "path": "/tmp/img/der_lactato_limiar/cover2/cand_05.jpg",
+        "focus": "center 55%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Dois testes, zero agulha.",
+      "body": "Agora você treina pelo número, não pelo achismo.\n\nSalva pra fazer no fim de semana — e manda pro parceiro que treina tudo no mesmo ritmo.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Pra treinar no ritmo certo, você precisa conhecer duas fronteiras: o limiar de baixo (onde acaba a base tranquila) e o de cima (o ritmo mais forte que você sustenta sem o esforço disparar). O que trava a maioria não é a ciência — é achar que só dá pra medir isso com teste de lactato no sangue, no laboratório. Dá pra estimar os dois no campo, de graça.\n\nFronteira de baixo — teste da fala: corra ou pedale acelerando aos poucos. Enquanto você fala uma frase inteira de forma confortável, está na base. A primeira vez que a frase sai picada marca a borda — e esse ponto cai quase exatamente sobre o limiar ventilatório (Persinger et al., 2004, na esteira e na bike).\n\nFronteira de cima — contrarrelógio de 30 min sozinho: aqueça e então corra ou pedale no ritmo mais forte que consegue manter estável por 30 minutos, sem largada em grupo pra ninguém puxar o seu ritmo. A FC média dos últimos 20 min estima a sua FC de limiar. O ritmo (ou a potência) de um contrarrelógio desse tipo fica perto do limiar medido em laboratório na média, mas com variação individual grande — por isso ele serve pra marcar a zona de treino, não pra cravar o número exato (Borszcz et al., 2018). Que existe um ritmo máximo sustentável, um limiar fisiológico real, é bem estabelecido (Jones & Vanhatalo, 2017).\n\nRefaça os dois a cada 6 a 8 semanas: o número anda junto com a sua forma.\n\nFontes: Persinger R, Foster C, Gibson M, Fater DC, Porcari JP. Consistency of the talk test for exercise prescription. Med Sci Sports Exerc. 2004;36(9):1632-6. | Borszcz FK, Tramontin AF, Bossi AH, Carminatti LJ, Costa VP. Functional Threshold Power in Cyclists: Validity of the Concept and Physiological Responses. Int J Sports Med. 2018;39(10):737-742. | Jones AM, Vanhatalo A. The 'Critical Power' Concept. Sports Med. 2017;47(Suppl 1):65-78.",
+  "cta": "Salva e manda pro parceiro de treino que treina tudo no mesmo ritmo médio.",
+  "scientific_sources": [
+    {
+      "title": "Consistency of the talk test for exercise prescription",
+      "authors": "Persinger R, Foster C, Gibson M, Fater DC, Porcari JP",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2004,
+      "volume": "36",
+      "issue": "9",
+      "pages": "1632-1636",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15354048/",
+      "level": "B"
+    },
+    {
+      "title": "Functional Threshold Power in Cyclists: Validity of the Concept and Physiological Responses",
+      "authors": "Borszcz FK, Tramontin AF, Bossi AH, Carminatti LJ, Costa VP",
+      "journal": "International Journal of Sports Medicine",
+      "year": 2018,
+      "volume": "39",
+      "issue": "10",
+      "pages": "737-742",
+      "doi": "10.1055/s-0044-101546",
+      "url": "https://doi.org/10.1055/s-0044-101546",
+      "level": "B"
+    },
+    {
+      "title": "The 'Critical Power' Concept: Applications to Sports Performance with a Focus on Intermittent High-Intensity Exercise",
+      "authors": "Jones AM, Vanhatalo A",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "65-78",
+      "doi": "10.1007/s40279-017-0688-0",
+      "url": "https://doi.org/10.1007/s40279-017-0688-0",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Ache seu limiar de lactato sem furar o dedo: 2 testes de campo que funcionam",
+    "slug": "achar-limiar-lactato-sem-sangue-testes-de-campo",
+    "excerpt": "Você não precisa de um teste de lactato no laboratório pra conhecer seu limiar. O teste da fala e o contrarrelógio de 30 minutos estimam suas duas fronteiras de treino — com evidência para sustentar cada um, e os limites de cada estimativa.",
+    "meta_title": "Limiar de lactato sem sangue: 2 testes de campo (talk test e 30 min)",
+    "tags": [
+      "Limiar de lactato",
+      "Teste de campo",
+      "Zonas de treino",
+      "Endurance",
+      "Fisiologia do exercício"
+    ],
+    "html": "<p>Conhecer o próprio limiar é o que separa quem treina com propósito de quem só acumula quilômetros no mesmo ritmo. Mas existe uma crença que trava quase todo mundo: a de que só dá pra saber onde fica o seu limiar com um <strong>teste de lactato no sangue</strong>, em laboratório, com direito a dedo furado a cada degrau de esforço. É caro, é incômodo — e por isso quase ninguém faz. O resultado é o amador clássico, preso na terra-de-ninguém: um ritmo \"médio\" pesado demais para recuperar e leve demais para dar estímulo de verdade.</p>\n\n<p>A boa notícia: você pode <strong>estimar</strong> as suas fronteiras de treino no campo, de graça, com dois testes simples. Nenhum deles substitui um laboratório com precisão absoluta — mas os dois têm evidência para marcar as suas zonas com confiança.</p>\n\n<h2>Duas fronteiras, não uma</h2>\n\n<p>O seu esforço tem duas bordas que organizam todo o treino. A <strong>fronteira de baixo</strong> (o primeiro limiar, ligado ao limiar ventilatório) é o teto da base tranquila: abaixo dela, você rodaria quase o dia inteiro. A <strong>fronteira de cima</strong> (o segundo limiar, perto do máximo estado estável de lactato) é o ritmo mais forte que você consegue segurar com o esforço <em>estável</em>, sem ele disparar. Entre as duas fica o trabalho de limiar; acima da de cima, os tiros intensos.</p>\n\n<h2>Teste 1 — a fala, para a fronteira de baixo</h2>\n\n<p>O <strong>teste da fala</strong> (talk test) é o mais simples que existe: enquanto você consegue dizer uma frase inteira de forma confortável, está dentro da base. Vá acelerando aos poucos; a <strong>primeira vez</strong> em que a frase sai picada, cortada pela respiração, marca a borda.</p>\n\n<p>Isso não é folclore de treinador. No estudo de Persinger e colegas (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2004), feito na esteira e na bicicleta ergométrica, o ponto em que falar começava a ficar difícil correspondeu <strong>quase exatamente ao limiar ventilatório</strong>; quando a fala já não era confortável, a intensidade estava consistentemente acima dele. Ou seja: a sua própria respiração denuncia a fronteira de baixo. Nas rodagens fáceis, fique abaixo desse ponto.</p>\n\n<h2>Teste 2 — o contrarrelógio de 30 minutos, para a fronteira de cima</h2>\n\n<p>Para a borda de cima, use um <strong>contrarrelógio solo de 30 minutos</strong>. Aqueça bem e então corra (ou pedale) no ritmo mais forte que você consegue manter <em>estável</em> por 30 minutos — sozinho, sem largada em grupo, para que ninguém puxe artificialmente o seu ritmo. A <strong>frequência cardíaca média dos últimos 20 minutos</strong> é a sua estimativa de FC de limiar: o teto do esforço \"forte mas sustentável\".</p>\n\n<p>Por que um esforço máximo de ~20 a 30 minutos funciona como referência? Porque ele cai muito perto do limiar fisiológico sustentável. No estudo de Borszcz e colegas (<em>International Journal of Sports Medicine</em>, 2018), a potência de contrarrelógios de 20 e 60 minutos <strong>não diferiu, na média</strong>, do limiar anaeróbio individual medido em laboratório, com correlações fortes. O detalhe honesto: os <strong>limites de concordância individuais eram grandes</strong>. Traduzindo: o teste de campo é ótimo para marcar a sua <em>zona</em> de treino, mas não deve ser tratado como um número de laboratório exato para cada pessoa. E o próprio conceito de que existe um \"ritmo máximo sustentável\" — uma fronteira fisiológica real entre o esforço que você segura e o que te derruba — é bem estabelecido na literatura (Jones &amp; Vanhatalo, <em>Sports Medicine</em>, 2017).</p>\n\n<table>\n<thead><tr><th>Fronteira</th><th>Teste de campo</th><th>O que você lê</th></tr></thead>\n<tbody>\n<tr><td>De baixo (1º limiar)</td><td>Teste da fala</td><td>O ritmo em que a frase inteira começa a sair picada</td></tr>\n<tr><td>De cima (2º limiar)</td><td>Contrarrelógio solo de 30 min</td><td>FC média dos últimos 20 min = FC de limiar</td></tr>\n</tbody>\n</table>\n\n<h2>Como usar os números</h2>\n\n<p>Com as duas fronteiras na mão, o treino se organiza sozinho: a maior parte do volume abaixo da fronteira de baixo (controlada pela fala), o trabalho de limiar ancorado na FC do contrarrelógio e os tiros acima dela. <strong>Refaça os dois testes a cada 6 a 8 semanas</strong>, porque os números se movem junto com a sua forma — um limiar que subiu é a prova de que o treino está funcionando.</p>\n\n<h2>Resumo</h2>\n\n<p>Você não precisa furar o dedo para treinar pelo número. O teste da fala marca a sua fronteira de baixo e o contrarrelógio de 30 minutos estima a de cima. São estimativas, não medidas de laboratório — mas estimativas com evidência, suficientes para tirar você do ritmo \"médio\" e colocar cada treino na intensidade certa.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Persinger R, Foster C, Gibson M, Fater DC, Porcari JP. Consistency of the talk test for exercise prescription. <em>Med Sci Sports Exerc</em>. 2004;36(9):1632–1636.</li>\n<li>Borszcz FK, Tramontin AF, Bossi AH, Carminatti LJ, Costa VP. Functional Threshold Power in Cyclists: Validity of the Concept and Physiological Responses. <em>Int J Sports Med</em>. 2018;39(10):737–742. doi:10.1055/s-0044-101546</li>\n<li>Jones AM, Vanhatalo A. The 'Critical Power' Concept: Applications to Sports Performance with a Focus on Intermittent High-Intensity Exercise. <em>Sports Med</em>. 2017;47(Suppl 1):65–78. doi:10.1007/s40279-017-0688-0</li>\n</ol>\n",
+    "cover": "content/drafts/der_lactato_limiar/cover.png",
+    "cover_alt": "Ache seu limiar de lactato sem furar o dedo: teste da fala e contrarrelógio de 30 minutos — Somente os Fatos Nutrição"
+  },
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Free man running road image",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5924555/photo-image-public-domain-person-free"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "a ideia",
+      "title": "People Running",
+      "creator": "kinkate",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/people-running-2USDVKPSWS"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Jogging forest",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6032727/photo-image-public-domain-trees-green"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/der_lactato_limiar/slide_01.png",
+    "content/drafts/der_lactato_limiar/slide_02.png",
+    "content/drafts/der_lactato_limiar/slide_03.png",
+    "content/drafts/der_lactato_limiar/slide_04.png",
+    "content/drafts/der_lactato_limiar/slide_05.png",
+    "content/drafts/der_lactato_limiar/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  }
+}
