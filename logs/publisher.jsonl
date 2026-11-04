@@ -563,3 +563,4 @@
 {"ts": "2026-11-04T14:49:14.061615+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-11-04T14:49:22.367967+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_limiar -> media_id 18137475862644223"}
 {"ts": "2026-11-04T14:49:22.380356+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-04T19:21:48.647311+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
