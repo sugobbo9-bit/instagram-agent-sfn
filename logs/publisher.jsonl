@@ -556,3 +556,10 @@
 {"ts": "2026-11-03T20:07:48.692038+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-11-03T20:08:03.621240+00:00", "level": "INFO", "msg": "PUBLICADO: vs_012 -> media_id 18079454417448903"}
 {"ts": "2026-11-03T20:08:03.639961+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-04T14:48:36.556077+00:00", "level": "INFO", "msg": "Publicando der_lactato_limiar (carousel) \u2014 como achar seu limiar de lactato sem fazer teste de sangue"}
+{"ts": "2026-11-04T14:48:36.559002+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-04T14:48:36.559063+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_lactato_limiar/slide_01.png"}
+{"ts": "2026-11-04T14:48:38.110867+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-04T14:49:14.061615+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-04T14:49:22.367967+00:00", "level": "INFO", "msg": "PUBLICADO: der_lactato_limiar -> media_id 18137475862644223"}
+{"ts": "2026-11-04T14:49:22.380356+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

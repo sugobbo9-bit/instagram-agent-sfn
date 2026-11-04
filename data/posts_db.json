@@ -9274,6 +9274,75 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18137475862644223",
+      "local_id": "der_lactato_limiar",
+      "publication_date": "2026-11-04T14:49:22.368136+00:00",
+      "format": "carousel",
+      "topic": "como estimar o limiar de lactato sem teste de sangue (testes de campo)",
+      "content_pillar": "physiology",
+      "hook": "Você não precisa furar o dedo pra achar seu limiar. Bastam 2 testes.",
+      "caption": "Pra treinar no ritmo certo, você precisa conhecer duas fronteiras: o limiar de baixo (onde acaba a base tranquila) e o de cima (o ritmo mais forte que você sustenta sem o esforço disparar). O que trava a maioria não é a ciência — é achar que só dá pra medir isso com teste de lactato no sangue, no laboratório. Dá pra estimar os dois no campo, de graça.\n\nFronteira de baixo — teste da fala: corra ou pedale acelerando aos poucos. Enquanto você fala uma frase inteira de forma confortável, está na base. A primeira vez que a frase sai picada marca a borda — e esse ponto cai quase exatamente sobre o limiar ventilatório (Persinger et al., 2004, na esteira e na bike).\n\nFronteira de cima — contrarrelógio de 30 min sozinho: aqueça e então corra ou pedale no ritmo mais forte que consegue manter estável por 30 minutos, sem largada em grupo pra ninguém puxar o seu ritmo. A FC média dos últimos 20 min estima a sua FC de limiar. O ritmo (ou a potência) de um contrarrelógio desse tipo fica perto do limiar medido em laboratório na média, mas com variação individual grande — por isso ele serve pra marcar a zona de treino, não pra cravar o número exato (Borszcz et al., 2018). Que existe um ritmo máximo sustentável, um limiar fisiológico real, é bem estabelecido (Jones & Vanhatalo, 2017).\n\nRefaça os dois a cada 6 a 8 semanas: o número anda junto com a sua forma.\n\nFontes: Persinger R, Foster C, Gibson M, Fater DC, Porcari JP. Consistency of the talk test for exercise prescription. Med Sci Sports Exerc. 2004;36(9):1632-6. | Borszcz FK, Tramontin AF, Bossi AH, Carminatti LJ, Costa VP. Functional Threshold Power in Cyclists: Validity of the Concept and Physiological Responses. Int J Sports Med. 2018;39(10):737-742. | Jones AM, Vanhatalo A. The 'Critical Power' Concept. Sports Med. 2017;47(Suppl 1):65-78.",
+      "cta": "Salva e manda pro parceiro de treino que treina tudo no mesmo ritmo médio.",
+      "scientific_sources": [
+        {
+          "title": "Consistency of the talk test for exercise prescription",
+          "authors": "Persinger R, Foster C, Gibson M, Fater DC, Porcari JP",
+          "journal": "Medicine and Science in Sports and Exercise",
+          "year": 2004,
+          "volume": "36",
+          "issue": "9",
+          "pages": "1632-1636",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15354048/",
+          "level": "B"
+        },
+        {
+          "title": "Functional Threshold Power in Cyclists: Validity of the Concept and Physiological Responses",
+          "authors": "Borszcz FK, Tramontin AF, Bossi AH, Carminatti LJ, Costa VP",
+          "journal": "International Journal of Sports Medicine",
+          "year": 2018,
+          "volume": "39",
+          "issue": "10",
+          "pages": "737-742",
+          "doi": "10.1055/s-0044-101546",
+          "url": "https://doi.org/10.1055/s-0044-101546",
+          "level": "B"
+        },
+        {
+          "title": "The 'Critical Power' Concept: Applications to Sports Performance with a Focus on Intermittent High-Intensity Exercise",
+          "authors": "Jones AM, Vanhatalo A",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "65-78",
+          "doi": "10.1007/s40279-017-0688-0",
+          "url": "https://doi.org/10.1007/s40279-017-0688-0",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_lactato_limiar/slide_01.png",
+        "content/drafts/der_lactato_limiar/slide_02.png",
+        "content/drafts/der_lactato_limiar/slide_03.png",
+        "content/drafts/der_lactato_limiar/slide_04.png",
+        "content/drafts/der_lactato_limiar/slide_05.png",
+        "content/drafts/der_lactato_limiar/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:lactato",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:lactato"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aeb45f4791be40001d86b86",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/achar-limiar-lactato-sem-sangue-testes-de-campo/"
     }
   ]
 }
