@@ -1,0 +1,226 @@
+{
+  "local_id": "vs_014",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-05T20:00:00Z",
+  "topic": "beta-alanina: Max Titanium vs Integralmédica (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Beta-alanina: Max Titanium vs. Integralmédica. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:beta-alanina",
+    "pair:maxtitanium-integralmedica"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Max Titanium",
+      "brand": "Max Titanium",
+      "image": "content/drafts/vs_014/img/max_titanium_beta.png",
+      "label_source": {
+        "url": "https://www.maxtitanium.com.br/beta-alanina-150g/p",
+        "consulted": "2026-11-05",
+        "notes": "Tabela nutricional em texto na página: pote 150 g, porção 2 g (1 dosador), 75 porções/embalagem, 2.000 mg de beta-alanina por dose, ingredientes beta-alanina + antiumectante dióxido de silício, livre de glúten/lactose/sódio, sem sabor."
+      }
+    },
+    {
+      "name": "Integralmédica",
+      "brand": "Integralmédica",
+      "image": "content/drafts/vs_014/img/integralmedica_beta.png",
+      "label_source": {
+        "url": "https://www.integralmedica.com.br/beta-alanina-em-po-123g/p",
+        "consulted": "2026-11-05",
+        "notes": "Tabela nutricional em texto na página (sabor Neutro): pote 123 g, porção 2,05 g (1 dosador), 60 porções/embalagem, 2.000 mg de beta-alanina por dose, ingredientes beta-alanina + antiumectante dióxido de silício, zero sódio/carbo/açúcar, pura."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas beta-alaninas.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_014/img/max_titanium_beta.png",
+          "mode": "multiply",
+          "label": "Max Titanium"
+        },
+        {
+          "image": "content/drafts/vs_014/img/integralmedica_beta.png",
+          "mode": "multiply",
+          "label": "Integralmédica"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da dose",
+      "values": [
+        {
+          "value": "2 g",
+          "note": "1 dosador"
+        },
+        {
+          "value": "2,05 g",
+          "note": "1 dosador"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Beta-alanina por dose",
+      "values": [
+        {
+          "value": "2.000 mg"
+        },
+        {
+          "value": "2.000 mg"
+        }
+      ],
+      "footnote": "A dose declarada é a mesma nos dois rótulos."
+    },
+    {
+      "type": "metric",
+      "headline": "Doses por embalagem",
+      "values": [
+        {
+          "value": "75"
+        },
+        {
+          "value": "60"
+        }
+      ],
+      "footnote": "Potes de 150 g (Max Titanium) e 123 g (Integralmédica)."
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Dióxido de silício",
+          "note": "antiumectante"
+        },
+        {
+          "value": "Dióxido de silício",
+          "note": "antiumectante"
+        }
+      ],
+      "footnote": "Fora a beta-alanina, é o único outro ingrediente declarado nos dois. Sem sabor, sem açúcar."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por dose",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "livre de sódio"
+        },
+        {
+          "value": "0 mg",
+          "note": "livre de sódio"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler a dose.",
+      "body": "A dose com evidência na literatura é de 4 a 6 g de beta-alanina por dia, por pelo menos 2 a 4 semanas. É esse uso diário e constante que enche o músculo de carnosina, o tampão que segura a queda de pH no esforço forte. Um dosador de 2 g é uma fração da dose diária; o efeito não vem de uma tomada avulsa.\n\nO benefício mais consistente aparece em esforços intensos de cerca de 1 a 4 minutos — tiros, subidas e o ataque final —, não no ritmo contínuo. O formigamento na pele (parestesia) é efeito colateral conhecido e inofensivo, e costuma diminuir dividindo a dose ao longo do dia.",
+      "source": "Rótulos e sites oficiais Max Titanium e Integralmédica, consultados em 05/11/2026.\nTrexler ET et al. ISSN position stand: Beta-Alanine. J Int Soc Sports Nutr. 2015;12:30. Saunders B et al. Br J Sports Med. 2017;51(8):658-669.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu protocolo, do seu bolso e de quantas doses você usa por dia.\n\nMax Titanium Beta-Alanina: pote de 150 g, dose de 2 g (1 dosador), 2.000 mg de beta-alanina por dose, 75 doses. Fora a beta-alanina, só o antiumectante dióxido de silício. Sem sabor e livre de sódio.\n\nIntegralmédica Beta Alanina Pure: pote de 123 g, dose de 2,05 g (1 dosador), 2.000 mg de beta-alanina por dose, 60 doses. Fora a beta-alanina, só o antiumectante dióxido de silício. Sem sabor e livre de sódio.\n\nDados dos rótulos e sites oficiais, consultados em 05/11/2026. São as versões vendidas no Brasil; confira sempre o rótulo do produto que você tem em mãos.\n\nO que o rótulo não diz: a dose com evidência é de 4 a 6 g por dia por pelo menos 2 a 4 semanas, e o ganho mais consistente aparece em esforços intensos de ~1 a 4 min (tiros, subidas, ataque final). O formigamento na pele é inofensivo.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Trexler ET, et al. International Society of Sports Nutrition position stand: Beta-Alanine. J Int Soc Sports Nutr. 2015;12:30.\n• Saunders B, et al. β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis. Br J Sports Med. 2017;51(8):658–669.\n\nImagens: fotos de produto dos sites oficiais da Max Titanium e da Integralmédica.\n\n#nutricaoesportiva #betaalanina #corrida #ciclismo #triathlon #endurance #suplementos",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International Society of Sports Nutrition position stand: Beta-Alanine",
+      "authors": "Trexler ET, Smith-Ryan AE, Stout JR, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2015,
+      "volume": "12",
+      "issue": "",
+      "pages": "30",
+      "doi": "10.1186/s12970-015-0090-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+      "level": "A"
+    },
+    {
+      "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+      "authors": "Saunders B, Elliott-Sale K, Artioli GG, et al.",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2017,
+      "volume": "51",
+      "issue": "8",
+      "pages": "658-669",
+      "doi": "10.1136/bjsports-2016-096396",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Max Titanium",
+      "kind": "packshot",
+      "title": "Beta-Alanina---Frente.png",
+      "creator": "Max Titanium (Floral Nutrição Esportiva)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maxtitanium.com.br/beta-alanina-150g/p",
+      "changes": "fundo branco aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Integralmédica",
+      "kind": "packshot",
+      "title": "Beta_Alanina_Po_123g_1.png",
+      "creator": "Integralmédica",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.integralmedica.com.br/beta-alanina-em-po-123g/p",
+      "changes": "fundo branco aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-05 nas páginas oficiais (versões BR, tabela em texto). Max Titanium: pote 150 g, 2 g/dose, 75 doses, 2.000 mg beta-alanina/dose, + dióxido de silício, zero sódio, sem sabor. Integralmédica: pote 123 g, 2,05 g/dose, 60 doses, 2.000 mg beta-alanina/dose, + dióxido de silício, zero sódio, sem sabor. Formato BR, sem ressalva de versão estrangeira.",
+  "creative_files": [
+    "content/drafts/vs_014/slide_01.png",
+    "content/drafts/vs_014/slide_02.png",
+    "content/drafts/vs_014/slide_03.png",
+    "content/drafts/vs_014/slide_04.png",
+    "content/drafts/vs_014/slide_05.png",
+    "content/drafts/vs_014/slide_06.png",
+    "content/drafts/vs_014/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17873880825642953",
+  "published_at": "2026-11-05T20:05:51.839734+00:00"
+}

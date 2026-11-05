@@ -579,3 +579,10 @@
 {"ts": "2026-11-05T14:51:36.520988+00:00", "level": "INFO", "msg": "PUBLICADO: draft_024 -> media_id 17887366638504222"}
 {"ts": "2026-11-05T14:51:36.541775+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-05T19:29:35.282457+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-05T20:05:05.937717+00:00", "level": "INFO", "msg": "Publicando vs_014 (carousel) \u2014 beta-alanina: Max Titanium vs Integralm\u00e9dica (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-05T20:05:05.942288+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-05T20:05:05.942394+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_014/slide_01.png"}
+{"ts": "2026-11-05T20:05:06.643695+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-05T20:05:38.133011+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-11-05T20:05:51.839537+00:00", "level": "INFO", "msg": "PUBLICADO: vs_014 -> media_id 17873880825642953"}
+{"ts": "2026-11-05T20:05:51.860717+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

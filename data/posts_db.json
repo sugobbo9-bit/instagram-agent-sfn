@@ -9457,6 +9457,62 @@
       "derivatives_created": [],
       "ghost_post_id": "6aec97fa06ea180001976ab2",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/sono-ruim-desempenho-resistencia-cai-antes-da-forca/"
+    },
+    {
+      "post_id": "17873880825642953",
+      "local_id": "vs_014",
+      "publication_date": "2026-11-05T20:05:51.839734+00:00",
+      "format": "carousel",
+      "topic": "beta-alanina: Max Titanium vs Integralmédica (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Beta-alanina: Max Titanium vs. Integralmédica. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu protocolo, do seu bolso e de quantas doses você usa por dia.\n\nMax Titanium Beta-Alanina: pote de 150 g, dose de 2 g (1 dosador), 2.000 mg de beta-alanina por dose, 75 doses. Fora a beta-alanina, só o antiumectante dióxido de silício. Sem sabor e livre de sódio.\n\nIntegralmédica Beta Alanina Pure: pote de 123 g, dose de 2,05 g (1 dosador), 2.000 mg de beta-alanina por dose, 60 doses. Fora a beta-alanina, só o antiumectante dióxido de silício. Sem sabor e livre de sódio.\n\nDados dos rótulos e sites oficiais, consultados em 05/11/2026. São as versões vendidas no Brasil; confira sempre o rótulo do produto que você tem em mãos.\n\nO que o rótulo não diz: a dose com evidência é de 4 a 6 g por dia por pelo menos 2 a 4 semanas, e o ganho mais consistente aparece em esforços intensos de ~1 a 4 min (tiros, subidas, ataque final). O formigamento na pele é inofensivo.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Trexler ET, et al. International Society of Sports Nutrition position stand: Beta-Alanine. J Int Soc Sports Nutr. 2015;12:30.\n• Saunders B, et al. β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis. Br J Sports Med. 2017;51(8):658–669.\n\nImagens: fotos de produto dos sites oficiais da Max Titanium e da Integralmédica.\n\n#nutricaoesportiva #betaalanina #corrida #ciclismo #triathlon #endurance #suplementos",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: Beta-Alanine",
+          "authors": "Trexler ET, Smith-Ryan AE, Stout JR, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2015,
+          "volume": "12",
+          "issue": "",
+          "pages": "30",
+          "doi": "10.1186/s12970-015-0090-y",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+          "level": "A"
+        },
+        {
+          "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+          "authors": "Saunders B, Elliott-Sale K, Artioli GG, et al.",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2017,
+          "volume": "51",
+          "issue": "8",
+          "pages": "658-669",
+          "doi": "10.1136/bjsports-2016-096396",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_014/slide_01.png",
+        "content/drafts/vs_014/slide_02.png",
+        "content/drafts/vs_014/slide_03.png",
+        "content/drafts/vs_014/slide_04.png",
+        "content/drafts/vs_014/slide_05.png",
+        "content/drafts/vs_014/slide_06.png",
+        "content/drafts/vs_014/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:beta-alanina",
+        "pair:maxtitanium-integralmedica"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
