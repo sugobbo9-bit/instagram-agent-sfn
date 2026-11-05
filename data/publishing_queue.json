@@ -1006,6 +1006,17 @@
       "notes": "marca x marca — category:gel-carbo, pair:dux-probiotica",
       "published_at": "2026-11-04T20:14:04.148342+00:00",
       "post_id": "17948680347359504"
+    },
+    {
+      "local_id": "draft_024",
+      "format": "carousel",
+      "topic": "privação de sono e desempenho de endurance (resistência cai mais que a força)",
+      "hook": "Dormir mal não derruba sua força. Derruba seu ritmo — quase o dobro.",
+      "status": "approved",
+      "created_at": "2026-11-05T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Tema novo (tópico campeão sono, mediana 1.164). Ângulo contrarian+numérico: privação de sono derruba a resistência ~2x mais que a força máxima e sobe a percepção de esforço. Fontes nível A: Craven 2022 (Sports Med, 77 estudos) + Lopes 2023 (Eur J Sport Sci, meta-análise de endurance). Técnico com foto, slot 12h BRT/14h UTC."
     }
   ]
 }
