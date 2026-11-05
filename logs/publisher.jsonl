@@ -571,3 +571,10 @@
 {"ts": "2026-11-04T20:13:51.908731+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-11-04T20:14:04.148168+00:00", "level": "INFO", "msg": "PUBLICADO: vs_013 -> media_id 17948680347359504"}
 {"ts": "2026-11-04T20:14:04.162311+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-05T14:50:58.751530+00:00", "level": "INFO", "msg": "Publicando draft_024 (carousel) \u2014 priva\u00e7\u00e3o de sono e desempenho de endurance (resist\u00eancia cai mais que a for\u00e7a)"}
+{"ts": "2026-11-05T14:50:58.756285+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-05T14:50:58.756386+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_024/slide_01.png"}
+{"ts": "2026-11-05T14:51:00.122262+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-05T14:51:25.188372+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-05T14:51:36.520988+00:00", "level": "INFO", "msg": "PUBLICADO: draft_024 -> media_id 17887366638504222"}
+{"ts": "2026-11-05T14:51:36.541775+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

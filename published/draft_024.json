@@ -1,0 +1,170 @@
+{
+  "local_id": "draft_024",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-05T00:00:00Z",
+  "topic": "privação de sono e desempenho de endurance (a resistência cai mais que a força)",
+  "content_pillar": "recovery",
+  "hook": "Dormir mal não derruba sua força. Derruba seu ritmo — quase o dobro.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:sono",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "Dormir mal não derruba sua força. Derruba seu ritmo.",
+      "body": null,
+      "label": null,
+      "kicker": "O MITO",
+      "image": {
+        "path": "/tmp/img/draft_024/cover/cand_01.jpg",
+        "focus": "center 42%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A CRENÇA",
+      "headline": "Você culpa a perna. O problema é o ritmo.",
+      "body": "A ideia comum: uma noite ruim tira força e explosão, mas a base aeróbia 'tranquila' se segura no automático.\n\nOs dados mostram o contrário. O esforço máximo de força quase não muda. Quem desaba é a resistência — e tudo passa a parecer mais pesado.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "POR QUE ACONTECE",
+      "headline": "O sono mexe com o cérebro, não com o músculo.",
+      "body": "A força máxima é um tiro curto: o músculo entrega mesmo com você exausto.\n\nA resistência depende de sustentar o esforço, e aí pesa o sistema nervoso central. Sem sono, a mesma intensidade é lida como mais difícil — a percepção de esforço sobe e você corta o ritmo antes da hora.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Quase o dobro do efeito.",
+      "body": "Revisão de 77 estudos: dormir 6h ou menos derrubou a resistência em 5,5% e a força máxima em só 2,9% — quase o dobro.\n\nMeta-análise só de endurance (31 estudos): efeito moderado, e maior em provas acima de 30 min.",
+      "image": {
+        "path": "/tmp/img/draft_024/effort/cand_03.jpg",
+        "focus": "center 55%"
+      },
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Trate o sono como parte do treino.",
+      "body": "Antes de treino longo ou prova, priorize a noite de sono — é onde o estrago aparece.\n\nDormiu mal? Espere que o mesmo pace pareça mais duro e ajuste a expectativa. Não é fraqueza: é percepção de esforço.",
+      "image": {
+        "path": "/tmp/img/draft_024/recovery/cand_02.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Uma noite ruim não tira sua força. Tira seu ritmo.",
+      "body": "Salva pra lembrar antes da próxima prova — e manda pro parceiro que treina dormindo 5 horas.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Dormir mal não derruba sua força máxima — ela é um tiro curto que o músculo entrega mesmo exausto. O que desaba é a resistência: sustentar o ritmo depende do sistema nervoso central, e sem sono a mesma intensidade passa a parecer mais difícil.\n\nOs números: uma revisão de 77 estudos (Craven, 2022) achou queda de ~5,5% na resistência contra só ~2,9% na força máxima com noites de 6h ou menos — quase o dobro. Uma meta-análise focada em endurance (Lopes, 2023) confirma efeito moderado, maior em esforços acima de 30 minutos, com a percepção de esforço subindo em 8 dos 10 estudos que a mediram.\n\nNa prática: priorize o sono antes de treino longo ou prova. Dormiu mal? Conte que o mesmo pace vai parecer mais pesado — ajuste a expectativa, não se cobre por 'fraqueza'. É percepção de esforço, não falta de vontade.\n\nRessalva honesta: a maioria dos estudos é pequena e quase não incluiu atletas de elite — em quem é muito bem treinado o efeito pode ser menor.\n\nFontes: Craven J et al. Sports Med. 2022;52(11):2669-2690 (revisão de 77 estudos). | Lopes TR et al. Eur J Sport Sci. 2023;23(7):1279-1292 (meta-análise de endurance).\n\nFoto: Yazuu (CC BY 2.0).\n\nSalva e manda pro parceiro que treina dormindo 5 horas.",
+  "cta": "Salva e manda pro parceiro que treina dormindo 5 horas.",
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa (relógio 2h22)",
+      "title": "Too late",
+      "creator": "Yazuu",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/26022173@N06/3210897918"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "pista de atletismo",
+      "title": "Empty running track field",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6017346/photo-image-public-domain-free-sport"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "luz da manhã na cama",
+      "title": "Natural wake up light",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5939153/natural-wake-light"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Effects of Acute Sleep Loss on Physical Performance: A Systematic and Meta-Analytical Review",
+      "authors": "Craven J, McCartney D, Desbrow B, Sabapathy S, Bellinger P, Roberts L, Irwin C",
+      "journal": "Sports Medicine",
+      "year": 2022,
+      "volume": "52",
+      "issue": "11",
+      "pages": "2669-2690",
+      "doi": "10.1007/s40279-022-01706-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35708888/",
+      "level": "A"
+    },
+    {
+      "title": "How much does sleep deprivation impair endurance performance? A systematic review and meta-analysis",
+      "authors": "Lopes TR, Pereira HM, Bittencourt LRA, Silva BM",
+      "journal": "European Journal of Sport Science",
+      "year": 2023,
+      "volume": "23",
+      "issue": "7",
+      "pages": "1279-1292",
+      "doi": "10.1080/17461391.2022.2155583",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472094/",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Sono ruim e desempenho: o que cai primeiro é a resistência",
+    "slug": "sono-ruim-desempenho-resistencia-cai-antes-da-forca",
+    "excerpt": "Uma noite mal dormida quase não mexe na força máxima — mas derruba a resistência quase o dobro e faz todo esforço parecer mais pesado. O que mostram duas revisões recentes e como ajustar o treino.",
+    "meta_title": "Sono ruim e endurance: por que a resistência cai antes da força",
+    "tags": [
+      "Sono",
+      "Recuperação",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Depois de uma noite ruim, a reação quase automática é achar que você vai treinar \"mais fraco\". A ciência recente aponta para um alvo diferente: a <strong>força máxima</strong> é relativamente preservada, enquanto a <strong>resistência</strong> — a capacidade de sustentar o ritmo — é o que mais sofre. E, junto, vem um efeito que explica a sensação da manhã seguinte: tudo passa a parecer mais difícil.</p>\n\n<h2>A força é um tiro curto. A resistência, não.</h2>\n\n<p>Um esforço de força máxima dura segundos: o músculo consegue recrutar o que precisa mesmo com você exausto. Já a resistência depende de <strong>sustentar</strong> uma intensidade por minutos ou horas, e isso é governado em boa parte pelo <strong>sistema nervoso central</strong>. É justamente nesse componente central que a privação de sono bate mais forte — por isso o pace cede antes da fadiga muscular \"real\" chegar.</p>\n\n<h2>Os números: quase o dobro do efeito</h2>\n\n<p>A revisão sistemática e meta-analítica de Craven e colegas (<em>Sports Medicine</em>, 2022), reunindo <strong>77 estudos</strong> e 959 participantes, quantificou o efeito de uma perda aguda de sono (dormir 6 horas ou menos em 24 h) sobre diferentes tipos de desempenho:</p>\n\n<table>\n<thead><tr><th>Tipo de esforço</th><th>Queda média de desempenho</th></tr></thead>\n<tbody>\n<tr><td>Resistência (endurance)</td><td>−5,5%</td></tr>\n<tr><td>Potência anaeróbia</td><td>−6,3%</td></tr>\n<tr><td>Força máxima</td><td>−2,9%</td></tr>\n</tbody>\n</table>\n\n<p>Ou seja: a resistência caiu <strong>quase o dobro</strong> da força máxima. (O maior prejuízo de todos foi em tarefas de <em>habilidade/precisão</em>, mas isso foge do foco aqui.) O efeito também tende a ser maior no período da tarde/noite do que de manhã.</p>\n\n<p>Uma segunda revisão, de Lopes e colegas (<em>European Journal of Sport Science</em>, 2023), olhou <strong>só para endurance</strong>: 31 estudos, 478 participantes. O efeito combinado foi <strong>moderado</strong> (diferença padronizada de médias de −0,52) e — detalhe prático importante — <strong>maior em esforços acima de 30 minutos</strong> (−0,76) do que nos mais curtos (−0,44). Quanto mais longa a prova, mais o sono ruim pesa.</p>\n\n<h2>Por que tudo parece mais pesado</h2>\n\n<p>O mecanismo mais consistente não é muscular, é <strong>perceptivo</strong>. Na revisão de Lopes, <strong>8 dos 10 estudos</strong> que mediram a percepção de esforço (RPE) encontraram que a privação de sono a <strong>aumentou</strong>: o mesmo ritmo, o mesmo watt, a mesma velocidade — só que \"lidos\" pelo cérebro como mais duros. Os autores levantam a hipótese de vias de adenosina no cérebro (a mesma molécula que a cafeína bloqueia) como parte da explicação, além de desconforto térmico e queda de motivação em esforços longos.</p>\n\n<p>Na prática, isso significa que você provavelmente vai <em>desacelerar antes</em> — não porque a perna acabou, mas porque o esforço parece insustentável mais cedo.</p>\n\n<h2>O que fazer com isso</h2>\n\n<ul>\n<li><strong>Trate o sono como parte do treino.</strong> A noite antes de um treino longo ou de uma prova é onde o estrago aparece — proteja-a como você protege a refeição pré-prova.</li>\n<li><strong>Dormiu mal? Ajuste a expectativa, não o julgamento.</strong> Conte que o mesmo pace vai parecer mais pesado. Reduzir um pouco o ritmo-alvo num dia de sono ruim é estratégia, não fraqueza.</li>\n<li><strong>Cuidado redobrado em provas longas.</strong> O efeito cresce acima de 30 minutos — maratona, prova de ciclismo, trail e triatlo são os mais vulneráveis a uma noite ruim.</li>\n</ul>\n\n<h2>A ressalva honesta</h2>\n\n<p>A maior parte dos estudos é pequena (muitos com 10 participantes ou menos) e <strong>quase não incluiu atletas de elite</strong>. Em quem é muito bem treinado, o efeito pode ser menor — ou se manifestar de forma diferente. O que a evidência sustenta com segurança é a <em>direção</em>: dormir mal custa mais à resistência do que à força máxima, e faz o esforço parecer mais difícil. A magnitude exata em cada pessoa ainda é incerta.</p>\n\n<h2>Resumo</h2>\n\n<p>Uma noite ruim não te deixa \"mais fraco\" no sentido de força máxima — ela derruba a sua resistência quase o dobro e sobe a sua percepção de esforço. Priorize o sono antes dos dias que importam e, quando ele falhar, ajuste o ritmo em vez de se cobrar.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Craven J, McCartney D, Desbrow B, Sabapathy S, Bellinger P, Roberts L, Irwin C. Effects of Acute Sleep Loss on Physical Performance: A Systematic and Meta-Analytical Review. <em>Sports Med</em>. 2022;52(11):2669–2690. doi:10.1007/s40279-022-01706-y</li>\n<li>Lopes TR, Pereira HM, Bittencourt LRA, Silva BM. How much does sleep deprivation impair endurance performance? A systematic review and meta-analysis. <em>Eur J Sport Sci</em>. 2023;23(7):1279–1292. doi:10.1080/17461391.2022.2155583</li>\n</ol>\n",
+    "cover": "content/drafts/draft_024/cover.png",
+    "cover_alt": "Sono e desempenho de endurance: o que a ciência mostra — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_024/slide_01.png",
+    "content/drafts/draft_024/slide_02.png",
+    "content/drafts/draft_024/slide_03.png",
+    "content/drafts/draft_024/slide_04.png",
+    "content/drafts/draft_024/slide_05.png",
+    "content/drafts/draft_024/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17887366638504222",
+  "published_at": "2026-11-05T14:51:36.521193+00:00"
+}

@@ -9400,6 +9400,63 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17887366638504222",
+      "local_id": "draft_024",
+      "publication_date": "2026-11-05T14:51:36.521193+00:00",
+      "format": "carousel",
+      "topic": "privação de sono e desempenho de endurance (a resistência cai mais que a força)",
+      "content_pillar": "recovery",
+      "hook": "Dormir mal não derruba sua força. Derruba seu ritmo — quase o dobro.",
+      "caption": "Dormir mal não derruba sua força máxima — ela é um tiro curto que o músculo entrega mesmo exausto. O que desaba é a resistência: sustentar o ritmo depende do sistema nervoso central, e sem sono a mesma intensidade passa a parecer mais difícil.\n\nOs números: uma revisão de 77 estudos (Craven, 2022) achou queda de ~5,5% na resistência contra só ~2,9% na força máxima com noites de 6h ou menos — quase o dobro. Uma meta-análise focada em endurance (Lopes, 2023) confirma efeito moderado, maior em esforços acima de 30 minutos, com a percepção de esforço subindo em 8 dos 10 estudos que a mediram.\n\nNa prática: priorize o sono antes de treino longo ou prova. Dormiu mal? Conte que o mesmo pace vai parecer mais pesado — ajuste a expectativa, não se cobre por 'fraqueza'. É percepção de esforço, não falta de vontade.\n\nRessalva honesta: a maioria dos estudos é pequena e quase não incluiu atletas de elite — em quem é muito bem treinado o efeito pode ser menor.\n\nFontes: Craven J et al. Sports Med. 2022;52(11):2669-2690 (revisão de 77 estudos). | Lopes TR et al. Eur J Sport Sci. 2023;23(7):1279-1292 (meta-análise de endurance).\n\nFoto: Yazuu (CC BY 2.0).\n\nSalva e manda pro parceiro que treina dormindo 5 horas.",
+      "cta": "Salva e manda pro parceiro que treina dormindo 5 horas.",
+      "scientific_sources": [
+        {
+          "title": "Effects of Acute Sleep Loss on Physical Performance: A Systematic and Meta-Analytical Review",
+          "authors": "Craven J, McCartney D, Desbrow B, Sabapathy S, Bellinger P, Roberts L, Irwin C",
+          "journal": "Sports Medicine",
+          "year": 2022,
+          "volume": "52",
+          "issue": "11",
+          "pages": "2669-2690",
+          "doi": "10.1007/s40279-022-01706-y",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35708888/",
+          "level": "A"
+        },
+        {
+          "title": "How much does sleep deprivation impair endurance performance? A systematic review and meta-analysis",
+          "authors": "Lopes TR, Pereira HM, Bittencourt LRA, Silva BM",
+          "journal": "European Journal of Sport Science",
+          "year": 2023,
+          "volume": "23",
+          "issue": "7",
+          "pages": "1279-1292",
+          "doi": "10.1080/17461391.2022.2155583",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36472094/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_024/slide_01.png",
+        "content/drafts/draft_024/slide_02.png",
+        "content/drafts/draft_024/slide_03.png",
+        "content/drafts/draft_024/slide_04.png",
+        "content/drafts/draft_024/slide_05.png",
+        "content/drafts/draft_024/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:sono",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aec97fa06ea180001976ab2",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/sono-ruim-desempenho-resistencia-cai-antes-da-forca/"
     }
   ]
 }

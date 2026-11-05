@@ -1012,11 +1012,16 @@
       "format": "carousel",
       "topic": "privação de sono e desempenho de endurance (resistência cai mais que a força)",
       "hook": "Dormir mal não derruba sua força. Derruba seu ritmo — quase o dobro.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-05T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Tema novo (tópico campeão sono, mediana 1.164). Ângulo contrarian+numérico: privação de sono derruba a resistência ~2x mais que a força máxima e sobe a percepção de esforço. Fontes nível A: Craven 2022 (Sports Med, 77 estudos) + Lopes 2023 (Eur J Sport Sci, meta-análise de endurance). Técnico com foto, slot 12h BRT/14h UTC."
+      "notes": "Tema novo (tópico campeão sono, mediana 1.164). Ângulo contrarian+numérico: privação de sono derruba a resistência ~2x mais que a força máxima e sobe a percepção de esforço. Fontes nível A: Craven 2022 (Sports Med, 77 estudos) + Lopes 2023 (Eur J Sport Sci, meta-análise de endurance). Técnico com foto, slot 12h BRT/14h UTC.",
+      "published_at": "2026-11-05T14:51:36.521193+00:00",
+      "post_id": "17887366638504222",
+      "ghost_post_id": "6aec97fa06ea180001976ab2",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/sono-ruim-desempenho-resistencia-cai-antes-da-forca/",
+      "ghost_status": "published"
     }
   ]
 }
