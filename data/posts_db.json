@@ -9513,6 +9513,64 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18115727861146857",
+      "local_id": "draft_025",
+      "publication_date": "2026-11-06T14:52:49.703097+00:00",
+      "format": "carousel",
+      "topic": "treinar o intestino reduz o desconforto gastrointestinal no endurance",
+      "content_pillar": "fueling",
+      "hook": "Enjoo na corrida não é estômago fraco. O intestino treina igual a perna.",
+      "caption": "Enjoo, cólica e corrida ao banheiro no meio da prova não são sinal de 'estômago fraco' nem azar. São o resultado previsível de uma fisiologia que, felizmente, se treina.\n\nDurante o esforço o corpo desvia sangue do trato digestivo para os músculos e a pele. A digestão fica mais lenta e os sintomas aparecem — e o efeito cresce com a duração: numa revisão sistemática, o desconforto gastrointestinal atinge cerca de 4% numa maratona e passa de 30% num Ironman.\n\nA boa notícia: o intestino é um tecido altamente adaptável. A ingestão repetida de carboidrato aumenta os transportadores que absorvem açúcar no intestino (SGLT1), e praticar o abastecimento durante o treino melhora a tolerância. Em um ensaio reunido por essa revisão, 2 semanas treinando a ingestão de carbo na corrida reduziram os sintomas em mais de 40%.\n\nNa prática: use nos treinos longos o mesmo gel/bebida e a mesma quantidade da prova, suba o carbo aos poucos, combine glicose e frutose para chegar perto de 90 g/h em provas acima de 2 horas, e dê semanas pro intestino se adaptar. Nunca estreie um abastecimento novo no dia da prova.\n\nFontes: Jeukendrup AE. Training the Gut for Athletes. Sports Med. 2017;47(Supl 1):101-110. | Costa RJS, Snipe RMJ, Kitic CM, Gibson PR. Systematic review: exercise-induced gastrointestinal syndrome. Aliment Pharmacol Ther. 2017;46(3):246-265.",
+      "cta": "Salva e manda pro parceiro que sofre do estômago nas provas longas.",
+      "scientific_sources": [
+        {
+          "title": "Training the Gut for Athletes",
+          "authors": "Jeukendrup AE",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "101-110",
+          "doi": "10.1007/s40279-017-0690-6",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5371619/",
+          "level": "C"
+        },
+        {
+          "title": "Systematic review: exercise-induced gastrointestinal syndrome—implications for health and intestinal disease",
+          "authors": "Costa RJS, Snipe RMJ, Kitic CM, Gibson PR",
+          "journal": "Alimentary Pharmacology & Therapeutics",
+          "year": 2017,
+          "volume": "46",
+          "issue": "3",
+          "pages": "246-265",
+          "doi": "10.1111/apt.14157",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.14157",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_025/slide_01.png",
+        "content/drafts/draft_025/slide_02.png",
+        "content/drafts/draft_025/slide_03.png",
+        "content/drafts/draft_025/slide_04.png",
+        "content/drafts/draft_025/slide_05.png",
+        "content/drafts/draft_025/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:treino-intestinal",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:fueling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aede9c4987e0d00013dab4e",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/treinar-o-intestino-desconforto-gastrointestinal-endurance/"
     }
   ]
 }

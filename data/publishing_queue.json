@@ -1041,9 +1041,14 @@
       "format": "carousel",
       "topic": "treinar o intestino reduz o desconforto gastrointestinal no endurance",
       "hook": "Enjoo na corrida não é estômago fraco. O intestino treina igual a perna.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-06T00:00:00Z",
-      "priority": 1
+      "priority": 1,
+      "published_at": "2026-11-06T14:52:49.703097+00:00",
+      "post_id": "18115727861146857",
+      "ghost_post_id": "6aede9c4987e0d00013dab4e",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/treinar-o-intestino-desconforto-gastrointestinal-endurance/",
+      "ghost_status": "published"
     }
   ]
 }

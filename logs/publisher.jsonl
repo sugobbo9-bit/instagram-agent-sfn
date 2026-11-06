@@ -586,3 +586,10 @@
 {"ts": "2026-11-05T20:05:38.133011+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-11-05T20:05:51.839537+00:00", "level": "INFO", "msg": "PUBLICADO: vs_014 -> media_id 17873880825642953"}
 {"ts": "2026-11-05T20:05:51.860717+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-06T14:51:59.489791+00:00", "level": "INFO", "msg": "Publicando draft_025 (carousel) \u2014 treinar o intestino reduz o desconforto gastrointestinal no endurance"}
+{"ts": "2026-11-06T14:51:59.493403+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-06T14:51:59.493480+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_025/slide_01.png"}
+{"ts": "2026-11-06T14:52:00.793483+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-06T14:52:39.438745+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-06T14:52:49.702930+00:00", "level": "INFO", "msg": "PUBLICADO: draft_025 -> media_id 18115727861146857"}
+{"ts": "2026-11-06T14:52:49.729188+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
