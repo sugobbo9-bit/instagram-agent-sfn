@@ -1035,6 +1035,15 @@
       "notes": "marca x marca — category:beta-alanina, pair:maxtitanium-integralmedica",
       "published_at": "2026-11-05T20:05:51.839734+00:00",
       "post_id": "17873880825642953"
+    },
+    {
+      "local_id": "draft_025",
+      "format": "carousel",
+      "topic": "treinar o intestino reduz o desconforto gastrointestinal no endurance",
+      "hook": "Enjoo na corrida não é estômago fraco. O intestino treina igual a perna.",
+      "status": "approved",
+      "created_at": "2026-11-06T00:00:00Z",
+      "priority": 1
     }
   ]
 }

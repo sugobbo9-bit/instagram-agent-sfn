@@ -1,0 +1,172 @@
+{
+  "local_id": "draft_025",
+  "format": "carousel",
+  "status": "rendered",
+  "created_at": "2026-11-06T00:00:00Z",
+  "topic": "treinar o intestino reduz o desconforto gastrointestinal no endurance",
+  "content_pillar": "fueling",
+  "hook": "Enjoo na corrida não é estômago fraco. O intestino treina igual a perna.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:treino-intestinal",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:fueling"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O MITO",
+      "headline": "Enjoo na prova não é estômago fraco.",
+      "body": null,
+      "label": null,
+      "image": {
+        "path": "/tmp/img/draft_025/cov_marathon_runner/cand_06.jpg",
+        "focus": "center 35%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A CRENÇA",
+      "headline": "\"Meu estômago não aguenta\"",
+      "body": "A cólica, o enjoo e a corrida ao banheiro no meio da prova viram sentença: 'nasci com estômago fraco'.\n\nMas o desconforto gastrointestinal escala com a duração. Numa revisão sistemática, atinge cerca de 4% numa maratona e passa de 30% num Ironman. Não é azar de um ou outro: é fisiologia previsível.",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "O QUE ACONTECE",
+      "headline": "O sangue sai do intestino",
+      "body": "No esforço, o corpo desvia sangue do trato digestivo para os músculos e a pele. Com menos irrigação, a digestão trava e os sintomas aparecem.\n\nQuanto mais longo e intenso o esforço, maior o desvio. Por isso o problema cresce com a distância.",
+      "image": {
+        "path": "/tmp/img/draft_025/cov_marathon_runner/cand_01.jpg",
+        "focus": "center 45%"
+      },
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O intestino se adapta — e rápido",
+      "body": "O trato digestivo é um tecido altamente adaptável. Ingerir carboidrato de forma repetida aumenta os transportadores que absorvem açúcar no intestino (SGLT1): num estudo, 28 dias de dieta rica em carbo elevaram a oxidação de carbo durante o exercício.\n\nE uma revisão sistemática reuniu um ensaio em que 2 semanas treinando a ingestão de carbo na corrida reduziram os sintomas gastrointestinais em mais de 40%.",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Como treinar o intestino",
+      "body": "Treine o abastecimento como treina o ritmo: use nos treinos longos o mesmo gel, a mesma bebida e a mesma quantidade da prova.\n\nSuba o carbo aos poucos. Acima de 2h, misture glicose e frutose para chegar perto de 90 g/h. Conte semanas, não dias — e nunca estreie nada no dia da prova.",
+      "image": {
+        "path": "/tmp/img/draft_025/cov_marathon_runner/cand_08.jpg",
+        "focus": "center 35%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Estômago fraco não é destino. É treino.",
+      "body": "Salva pra montar seu plano de abastecimento — e manda pro parceiro que vive passando mal na prova.",
+      "label": null,
+      "image": null,
+      "divider": false
+    }
+  ],
+  "caption": "Enjoo, cólica e corrida ao banheiro no meio da prova não são sinal de 'estômago fraco' nem azar. São o resultado previsível de uma fisiologia que, felizmente, se treina.\n\nDurante o esforço o corpo desvia sangue do trato digestivo para os músculos e a pele. A digestão fica mais lenta e os sintomas aparecem — e o efeito cresce com a duração: numa revisão sistemática, o desconforto gastrointestinal atinge cerca de 4% numa maratona e passa de 30% num Ironman.\n\nA boa notícia: o intestino é um tecido altamente adaptável. A ingestão repetida de carboidrato aumenta os transportadores que absorvem açúcar no intestino (SGLT1), e praticar o abastecimento durante o treino melhora a tolerância. Em um ensaio reunido por essa revisão, 2 semanas treinando a ingestão de carbo na corrida reduziram os sintomas em mais de 40%.\n\nNa prática: use nos treinos longos o mesmo gel/bebida e a mesma quantidade da prova, suba o carbo aos poucos, combine glicose e frutose para chegar perto de 90 g/h em provas acima de 2 horas, e dê semanas pro intestino se adaptar. Nunca estreie um abastecimento novo no dia da prova.\n\nFontes: Jeukendrup AE. Training the Gut for Athletes. Sports Med. 2017;47(Supl 1):101-110. | Costa RJS, Snipe RMJ, Kitic CM, Gibson PR. Systematic review: exercise-induced gastrointestinal syndrome. Aliment Pharmacol Ther. 2017;46(3):246-265.",
+  "cta": "Salva e manda pro parceiro que sofre do estômago nas provas longas.",
+  "scientific_sources": [
+    {
+      "title": "Training the Gut for Athletes",
+      "authors": "Jeukendrup AE",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "101-110",
+      "doi": "10.1007/s40279-017-0690-6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5371619/",
+      "level": "C"
+    },
+    {
+      "title": "Systematic review: exercise-induced gastrointestinal syndrome—implications for health and intestinal disease",
+      "authors": "Costa RJS, Snipe RMJ, Kitic CM, Gibson PR",
+      "journal": "Alimentary Pharmacology & Therapeutics",
+      "year": 2017,
+      "volume": "46",
+      "issue": "3",
+      "pages": "246-265",
+      "doi": "10.1111/apt.14157",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.14157",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Night race start (public domain)",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/8728122/photo-image-fire-public-domain-person"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "o que acontece",
+      "title": "Marathon runners",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6032875/marathon-runners-free-public-domain-cc0-photo"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na prática",
+      "title": "Male athletes sprint race",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6111914/photo-image-public-domain-green-people"
+    }
+  ],
+  "article": {
+    "title": "Enjoo na corrida não é estômago fraco: como treinar o intestino",
+    "slug": "treinar-o-intestino-desconforto-gastrointestinal-endurance",
+    "excerpt": "O desconforto gastrointestinal na corrida não é um defeito fixo do seu estômago. Entenda por que ele acontece, o que a evidência mostra sobre a adaptação do intestino e como treinar o abastecimento para passar menos mal na prova.",
+    "meta_title": "Treinar o intestino: desconforto gastrointestinal no endurance",
+    "tags": [
+      "Nutrição esportiva",
+      "Endurance",
+      "Desconforto gastrointestinal",
+      "Carboidrato"
+    ],
+    "html": "<p>Cólica, enjoo, estufamento e a corrida inesperada ao banheiro no meio da prova são tão comuns no endurance que viraram sentença: \"eu tenho estômago fraco\". A ideia é reconfortante porque tira a culpa das mãos — se é genético, não há o que fazer. O problema é que ela está errada. O desconforto gastrointestinal do exercício é um fenômeno fisiológico previsível, dependente de dose, e, na maior parte, <strong>treinável</strong>.</p>\n\n<h2>Primeiro: isso é muito comum</h2>\n\n<p>Uma revisão sistemática de Costa e colegas (<em>Alimentary Pharmacology &amp; Therapeutics</em>, 2017) mostra que a prevalência de sintomas gastrointestinais escala com a duração do esforço: fica em torno de <strong>4% numa maratona</strong>, sobe para <strong>31–32% num Ironman</strong> e chega a mais de 80–90% em ultramaratonas muito longas. Ou seja: não é azar de uma pessoa ou outra. Quanto mais longo o evento, maior a chance — e isso aponta para um mecanismo, não para uma fraqueza individual.</p>\n\n<h2>Por que o intestino reclama</h2>\n\n<p>A mesma revisão descreve duas vias principais. A <strong>via circulatória-gastrointestinal</strong>: durante o exercício, o corpo redistribui o fluxo de sangue para os músculos em atividade e para a pele (dissipação de calor), reduzindo a irrigação do trato digestivo. Com menos sangue, a digestão e o esvaziamento gástrico ficam mais lentos, e a barreira intestinal pode ser transitoriamente comprometida. A <strong>via neuroendócrina-gastrointestinal</strong>: a ativação do sistema nervoso simpático reduz a capacidade funcional do trato digestivo. Quanto mais intenso e prolongado o esforço — e quanto maior o calor e a desidratação — maior o desvio de sangue e mais provável o desconforto.</p>\n\n<h2>A parte que muda tudo: o intestino se adapta</h2>\n\n<p>Aqui mora a boa notícia. Como resume Asker Jeukendrup na revisão \"Training the Gut for Athletes\" (<em>Sports Medicine</em>, 2017), o trato gastrointestinal é um tecido <strong>altamente adaptável</strong> — ele responde ao treino como outros sistemas respondem.</p>\n\n<p>Dois exemplos citados por ele ilustram o ponto. Em um estudo com corredores, a tolerância a grandes volumes de líquido melhorou ao longo de tentativas repetidas: lá pela quarta e quinta sessão, o que antes causava desconforto passou a ser confortável. E num estudo com ciclistas, <strong>28 dias de uma dieta rica em carboidrato</strong> (cerca de 8,5 g/kg/dia) aumentaram a oxidação de carboidrato exógeno durante o exercício — efeito atribuído, muito provavelmente, a uma <strong>regulação para cima dos transportadores de glicose do intestino (SGLT1)</strong>, as \"portas\" que absorvem o açúcar. Em outras palavras: comer carboidrato de forma consistente ensina o intestino a absorver mais.</p>\n\n<p>E os sintomas? A revisão de Costa reúne um ensaio em que <strong>duas semanas</strong> de ingestão de carboidrato durante corridas diárias reduziram os sintomas gastrointestinais totais e os do trato superior em <strong>mais de 40%</strong>. É um estudo, não uma lei da física — mas aponta na mesma direção do mecanismo: o gatilho do desconforto é, em boa parte, treinável.</p>\n\n<h2>Como treinar o intestino, na prática</h2>\n\n<p>A lógica é simples: você não estreia um ritmo de prova no dia da prova; também não deveria estrear o abastecimento. Trate o estômago como mais um sistema a treinar.</p>\n\n<ul>\n<li><strong>Ensaie a prova nos treinos longos:</strong> use o mesmo gel, a mesma bebida e a mesma quantidade que pretende usar no dia. O objetivo é que nada seja novidade.</li>\n<li><strong>Suba o carboidrato aos poucos:</strong> aumente a quantidade por hora ao longo de semanas, em vez de saltar direto para o alvo. Conte semanas, não dias.</li>\n<li><strong>Use múltiplos carboidratos quando a prova é longa:</strong> para esforços acima de ~2 horas, combinar <strong>glicose e frutose</strong> permite chegar perto de <strong>90 g por hora</strong>, porque usa mais de uma rota de absorção e reduz o acúmulo não absorvido no intestino. Até cerca de 2 horas, ~60 g/h costumam bastar.</li>\n<li><strong>Cuide do contorno:</strong> manter-se hidratado, evitar anti-inflamatórios (AINEs) antes do esforço e, para quem é sensível, testar reduzir alimentos muito fermentáveis nos dias que antecedem a prova são estratégias com algum suporte.</li>\n<li><strong>Nunca estreie nada na largada:</strong> alimento, marca ou concentração nova no dia da prova é a receita mais rápida para o desastre.</li>\n</ul>\n\n<h2>Resumo</h2>\n\n<p>Passar mal na corrida raramente é um defeito de fábrica do seu estômago. É a resposta de um sistema que recebe menos sangue sob esforço — e que, treinado, absorve mais e reclama menos. Trate o abastecimento como parte do treino: repita, aumente aos poucos e dê tempo. O intestino treina igual à perna.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Jeukendrup AE. Training the Gut for Athletes. <em>Sports Med</em>. 2017;47(Suppl 1):101–110. doi:10.1007/s40279-017-0690-6</li>\n<li>Costa RJS, Snipe RMJ, Kitic CM, Gibson PR. Systematic review: exercise-induced gastrointestinal syndrome—implications for health and intestinal disease. <em>Aliment Pharmacol Ther</em>. 2017;46(3):246–265. doi:10.1111/apt.14157</li>\n</ol>\n",
+    "cover": "content/drafts/draft_025/cover.png",
+    "cover_alt": "Treinar o intestino para reduzir o desconforto gastrointestinal no endurance — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_025/slide_01.png",
+    "content/drafts/draft_025/slide_02.png",
+    "content/drafts/draft_025/slide_03.png",
+    "content/drafts/draft_025/slide_04.png",
+    "content/drafts/draft_025/slide_05.png",
+    "content/drafts/draft_025/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  }
+}
