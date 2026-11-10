@@ -1062,6 +1062,17 @@
       "notes": "card informativo — mode:noticia, topic:ditlev-ironman-florida-world-best",
       "published_at": "2026-11-10T20:23:21.177161+00:00",
       "post_id": "17913672801476602"
+    },
+    {
+      "local_id": "vs_015",
+      "format": "carousel",
+      "topic": "alimento sólido de endurance: Honey Stinger Energy Waffle vs Maurten Solid 160 (rótulo lado a lado)",
+      "hook": "Honey Stinger Waffle vs. Maurten Solid. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-10T20:37:11.959955+00:00",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:barra-endurance, pair:honeystinger-maurten"
     }
   ]
 }
