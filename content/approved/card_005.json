@@ -1,0 +1,56 @@
+{
+  "local_id": "card_005",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-11-10T20:30:00Z",
+  "topic": "Magnus Ditlev — 7:19:17 no Ironman Florida, tempo mais rápido já registrado em full distance (world best)",
+  "content_pillar": "noticia",
+  "hook": "7:19:17 no Ironman Florida: Magnus Ditlev fez o full distance mais rápido já registrado — 107 s abaixo da marca anterior.",
+  "subtext": "Natação 47:52, bike 3:51:16 (a mais rápida da distância) e maratona 2:33:31. Triatlo não tem recorde oficial: a marca é 'world best'.",
+  "source_line": "Ironman Florida, Panama City Beach (EUA), 07/11/2026 · via Slowtwitch e Triathlete",
+  "badge": "Notícia",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:noticia",
+    "topic:ditlev-ironman-florida-world-best"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "No sábado (07/11), o dinamarquês Magnus Ditlev venceu o Ironman Florida em 7:19:17 — o tempo mais rápido já registrado em um triatlo de distância completa (3,8 km de natação, 180 km de bike e 42,2 km de corrida). A marca anterior era de Sam Laidlow, 7:21:04, no Challenge Roth, em julho. Parciais: 47:52 na água, 3:51:16 na bike (também a mais rápida da distância) e 2:33:31 na maratona; Rudy von Berg foi 2º, 14 minutos atrás. O percurso é plano e o triatlo não homologa recordes oficiais — por isso o termo é 'world best'.\n\nPor que importa para quem treina: 7 horas de esforço contínuo são, antes de tudo, um problema de combustível — carboidrato por hora, hidratação e intestino decidem a segunda metade, em qualquer ritmo.\n\nLeia mais: https://slowtwitch.com/triathlon/ditlev-sets-world-record-at-ironman-florida/\n\n#triatlo #ironman #endurance #nutricaoesportiva #altaperformance #somenteosfatos",
+  "cta": "Salva e compartilha com quem vive de triatlo.",
+  "scientific_sources": [
+    {
+      "title": "Magnus Ditlev Sets World Record at IRONMAN Florida",
+      "authors": "Kevin Mackinnon / Slowtwitch",
+      "journal": "slowtwitch.com",
+      "year": 2026,
+      "url": "https://slowtwitch.com/triathlon/ditlev-sets-world-record-at-ironman-florida/",
+      "level": "news"
+    },
+    {
+      "title": "QUICK READ: Magnus Ditlev sets a 7:19:17 Ironman world best",
+      "authors": "the5krunner",
+      "journal": "the5krunner.com",
+      "year": 2026,
+      "url": "https://the5krunner.com/2026/11/07/quick-read-ditlev-ironman-world-best/",
+      "level": "news"
+    },
+    {
+      "title": "Magnus Ditlev Sets New Iron-Distance World Best With 7:19:17 at Ironman Florida",
+      "authors": "Triathlete",
+      "journal": "triathlete.com",
+      "year": 2026,
+      "url": "https://www.triathlete.com/culture/news/magnus-ditlev-new-ironman-world-best-ironman-florida/",
+      "level": "news"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_005/card.png"
+  ]
+}
