@@ -598,3 +598,9 @@
 {"ts": "2026-11-08T17:36:09.939083+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-11-09T21:55:32.201109+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
 {"ts": "2026-11-10T19:17:53.333085+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-10T20:23:04.663562+00:00", "level": "INFO", "msg": "Publicando card_005 (static) \u2014 Magnus Ditlev \u2014 7:19:17 no Ironman Florida, tempo mais r\u00e1pido j\u00e1 registrado em full distance (world best)"}
+{"ts": "2026-11-10T20:23:04.666364+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-10T20:23:04.666430+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_005/card.png"}
+{"ts": "2026-11-10T20:23:04.862825+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-10T20:23:21.176967+00:00", "level": "INFO", "msg": "PUBLICADO: card_005 -> media_id 17913672801476602"}
+{"ts": "2026-11-10T20:23:21.189811+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
