@@ -604,3 +604,10 @@
 {"ts": "2026-11-10T20:23:04.862825+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-11-10T20:23:21.176967+00:00", "level": "INFO", "msg": "PUBLICADO: card_005 -> media_id 17913672801476602"}
 {"ts": "2026-11-10T20:23:21.189811+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-10T20:37:39.775542+00:00", "level": "INFO", "msg": "Publicando vs_015 (carousel) \u2014 alimento s\u00f3lido de endurance: Honey Stinger Energy Waffle vs Maurten Solid 160 (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-10T20:37:39.779827+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-10T20:37:39.779936+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_015/slide_01.png"}
+{"ts": "2026-11-10T20:37:41.003797+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-10T20:38:18.371565+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-10T20:38:30.905524+00:00", "level": "INFO", "msg": "PUBLICADO: vs_015 -> media_id 17975220720160917"}
+{"ts": "2026-11-10T20:38:30.925437+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

@@ -9620,6 +9620,63 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17975220720160917",
+      "local_id": "vs_015",
+      "publication_date": "2026-11-10T20:38:30.905691+00:00",
+      "format": "carousel",
+      "topic": "alimento sólido de endurance: Honey Stinger Energy Waffle vs Maurten Solid 160 (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Honey Stinger Waffle vs. Maurten Solid. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nHoney Stinger Energy Waffle (Honey): sachê de 30 g, 140 kcal, 19 g de carboidrato (mel, xarope de arroz e açúcar), 9 g de açúcares, 80 mg de sódio, sem cafeína.\n\nMaurten Solid 160: barra de 55 g, 199 kcal, 41,4 g de carboidrato (xarope de frutose-glicose e maltodextrina, base de aveia e arroz), 17,5 g de açúcares, 247 mg de sódio, sem cafeína.\n\nComo as porções têm pesos diferentes (30 g e 55 g), os números são por unidade, como vêm no rótulo; por 100 g, o carboidrato fica em torno de 63 g e 75 g.\n\nDados dos rótulos e sites oficiais, consultados em 10/11/2026. São versões internacionais; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Pfeiffer B, Stellingwerff T, Zaltas E, Jeukendrup AE. Oxidation of solid versus liquid CHO sources during exercise. Med Sci Sports Exerc. 2010;42(11):2030–7.\n\nImagens: fotos de produto dos sites oficiais da Honey Stinger e da Maurten.\n\n#nutricaoesportiva #endurancefuel #corrida #ciclismo #triathlon #maratona #trailrun",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Oxidation of solid versus liquid CHO sources during exercise",
+          "authors": "Pfeiffer B, Stellingwerff T, Zaltas E, Jeukendrup AE",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2010,
+          "volume": "42",
+          "issue": "11",
+          "pages": "2030-2037",
+          "doi": "10.1249/MSS.0b013e3181e0efc9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20404762/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_015/slide_01.png",
+        "content/drafts/vs_015/slide_02.png",
+        "content/drafts/vs_015/slide_03.png",
+        "content/drafts/vs_015/slide_04.png",
+        "content/drafts/vs_015/slide_05.png",
+        "content/drafts/vs_015/slide_06.png",
+        "content/drafts/vs_015/slide_07.png",
+        "content/drafts/vs_015/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:barra-endurance",
+        "pair:honeystinger-maurten"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
