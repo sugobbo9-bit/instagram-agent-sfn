@@ -1104,6 +1104,17 @@
       "notes": "marca x marca — category:cafeina, pair:growth-atlhetica",
       "published_at": "2026-11-11T19:57:10.932637+00:00",
       "post_id": "18021846872738860"
+    },
+    {
+      "local_id": "card_006",
+      "format": "static",
+      "topic": "desidratação de 2% do peso e desempenho em contrarrelógio (meta-análise) — a 'regra dos 2%' e beber pela sede",
+      "hook": "Perder 2% do peso em suor não te deixa mais lento: numa meta-análise, o rendimento mudou só 0,06%.",
+      "status": "approved",
+      "created_at": "2026-11-11T22:40:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "card informativo — mode:tema, topic:desidratacao-2-porcento-sede"
     }
   ]
 }
