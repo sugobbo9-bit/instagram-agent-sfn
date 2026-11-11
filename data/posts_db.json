@@ -9677,6 +9677,87 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18579509602072094",
+      "local_id": "draft_026",
+      "publication_date": "2026-11-11T14:54:29.798678+00:00",
+      "format": "carousel",
+      "topic": "proteína para atletas de endurance (quanto por dia)",
+      "content_pillar": "protein",
+      "hook": "Proteína de corredor é ~1,6 g/kg/dia — o dobro da recomendação de 0,8.",
+      "caption": "Atleta de endurance costuma tratar proteína como assunto de quem faz musculação — e acaba vivendo na faixa de sedentário (perto da RDA de 0,8 g/kg). O problema: o treino de resistência também degrada proteína (parte vira combustível quando o glicogênio baixa) e exige aminoácidos pra reparar a fibra e construir mitocôndria e enzimas aeróbias. Proteína no endurance é recuperação e adaptação — não hipertrofia.\n\nQuanto? O consenso conjunto ACSM/Academy of Nutrition and Dietetics (2016) recomenda 1,2 a 2,0 g/kg/dia para atletas. Em corredores, o método de oxidação de aminoácido indicador (IAAO) estimou necessidade ~1,6 e recomendação ~1,8 g/kg/dia num dia de treino puxado (Kato, 2016) — acima da antiga faixa de 1,2 a 1,4 g/kg baseada em balanço nitrogenado (é um estudo pequeno, n=6, então trate como teto da faixa, não como lei). A meta-análise de Morton (2018), com 49 estudos, mostrou que os ganhos de massa com treino de força estabilizam por volta de 1,6 g/kg/dia — mais que isso raramente adiciona algo.\n\nNa prática: mire ~1,6 g/kg/dia; distribua em ~0,3 g/kg por refeição (cerca de 20 a 40 g), a cada 3 a 4 h — mais eficiente que concentrar tudo numa refeição (Areta, 2013) — com uma dose após o treino forte e outra antes de dormir. Proteína não substitui carboidrato como combustível; ela sustenta a recuperação que deixa o próximo treino render.\n\nFontes: Thomas, Erdman & Burke. Position Stand ACSM/AND/DC. Med Sci Sports Exerc. 2016. | Kato et al. PLoS One. 2016. | Morton et al. Br J Sports Med. 2018 (meta-análise). | Areta et al. J Physiol. 2013.",
+      "cta": "Salva e manda pra quem acha que proteína é só pra quem quer ficar grande.",
+      "scientific_sources": [
+        {
+          "title": "American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2016,
+          "volume": "48",
+          "issue": "3",
+          "pages": "543-568",
+          "doi": "10.1249/MSS.0000000000000852",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+          "level": "A"
+        },
+        {
+          "title": "Protein Requirements Are Elevated in Endurance Athletes after Exercise as Determined by the Indicator Amino Acid Oxidation Method",
+          "authors": "Kato H, Suzuki K, Bannai M, Moore DR",
+          "journal": "PLoS ONE",
+          "year": 2016,
+          "volume": "11",
+          "issue": "6",
+          "pages": "e0157406",
+          "doi": "10.1371/journal.pone.0157406",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4913918/",
+          "level": "B"
+        },
+        {
+          "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+          "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2018,
+          "volume": "52",
+          "issue": "6",
+          "pages": "376-384",
+          "doi": "10.1136/bjsports-2017-097608",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/",
+          "level": "A"
+        },
+        {
+          "title": "Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis",
+          "authors": "Areta JL, Burke LM, Ross ML, Camera DM, West DW, Broad EM, Jeacocke NA, Moore DR, Stellingwerff T, Phillips SM, Hawley JA, Coffey VG",
+          "journal": "The Journal of Physiology",
+          "year": 2013,
+          "volume": "591",
+          "issue": "9",
+          "pages": "2319-2331",
+          "doi": "10.1113/jphysiol.2012.244897",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650697/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_026/slide_01.png",
+        "content/drafts/draft_026/slide_02.png",
+        "content/drafts/draft_026/slide_03.png",
+        "content/drafts/draft_026/slide_04.png",
+        "content/drafts/draft_026/slide_05.png",
+        "content/drafts/draft_026/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:proteina",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6af481a8187d1b00012161eb",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/proteina-endurance-quanto-por-dia/"
     }
   ]
 }

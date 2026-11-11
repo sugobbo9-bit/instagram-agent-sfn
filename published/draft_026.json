@@ -1,0 +1,194 @@
+{
+  "local_id": "draft_026",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-11T00:00:00Z",
+  "topic": "proteína para atletas de endurance (quanto por dia)",
+  "content_pillar": "protein",
+  "hook": "Proteína de corredor é ~1,6 g/kg/dia — o dobro da recomendação de 0,8.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:proteina",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O ERRO",
+      "headline": "Você come proteína de sedentário",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/draft_026/cover_cyclist_silhouette_sunset/cand_01.jpg",
+        "focus": "center 45%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Proteína é coisa de quem levanta peso",
+      "body": "A crença: proteína serve pra hipertrofia, pra ficar grande. Quem corre, pedala ou nada 'não precisa disso'.\n\nResultado: muita gente de endurance vive perto de 0,8 g/kg (nível de sedentário) e recupera pior — justo quem mais quebra o corpo treinando.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "POR QUE IMPORTA",
+      "headline": "Não é pra crescer. É pra se reconstruir.",
+      "body": "O treino longo também degrada proteína — parte dela vira combustível quando o glicogênio cai.\n\nDepois, os aminoácidos reparam a fibra e constroem mitocôndria e enzimas aeróbias: a maquinaria que te deixa mais econômico e mais rápido.\n\nÉ recuperação e adaptação — não volume muscular.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "A conta não fecha com 0,8 g/kg",
+      "body": "A RDA de 0,8 g/kg existe pra não faltar — em quem não treina.\n\nPara atletas, o consenso ACSM/AND (2016) pede 1,2 a 2,0 g/kg. Em corredores, o método IAAO estimou ~1,6 a 1,8 g/kg num dia puxado (Kato, 2016).",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/draft_026/eggs_breakfast_protein/cand_01.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Quanto, e como dividir",
+      "body": "Alvo: ~1,6 g/kg por dia (faixa 1,4 a 1,8). Pra 65 kg, cerca de 105 g.\n\nDistribua ~0,3 g/kg por refeição (20 a 40 g), a cada 3 a 4 h — rende mais que concentrar tudo numa janta (Areta, 2013). Capriche numa dose após o treino forte e antes de dormir.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/draft_026/eggs_breakfast_protein/cand_03.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "cta",
+      "headline": "Proteína de corredor é recuperação. Não volume.",
+      "body": "Salva e manda pro parceiro que acha que proteína é só pra quem malha.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Atleta de endurance costuma tratar proteína como assunto de quem faz musculação — e acaba vivendo na faixa de sedentário (perto da RDA de 0,8 g/kg). O problema: o treino de resistência também degrada proteína (parte vira combustível quando o glicogênio baixa) e exige aminoácidos pra reparar a fibra e construir mitocôndria e enzimas aeróbias. Proteína no endurance é recuperação e adaptação — não hipertrofia.\n\nQuanto? O consenso conjunto ACSM/Academy of Nutrition and Dietetics (2016) recomenda 1,2 a 2,0 g/kg/dia para atletas. Em corredores, o método de oxidação de aminoácido indicador (IAAO) estimou necessidade ~1,6 e recomendação ~1,8 g/kg/dia num dia de treino puxado (Kato, 2016) — acima da antiga faixa de 1,2 a 1,4 g/kg baseada em balanço nitrogenado (é um estudo pequeno, n=6, então trate como teto da faixa, não como lei). A meta-análise de Morton (2018), com 49 estudos, mostrou que os ganhos de massa com treino de força estabilizam por volta de 1,6 g/kg/dia — mais que isso raramente adiciona algo.\n\nNa prática: mire ~1,6 g/kg/dia; distribua em ~0,3 g/kg por refeição (cerca de 20 a 40 g), a cada 3 a 4 h — mais eficiente que concentrar tudo numa refeição (Areta, 2013) — com uma dose após o treino forte e outra antes de dormir. Proteína não substitui carboidrato como combustível; ela sustenta a recuperação que deixa o próximo treino render.\n\nFontes: Thomas, Erdman & Burke. Position Stand ACSM/AND/DC. Med Sci Sports Exerc. 2016. | Kato et al. PLoS One. 2016. | Morton et al. Br J Sports Med. 2018 (meta-análise). | Areta et al. J Physiol. 2013.",
+  "cta": "Salva e manda pra quem acha que proteína é só pra quem quer ficar grande.",
+  "scientific_sources": [
+    {
+      "title": "American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+      "level": "A"
+    },
+    {
+      "title": "Protein Requirements Are Elevated in Endurance Athletes after Exercise as Determined by the Indicator Amino Acid Oxidation Method",
+      "authors": "Kato H, Suzuki K, Bannai M, Moore DR",
+      "journal": "PLoS ONE",
+      "year": 2016,
+      "volume": "11",
+      "issue": "6",
+      "pages": "e0157406",
+      "doi": "10.1371/journal.pone.0157406",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4913918/",
+      "level": "B"
+    },
+    {
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2018,
+      "volume": "52",
+      "issue": "6",
+      "pages": "376-384",
+      "doi": "10.1136/bjsports-2017-097608",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/",
+      "level": "A"
+    },
+    {
+      "title": "Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis",
+      "authors": "Areta JL, Burke LM, Ross ML, Camera DM, West DW, Broad EM, Jeacocke NA, Moore DR, Stellingwerff T, Phillips SM, Hawley JA, Coffey VG",
+      "journal": "The Journal of Physiology",
+      "year": 2013,
+      "volume": "591",
+      "issue": "9",
+      "pages": "2319-2331",
+      "doi": "10.1113/jphysiol.2012.244897",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650697/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa (ciclista em silhueta)",
+      "title": "Free public domain CC0 photo (cyclist silhouette)",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5963063/free-public-domain-cc0-photo"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "omelete (prato de proteína)",
+      "title": "Free close omelet dish image",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5914151/image-public-domain-food-free"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "refeição rica em proteína",
+      "title": "Eating high protein brunch poached",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5974755/photo-image-public-domain-hands-wood"
+    }
+  ],
+  "article": {
+    "title": "Proteína para quem faz endurance: quanto você realmente precisa",
+    "slug": "proteina-endurance-quanto-por-dia",
+    "excerpt": "A RDA de 0,8 g/kg é para sedentários. Atleta de endurance precisa de mais — cerca de 1,6 g/kg/dia — e não para ganhar massa, mas para recuperar e adaptar. Veja o que a ciência mostra e como distribuir ao longo do dia.",
+    "meta_title": "Proteína no endurance: quanto por dia, segundo a ciência",
+    "tags": [
+      "Proteína",
+      "Recuperação",
+      "Endurance",
+      "Nutrição esportiva"
+    ],
+    "html": "<p>Quem treina endurance costuma tratar proteína como assunto de fisiculturista. A lógica parece fazer sentido: \"eu não quero ficar grande, quero correr mais rápido\". O efeito colateral dessa crença é silencioso — muita gente de corrida, ciclismo e triatlo vive perto da <strong>RDA de 0,8 g/kg/dia</strong>, que foi desenhada para a população sedentária, não para quem quebra o corpo treinando.</p>\n\n<h2>Proteína no endurance não é sobre hipertrofia</h2>\n\n<p>O treino aeróbio prolongado faz duas coisas relevantes para a proteína. Primeiro, ele <strong>degrada proteína muscular</strong> e aumenta a oxidação de aminoácidos — ou seja, parte da proteína é literalmente usada como combustível, principalmente quando as reservas de glicogênio começam a baixar. Segundo, a recuperação depois do esforço exige aminoácidos para <strong>reparar as fibras</strong> e, mais importante para o endurance, para construir <strong>mitocôndrias e enzimas oxidativas</strong> — a maquinaria aeróbia que torna você mais econômico e mais rápido.</p>\n\n<p>Em outras palavras: proteína para quem faz endurance é <em>recuperação e adaptação</em>, não volume muscular. É o que permite absorver uma sequência de treinos puxados sem acumular fadiga e perda de desempenho.</p>\n\n<h2>Quanto a ciência recomenda</h2>\n\n<p>O <em>position stand</em> conjunto do American College of Sports Medicine com a Academy of Nutrition and Dietetics (Thomas, Erdman &amp; Burke, 2016) é claro: atletas devem consumir <strong>1,2 a 2,0 g/kg/dia</strong> de proteína, bem acima da RDA de 0,8 g/kg.</p>\n\n<p>Para corredores especificamente, um estudo de Kato e colegas (2016) usou o método de oxidação de aminoácido indicador (IAAO) — mais sensível que o antigo balanço nitrogenado — e estimou uma necessidade média de <strong>~1,6 g/kg/dia</strong> e uma recomendação de <strong>~1,8 g/kg/dia</strong> em um dia de treino de maior volume. É um valor acima da faixa clássica de 1,2 a 1,4 g/kg. Vale a honestidade: foi um estudo pequeno (seis atletas), então o número serve como teto da faixa, não como regra absoluta — mas aponta na mesma direção do consenso.</p>\n\n<p>E há uma convergência interessante vindo da força: a meta-análise de Morton e colegas (2018), reunindo <strong>49 estudos e 1863 participantes</strong>, mostrou que os ganhos de massa magra induzidos por treino resistido <strong>estabilizam por volta de 1,62 g/kg/dia</strong>. Consumir mais do que isso raramente adiciona algo. Dois tipos de treino muito diferentes apontando para perto de 1,6 g/kg é um bom sinal de onde mirar.</p>\n\n<h2>Na prática: alvo, distribuição e timing</h2>\n\n<p>Um alvo razoável para a maioria é <strong>~1,6 g/kg/dia</strong> (faixa de 1,4 a 1,8). Para um atleta de 65 kg, isso é cerca de <strong>105 g de proteína por dia</strong>.</p>\n\n<p>O total do dia é o que mais importa, mas a distribuição ajuda. O estudo de Areta e colegas (2013) mostrou que ingerir proteína de forma <strong>distribuída ao longo do dia</strong> — em torno de 0,3 g/kg por refeição (cerca de 20 a 40 g), a cada 3 a 4 horas — estimula mais a síntese proteica do que concentrar tudo em uma única grande refeição ou espalhar em doses pequenas demais.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Total diário</td><td>~1,6 g/kg/dia (faixa 1,4 a 1,8)</td></tr>\n<tr><td>Por refeição</td><td>~0,3 g/kg (cerca de 20 a 40 g)</td></tr>\n<tr><td>Frequência</td><td>A cada 3 a 4 horas</td></tr>\n<tr><td>Momentos-chave</td><td>Após o treino forte e antes de dormir</td></tr>\n</tbody>\n</table>\n\n<p>Dois cuidados finais. Proteína <strong>não substitui carboidrato</strong> como combustível de prova e de treino intenso — os papéis são diferentes. E mais proteína do que a faixa recomendada não entrega mais desempenho; em pessoas saudáveis não faz mal, mas também não compra adaptação extra. O ganho está em sair da faixa de sedentário, não em exagerar.</p>\n\n<h2>Resumo</h2>\n\n<p>Se você treina endurance e come proteína como se fosse sedentário, está deixando recuperação na mesa. Mire perto de <strong>1,6 g/kg/dia</strong>, distribua em doses de ~0,3 g/kg a cada 3 a 4 horas, e dê atenção à refeição pós-treino e à última antes de dormir. Não é para crescer — é para reconstruir e adaptar.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Thomas DT, Erdman KA, Burke LM. American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance. <em>Med Sci Sports Exerc</em>. 2016;48(3):543–568. doi:10.1249/MSS.0000000000000852</li>\n<li>Kato H, Suzuki K, Bannai M, Moore DR. Protein Requirements Are Elevated in Endurance Athletes after Exercise as Determined by the Indicator Amino Acid Oxidation Method. <em>PLoS One</em>. 2016;11(6):e0157406. doi:10.1371/journal.pone.0157406</li>\n<li>Morton RW, Murphy KT, McKellar SR, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. <em>Br J Sports Med</em>. 2018;52(6):376–384. doi:10.1136/bjsports-2017-097608</li>\n<li>Areta JL, Burke LM, Ross ML, et al. Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis. <em>J Physiol</em>. 2013;591(9):2319–2331. doi:10.1113/jphysiol.2012.244897</li>\n</ol>\n",
+    "cover": "content/drafts/draft_026/cover.png",
+    "cover_alt": "Proteína para atletas de endurance: quanto por dia — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_026/slide_01.png",
+    "content/drafts/draft_026/slide_02.png",
+    "content/drafts/draft_026/slide_03.png",
+    "content/drafts/draft_026/slide_04.png",
+    "content/drafts/draft_026/slide_05.png",
+    "content/drafts/draft_026/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18579509602072094",
+  "published_at": "2026-11-11T14:54:29.798678+00:00"
+}

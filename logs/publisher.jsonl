@@ -611,3 +611,10 @@
 {"ts": "2026-11-10T20:38:18.371565+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-11-10T20:38:30.905524+00:00", "level": "INFO", "msg": "PUBLICADO: vs_015 -> media_id 17975220720160917"}
 {"ts": "2026-11-10T20:38:30.925437+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-11T14:53:39.798002+00:00", "level": "INFO", "msg": "Publicando draft_026 (carousel) \u2014 prote\u00edna para atletas de endurance (quanto por dia)"}
+{"ts": "2026-11-11T14:53:39.801754+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-11T14:53:39.801837+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_026/slide_01.png"}
+{"ts": "2026-11-11T14:53:40.950030+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-11T14:54:14.946380+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-11T14:54:29.798281+00:00", "level": "INFO", "msg": "PUBLICADO: draft_026 -> media_id 18579509602072094"}
+{"ts": "2026-11-11T14:54:29.964646+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
