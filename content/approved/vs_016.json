@@ -1,0 +1,222 @@
+{
+  "local_id": "vs_016",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "rendered",
+  "created_at": "2026-11-11T00:00:00Z",
+  "topic": "cafeína em cápsula: Growth Cafeína vs Atlhetica Caffeinex 400 (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Growth Cafeína vs. Atlhetica Caffeinex 400. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:cafeina",
+    "pair:growth-atlhetica"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Growth Cafeína",
+      "brand": "Growth Supplements",
+      "image": "content/drafts/vs_016/img/growth_cafeina.png",
+      "label_source": {
+        "url": "https://www.gsuplementos.com.br/cafeina-120caps-growth-supplements-thermogenico-p985867",
+        "consulted": "2026-11-11",
+        "notes": "Tabela nutricional e ingredientes no texto da página oficial: porção 1 cápsula (620 mg), cafeína 420 mg, 0 kcal, 120 cápsulas (74 g). Ingredientes: cafeína e amido de milho (QSP); cápsula de gelatina, água, glicerina e corante. Não contém glúten. Modo de uso: 1 cápsula ao dia."
+      }
+    },
+    {
+      "name": "Atlhetica Caffeinex 400",
+      "brand": "Atlhetica Nutrition",
+      "image": "content/drafts/vs_016/img/atlhetica_caffeinex400.png",
+      "label_source": {
+        "url": "https://www.atlheticanutrition.com.br/caffeinex-400-90capsulas/p",
+        "consulted": "2026-11-11",
+        "notes": "Informação Nutricional lida da foto oficial do rótulo na galeria do produto: porção 1 g (2 cápsulas), cafeína 400 mg por porção (= 200 mg por cápsula), porções por embalagem 45, 90 cápsulas. Ingredientes: cafeína anidra e antiumectantes (celulose microcristalina, dióxido de silício, estearato de magnésio); cápsula gelatinosa com corantes amarelo quinoleína e amarelo crepúsculo. Pode conter derivados de soja. Não contém glúten."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois potes.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_016/img/growth_cafeina.png",
+          "mode": "multiply",
+          "label": "Growth Cafeína"
+        },
+        {
+          "image": "content/drafts/vs_016/img/atlhetica_caffeinex400.png",
+          "mode": "multiply",
+          "label": "Caffeinex 400"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína por cápsula",
+      "values": [
+        {
+          "value": "420 mg"
+        },
+        {
+          "value": "200 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que o rótulo chama de porção",
+      "values": [
+        {
+          "value": "1 cápsula",
+          "note": "420 mg de cafeína"
+        },
+        {
+          "value": "2 cápsulas",
+          "note": "400 mg de cafeína"
+        }
+      ],
+      "footnote": "O \"400\" do pote da Atlhetica é por porção de 2 cápsulas."
+    },
+    {
+      "type": "metric",
+      "headline": "Cápsulas por pote",
+      "values": [
+        {
+          "value": "120"
+        },
+        {
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Porções por pote",
+      "values": [
+        {
+          "value": "120",
+          "note": "1 cápsula por porção"
+        },
+        {
+          "value": "45",
+          "note": "2 cápsulas por porção"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Como o rótulo descreve a cafeína",
+      "values": [
+        {
+          "value": "Cafeína",
+          "note": "+ amido de milho"
+        },
+        {
+          "value": "Cafeína anidra",
+          "note": "+ antiumectantes"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "A dose se mede por quilo, não por cápsula.",
+      "body": "A evidência para cafeína e desempenho usa dose por peso: cerca de 3 a 6 mg por quilo, por volta de 60 min antes do esforço. Para 70 kg, isso dá de 210 a 420 mg — faixa onde uma cápsula de 420 mg ou uma porção de 400 mg (2 cápsulas) se encaixam.\n\nPerto de 9 mg/kg o efeito não cresce e os efeitos colaterais aumentam. O número no pote diz menos que a conta por quilo: a mesma cápsula é meia dose a 90 kg e dose cheia a 60 kg.",
+      "source": "Rótulos e sites oficiais Growth Supplements e Atlhetica Nutrition, consultados em 11/11/2026.\nGuest NS et al. J Int Soc Sports Nutr. 2021;18:1. Grgic J et al. Br J Sports Med. 2020;54(11):681-688.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a conta depende do seu peso, do seu objetivo e de quando você toma.\n\nGrowth Cafeína: cápsula com 420 mg de cafeína, porção de 1 cápsula, 120 cápsulas por pote (74 g). No rótulo: cafeína e amido de milho.\n\nAtlhetica Caffeinex 400: 400 mg de cafeína por porção de 2 cápsulas (200 mg por cápsula), 90 cápsulas e 45 porções por pote. No rótulo: cafeína anidra e antiumectantes.\n\nDados dos rótulos e sites oficiais, consultados em 11/11/2026. Confira sempre o rótulo do pote que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Guest NS, et al. International society of sports nutrition position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18:1.\n• Grgic J, et al. Wake up and smell the coffee: caffeine supplementation and exercise performance: an umbrella review of 21 published meta-analyses. Br J Sports Med. 2020;54(11):681–688.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Atlhetica Nutrition.\n\n#nutricaoesportiva #cafeina #corrida #ciclismo #triathlon #endurance #suplementos",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+      "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "1",
+      "doi": "10.1186/s12970-020-00383-4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/",
+      "level": "A"
+    },
+    {
+      "title": "Wake up and smell the coffee: caffeine supplementation and exercise performance - an umbrella review of 21 published meta-analyses",
+      "authors": "Grgic J, Grgic I, Pickering C, Schoenfeld BJ, Bishop DJ, Pedisic Z",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2020,
+      "volume": "54",
+      "issue": "11",
+      "pages": "681-688",
+      "doi": "10.1136/bjsports-2018-100278",
+      "url": "https://bjsm.bmj.com/content/54/11/681",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Growth Cafeína",
+      "kind": "packshot",
+      "title": "cafeina420mg-120cps.png",
+      "creator": "Growth Supplements",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gsuplementos.com.br/cafeina-120caps-growth-supplements-thermogenico-p985867",
+      "changes": "fundo transparente composto sobre branco e aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Atlhetica Caffeinex 400",
+      "kind": "packshot",
+      "title": "CAFFEINEX-400MG.png",
+      "creator": "Atlhetica Nutrition",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.atlheticanutrition.com.br/caffeinex-400-90capsulas/p",
+      "changes": "fundo transparente composto sobre branco e aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-11 nas páginas oficiais. Growth Cafeína (gsuplementos.com.br): tabela e ingredientes no texto da página — porção 1 cápsula (620 mg), 420 mg de cafeína, 0 kcal, 120 cápsulas (74 g), cafeína + amido de milho. Atlhetica Caffeinex 400 (atlheticanutrition.com.br): Informação Nutricional lida da foto oficial do rótulo na galeria do produto — porção 1 g (2 cápsulas), 400 mg de cafeína por porção (200 mg/cápsula), 45 porções, 90 cápsulas, cafeína anidra + antiumectantes. Packshots oficiais transparentes compostos sobre branco. Rodízio: categoria anterior (vs_015) foi barra-endurance; cafeina foi usada por último em vs_006 (28/10). Z2 fora desta dupla.",
+  "creative_files": [
+    "content/drafts/vs_016/slide_01.png",
+    "content/drafts/vs_016/slide_02.png",
+    "content/drafts/vs_016/slide_03.png",
+    "content/drafts/vs_016/slide_04.png",
+    "content/drafts/vs_016/slide_05.png",
+    "content/drafts/vs_016/slide_06.png",
+    "content/drafts/vs_016/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}

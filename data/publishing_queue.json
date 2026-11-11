@@ -1091,6 +1091,17 @@
       "ghost_post_id": "6af481a8187d1b00012161eb",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/proteina-endurance-quanto-por-dia/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_016",
+      "format": "carousel",
+      "topic": "cafeína em cápsula: Growth Cafeína vs Atlhetica Caffeinex 400 (rótulo lado a lado)",
+      "hook": "Growth Cafeína vs. Atlhetica Caffeinex 400. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-11T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:cafeina, pair:growth-atlhetica"
     }
   ]
 }
