@@ -1,6 +1,6 @@
 # Inteligência de Audiência — @sofatosnutricao (SFN)
 _Documento vivo mantido pela rotina semanal de estudo. SOMENTE análise — não publica, não comenta, não interage._
-_Última execução: 2026-11-04 (7ª execução)_
+_Última execução: 2026-11-11 (8ª execução)_
 
 ---
 
@@ -8,8 +8,10 @@ _Última execução: 2026-11-04 (7ª execução)_
 _(resumo que evolui a cada semana — leia isto primeiro)_
 
 ### Quem são
-- **Demografia ainda NÃO medida por dado próprio** (idade, gênero, país/cidade, `online_followers` seguem **desconhecidos**). Bloqueio inalterado: o `.env` do Mac (`SFN/Instagram Agent/.env`, mtime 26/08) traz um `INSTAGRAM_ACCESS_TOKEN` de 306 chars **EXPIRADO desde 26/08/2026** — reconfirmado nesta rodada (Graph API devolve OAuthException 190, "Session has expired on 26-Aug-26"). O `INSTAGRAM_BUSINESS_ACCOUNT_ID` do `.env` é um placeholder (`your_instagram_business_account_id`); o id real vive em `performance_history.json` (`17841472609243044`). O token válido da Página segue só como **Secret do GitHub Actions**, inalcançável a esta rotina. **Não há arquivo de demografia/comentários commitado** em `data/` (`audience_demographics.json` / `comments_recent.json` seguem ausentes). Ver "Demografia — bloqueio".
+- **Demografia ainda NÃO medida por dado próprio** (idade, gênero, país/cidade, `online_followers` seguem **desconhecidos**). Bloqueio inalterado: o `.env` do Mac (`SFN/Instagram Agent/.env`, mtime 26/08) traz um `INSTAGRAM_ACCESS_TOKEN` de 306 chars **EXPIRADO desde 26/08/2026** — reconfirmado em 11/11 (8ª rodada) via `GET /{ig-id}` e `follower_demographics`/`online_followers` (Graph API devolve OAuthException 190, "Session has expired on 26-Aug-26"). O `INSTAGRAM_BUSINESS_ACCOUNT_ID` do `.env` é um placeholder (`your_instagram_business_account_id`); o id real vive em `performance_history.json` (`17841472609243044`). O token válido da Página segue só como **Secret do GitHub Actions**, inalcançável a esta rotina. **Não há arquivo de demografia/comentários commitado** em `data/` (`audience_demographics.json` / `comments_recent.json` seguem ausentes). Ver "Demografia — bloqueio".
 - **Base: 9.086 seguidores** (snapshot do bootstrap de 01/11, `media_count` 174). Série semanal: 9.266 → 9.418 (+152) → 9.529 (+111) → 9.516 (−13) → **9.086 (−430)**. A **1ª queda GRANDE** da conta — e a 1ª vez que esse número aparece nesta rotina (a execução anterior ainda via 9.516, sem dado novo pós-11/10). Conta `sofatosnutricao`.
+- **Pipeline de publicação PAROU de novo (novo nesta rodada).** O último post **realmente publicado** (com `permalink`) é de **31/10**; de 01/11 a 10/11 há **12 itens na fila com `local_id` mas SEM `permalink` nem métrica** (não publicados). São **~11 dias sem publicação** — o **2º blackout** depois do de 11–26/10 que a revisão já ligou à queda de −430 seguidores. A fila parada é **6/12 `marca-vs-marca`** (vs_010–vs_015: Dobro×GU, Integralmédica×Growth, **Z2×Maurten**, Dux×Probiótica, Max Titanium×Integralmédica, Honey Stinger×Maurten) — em sua maioria **commodity de nicho**, exatamente o que a audiência premia MENOS (mediana ≤294). Observação de dado, não decisão de conteúdo.
+
 - Perfil presumido pelo nicho (hipótese, **não medido**): público brasileiro de endurance (corrida, ciclismo, triatlo) interessado em nutrição esportiva baseada em evidência.
 
 ### O que engaja (medido em 195 posts com métricas reais; coleta única "import" de 01/11/2026; 200 posts no total)
@@ -60,7 +62,7 @@ Otimizar para **salvável/compartilhável** (carrossel de **contrarian/mito + co
 ---
 
 ## Demografia — bloqueio (token do Mac EXPIRADO, inalterado)
-- `.env` do Mac com `INSTAGRAM_ACCESS_TOKEN` **expirado em 26/08/2026** (OAuthException 190) — reconfirmado nesta rodada via `GET /{ig-id}`. Arquivo não mudou desde 26/08.
+- `.env` do Mac com `INSTAGRAM_ACCESS_TOKEN` **expirado em 26/08/2026** (OAuthException 190) — reconfirmado em 11/11 via `GET /{ig-id}` + `follower_demographics` + `online_followers`. Arquivo não mudou desde 26/08.
 - Token válido da Página só como **Secret do GitHub Actions**, write-only, inalcançável aqui.
 - **Nenhum arquivo de demografia/comentários commitado** no repo (reconfirmado).
 - Nenhuma chamada a `follower_demographics`/`engaged_audience` (breakdown age/gender/city/country), `online_followers` ou `{media-id}/comments` é possível a partir daqui.
@@ -86,6 +88,28 @@ O estudo do **texto** dos comentários segue **não executado**: (1) token do Ma
 ---
 
 ## HISTÓRICO POR EXECUÇÃO
+
+### 2026-11-11 (8ª execução)
+**O que foi feito:** Retest do token do `.env` do Mac (`GET /{ig-id}`, `follower_demographics` breakdown age, `online_followers`) e reanálise completa do `posts_db.json` (formato, hook, série, comentários, top 10%/bottom 25%, publicados vs. fila).
+
+**O que mudou desde a última execução (11/04):**
+- **NENHUM dado de engajamento novo.** A coleta segue sendo o **mesmo snapshot único `import` de 01/11** (195 posts medidos). Todos os números bateram **idênticos** à 7ª execução — é a **8ª leitura coerente** do mesmo quadro (carrossel 366 / reel 256 / estático 212; contrarian 430/0,0166 > myth 312/0,0113; 92 comentários, 39/195 com ≥1, mediana 0, Reel de nitrato 16; top 10% 18/19 carrossel; bottom 25% dominado por Reel).
+- **Total subiu de 200→207 posts, mas os 12 novos NÃO têm métrica nem `permalink`** — são itens de **fila/não publicados** (datas 01/11→10/11, `local_id` vs_010–vs_015, der_*, draft_*, card_005). Não são sinal de audiência; são pipeline.
+- **2º BLACKOUT DE PUBLICAÇÃO detectado (achado desta rodada).** O último post com `permalink` é **31/10**. De 31/10 a hoje (11/11) = **~11 dias sem publicar**, com **12 posts presos na fila**. Repete exatamente o padrão do blackout de 11–26/10 que a revisão estratégica apontou como maior suspeito da queda de −430 seguidores. A rotina diária de publicação parece **parada de novo**. (Esta rotina é só observação — não publica; fica o alerta.)
+- **Coleta de métricas também estagnada:** nada medido depois de 01/11 (os 12 da fila seguem sem número).
+- **Token do Mac:** re-testado em 11/11 — **ainda expirado em 26/08** (OAuthException 190). `.env` inalterado. Demografia + texto de comentários seguem bloqueados (8ª rodada no bloqueio).
+
+**Composição da fila parada (contexto para decisão de conteúdo):** 6/12 são `marca-vs-marca` (incl. pares de **commodity de nicho** — o formato de pior desempenho medido, mediana ≤294) e um **Z2×Maurten** (vs_012). Se/quando a publicação voltar, a audiência prevê alcance fraco para a maioria desses versus; os `der_*` contrarian com foto (lactato_limiar, mouth_rinse, carga_carbo_erros_v2) e os drafts de família campeã (sono, treino intestinal) são os de maior potencial pela leitura atual.
+
+**Achados reconfirmados (estáveis em 8 coletas):** carrossel domina; contrarian > myth; comparação de produto compartilha e concentra os poucos comentários; suplemento/versus de nicho no fundo; audiência salva/compartilha e quase não comenta.
+
+**Bloqueios que persistem:** demografia e **texto** de comentários não medíveis (token do Mac expirado, sem arquivo próprio commitado); follows/reach ausente do snapshot; sem coleta nova desde 01/11.
+
+**A confirmar na próxima execução:**
+- Se a publicação voltou (apareceu `permalink` nos 12 da fila) e se houve **coleta de métricas nova** (snapshot ≠ 01/11) — só então há sinal de audiência fresco.
+- Se o −430 continuou, estabilizou ou reverteu (depende de novo snapshot de seguidores).
+- Se o token do Mac foi regerado ou entrou o passo de Actions que commita demografia/comentários → iniciar demografia + análise temática de comentários.
+
 
 ### 2026-11-04 (7ª execução)
 **O que foi feito:** 1ª análise de audiência sobre a **coleta nova de 01/11** (195 posts medidos / 200 no total) — a primeira safra de dado fresco desde o import de 11/10. Reteste do token do `.env` do Mac (resultado: **ainda expirado 26/08**, arquivo inalterado). Reconfirmação de que não há arquivo de demografia/comentários no repo. Reanálise completa: formato, hook, série, foto, janela (dias distintos), contagem de comentários, top 10%/bottom 25%.

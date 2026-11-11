@@ -1,5 +1,5 @@
 # Learnings Acumulados — Instagram Agent
-_Última atualização: 2026-09-20_
+_Última atualização: 2026-11-11_
 
 ## Sobre a Conta
 9.266 seguidores (snapshot 20/09/2026; +137 desde 09/09). Token da Página revalidado no bootstrap de 20/09 (não expira) — demografia a puxar no próximo ciclo.
@@ -202,3 +202,9 @@ Slot técnico **14h (436, 5 dias) e 15h (511, 3 dias)** é o único motor. **19h
 | 2026-11-01 | **Conteúdo relevante vai para 14-15h UTC; parar de usar slots mortos 19-22h** | 14h=436/15h=511 vs 19h=188/20h=185 (dias distintos, 45d) | posts_db normalizado por dias distintos |
 | 2026-11-01 | Hook contrarian+numérico vira padrão | contrarian 430/0,0166 > myth 312/0,0113 (n=12 vs 16) | tag hook: em posts_db |
 | 2026-11-01 | +2 vencedores (lactato 947, Gatorade×Powerade 699); +3 fracassos (versus-commodity, carga_erros 122, série card); +2 derivados na fila (lactato_limiar, carga_erros_v2) | Winner/failure/recycling systems | winner_library / failure_log / queue |
+
+## Estudo de Audiência — 2026-11-11 (rotina de análise)
+- **2º blackout de publicação confirmado pela rotina de audiência (forte e repetido).** Último post com `permalink` = **31/10**; 01/11→10/11 só **12 itens de fila sem publicar** (~11 dias de silêncio). É a **recorrência** do padrão de 11–26/10 já ligado à queda de −430 seguidores. A lição de 01/11 ("sumir e voltar em rajada derruba a conta") **não foi resolvida** — a publicação diária parou de novo. Prioridade nº 1 segue sendo blindar a consistência de publicação; sem isso, nenhum ganho de conteúdo se sustenta.
+- **Perfil de engajamento estável em 8 coletas (16/09→01/11), sem dado novo desde 01/11.** Carrossel 366 > reel 256 > estático 212; contrarian (430/0,0166) > myth (312/0,0113); audiência salva/compartilha e quase não comenta (92 comentários/195 posts, mediana 0); comparação de produto concentra os poucos comentários; versus/suplemento de nicho no fundo. Nada disso mudou — falta é **dado fresco** (coleta parada em 01/11), não interpretação.
+- **Demografia + texto de comentários: 8ª rodada bloqueada.** Token do `.env` do Mac expirado desde 26/08 (OAuth 190), re-testado 11/11 (inalterado). Desbloqueio = regerar token longo com `instagram_manage_insights`+`instagram_manage_comments`, OU passo no Actions que commite `data/audience_demographics.json` + `data/comments_recent.json`.
+
