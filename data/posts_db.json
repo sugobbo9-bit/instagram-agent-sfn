@@ -9814,6 +9814,43 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18116104628032956",
+      "local_id": "card_006",
+      "publication_date": "2026-11-11T22:38:14.866965+00:00",
+      "format": "static",
+      "topic": "desidratação de 2% do peso e desempenho em contrarrelógio (meta-análise) — a 'regra dos 2%' e beber pela sede",
+      "content_pillar": "fisiologia-hidratacao",
+      "hook": "Perder 2% do peso em suor não te deixa mais lento: numa meta-análise, o rendimento mudou só 0,06%.",
+      "caption": "A 'regra dos 2%' diz que perder 2% do peso em suor já derruba o rendimento. Uma meta-análise reuniu 5 estudos com contrarrelógios de ciclismo (39 ciclistas, ~26 °C, ~86 min, ritmo livre): com perda média de 2,2% do peso — e até 4% — o desempenho mudou 0,06% em relação a quem manteve a hidratação. O que pesou foi a intensidade e a duração do esforço.\n\nO detalhe útil: quem bebeu guiado pela sede rendeu 5,2% a mais do que quem bebeu menos do que a sede pedia — e não ganhou nada bebendo além dela. Em ritmo livre, a sede guia melhor que uma tabela fixa de ml por hora. Exceção: calor extremo e provas muito longas, onde vale planejar.\n\nFonte: Goulet ED. Br J Sports Med, 2011. doi 10.1136/bjsm.2010.077966\n\n#nutricaoesportiva #hidratacao #corrida #ciclismo #triathlon #maratona #baseadoemevidencia",
+      "cta": "Salva e manda pra quem conta ml por hora.",
+      "scientific_sources": [
+        {
+          "title": "Effect of exercise-induced dehydration on time-trial exercise performance: a meta-analysis",
+          "authors": "Goulet ED",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2011,
+          "volume": "45",
+          "issue": "14",
+          "pages": "1149-1156",
+          "doi": "10.1136/bjsm.2010.077966",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21454440",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/card_006/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:card-informativo",
+        "mode:tema",
+        "topic:desidratacao-2-porcento-sede"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

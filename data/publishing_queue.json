@@ -1110,11 +1110,13 @@
       "format": "static",
       "topic": "desidratação de 2% do peso e desempenho em contrarrelógio (meta-análise) — a 'regra dos 2%' e beber pela sede",
       "hook": "Perder 2% do peso em suor não te deixa mais lento: numa meta-análise, o rendimento mudou só 0,06%.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-11T22:40:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:desidratacao-2-porcento-sede"
+      "notes": "card informativo — mode:tema, topic:desidratacao-2-porcento-sede",
+      "published_at": "2026-11-11T22:38:14.866965+00:00",
+      "post_id": "18116104628032956"
     }
   ]
 }
