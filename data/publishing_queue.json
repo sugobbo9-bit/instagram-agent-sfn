@@ -1097,11 +1097,13 @@
       "format": "carousel",
       "topic": "cafeína em cápsula: Growth Cafeína vs Atlhetica Caffeinex 400 (rótulo lado a lado)",
       "hook": "Growth Cafeína vs. Atlhetica Caffeinex 400. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-11T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:cafeina, pair:growth-atlhetica"
+      "notes": "marca x marca — category:cafeina, pair:growth-atlhetica",
+      "published_at": "2026-11-11T19:57:10.932637+00:00",
+      "post_id": "18021846872738860"
     }
   ]
 }

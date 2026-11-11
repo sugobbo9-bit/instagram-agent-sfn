@@ -619,3 +619,10 @@
 {"ts": "2026-11-11T14:54:29.798281+00:00", "level": "INFO", "msg": "PUBLICADO: draft_026 -> media_id 18579509602072094"}
 {"ts": "2026-11-11T14:54:29.964646+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-11T19:14:47.240909+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-11T19:56:18.313012+00:00", "level": "INFO", "msg": "Publicando vs_016 (carousel) \u2014 cafe\u00edna em c\u00e1psula: Growth Cafe\u00edna vs Atlhetica Caffeinex 400 (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-11T19:56:18.317448+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-11T19:56:18.317582+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_016/slide_01.png"}
+{"ts": "2026-11-11T19:56:19.417968+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-11T19:56:56.442334+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-11-11T19:57:10.932462+00:00", "level": "INFO", "msg": "PUBLICADO: vs_016 -> media_id 18021846872738860"}
+{"ts": "2026-11-11T19:57:10.953113+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

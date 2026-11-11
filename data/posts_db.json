@@ -9758,6 +9758,62 @@
       "derivatives_created": [],
       "ghost_post_id": "6af481a8187d1b00012161eb",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/proteina-endurance-quanto-por-dia/"
+    },
+    {
+      "post_id": "18021846872738860",
+      "local_id": "vs_016",
+      "publication_date": "2026-11-11T19:57:10.932637+00:00",
+      "format": "carousel",
+      "topic": "cafeína em cápsula: Growth Cafeína vs Atlhetica Caffeinex 400 (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Growth Cafeína vs. Atlhetica Caffeinex 400. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a conta depende do seu peso, do seu objetivo e de quando você toma.\n\nGrowth Cafeína: cápsula com 420 mg de cafeína, porção de 1 cápsula, 120 cápsulas por pote (74 g). No rótulo: cafeína e amido de milho.\n\nAtlhetica Caffeinex 400: 400 mg de cafeína por porção de 2 cápsulas (200 mg por cápsula), 90 cápsulas e 45 porções por pote. No rótulo: cafeína anidra e antiumectantes.\n\nDados dos rótulos e sites oficiais, consultados em 11/11/2026. Confira sempre o rótulo do pote que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Guest NS, et al. International society of sports nutrition position stand: caffeine and exercise performance. J Int Soc Sports Nutr. 2021;18:1.\n• Grgic J, et al. Wake up and smell the coffee: caffeine supplementation and exercise performance: an umbrella review of 21 published meta-analyses. Br J Sports Med. 2020;54(11):681–688.\n\nImagens: fotos de produto dos sites oficiais da Growth Supplements e da Atlhetica Nutrition.\n\n#nutricaoesportiva #cafeina #corrida #ciclismo #triathlon #endurance #suplementos",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "International society of sports nutrition position stand: caffeine and exercise performance",
+          "authors": "Guest NS, VanDusseldorp TA, Nelson MT, Grgic J, Schoenfeld BJ, Jenkins NDM, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2021,
+          "volume": "18",
+          "issue": "1",
+          "pages": "1",
+          "doi": "10.1186/s12970-020-00383-4",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/",
+          "level": "A"
+        },
+        {
+          "title": "Wake up and smell the coffee: caffeine supplementation and exercise performance - an umbrella review of 21 published meta-analyses",
+          "authors": "Grgic J, Grgic I, Pickering C, Schoenfeld BJ, Bishop DJ, Pedisic Z",
+          "journal": "British Journal of Sports Medicine",
+          "year": 2020,
+          "volume": "54",
+          "issue": "11",
+          "pages": "681-688",
+          "doi": "10.1136/bjsports-2018-100278",
+          "url": "https://bjsm.bmj.com/content/54/11/681",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_016/slide_01.png",
+        "content/drafts/vs_016/slide_02.png",
+        "content/drafts/vs_016/slide_03.png",
+        "content/drafts/vs_016/slide_04.png",
+        "content/drafts/vs_016/slide_05.png",
+        "content/drafts/vs_016/slide_06.png",
+        "content/drafts/vs_016/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:cafeina",
+        "pair:growth-atlhetica"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
