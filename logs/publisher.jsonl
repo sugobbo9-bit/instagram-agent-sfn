@@ -640,3 +640,10 @@
 {"ts": "2026-11-12T14:51:49.939326+00:00", "level": "INFO", "msg": "PUBLICADO: draft_027 -> media_id 18392016790231526"}
 {"ts": "2026-11-12T14:51:49.958477+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-12T19:31:51.922655+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-12T19:59:37.985602+00:00", "level": "INFO", "msg": "Publicando vs_017 (carousel) \u2014 whey protein concentrado: New Millen Whey 100% vs Integralm\u00e9dica Whey 100% Pure (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-12T19:59:37.989266+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-12T19:59:37.989350+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_017/slide_01.png"}
+{"ts": "2026-11-12T19:59:39.143595+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-12T20:00:16.003491+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-12T20:00:29.949261+00:00", "level": "INFO", "msg": "PUBLICADO: vs_017 -> media_id 18398382673161403"}
+{"ts": "2026-11-12T20:00:29.968990+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

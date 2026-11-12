@@ -1139,11 +1139,13 @@
       "format": "carousel",
       "topic": "whey protein concentrado: New Millen Whey 100% vs Integralmédica Whey 100% Pure (rótulo lado a lado)",
       "hook": "Whey concentrado: New Millen vs. Integralmédica. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-12T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:whey-concentrado, pair:newmillen-integralmedica"
+      "notes": "marca x marca — category:whey-concentrado, pair:newmillen-integralmedica",
+      "published_at": "2026-11-12T20:00:29.949422+00:00",
+      "post_id": "18398382673161403"
     }
   ]
 }

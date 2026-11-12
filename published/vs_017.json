@@ -1,0 +1,243 @@
+{
+  "local_id": "vs_017",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-12T00:00:00Z",
+  "topic": "whey protein concentrado: New Millen Whey 100% vs Integralmédica Whey 100% Pure (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Whey concentrado: New Millen vs. Integralmédica. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:whey-concentrado",
+    "pair:newmillen-integralmedica"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "New Millen Whey 100%",
+      "brand": "New Millen",
+      "image": "content/drafts/vs_017/img/newmillen_whey100.jpg",
+      "label_source": {
+        "url": "https://loja.newmillen.com.br/produtos/whey-100-pote-900g/",
+        "consulted": "2026-11-12",
+        "notes": "Tabela de Informacao Nutricional da pagina (porcao 30 g = 2 doses): 122 kcal, 21 g proteina, 6 g carboidrato (6 g acucares totais, 0 adicionado), 1,5 g gordura total (1 g saturada), 134 mg sodio. Composicao: Proteina Concentrada do Soro do Leite (WPC); nao contem gluten. Imagem do pote sabor acai com banana."
+      }
+    },
+    {
+      "name": "Integralmédica Whey 100% Pure",
+      "brand": "Integralmédica",
+      "image": "content/drafts/vs_017/img/integralmedica_whey_concentrado.jpg",
+      "label_source": {
+        "url": "https://www.integralmedica.com.br/whey-protein-concentrado-pouch-900g/p",
+        "consulted": "2026-11-12",
+        "notes": "Tabela nutricional da pagina (porcao 30 g = 2 doses, sabor baunilha): 122 kcal, 21 g proteina, 5,1 g carboidrato (3,8 g acucares totais, 0 adicionado), 1,9 g gordura total (1 g saturada), 65 mg sodio. Ingredientes: proteina de soro do leite concentrada (WPC), aromatizante, edulcorante sucralose. Pack: Ultrafiltration Protein Concentrate."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois wheys\nconcentrados.",
+      "items": [
+        {
+          "image": "content/drafts/vs_017/img/newmillen_whey100.jpg",
+          "mode": "multiply",
+          "label": "New Millen Whey 100%"
+        },
+        {
+          "image": "content/drafts/vs_017/img/integralmedica_whey_concentrado.jpg",
+          "mode": "multiply",
+          "label": "Integralmédica Whey 100% Pure"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da porção",
+      "values": [
+        {
+          "value": "30 g",
+          "note": "2 doses"
+        },
+        {
+          "value": "30 g",
+          "note": "2 doses"
+        }
+      ],
+      "footnote": "Base de comparação: 1 porção = 30 g (2 doses) nos dois rótulos."
+    },
+    {
+      "type": "metric",
+      "headline": "Proteína por porção",
+      "values": [
+        {
+          "value": "21 g"
+        },
+        {
+          "value": "21 g"
+        }
+      ],
+      "footnote": "Os dois declaram proteína concentrada do soro do leite (WPC)."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção",
+      "values": [
+        {
+          "value": "6 g",
+          "note": "varia com o sabor"
+        },
+        {
+          "value": "5,1 g",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcares por porção",
+      "values": [
+        {
+          "value": "6 g",
+          "note": "varia com o sabor"
+        },
+        {
+          "value": "3,8 g",
+          "note": "varia com o sabor"
+        }
+      ],
+      "footnote": "Nenhum dos dois declara açúcar adicionado."
+    },
+    {
+      "type": "metric",
+      "headline": "Gorduras totais por porção",
+      "values": [
+        {
+          "value": "1,5 g"
+        },
+        {
+          "value": "1,9 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção",
+      "values": [
+        {
+          "value": "134 mg",
+          "note": "varia com o sabor"
+        },
+        {
+          "value": "65 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "A síntese de proteína muscular é estimulada ao máximo com cerca de 20 a 25 g de proteína do soro de uma vez. Os dois declaram 21 g por porção; acima dessa faixa, o estímulo não sobe.\n\nO que define o ganho de massa ao longo do tempo é a proteína total do dia, perto de 1,6 g por kg de peso, e não a marca nem alguns gramas de carboidrato ou sódio a mais. Os dois são concentrado (WPC), com os mesmos aminoácidos do soro do leite.",
+      "source": "Rótulos e sites oficiais New Millen e Integralmédica, consultados em 12/11/2026.\nWitard OC et al. Am J Clin Nutr. 2014;99(1):86‑95. Morton RW et al. Br J Sports Med. 2018;52(6):376‑384.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende do seu dia a dia, do seu paladar e do seu bolso.\n\nNew Millen Whey 100% (sabor açaí com banana): porção de 30 g (2 doses), 21 g de proteína concentrada do soro (WPC), 6 g de carboidrato, 1,5 g de gordura e 134 mg de sódio por porção.\n\nIntegralmédica Whey 100% Pure (sabor baunilha): porção de 30 g (2 doses), 21 g de proteína concentrada do soro (WPC), 5,1 g de carboidrato, 1,9 g de gordura e 65 mg de sódio por porção.\n\nOs dois declaram cerca de 122 kcal por porção. Carboidrato, açúcares e sódio variam com o sabor; cada número é o da tabela da versão consultada. Dados dos sites oficiais, consultados em 12/11/2026 — confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Witard OC, Jackman SR, Breen L, et al. Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise. Am J Clin Nutr. 2014;99(1):86–95.\n• Morton RW, Murphy KT, McKellar SR, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. Br J Sports Med. 2018;52(6):376–384.\n\nImagens: fotos de produto dos sites oficiais da New Millen e da Integralmédica.\n\n#nutricaoesportiva #whey #proteina #suplementos #corrida #endurance #musculacao",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Myofibrillar muscle protein synthesis rates subsequent to a meal in response to increasing doses of whey protein at rest and after resistance exercise",
+      "authors": "Witard OC, Jackman SR, Breen L, Smith K, Selby A, Tipton KD",
+      "journal": "American Journal of Clinical Nutrition",
+      "year": 2014,
+      "volume": "99",
+      "issue": "1",
+      "pages": "86-95",
+      "doi": "10.3945/ajcn.112.055517",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24257722/",
+      "level": "B"
+    },
+    {
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "authors": "Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, Aragon AA, Devries MC, Banfield L, Krieger JW, Phillips SM",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2018,
+      "volume": "52",
+      "issue": "6",
+      "pages": "376-384",
+      "doi": "10.1136/bjsports-2017-097608",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "New Millen Whey 100%",
+      "kind": "packshot",
+      "title": "pote_whey100_acai_com_banana.webp",
+      "creator": "New Millen",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://loja.newmillen.com.br/produtos/whey-100-pote-900g/",
+      "changes": "fundo branco aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Integralmédica Whey 100% Pure",
+      "kind": "packshot",
+      "title": "whey-protein-concentrado-pouch-900g.png",
+      "creator": "Integralmédica",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.integralmedica.com.br/whey-protein-concentrado-pouch-900g/p",
+      "changes": "fundo branco aparado"
+    }
+  ],
+  "notes": "marca x marca — category:whey-concentrado, pair:newmillen-integralmedica. Dados de rotulo conferidos em 2026-11-12 nas paginas oficiais. New Millen Whey 100% (loja.newmillen.com.br): tabela 30 g = 122 kcal, 21 g prot, 6 g carbo, 1,5 g gord, 134 mg sodio; WPC. Integralmedica Whey 100% Pure (integralmedica.com.br, pouch 900g, baunilha): 30 g = 122 kcal, 21 g prot, 5,1 g carbo, 1,9 g gord, 65 mg sodio; WPC. Fonte final: Witard 2014 (20 g whey satura a sintese miofibrilar) + Morton 2018 (1,62 g/kg/dia).",
+  "creative_files": [
+    "content/drafts/vs_017/slide_01.png",
+    "content/drafts/vs_017/slide_02.png",
+    "content/drafts/vs_017/slide_03.png",
+    "content/drafts/vs_017/slide_04.png",
+    "content/drafts/vs_017/slide_05.png",
+    "content/drafts/vs_017/slide_06.png",
+    "content/drafts/vs_017/slide_07.png",
+    "content/drafts/vs_017/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18398382673161403",
+  "published_at": "2026-11-12T20:00:29.949422+00:00"
+}
