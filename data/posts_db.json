@@ -9851,6 +9851,98 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18392016790231526",
+      "local_id": "draft_027",
+      "publication_date": "2026-11-12T14:51:49.939525+00:00",
+      "format": "carousel",
+      "topic": "creatina para atletas de endurance (quando ajuda e quando não muda nada)",
+      "content_pillar": "supplements",
+      "hook": "Creatina não é só pra musculação: +18% no pique, sem mudar seu ritmo.",
+      "caption": "Creatina virou sinônimo de academia — e por isso muito corredor, ciclista e triatleta deixa de lado o suplemento mais estudado do esporte, com medo de 'inchar de água e ficar mais lento'. A ciência conta uma história mais interessante.\n\nCreatina enche o estoque de fosfocreatina, a fonte de ATP rápido para esforços curtos e explosivos. Ela não muda o seu VO₂máx nem o seu ritmo aeróbio contínuo — mas melhora justamente o que decide uma prova de endurance: o tiro, o ataque, a subida e o sprint final.\n\nNum estudo com triatletas (Engelhardt, 1998), a potência nos tiros dentro do treino aeróbio subiu 18%, enquanto a resistência não mudou. Uma meta-análise de 14 estudos (Glaister & Rhodes, 2022) confirma mais potência média em sprints repetidos. Bônus pouco falado: com carboidrato, a creatina aumenta a supercompensação de glicogênio muscular (Roberts, 2016) e ajuda na recuperação e na tolerância a treino pesado (ISSN, 2017).\n\nE o 'peso de água'? É real, mas pequeno (~0,8 a 1,5 kg) e dentro da célula muscular — nos estudos de ciclismo e contrarrelógio ele não piorou o desempenho.\n\nProtocolo com evidência: 3 a 5 g/dia de creatina monohidratada, de forma contínua. Para saturar mais rápido, 20 g/dia (4 doses de 5 g) por 5 a 7 dias.\n\nFontes: Kreider et al. ISSN Position Stand. J Int Soc Sports Nutr. 2017. | Glaister & Rhodes. Int J Sport Nutr Exerc Metab. 2022 (meta-análise). | Engelhardt et al. Med Sci Sports Exerc. 1998. | Roberts et al. Amino Acids. 2016. | Tomcik et al. Med Sci Sports Exerc. 2018.\n\nFotos: Zach Dischner, ajay_suresh (CC BY 2.0).",
+      "cta": "Salva e manda pro parceiro de endurance que jura que creatina é só pra musculação.",
+      "scientific_sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "authors": "Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R, Candow DG, Kleiner SM, Almada AL, Lopez HL",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "18",
+          "doi": "10.1186/s12970-017-0173-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+          "level": "A"
+        },
+        {
+          "title": "Short-Term Creatine Supplementation and Repeated Sprint Ability — A Systematic Review and Meta-Analysis",
+          "authors": "Glaister M, Rhodes L",
+          "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+          "year": 2022,
+          "volume": "32",
+          "issue": "6",
+          "pages": "491-500",
+          "doi": "10.1123/ijsnem.2022-0072",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36041731/",
+          "level": "A"
+        },
+        {
+          "title": "Creatine supplementation in endurance sports",
+          "authors": "Engelhardt M, Neumann G, Berbalk A, Reuter I",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 1998,
+          "volume": "30",
+          "issue": "7",
+          "pages": "1123-1129",
+          "doi": "10.1097/00005768-199807000-00016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9662683/",
+          "level": "B"
+        },
+        {
+          "title": "Creatine ingestion augments dietary carbohydrate mediated muscle glycogen supercompensation during the initial 24 h of recovery following prolonged exhaustive exercise in humans",
+          "authors": "Roberts PA, Fox J, Peirce N, Jones SW, Casey A, Greenhaff PL",
+          "journal": "Amino Acids",
+          "year": 2016,
+          "volume": "48",
+          "issue": "8",
+          "pages": "1831-1842",
+          "doi": "10.1007/s00726-016-2252-x",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27193231/",
+          "level": "B"
+        },
+        {
+          "title": "Effects of Creatine and Carbohydrate Loading on Cycling Time Trial Performance",
+          "authors": "Tomcik KA, Camera DM, Bone JL, Ross ML, Jeacocke NA, Tachtsis B, Senden J, van Loon LJC, Hawley JA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2018,
+          "volume": "50",
+          "issue": "1",
+          "pages": "141-150",
+          "doi": "10.1249/MSS.0000000000001401",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28806275/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_027/slide_01.png",
+        "content/drafts/draft_027/slide_02.png",
+        "content/drafts/draft_027/slide_03.png",
+        "content/drafts/draft_027/slide_04.png",
+        "content/drafts/draft_027/slide_05.png",
+        "content/drafts/draft_027/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:creatina",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6af5d2875a204d0001f9da55",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-endurance-quando-ajuda-o-que-a-ciencia-mostra/"
     }
   ]
 }

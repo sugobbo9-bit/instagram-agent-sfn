@@ -632,3 +632,10 @@
 {"ts": "2026-11-11T22:38:06.860509+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-11-11T22:38:14.866792+00:00", "level": "INFO", "msg": "PUBLICADO: card_006 -> media_id 18116104628032956"}
 {"ts": "2026-11-11T22:38:14.883690+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-12T14:51:09.885819+00:00", "level": "INFO", "msg": "Publicando draft_027 (carousel) \u2014 creatina para atletas de endurance (quando ajuda e quando nao muda nada)"}
+{"ts": "2026-11-12T14:51:09.889658+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-12T14:51:09.889747+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_027/slide_01.png"}
+{"ts": "2026-11-12T14:51:10.740589+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-12T14:51:37.953906+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-12T14:51:49.939326+00:00", "level": "INFO", "msg": "PUBLICADO: draft_027 -> media_id 18392016790231526"}
+{"ts": "2026-11-12T14:51:49.958477+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

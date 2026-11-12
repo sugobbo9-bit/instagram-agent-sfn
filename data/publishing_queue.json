@@ -1123,11 +1123,16 @@
       "format": "carousel",
       "topic": "creatina para atletas de endurance (quando ajuda e quando nao muda nada)",
       "hook": "Creatina não é só pra musculação: +18% no pique, sem mudar seu ritmo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-12T00:00:00Z",
       "scheduled_for": "2026-11-12T14:30:00Z",
       "priority": 1,
-      "notes": "Tema novo (suplemento mainstream creatina). Hook contrarian+numerico (padrao vencedor). Tecnico com foto, slot 12h BRT/14h UTC. Fontes nivel A: ISSN Position Stand (Kreider 2017) + meta-analise sprints repetidos (Glaister 2022); RCTs Engelhardt 1998 (triatletas +18% tiros, endurance inalterada), Roberts 2016 (glicogenio), Tomcik 2018 (ciclistas treinados)."
+      "notes": "Tema novo (suplemento mainstream creatina). Hook contrarian+numerico (padrao vencedor). Tecnico com foto, slot 12h BRT/14h UTC. Fontes nivel A: ISSN Position Stand (Kreider 2017) + meta-analise sprints repetidos (Glaister 2022); RCTs Engelhardt 1998 (triatletas +18% tiros, endurance inalterada), Roberts 2016 (glicogenio), Tomcik 2018 (ciclistas treinados).",
+      "published_at": "2026-11-12T14:51:49.939525+00:00",
+      "post_id": "18392016790231526",
+      "ghost_post_id": "6af5d2875a204d0001f9da55",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-endurance-quando-ajuda-o-que-a-ciencia-mostra/",
+      "ghost_status": "published"
     }
   ]
 }
