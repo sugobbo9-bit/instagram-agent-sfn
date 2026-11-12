@@ -1117,6 +1117,17 @@
       "notes": "card informativo — mode:tema, topic:desidratacao-2-porcento-sede",
       "published_at": "2026-11-11T22:38:14.866965+00:00",
       "post_id": "18116104628032956"
+    },
+    {
+      "local_id": "draft_027",
+      "format": "carousel",
+      "topic": "creatina para atletas de endurance (quando ajuda e quando nao muda nada)",
+      "hook": "Creatina não é só pra musculação: +18% no pique, sem mudar seu ritmo.",
+      "status": "approved",
+      "created_at": "2026-11-12T00:00:00Z",
+      "scheduled_for": "2026-11-12T14:30:00Z",
+      "priority": 1,
+      "notes": "Tema novo (suplemento mainstream creatina). Hook contrarian+numerico (padrao vencedor). Tecnico com foto, slot 12h BRT/14h UTC. Fontes nivel A: ISSN Position Stand (Kreider 2017) + meta-analise sprints repetidos (Glaister 2022); RCTs Engelhardt 1998 (triatletas +18% tiros, endurance inalterada), Roberts 2016 (glicogenio), Tomcik 2018 (ciclistas treinados)."
     }
   ]
 }
