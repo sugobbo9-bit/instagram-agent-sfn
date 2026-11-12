@@ -1,0 +1,46 @@
+{
+  "local_id": "card_007",
+  "format": "static",
+  "status": "published",
+  "created_at": "2026-11-12T12:00:00Z",
+  "topic": "Fatmax — intensidade em que a oxidação de gordura é máxima (~64% do VO2max) e cai a quase zero acima de ~89%",
+  "content_pillar": "fisiologia-metabolismo",
+  "hook": "A queima de gordura atinge o pico a ~64% do VO2max (74% da FC máx) e vira quase zero acima de ~89%.",
+  "subtext": "Acima desse ponto o músculo passa a depender do carboidrato: por isso ritmo forte exige glicogênio cheio e carbo na prova.",
+  "source_line": "Achten, Gleeson & Jeukendrup, Med Sci Sports Exerc, 2002 (18 ciclistas treinados, calorimetria indireta).",
+  "badge": "Você sabia?",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:fatmax-oxidacao-gordura-intensidade"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Existe uma intensidade em que o corpo queima mais gordura por minuto — e não é 'quanto mais leve, melhor'. Num estudo clássico com 18 ciclistas moderadamente treinados, a oxidação de gordura foi máxima — o Fatmax — em torno de 64% do VO2max, ou ~74% da FC máxima. A 'zona Fatmax' ficou entre 55% e 72% do VO2max. Acima de ~89% do VO2max (~92% da FC máx), a contribuição da gordura ficou desprezível.\n\nNa prática: o rodado leve-moderado é onde o uso de gordura é maior, mas ele despenca em intensidade alta. Quanto mais forte o ritmo da prova, mais o músculo depende de carboidrato: glicogênio cheio antes e carbo durante deixam de ser opcionais.\n\nFonte: Achten J, Gleeson M, Jeukendrup AE. Med Sci Sports Exerc, 2002. doi 10.1097/00005768-200201000-00015\n\n#nutricaoesportiva #fisiologiadoexercicio #corrida #ciclismo #triathlon #maratona #baseadoemevidencia",
+  "cta": "Salva pra lembrar que ritmo forte pede carbo.",
+  "scientific_sources": [
+    {
+      "title": "Determination of the exercise intensity that elicits maximal fat oxidation",
+      "authors": "Achten J, Gleeson M, Jeukendrup AE",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2002,
+      "volume": "34",
+      "issue": "1",
+      "pages": "92-97",
+      "doi": "10.1097/00005768-200201000-00015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11782653",
+      "level": "B"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_007/card.png"
+  ],
+  "post_id": "18118904171470302",
+  "published_at": "2026-11-12T22:39:35.175643+00:00"
+}

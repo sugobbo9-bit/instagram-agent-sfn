@@ -1152,11 +1152,13 @@
       "format": "static",
       "topic": "Fatmax — intensidade em que a oxidação de gordura é máxima (~64% do VO2max) e cai a quase zero acima de ~89%",
       "hook": "A queima de gordura atinge o pico a ~64% do VO2max (74% da FC máx) e vira quase zero acima de ~89%.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-12T12:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:fatmax-oxidacao-gordura-intensidade"
+      "notes": "card informativo — mode:tema, topic:fatmax-oxidacao-gordura-intensidade",
+      "published_at": "2026-11-12T22:39:35.175643+00:00",
+      "post_id": "18118904171470302"
     }
   ]
 }
