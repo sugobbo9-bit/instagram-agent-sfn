@@ -1133,6 +1133,17 @@
       "ghost_post_id": "6af5d2875a204d0001f9da55",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/creatina-endurance-quando-ajuda-o-que-a-ciencia-mostra/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_017",
+      "format": "carousel",
+      "topic": "whey protein concentrado: New Millen Whey 100% vs Integralmédica Whey 100% Pure (rótulo lado a lado)",
+      "hook": "Whey concentrado: New Millen vs. Integralmédica. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-12T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:whey-concentrado, pair:newmillen-integralmedica"
     }
   ]
 }
