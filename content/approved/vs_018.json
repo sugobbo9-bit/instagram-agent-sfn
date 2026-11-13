@@ -1,0 +1,210 @@
+{
+  "local_id": "vs_018",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "rendered",
+  "created_at": "2026-11-13T00:00:00Z",
+  "topic": "creatina monohidratada: Max Titanium Creatine vs Dux Creatina Monohidratada (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Creatina: Max Titanium vs. Dux. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:creatina",
+    "pair:maxtitanium-dux"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Max Titanium Creatine",
+      "brand": "Max Titanium",
+      "image": "content/drafts/vs_018/img/max_creatine.jpg",
+      "label_source": {
+        "url": "https://www.maxtitanium.com.br/creatina-pote-300g/p",
+        "consulted": "2026-11-13",
+        "notes": "Tabela nutricional oficial (imagem Creatina-300g-Tabela-Nutricional.jpg): porcoes por embalagem 60; porcao 5 g (1 dosador); creatina 5.000 mg; nao contem sodio. Ingredientes na pagina: creatina monohidratada e antiumectante dioxido de silicio. Pagina: 0% sodio, mono-hidratada, sem gluten; preco R$ 75,10 (20% OFF) em 13/11/2026; origem da materia-prima nao nomeada (nao declara Creapure)."
+      }
+    },
+    {
+      "name": "Dux Creatina Monohidratada",
+      "brand": "Dux Human Health",
+      "image": "content/drafts/vs_018/img/dux_creatina.jpg",
+      "label_source": {
+        "url": "https://duxhumanhealth.com/produtos/creatina-monohidratada-pote-300g/",
+        "consulted": "2026-11-13",
+        "notes": "Pagina oficial e packshot: pote 300 g; porcao 5 g (1 dosador); 5.000 mg de creatina; 60 doses; sem sabor; rotulo declara 'creatina pura 100% monohidratada' / 'alta pureza' / 'sem aditivos'. FAQ: materia-prima sem procedencia europeia e nao micronizada (nao e Creapure). Preco R$ 59,90 (33% OFF) em 13/11/2026."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas creatinas.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_018/img/max_creatine.jpg",
+          "mode": "multiply",
+          "label": "Max Titanium Creatine"
+        },
+        {
+          "image": "content/drafts/vs_018/img/dux_creatina.jpg",
+          "mode": "multiply",
+          "label": "Dux Creatina Monohidratada"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho do pote",
+      "values": [
+        {
+          "value": "300 g"
+        },
+        {
+          "value": "300 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Porção",
+      "values": [
+        {
+          "value": "5 g",
+          "note": "1 dosador"
+        },
+        {
+          "value": "5 g",
+          "note": "1 dosador"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Creatina por porção",
+      "values": [
+        {
+          "value": "5.000 mg"
+        },
+        {
+          "value": "5.000 mg"
+        }
+      ],
+      "footnote": "Cada pote rende 60 porções nos dois rótulos."
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem no rótulo",
+      "values": [
+        {
+          "value": "Dióxido de silício",
+          "note": "antiumectante"
+        },
+        {
+          "value": "Creatina 100% pura",
+          "note": "declara: sem aditivo"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Preço no site oficial",
+      "values": [
+        {
+          "value": "R$ 75,10",
+          "note": "com 20% OFF em 13/11"
+        },
+        {
+          "value": "R$ 59,90",
+          "note": "com 33% OFF em 13/11"
+        }
+      ],
+      "footnote": "Preços promocionais do dia, nas lojas oficiais das marcas."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "A creatina monohidratada é a forma mais estudada e com mais evidência. A dose usada nos estudos é de 3 a 5 g por dia — a porção de 5 g dos dois potes. A fase de saturação (±20 g/dia por 5 a 7 dias) é opcional.\n\n\"Creapure\", \"alta pureza\" e \"micronizada\" falam da matéria-prima e do processamento, não de moléculas diferentes: nos dois rótulos, dentro é creatina monohidratada. O dióxido de silício é só um antiumectante, que evita empedrar.",
+      "source": "Rótulos e sites oficiais Max Titanium e Dux, consultados em 13/11/2026.\nKreider RB et al. J Int Soc Sports Nutr. 2017;14:18.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha é sua.\n\nMax Titanium Creatine: pote de 300 g, porção de 5 g (1 dosador) com 5.000 mg de creatina monohidratada, 60 porções, 0% de sódio. No rótulo, traz o antiumectante dióxido de silício. Site oficial: R$ 75,10 (com 20% OFF em 13/11/2026).\n\nDux Creatina Monohidratada: pote de 300 g, porção de 5 g (1 dosador) com 5.000 mg de creatina monohidratada, 60 doses, sem sabor. O rótulo declara creatina 100% pura, sem aditivo. Site oficial: R$ 59,90 (com 33% OFF em 13/11/2026).\n\nDados dos rótulos e das páginas oficiais Max Titanium e Dux, consultados em 13/11/2026. Preços promocionais do dia; confira o valor e o rótulo do pote que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. J Int Soc Sports Nutr. 2017;14:18.\n\nImagens: fotos de produto dos sites oficiais da Max Titanium e da Dux.\n\n#nutricaoesportiva #creatina #endurance #corrida #ciclismo #triathlon #suplementos #evidencia",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "authors": "Kreider RB, Kalman DS, Antonio J, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "18",
+      "doi": "10.1186/s12970-017-0173-z",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Max Titanium Creatine",
+      "kind": "packshot",
+      "title": "Creatine---300g---Frente.png",
+      "creator": "Max Titanium",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maxtitanium.com.br/creatina-pote-300g/p",
+      "changes": "fundo branco aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Dux Creatina Monohidratada",
+      "kind": "packshot",
+      "title": "1000x1000_dux_creatinamono_300g_v2.png",
+      "creator": "Dux Human Health",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://duxhumanhealth.com/produtos/creatina-monohidratada-pote-300g/",
+      "changes": "convertido de AVIF; fundo branco aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-13 nas páginas oficiais. Max Titanium Creatine 300g: tabela nutricional oficial (porção 5 g, 5.000 mg creatina, 60 porções, sem sódio) + ingredientes (creatina monohidratada + dióxido de silício). Dux Creatina Monohidratada 300g: página oficial e packshot (porção 5 g, 5.000 mg, 60 doses, sem sabor, 100% monohidratada declarada sem aditivos; matéria-prima sem procedência europeia/não micronizada, não Creapure). Preços promocionais do dia (Max R$ 75,10 20% OFF; Dux R$ 59,90 33% OFF). Comparação neutra: as duas são creatina monohidratada padrão (não Creapure).",
+  "creative_files": [
+    "content/drafts/vs_018/slide_01.png",
+    "content/drafts/vs_018/slide_02.png",
+    "content/drafts/vs_018/slide_03.png",
+    "content/drafts/vs_018/slide_04.png",
+    "content/drafts/vs_018/slide_05.png",
+    "content/drafts/vs_018/slide_06.png",
+    "content/drafts/vs_018/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}

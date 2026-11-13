@@ -1164,6 +1164,17 @@
       "notes": "card informativo — mode:tema, topic:fatmax-oxidacao-gordura-intensidade",
       "published_at": "2026-11-12T22:39:35.175643+00:00",
       "post_id": "18118904171470302"
+    },
+    {
+      "local_id": "vs_018",
+      "format": "carousel",
+      "topic": "creatina monohidratada: Max Titanium Creatine vs Dux Creatina Monohidratada (rótulo lado a lado)",
+      "hook": "Creatina: Max Titanium vs. Dux. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-13T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:creatina, pair:maxtitanium-dux"
     }
   ]
 }
