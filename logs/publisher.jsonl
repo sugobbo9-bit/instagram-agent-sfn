@@ -653,3 +653,10 @@
 {"ts": "2026-11-12T22:39:18.350525+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-11-12T22:39:35.175481+00:00", "level": "INFO", "msg": "PUBLICADO: card_007 -> media_id 18118904171470302"}
 {"ts": "2026-11-12T22:39:35.195885+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-13T15:55:14.944368+00:00", "level": "INFO", "msg": "Publicando der_carga_carbo_curta (carousel) \u2014 quando a carga de carboidrato \u00e9 desperd\u00edcio (provas < 90 min)"}
+{"ts": "2026-11-13T15:55:14.948036+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-13T15:55:14.948114+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/der_carga_carbo_curta/slide_01.png"}
+{"ts": "2026-11-13T15:55:15.620095+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-13T15:55:43.191769+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-13T15:55:54.613002+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_curta -> media_id 17951437605067054"}
+{"ts": "2026-11-13T15:55:54.630503+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

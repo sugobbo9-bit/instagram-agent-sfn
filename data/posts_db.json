@@ -10037,6 +10037,64 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17951437605067054",
+      "local_id": "der_carga_carbo_curta",
+      "publication_date": "2026-11-13T15:55:54.613200+00:00",
+      "format": "carousel",
+      "topic": "quando a carga de carboidrato é desperdício (provas < 90 min)",
+      "content_pillar": "carbohydrate-periodization",
+      "hook": "Carga de carbo pra prova de 10k é desperdício. O glicogênio já sobra.",
+      "caption": "Carga de carboidrato — aquele protocolo de 'encher o glicogênio' na véspera — só muda o resultado em provas longas. Para um 10k, ou qualquer esforço abaixo de ~90 minutos, ela é desperdício: seus estoques normais de glicogênio no músculo e no fígado já cobrem a prova com folga.\n\nA revisão de Hawley e colegas (Sports Med, 1997) mostra que elevar o glicogênio acima do normal não melhora esforços de 60 a 90 minutos — sobra glicogênio no músculo ao final. O ganho só aparece acima de 90 minutos: a fadiga é adiada em cerca de 20%, e provas de distância fixa melhoram de 2 a 3%.\n\nNa prática: a carga (10 a 12 g de carbo por kg por dia, por 36 a 48h — position stand de 2016) vale para maratona, triatlo longo, gran fondo e ultra. Para 5k, 10k e provas curtas, basta manter boa ingestão de carboidrato nos dias anteriores e uma refeição pré-prova que seu estômago já conhece. Sem macarronada heroica.\n\nFontes: Hawley JA, Schabort EJ, Noakes TD, Dennis SC. Carbohydrate-loading and exercise performance. Sports Med. 1997;24(2):73-81. | Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance (position stand). J Acad Nutr Diet. 2016;116(3):501-528.\n\nFotos: McPig (CC BY 2.0).",
+      "cta": "Salva e manda pro parceiro que carrega carbo antes de toda corridinha de 10k.",
+      "scientific_sources": [
+        {
+          "title": "Carbohydrate-loading and exercise performance. An update",
+          "authors": "Hawley JA, Schabort EJ, Noakes TD, Dennis SC",
+          "journal": "Sports Medicine",
+          "year": 1997,
+          "volume": "24",
+          "issue": "2",
+          "pages": "73-81",
+          "doi": "10.2165/00007256-199724020-00001",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9291549/",
+          "level": "A"
+        },
+        {
+          "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Journal of the Academy of Nutrition and Dietetics",
+          "year": 2016,
+          "volume": "116",
+          "issue": "3",
+          "pages": "501-528",
+          "doi": "10.1016/j.jand.2015.12.006",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/der_carga_carbo_curta/slide_01.png",
+        "content/drafts/der_carga_carbo_curta/slide_02.png",
+        "content/drafts/der_carga_carbo_curta/slide_03.png",
+        "content/drafts/der_carga_carbo_curta/slide_04.png",
+        "content/drafts/der_carga_carbo_curta/slide_05.png",
+        "content/drafts/der_carga_carbo_curta/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:carga-carbo",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:periodizacao-fueling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6af7330c01a5580001f2b35a",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-quando-e-desperdicio-provas-curtas/"
     }
   ]
 }

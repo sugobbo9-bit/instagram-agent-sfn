@@ -1,0 +1,171 @@
+{
+  "local_id": "der_carga_carbo_curta",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-13T00:00:00Z",
+  "topic": "quando a carga de carboidrato é desperdício (provas < 90 min)",
+  "content_pillar": "carbohydrate-periodization",
+  "hook": "Carga de carbo pra prova de 10k é desperdício. O glicogênio já sobra.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carga-carbo",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:periodizacao-fueling"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O erro",
+      "headline": "Carga de carbo pra 10k\né desperdício.",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_curta/cover/cand_01.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Virou ritual de toda prova",
+      "body": "A cena clássica: macarronada na véspera de qualquer prova, do 5k à maratona. 'Encher o tanque' virou hábito.\n\nMas pra prova curta isso não enche nada — só adiciona peso, água e risco de desconforto no estômago no dia em que você quer estar leve.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_curta/s2/cand_03.jpg",
+        "focus": "center 45%"
+      }
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Seu glicogênio já cobre ~90 min",
+      "body": "Seu corpo guarda glicogênio no músculo e no fígado — reserva suficiente pra cerca de 90 minutos de esforço forte e contínuo.\n\nUm 10k dura de 30 a 60 minutos. Você cruza a linha de chegada com o tanque ainda em boa parte cheio. O que falta ali não é combustível estocado.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Abaixo de 90 min, não muda nada",
+      "body": "A revisão de Hawley e colegas (Sports Med, 1997) é direta: elevar o glicogênio acima do normal não melhora esforços de 60 a 90 minutos — sobra glicogênio no músculo no fim.\n\nO ganho só aparece acima de 90 min: a fadiga é adiada em cerca de 20%, e provas de distância fixa melhoram de 2 a 3%.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Quando vale (e quando só pesa)",
+      "body": "Vale a carga: maratona, triatlo longo, gran fondo, ultra — tudo acima de ~90 min. Protocolo: 10 a 12 g de carbo por kg por dia, 36 a 48h antes.\n\nProva curta (5k, 10k, prova de rua): só mantenha carboidrato na rotina nos dias anteriores e faça uma refeição pré-prova que seu estômago já conhece.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/der_carga_carbo_curta/s5/cand_01.jpg",
+        "focus": "center 40%"
+      }
+    },
+    {
+      "type": "cta",
+      "headline": "Guarde a carga pra onde ela rende.",
+      "body": "Salva e manda pro parceiro que ataca a macarronada antes de toda corridinha de 10k.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Carga de carboidrato — aquele protocolo de 'encher o glicogênio' na véspera — só muda o resultado em provas longas. Para um 10k, ou qualquer esforço abaixo de ~90 minutos, ela é desperdício: seus estoques normais de glicogênio no músculo e no fígado já cobrem a prova com folga.\n\nA revisão de Hawley e colegas (Sports Med, 1997) mostra que elevar o glicogênio acima do normal não melhora esforços de 60 a 90 minutos — sobra glicogênio no músculo ao final. O ganho só aparece acima de 90 minutos: a fadiga é adiada em cerca de 20%, e provas de distância fixa melhoram de 2 a 3%.\n\nNa prática: a carga (10 a 12 g de carbo por kg por dia, por 36 a 48h — position stand de 2016) vale para maratona, triatlo longo, gran fondo e ultra. Para 5k, 10k e provas curtas, basta manter boa ingestão de carboidrato nos dias anteriores e uma refeição pré-prova que seu estômago já conhece. Sem macarronada heroica.\n\nFontes: Hawley JA, Schabort EJ, Noakes TD, Dennis SC. Carbohydrate-loading and exercise performance. Sports Med. 1997;24(2):73-81. | Thomas DT, Erdman KA, Burke LM. Nutrition and Athletic Performance (position stand). J Acad Nutr Diet. 2016;116(3):501-528.\n\nFotos: McPig (CC BY 2.0).",
+  "cta": "Salva e manda pro parceiro que carrega carbo antes de toda corridinha de 10k.",
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Linguine with porcini mushrooms",
+      "creator": "McPig",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/80264890@N00/2079437797"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o mito",
+      "title": "A bowl of rice topped with spicy stir-fried mushrooms",
+      "creator": "Bigul Malayi",
+      "license": "CC0 1.0",
+      "source_url": "https://wordpress.org/photos/photo/246943b594/"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Marathon runners",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6032875/marathon-runners-free"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Carbohydrate-loading and exercise performance. An update",
+      "authors": "Hawley JA, Schabort EJ, Noakes TD, Dennis SC",
+      "journal": "Sports Medicine",
+      "year": 1997,
+      "volume": "24",
+      "issue": "2",
+      "pages": "73-81",
+      "doi": "10.2165/00007256-199724020-00001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9291549/",
+      "level": "A"
+    },
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "year": 2016,
+      "volume": "116",
+      "issue": "3",
+      "pages": "501-528",
+      "doi": "10.1016/j.jand.2015.12.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "Carga de carboidrato: quando ela é desperdício (e quando vale)",
+    "slug": "carga-de-carboidrato-quando-e-desperdicio-provas-curtas",
+    "excerpt": "Carga de carbo só melhora o desempenho em provas acima de ~90 minutos. Para um 10k ou qualquer esforço curto, seus estoques normais de glicogênio já dão conta. Entenda o que a ciência mostra e quando a carga realmente vale.",
+    "meta_title": "Carga de carboidrato: desperdício em prova curta, essencial na longa",
+    "tags": [
+      "Carga de carboidrato",
+      "Glicogênio",
+      "Fueling",
+      "Endurance"
+    ],
+    "html": "<p>Macarronada na véspera virou ritual para corredor de qualquer distância. Mas a <strong>carga de carboidrato</strong> — o protocolo de supercompensar o glicogênio antes da prova — não é uma estratégia universal. Ela só muda o resultado em <strong>provas longas</strong>. Para um 10k, ou qualquer esforço abaixo de cerca de 90 minutos, ela é desperdício.</p>\n\n<h2>Seus estoques já cobrem ~90 minutos</h2>\n\n<p>O corpo guarda glicogênio no <strong>músculo</strong> e no <strong>fígado</strong>. Em condições normais de alimentação, essa reserva é suficiente para cerca de <strong>90 minutos</strong> de esforço forte e contínuo antes de o glicogênio se tornar o fator limitante.</p>\n\n<p>Um 10k dura, para a maioria, entre 30 e 60 minutos. Uma prova de 5k, menos ainda. Você cruza a linha de chegada com o tanque de glicogênio em boa parte cheio — ou seja, o combustível estocado não foi o que te segurou. Encher ainda mais um tanque que não esvazia não adianta nada.</p>\n\n<h2>O que a ciência mostra</h2>\n\n<p>A revisão clássica de <strong>Hawley, Schabort, Noakes e Dennis</strong> (<em>Sports Medicine</em>, 1997) é direta ao separar onde a carga funciona e onde não funciona:</p>\n\n<ul>\n<li>Em esforços de alta intensidade de <strong>menos de 5 minutos</strong>, elevar o glicogênio acima do normal <strong>não traz benefício</strong>.</li>\n<li>Em exercício moderado de <strong>60 a 90 minutos</strong>, também <strong>não há ganho</strong> — ao final do esforço ainda <strong>sobra glicogênio</strong> considerável no músculo.</li>\n<li>Acima de <strong>90 minutos</strong>, aí sim: o glicogênio elevado adia a fadiga em <strong>cerca de 20%</strong>, e em provas de distância fixa o desempenho melhora de <strong>2 a 3%</strong>.</li>\n</ul>\n\n<p>Nos eventos longos, a exaustão coincide com estoques de glicogênio criticamente baixos — e a oxidação de glicose do sangue não consegue substituir essa fonte. É exatamente aí que começar com o tanque mais cheio compra tempo.</p>\n\n<h2>Quando a carga vale (e o protocolo)</h2>\n\n<p>A <em>position stand</em> conjunta da Academy of Nutrition and Dietetics, Dietitians of Canada e American College of Sports Medicine (2016) recomenda a carga para preparação de eventos sustentados <strong>acima de ~90 minutos</strong>, com o seguinte protocolo:</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação</th></tr></thead>\n<tbody>\n<tr><td>Dose</td><td>10 a 12 g de carboidrato por kg de massa corporal por dia</td></tr>\n<tr><td>Duração</td><td>36 a 48 horas antes da prova</td></tr>\n<tr><td>Para quem</td><td>Maratona, triatlo longo, gran fondo, ultra — esforços &gt; 90 min</td></tr>\n</tbody>\n</table>\n\n<h2>E para as provas curtas?</h2>\n\n<p>Para 5k, 10k e provas de rua curtas, você não precisa de nenhum protocolo especial de supercompensação. Basta:</p>\n\n<ul>\n<li>Manter uma <strong>boa ingestão de carboidrato</strong> na rotina dos dias que antecedem a prova (não precisa exagerar).</li>\n<li>Fazer uma <strong>refeição pré-prova que seu estômago já conhece</strong>, rica em carboidrato de digestão fácil, algumas horas antes.</li>\n</ul>\n\n<p>Empanturrar-se de macarrão na véspera de um 10k não te deixa mais rápido — só adiciona peso, retenção de água (cada grama de glicogênio carrega água) e risco de desconforto gastrointestinal no dia em que você quer estar leve.</p>\n\n<h2>Resumo</h2>\n\n<p>Carga de carboidrato é uma ferramenta específica para provas longas, não um ritual obrigatório. Abaixo de ~90 minutos, seus estoques normais já dão conta. Guarde a estratégia para onde ela realmente rende: a maratona, o longo, o ultra.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Hawley JA, Schabort EJ, Noakes TD, Dennis SC. Carbohydrate-loading and exercise performance. An update. <em>Sports Med</em>. 1997;24(2):73–81. doi:10.2165/00007256-199724020-00001</li>\n<li>Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. <em>J Acad Nutr Diet</em>. 2016;116(3):501–528. doi:10.1016/j.jand.2015.12.006</li>\n</ol>\n",
+    "cover": "content/drafts/der_carga_carbo_curta/cover.png",
+    "cover_alt": "Carga de carboidrato: quando é desperdício e quando vale — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/der_carga_carbo_curta/slide_01.png",
+    "content/drafts/der_carga_carbo_curta/slide_02.png",
+    "content/drafts/der_carga_carbo_curta/slide_03.png",
+    "content/drafts/der_carga_carbo_curta/slide_04.png",
+    "content/drafts/der_carga_carbo_curta/slide_05.png",
+    "content/drafts/der_carga_carbo_curta/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17951437605067054",
+  "published_at": "2026-11-13T15:55:54.613200+00:00"
+}

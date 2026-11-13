@@ -774,11 +774,16 @@
       "format": "carousel",
       "topic": "quando a carga de carboidrato é desperdício (provas < 90 min)",
       "hook": "Carga de carbo pra prova de 10k é desperdício. O glicogênio já sobra.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-13T00:00:00Z",
       "scheduled_for": "2026-10-15T14:30:00Z",
       "priority": 1,
-      "notes": "Derivado contrarian do breakout der_carga_carbo_passo (1661, saves/reach 0,049). Reaproveita a família campeã com ângulo novo (quando NÃO fazer). Técnico com foto + hook numérico. Fonte: duração/intensidade x depleção de glicogênio."
+      "notes": "Derivado contrarian do breakout der_carga_carbo_passo (1661, saves/reach 0,049). Reaproveita a família campeã com ângulo novo (quando NÃO fazer). Técnico com foto + hook numérico. Fonte: duração/intensidade x depleção de glicogênio.",
+      "published_at": "2026-11-13T15:55:54.613200+00:00",
+      "post_id": "17951437605067054",
+      "ghost_post_id": "6af7330c01a5580001f2b35a",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/carga-de-carboidrato-quando-e-desperdicio-provas-curtas/",
+      "ghost_status": "published"
     },
     {
       "local_id": "vs_003",
