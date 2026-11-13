@@ -1183,11 +1183,13 @@
       "format": "static",
       "topic": "deficiência de ferro em atletas (prevalência: ~15–35% das mulheres, ~5–11% dos homens) e hepcidina pós-exercício",
       "hook": "Até 35% das mulheres atletas (e 5–11% dos homens) têm deficiência de ferro.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-13T12:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:deficiencia-ferro-atletas-hepcidina"
+      "notes": "card informativo — mode:tema, topic:deficiencia-ferro-atletas-hepcidina",
+      "published_at": "2026-11-13T22:40:34.433833+00:00",
+      "post_id": "18100887758398793"
     }
   ]
 }

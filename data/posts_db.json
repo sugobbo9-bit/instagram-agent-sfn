@@ -10138,6 +10138,55 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18100887758398793",
+      "local_id": "card_008",
+      "publication_date": "2026-11-13T22:40:34.433833+00:00",
+      "format": "static",
+      "topic": "deficiência de ferro em atletas (prevalência: ~15–35% das mulheres, ~5–11% dos homens) e hepcidina pós-exercício",
+      "content_pillar": "micronutrientes",
+      "hook": "Até 35% das mulheres atletas (e 5–11% dos homens) têm deficiência de ferro.",
+      "caption": "Ferro é o mineral que mais falta em quem treina. Numa revisão sobre ferro em atletas, cerca de 15–35% das mulheres e 5–11% dos homens apresentavam deficiência — mais comum no endurance. Parte da explicação é a hepcidina, o hormônio-regulador do ferro: o exercício a eleva (pico ~3 h após o treino) e, com ela alta, o intestino absorve menos ferro da comida e dos suplementos.\n\nNa prática: cansaço fora do normal, queda de rendimento e FC alta pro mesmo ritmo pedem ferritina e hemoglobina, não suplemento às cegas. Se precisar repor, o ferro parece ser melhor absorvido de manhã, logo após o treino (McCormick et al., 2019). Excesso também faz mal: só com exame e orientação.\n\nFonte: Sim M et al. Iron considerations for the athlete: a narrative review. Eur J Appl Physiol, 2019. doi 10.1007/s00421-019-04157-y\n\n#nutricaoesportiva #ferro #ferritina #corrida #ciclismo #triathlon #baseadoemevidencia",
+      "cta": "Salva e marca quem vive cansado no treino.",
+      "scientific_sources": [
+        {
+          "title": "Iron considerations for the athlete: a narrative review",
+          "authors": "Sim M, Garvican-Lewis LA, Cox GR, Govus A, McKay AKA, Stellingwerff T, Peeling P",
+          "journal": "European Journal of Applied Physiology",
+          "year": 2019,
+          "volume": "119",
+          "issue": "7",
+          "pages": "1463-1478",
+          "doi": "10.1007/s00421-019-04157-y",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31055680",
+          "level": "B"
+        },
+        {
+          "title": "The Impact of Morning versus Afternoon Exercise on Iron Absorption in Athletes",
+          "authors": "McCormick R, Moretti D, McKay AKA, et al.",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2019,
+          "volume": "51",
+          "issue": "10",
+          "pages": "2147-2155",
+          "doi": "10.1249/MSS.0000000000002026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31058762",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/card_008/card.png"
+      ],
+      "experiment_tags": [
+        "format:static",
+        "series:card-informativo",
+        "mode:tema",
+        "topic:deficiencia-ferro-atletas-hepcidina"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
