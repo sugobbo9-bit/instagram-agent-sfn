@@ -661,3 +661,10 @@
 {"ts": "2026-11-13T15:55:54.613002+00:00", "level": "INFO", "msg": "PUBLICADO: der_carga_carbo_curta -> media_id 17951437605067054"}
 {"ts": "2026-11-13T15:55:54.630503+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-13T19:12:17.584421+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-13T19:58:20.531183+00:00", "level": "INFO", "msg": "Publicando vs_018 (carousel) \u2014 creatina monohidratada: Max Titanium Creatine vs Dux Creatina Monohidratada (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-13T19:58:20.534416+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-13T19:58:20.534509+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_018/slide_01.png"}
+{"ts": "2026-11-13T19:58:21.650573+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-13T19:58:57.040471+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-11-13T19:59:17.775075+00:00", "level": "INFO", "msg": "PUBLICADO: vs_018 -> media_id 17978043884940504"}
+{"ts": "2026-11-13T19:59:17.789573+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
