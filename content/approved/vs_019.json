@@ -1,0 +1,237 @@
+{
+  "local_id": "vs_019",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-11-14T00:00:00Z",
+  "topic": "gel de carboidrato: Dobro Carbs vs Probiótica Carb Up Gel Super Fórmula (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Dobro Carbs vs. Probiótica Carb Up. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:gel-carbo",
+    "pair:dobro-probiotica"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Dobro Carbs",
+      "brand": "Dobro",
+      "image": "content/drafts/vs_019/img/dobro_carbs.png",
+      "label_source": {
+        "url": "https://www.soudobro.com.br/produto/carbs-gel-neutro-fresh-10x30g-150172",
+        "consulted": "2026-11-14",
+        "notes": "Tabela nutricional oficial (sabor Neutro Fresh), porção 30 g (1 sachê): 84 kcal, 21 g de carboidrato, 3,5 g de açúcares totais, 0 g de açúcar adicionado, 100 mg de sódio. Não declara magnésio. Ingredientes: maltodextrina, água, glicose de milho, frutose, cloreto de sódio, ácido cítrico, aroma natural, estévia, benzoato de sódio, sorbato de potássio. Sem cafeína; a versão com cafeína do guaraná é SKU separado."
+      }
+    },
+    {
+      "name": "Probiótica Carb Up Gel Super Fórmula",
+      "brand": "Probiótica",
+      "image": "content/drafts/vs_019/img/prob_carbup.png",
+      "label_source": {
+        "url": "https://www.probiotica.com.br/carb-up-gel-super-formula-10-saches-c--30g/p",
+        "consulted": "2026-11-14",
+        "notes": "Informação Nutricional oficial (imagem do painel, sabor Caldo de Cana com Limão), porção 30 g (1 sachê): 60 kcal, 15 g de carboidrato, 14 g de açúcares totais, 14 g de açúcares adicionados, 88 mg de sódio, 78 mg de magnésio (19% VD). É o único painel publicado na página. Ingredientes (Caldo de Cana): melado de cana-de-açúcar, água, bisglicinato de magnésio, cloreto de sódio, ácido cítrico, fosfato de potássio, citrato de sódio, aromatizantes, ácido ascórbico, benzoato de sódio, sorbato de potássio, EDTA, goma xantana. Outros sabores usam maltodextrina, frutose e dextrose. Sem cafeína declarada."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois géis.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_019/img/dobro_carbs.png",
+          "mode": "multiply",
+          "label": "Dobro Carbs"
+        },
+        {
+          "image": "content/drafts/vs_019/img/prob_carbup.png",
+          "mode": "multiply",
+          "label": "Probiótica Carb Up"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por sachê",
+      "values": [
+        {
+          "value": "21 g"
+        },
+        {
+          "value": "15 g"
+        }
+      ],
+      "footnote": "Os dois vêm em sachê de 30 g."
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcares no sachê",
+      "values": [
+        {
+          "value": "3,5 g",
+          "note": "0 g de açúcar adicionado"
+        },
+        {
+          "value": "14 g",
+          "note": "varia com o sabor"
+        }
+      ],
+      "footnote": "Os açúcares fazem parte dos carboidratos totais."
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Maltodextrina, glicose e frutose"
+        },
+        {
+          "value": "Melado de cana",
+          "note": "sabor caldo de cana; outros sabores usam maltodextrina, frutose e dextrose"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por sachê",
+      "values": [
+        {
+          "value": "100 mg"
+        },
+        {
+          "value": "88 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Magnésio por sachê",
+      "values": [
+        {
+          "value": "Não declarado"
+        },
+        {
+          "value": "78 mg",
+          "note": "19% do valor diário"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "há uma versão com cafeína à parte"
+        },
+        {
+          "value": "Não declarada"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Em prova longa, a recomendação fica entre 30 e 60 g de carboidrato por hora, e chega a cerca de 90 g/h ao misturar fontes com transportadores diferentes no intestino, como glicose (ou maltodextrina) e frutose. Um sachê de 15 a 21 g cobre uma parte da conta.\n\nO sódio de um sachê é pequeno perto do que sai no suor: de cerca de 200 a 2.000 mg por litro, conforme a pessoa e o calor. Repor sódio e minerais como o magnésio depende do volume de suor e da duração, não de um sachê isolado.",
+      "source": "Rótulos e sites oficiais Dobro e Probiótica, consultados em 14/11/2026 (Dobro sabor Neutro Fresh; Probiótica sabor Caldo de Cana com Limão). Jeukendrup A. Sports Med. 2014;44(S1):S25-33. Baker LB. Sports Med. 2017;47(S1):111-128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nDobro Carbs (sabor Neutro Fresh): sachê de 30 g, 84 kcal, 21 g de carboidrato (maltodextrina, glicose e frutose), 3,5 g de açúcares, 100 mg de sódio, sem cafeína (há uma versão com cafeína à parte).\n\nProbiótica Carb Up Gel Super Fórmula (sabor Caldo de Cana com Limão): sachê de 30 g, 60 kcal, 15 g de carboidrato (melado de cana), 14 g de açúcares, 88 mg de sódio e 78 mg de magnésio.\n\nOs números de açúcar e a fonte do carboidrato mudam com o sabor — confira o rótulo do sabor que você tem em mãos.\n\nDados dos rótulos e sites oficiais, consultados em 14/11/2026.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Dobro e da Probiótica.\n\n#nutricaoesportiva #geldecarboidrato #corrida #ciclismo #triathlon #maratona #endurance #suplementacao",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Dobro Carbs",
+      "kind": "packshot",
+      "title": "carbs-gel-neutro-fresh.png",
+      "creator": "Dobro",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.soudobro.com.br/produto/carbs-gel-neutro-fresh-10x30g-150172",
+      "changes": "fundo removido e composto sobre branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Probiótica Carb Up Gel Super Fórmula",
+      "kind": "packshot",
+      "title": "carb-up-super-formula-caldo-de-cana.png",
+      "creator": "Probiótica",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.probiotica.com.br/carb-up-gel-super-formula-10-saches-c--30g/p",
+      "changes": "fundo removido e composto sobre branco"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-14 nas páginas oficiais. Dobro Carbs sabor Neutro Fresh (soudobro.com.br): 30 g, 84 kcal, 21 g carbo, 3,5 g açúcares, 100 mg sódio. Probiótica Carb Up Gel Super Fórmula sabor Caldo de Cana com Limão (probiotica.com.br, painel em imagem): 30 g, 60 kcal, 15 g carbo, 14 g açúcares, 88 mg sódio, 78 mg magnésio. Comparação entre sabores diferentes (os únicos com painel oficial acessível); açúcar e fonte de carbo variam por sabor, sinalizado nos slides e na legenda.",
+  "creative_files": [
+    "content/drafts/vs_019/slide_01.png",
+    "content/drafts/vs_019/slide_02.png",
+    "content/drafts/vs_019/slide_03.png",
+    "content/drafts/vs_019/slide_04.png",
+    "content/drafts/vs_019/slide_05.png",
+    "content/drafts/vs_019/slide_06.png",
+    "content/drafts/vs_019/slide_07.png",
+    "content/drafts/vs_019/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}
