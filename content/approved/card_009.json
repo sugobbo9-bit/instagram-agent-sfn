@@ -1,0 +1,56 @@
+{
+  "local_id": "card_009",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-11-14T22:30:00Z",
+  "topic": "bicarbonato de sódio como recurso ergogênico: ~1,7% de melhora na potência média (meta-análise) e protocolo da ISSN (0,3 g/kg, 60–180 min antes, esforços de 30 s a 12 min)",
+  "content_pillar": "recursos ergogênicos",
+  "hook": "Bicarbonato de sódio — o da cozinha — melhora ~1,7% a potência em esforços intensos.",
+  "subtext": "Ele tampona a acidez do músculo. A ISSN recomenda 0,3 g/kg, 60–180 min antes; efeito consolidado em esforços de 30 s a 12 min.",
+  "source_line": "Carr, Hopkins & Gore, Sports Med, 2011 (meta-análise, 38 estudos); ISSN position stand, 2021.",
+  "badge": "Ativo",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:bicarbonato-de-sodio-ergogenico"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "O bicarbonato de sódio é um dos poucos suplementos com evidência forte de efeito agudo. Numa meta-análise de 38 estudos, ~0,3 g/kg melhorou a potência média em ~1,7% (±2,0%) em esforços intensos e curtos — e o efeito diminui quanto mais longo o teste. Mecanismo: mais bicarbonato no sangue ajuda a tamponar a acidez (H+) que se acumula no músculo no esforço máximo.\n\nNa prática (position stand da ISSN, 2021): 0,3 g/kg, 60–180 min antes, de preferência com refeição rica em carbo. Benefício consolidado em esforços de 30 s a 12 min (tiros, 800 m a 5 km), não na maratona. Inchaço e náusea são o principal limitante — teste em treino, nunca estreie em prova.\n\nFonte: Carr AJ et al. Sports Med, 2011. doi 10.2165/11591440-000000000-00000 · Grgic J et al. JISSN, 2021. doi 10.1186/s12970-021-00458-w\n\n#nutricaoesportiva #bicarbonato #suplementacao #corrida #ciclismo #baseadoemevidencia",
+  "cta": "Salva e manda pra quem corre 5 km ou faz tiros na pista.",
+  "scientific_sources": [
+    {
+      "title": "Effects of acute alkalosis and acidosis on performance: a meta-analysis",
+      "authors": "Carr AJ, Hopkins WG, Gore CJ",
+      "journal": "Sports Medicine",
+      "year": 2011,
+      "volume": "41",
+      "issue": "10",
+      "pages": "801-814",
+      "doi": "10.2165/11591440-000000000-00000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21923200",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance",
+      "authors": "Grgic J, Pedisic Z, Saunders B, Artioli GG, Schoenfeld BJ, McKenna MJ, Bishop DJ, Kreider RB, Stout JR, Kalman DS, Arent SM, VanDusseldorp TA, Lopez HL, Ziegenfuss TN, Burke LM, Antonio J, Campbell BI",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2021,
+      "volume": "18",
+      "issue": "1",
+      "pages": "61",
+      "doi": "10.1186/s12970-021-00458-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34503527",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_009/card.png"
+  ]
+}
