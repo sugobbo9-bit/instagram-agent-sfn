@@ -1209,11 +1209,13 @@
       "format": "static",
       "topic": "bicarbonato de sódio como recurso ergogênico: ~1,7% de melhora na potência média (meta-análise) e protocolo da ISSN (0,3 g/kg, 60–180 min antes, esforços de 30 s a 12 min)",
       "hook": "Bicarbonato de sódio — o da cozinha — melhora ~1,7% a potência em esforços intensos.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-14T22:30:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:bicarbonato-de-sodio-ergogenico"
+      "notes": "card informativo — mode:tema, topic:bicarbonato-de-sodio-ergogenico",
+      "published_at": "2026-11-14T22:38:44.818962+00:00",
+      "post_id": "17891254128476384"
     }
   ]
 }

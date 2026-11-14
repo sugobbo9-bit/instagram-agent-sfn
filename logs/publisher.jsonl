@@ -682,3 +682,9 @@
 {"ts": "2026-11-14T19:59:02.445522+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-11-14T19:59:10.688481+00:00", "level": "INFO", "msg": "PUBLICADO: vs_019 -> media_id 18017239796979043"}
 {"ts": "2026-11-14T19:59:10.704043+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-14T22:38:32.726933+00:00", "level": "INFO", "msg": "Publicando card_009 (static) \u2014 bicarbonato de s\u00f3dio como recurso ergog\u00eanico: ~1,7% de melhora na pot\u00eancia m\u00e9dia (meta-an\u00e1lise) e protocolo da ISSN (0,3 g/kg, 60\u2013180 min antes, esfor\u00e7os de 30 s a 12 min)"}
+{"ts": "2026-11-14T22:38:32.729599+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-14T22:38:32.729660+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_009/card.png"}
+{"ts": "2026-11-14T22:38:32.856861+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-14T22:38:44.818788+00:00", "level": "INFO", "msg": "PUBLICADO: card_009 -> media_id 17891254128476384"}
+{"ts": "2026-11-14T22:38:44.834424+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
