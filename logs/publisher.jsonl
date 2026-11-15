@@ -688,3 +688,4 @@
 {"ts": "2026-11-14T22:38:32.856861+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-11-14T22:38:44.818788+00:00", "level": "INFO", "msg": "PUBLICADO: card_009 -> media_id 17891254128476384"}
 {"ts": "2026-11-14T22:38:44.834424+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-15T18:28:34.935753+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
