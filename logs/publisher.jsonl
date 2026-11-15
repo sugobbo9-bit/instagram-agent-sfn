@@ -696,3 +696,9 @@
 {"ts": "2026-11-15T20:18:44.911151+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
 {"ts": "2026-11-15T20:18:58.683942+00:00", "level": "INFO", "msg": "PUBLICADO: vs_020 -> media_id 18160385107514903"}
 {"ts": "2026-11-15T20:18:58.700380+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-15T22:39:45.525966+00:00", "level": "INFO", "msg": "Publicando card_010 (static) \u2014 cetonas ex\u00f3genas (ketone ester / sais de cetona) e desempenho de endurance \u2014 meta-an\u00e1lise sem efeito (8 RCTs, 80 participantes)"}
+{"ts": "2026-11-15T22:39:45.530045+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-15T22:39:45.530137+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_010/card.png"}
+{"ts": "2026-11-15T22:39:45.643987+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-15T22:39:53.493771+00:00", "level": "INFO", "msg": "PUBLICADO: card_010 -> media_id 18119852816041968"}
+{"ts": "2026-11-15T22:39:53.515149+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

@@ -1235,11 +1235,13 @@
       "format": "static",
       "topic": "cetonas exógenas (ketone ester / sais de cetona) e desempenho de endurance — meta-análise sem efeito (8 RCTs, 80 participantes)",
       "hook": "Cetona exógena, o 'biohack' do pelotão, não melhora endurance: 8 estudos, 80 atletas, efeito zero.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-15T22:30:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:cetonas-exogenas-ketone-ester"
+      "notes": "card informativo — mode:tema, topic:cetonas-exogenas-ketone-ester",
+      "published_at": "2026-11-15T22:39:53.493988+00:00",
+      "post_id": "18119852816041968"
     }
   ]
 }
