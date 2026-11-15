@@ -1,0 +1,44 @@
+{
+  "local_id": "card_010",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-11-15T22:30:00Z",
+  "topic": "cetonas exógenas (ketone ester / sais de cetona) e desempenho de endurance — meta-análise sem efeito (8 RCTs, 80 participantes)",
+  "content_pillar": "biohacks",
+  "hook": "Cetona exógena, o 'biohack' do pelotão, não melhora endurance: 8 estudos, 80 atletas, efeito zero.",
+  "subtext": "A cetona no sangue sobe de verdade — mas nem tempo até a exaustão nem contrarrelógio mudaram em relação ao placebo.",
+  "source_line": "Brooks et al., Int J Sport Nutr Exerc Metab, 2022 (revisão sistemática e meta-análise de 8 RCTs).",
+  "badge": "Biohack",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:cetonas-exogenas-ketone-ester"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Ésteres de cetona viraram o suplemento 'secreto' de equipes de ciclismo e corredores de elite: a promessa é um combustível extra pro músculo, poupando glicogênio. 🧪🚴\n\nA meta-análise de Brooks et al. (2022) reuniu os 8 ensaios clínicos randomizados que mediram desempenho de endurance com cetonas exógenas (ésteres e sais) contra placebo/controle — 80 participantes. Resultado: nenhuma diferença, nem em tempo até a exaustão (g = 0,00) nem em contrarrelógio (g = 0,06). A cetona no sangue sobe de verdade; a performance, não.\n\nNa prática: frasco caro, gosto difícil e enjoo relatado por vários atletas. Em prova longa, o dinheiro rende mais em carboidrato bem treinado (60–90 g/h).\n\nFonte: Brooks E et al., Int J Sport Nutr Exerc Metab, 2022;32(3):214-225. DOI 10.1123/ijsnem.2021-0280.\n\n#nutricaoesportiva #cetonas #ketoneester #endurance #ciclismo #maratona",
+  "cta": "Salva e manda pra quem já pensou em comprar.",
+  "scientific_sources": [
+    {
+      "title": "Acute Ingestion of Ketone Monoesters and Precursors Do Not Enhance Endurance Exercise Performance: A Systematic Review and Meta-Analysis",
+      "authors": "Brooks E, Lamothe G, Nagpal TS, Imbeault P, Adamo K, Kara J, Doucet É",
+      "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+      "year": 2022,
+      "volume": "32",
+      "issue": "3",
+      "pages": "214-225",
+      "doi": "10.1123/ijsnem.2021-0280",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35042186",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_010/card.png"
+  ]
+}
