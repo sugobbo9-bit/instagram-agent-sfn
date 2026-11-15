@@ -1222,11 +1222,13 @@
       "format": "carousel",
       "topic": "goma de carboidrato: GU Energy Chews vs Clif Bloks (rótulo lado a lado)",
       "hook": "GU Energy Chews vs. Clif Bloks. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-15T20:17:36.332354+00:00",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:goma-carbo, pair:gu-clif"
+      "notes": "marca x marca — category:goma-carbo, pair:gu-clif",
+      "published_at": "2026-11-15T20:18:58.684155+00:00",
+      "post_id": "18160385107514903"
     }
   ]
 }

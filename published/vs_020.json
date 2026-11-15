@@ -1,0 +1,214 @@
+{
+  "local_id": "vs_020",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-15T00:00:00Z",
+  "topic": "goma de carboidrato: GU Energy Chews vs Clif Bloks (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "GU Energy Chews vs. Clif Bloks. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:goma-carbo",
+    "pair:gu-clif"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "GU Energy Chews",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_020/img/gu_energy_chews_white.png",
+      "label_source": {
+        "url": "https://guenergy.com/products/energy-chews",
+        "consulted": "2026-11-15",
+        "notes": "Supplement Facts lido da imagem oficial (sabor Fruit Punch, 'No Caffeine'): porção 30 g, 100 kcal, 23 g carboidrato (11 g açúcares), 40 mg sódio, 420 mg GU Amino Acid Blend (L-leucina, L-valina, L-isoleucina). Sachê de 60 g (2,12 oz) = 2 porções. Fontes de carbo: xarope de tapioca, açúcar de cana, maltodextrina. A página informa que o sódio varia de 40 a 125 mg e a cafeína de 0 a 20 mg conforme o sabor."
+      }
+    },
+    {
+      "name": "Clif Bloks",
+      "brand": "Clif Bar",
+      "image": "content/drafts/vs_020/img/clif_bloks_white.png",
+      "label_source": {
+        "url": "https://www.clifbar.com/products/clif-bloks-energy-chews-mountain-berry",
+        "consulted": "2026-11-15",
+        "notes": "Nutrition Facts lido da imagem oficial do rótulo (sabor Mountain Berry, sem cafeína): porção 3 blocos (30 g), 100 kcal, 24 g carboidrato (12 g açúcares), 50 mg sódio, 18 mg potássio, 0 g proteína. Pacote de 60 g (2,12 oz) = 2 porções. Selos USDA Organic e Gluten Free. A marca tem versões com cafeína e com 2x/3x de sódio em outros sabores."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas gomas\nde carbo.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_020/img/gu_energy_chews_white.png",
+          "mode": "multiply",
+          "label": "GU Energy Chews"
+        },
+        {
+          "image": "content/drafts/vs_020/img/clif_bloks_white.png",
+          "mode": "multiply",
+          "label": "Clif Bloks"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da porção",
+      "values": [
+        {
+          "value": "30 g"
+        },
+        {
+          "value": "30 g",
+          "note": "3 blocos"
+        }
+      ],
+      "footnote": "O pacote inteiro (60 g) rende 2 porções nas duas marcas. Cada porção: 100 kcal."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção",
+      "values": [
+        {
+          "value": "23 g",
+          "note": "açúcares: 11 g"
+        },
+        {
+          "value": "24 g",
+          "note": "açúcares: 12 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção",
+      "values": [
+        {
+          "value": "40 mg",
+          "note": "varia com o sabor"
+        },
+        {
+          "value": "50 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "420 mg de aminoácidos",
+          "note": "leucina, valina e isoleucina"
+        },
+        {
+          "value": "18 mg de potássio",
+          "note": "sem aminoácidos adicionados"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg",
+          "note": "há sabores com 20 mg"
+        },
+        {
+          "value": "0 mg",
+          "note": "há sabores com cafeína e mais sódio"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "As duas entregam cerca de 100 kcal e uns 23 g de carboidrato por porção de 30 g, e o pacote traz duas porções. São gomas para repor carboidrato durante o esforço, não para substituir uma refeição.\n\nA referência de carboidrato em prova fica perto de 30 a 60 g por hora, chegando a ~90 g/h em provas longas quando se misturam glicose e frutose, que usam transportadores diferentes no intestino. Uma porção cobre parte disso; o resto vem de géis, bebidas ou mais gomas. Sódio e cafeína mudam com o sabor.",
+      "source": "Rótulos e sites oficiais GU (Energy Chews, sabor Fruit Punch) e Clif (BLOKS, sabor Mountain Berry), consultados em 15/11/2026.\nJeukendrup A. Sports Med. 2014;44(Supl 1):S25-33.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nGU Energy Chews (sabor Fruit Punch): porção de 30 g (o sachê de 60 g rende 2), 100 kcal, 23 g de carboidrato (11 g de açúcares), 40 mg de sódio e 420 mg de aminoácidos (leucina, valina e isoleucina). Sem cafeína nesse sabor.\n\nClif Bloks (sabor Mountain Berry): porção de 30 g (3 blocos; o pacote de 60 g rende 2), 100 kcal, 24 g de carboidrato (12 g de açúcares), 50 mg de sódio e 18 mg de potássio. Sem cafeína nesse sabor.\n\nNas duas marcas, o sódio e a cafeína variam com o sabor. Dados dos rótulos e sites oficiais, consultados em 15/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n\nImagens: fotos de produto dos sites oficiais da GU Energy Labs e da Clif Bar.\n\n#nutricaoesportiva #gomadecarboidrato #corrida #ciclismo #triathlon #maratona #endurance #carboidrato",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "GU Energy Chews",
+      "kind": "packshot",
+      "title": "fruit_punch.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://guenergy.com/products/energy-chews",
+      "changes": "fundo aparado e composto sobre branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Clif Bloks",
+      "kind": "packshot",
+      "title": "MB_carousel_PDP_Alt_Images.png",
+      "creator": "Clif Bar",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.clifbar.com/products/clif-bloks-energy-chews-mountain-berry",
+      "changes": "fundo aparado e composto sobre branco"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-15 nas páginas oficiais (versões EUA). GU Energy Chews (Fruit Punch): Supplement Facts (porção 30 g, 100 kcal, 23 g carbo, 11 g açúcares, 40 mg sódio, 420 mg BCAA; sem cafeína; sódio 40-125 mg e cafeína 0-20 mg conforme sabor). Clif Bloks (Mountain Berry): Nutrition Facts (porção 3 blocos/30 g, 100 kcal, 24 g carbo, 12 g açúcares, 50 mg sódio, 18 mg potássio; sem cafeína; há sabores com cafeína e 2x/3x sódio). Os dois sachês têm 60 g = 2 porções. Dupla mainstream (curiosidade) exigida pela curadoria do quality gate (2026-11-01).",
+  "creative_files": [
+    "content/drafts/vs_020/slide_01.png",
+    "content/drafts/vs_020/slide_02.png",
+    "content/drafts/vs_020/slide_03.png",
+    "content/drafts/vs_020/slide_04.png",
+    "content/drafts/vs_020/slide_05.png",
+    "content/drafts/vs_020/slide_06.png",
+    "content/drafts/vs_020/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18160385107514903",
+  "published_at": "2026-11-15T20:18:58.684155+00:00"
+}

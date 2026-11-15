@@ -10671,6 +10671,50 @@
       },
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18160385107514903",
+      "local_id": "vs_020",
+      "publication_date": "2026-11-15T20:18:58.684155+00:00",
+      "format": "carousel",
+      "topic": "goma de carboidrato: GU Energy Chews vs Clif Bloks (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "GU Energy Chews vs. Clif Bloks. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nGU Energy Chews (sabor Fruit Punch): porção de 30 g (o sachê de 60 g rende 2), 100 kcal, 23 g de carboidrato (11 g de açúcares), 40 mg de sódio e 420 mg de aminoácidos (leucina, valina e isoleucina). Sem cafeína nesse sabor.\n\nClif Bloks (sabor Mountain Berry): porção de 30 g (3 blocos; o pacote de 60 g rende 2), 100 kcal, 24 g de carboidrato (12 g de açúcares), 50 mg de sódio e 18 mg de potássio. Sem cafeína nesse sabor.\n\nNas duas marcas, o sódio e a cafeína variam com o sabor. Dados dos rótulos e sites oficiais, consultados em 15/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n\nImagens: fotos de produto dos sites oficiais da GU Energy Labs e da Clif Bar.\n\n#nutricaoesportiva #gomadecarboidrato #corrida #ciclismo #triathlon #maratona #endurance #carboidrato",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_020/slide_01.png",
+        "content/drafts/vs_020/slide_02.png",
+        "content/drafts/vs_020/slide_03.png",
+        "content/drafts/vs_020/slide_04.png",
+        "content/drafts/vs_020/slide_05.png",
+        "content/drafts/vs_020/slide_06.png",
+        "content/drafts/vs_020/slide_07.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:goma-carbo",
+        "pair:gu-clif"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
