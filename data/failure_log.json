@@ -138,12 +138,12 @@
       "post_id": "vs_commodity_pattern_2026-10",
       "topic": "versus de marca-vs-marca de suplemento de nicho (whey, beta-alanina, creatina, cafeína cápsula, hydration tabs)",
       "format": "carousel",
-      "reach": 146,
+      "reach": 138,
       "tier": "bottom25",
-      "date": "2026-10-30",
+      "date": "2026-11-15",
       "diagnosis": "tópico + formato de série + horário",
-      "detail": "6 versus de commodity no ciclo no fundo do alcance: vs_008 whey isolado Growth×Max=80, vs_005 beta-alanina=124, vs_007 hydration tabs=159, vs_002 creatina=167, vs_004 whey=182, vs_006 cafeína cápsula=185. Contraste nítido com versus MAINSTREAM/diferenciado: Gatorade×Powerade=699, Maurten×GU=495. Diagnóstico triplo: (1) marcas de nicho (Growth/Max Titanium/Probiótica/Atlhetica) não têm reconhecimento nem gap de curiosidade para o público; (2) a série vs_* sai diária no slot morto 19-20h UTC (mediana 185/188 por dias distintos) — os piores horários da conta; (3) commodity idêntica (duas monohidratadas, dois wheys) não tem o que comparar. FALHA REPETIDA (n=6) — não é ruído.",
-      "idea_verdict": "aposentar versus de commodity de nicho; manter versus só com marcas mainstream (Gatorade/Powerade/Red Bull/Coca) ou fórmulas de fato distintas (hidrogel×gel comum); mover para slot forte 14h, nunca 20h"
+      "detail": "6 versus de commodity no ciclo no fundo do alcance: vs_008 whey isolado Growth×Max=80, vs_005 beta-alanina=124, vs_007 hydration tabs=159, vs_002 creatina=167, vs_004 whey=182, vs_006 cafeína cápsula=185. Contraste nítido com versus MAINSTREAM/diferenciado: Gatorade×Powerade=699, Maurten×GU=495. Diagnóstico triplo: (1) marcas de nicho (Growth/Max Titanium/Probiótica/Atlhetica) não têm reconhecimento nem gap de curiosidade para o público; (2) a série vs_* sai diária no slot morto 19-20h UTC (mediana 185/188 por dias distintos) — os piores horários da conta; (3) commodity idêntica (duas monohidratadas, dois wheys) não tem o que comparar. FALHA REPETIDA (n=6) — não é ruído. || ATUALIZAÇÃO 2026-11-15: padrão REINCIDENTE e agravado — a rotina diária seguiu publicando vs_* de nicho diariamente (vs_011..vs_019). n agora =16, mediana 138,5, 11/16 com ZERO shares, TODOS no fundo (vs_018 creatina Max Titanium×Dux=46 é o pior do mês). É a maior massa de conteúdo fraco do feed (16 vs_ + 9 cards vs 13 técnicos) enquanto a conta perdeu mais 236 seguidores. Mesmo padrão do estático em 2026-09/10: decisão escrita há 2 semanas (01/11) e NUNCA aplicada pela rotina diária.",
+      "idea_verdict": "aposentar versus de commodity de nicho; manter versus só com marcas mainstream (Gatorade/Powerade/Red Bull/Coca) ou fórmulas de fato distintas (hidrogel×gel comum); mover para slot forte 14h, nunca 20h | ENFORCE EM CÓDIGO 2026-11-15: adicionada a trava VERSUS_COMMODITY_BLOCKED no quality_gate.py — o gate reprova versus sem marca mainstream (allowlist) e sem 'distinct_formulas': true. Testado contra os arquivos reais: vs_019/018/016 reprovados, vs_009 (Gatorade×Powerade) aprovado. Mesma lição do STATIC_PAUSED: decisão que importa vai para o código, no chokepoint que o loop semanal controla."
     },
     {
       "post_id": "der_carga_carbo_erros_122",
@@ -168,5 +168,5 @@
       "idea_verdict": "manter por diretriz do dono; reportar tendência fraca; reavaliar com o Victor em ≥4 semanas; ideias (ciência) são boas — se a série for encerrada, reaproveitar como carrossel"
     }
   ],
-  "_last_review": "2026-10-11"
+  "_last_review": "2026-11-15"
 }

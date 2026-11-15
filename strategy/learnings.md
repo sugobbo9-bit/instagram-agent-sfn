@@ -208,3 +208,30 @@ Slot técnico **14h (436, 5 dias) e 15h (511, 3 dias)** é o único motor. **19h
 - **Perfil de engajamento estável em 8 coletas (16/09→01/11), sem dado novo desde 01/11.** Carrossel 366 > reel 256 > estático 212; contrarian (430/0,0166) > myth (312/0,0113); audiência salva/compartilha e quase não comenta (92 comentários/195 posts, mediana 0); comparação de produto concentra os poucos comentários; versus/suplemento de nicho no fundo. Nada disso mudou — falta é **dado fresco** (coleta parada em 01/11), não interpretação.
 - **Demografia + texto de comentários: 8ª rodada bloqueada.** Token do `.env` do Mac expirado desde 26/08 (OAuth 190), re-testado 11/11 (inalterado). Desbloqueio = regerar token longo com `instagram_manage_insights`+`instagram_manage_comments`, OU passo no Actions que commite `data/audience_demographics.json` + `data/comments_recent.json`.
 
+
+## Ciclo 2026-11-15
+
+### Sobre a Conta
+8.850 seguidores (**−236 na semana**, 2ª queda seguida). Trajetória: +137/+152/+111/−13/−430/−236. 219 posts com métricas frescas (bootstrap 15/11).
+
+### A virada de diagnóstico: o blackout acabou, o problema agora é CURADORIA
+Os ciclos anteriores trataram a queda de seguidores como problema de **consistência** (blackout). Com dado fresco, a publicação está **contínua desde 10/11** (2–3 posts/dia); os buracos foram 10–25/out (14d) e 07–09/nov (3d), ambos no passado. Mesmo assim o alcance do carrossel **despencou**: baseline 301 → 14d 173 → 7d **118,5**. A causa mudou de **sumir** para **diluir**: o feed está ~65% preenchido por `vs_*` de nicho (16, mediana 138, 11/16 com 0 share) + `card_*` (9, mediana 98), contra só 13 técnicos (`der_`/`draft_`, mediana 406) que seguram o alcance. Lição: quando a consistência volta mas o alcance cai, o gargalo é a **composição do feed**, não o volume.
+
+### Enforce em código (3ª vez que a lição se repete): versus de commodity bloqueado
+A decisão de 01/11 (aposentar versus de nicho) ficou 2 semanas só no documento enquanto a rotina diária publicava vs_011..vs_019 — exatamente o padrão do estático em set/out. Ação: trava `VERSUS_COMMODITY_BLOCKED` no `quality_gate.py` (allowlist de marcas mainstream + escape `distinct_formulas:true`). Isolada ao template `versus` — não toca carrossel técnico/card/claim, logo **sem risco de blackout**. Testada nos arquivos reais: vs_019/018/016 reprovados, vs_009 (Gatorade×Powerade) aprovado. Reconfirma a regra: **decisão que importa vai para o código, no chokepoint que o loop controla.**
+
+### Vencedor / Fracassos
+- Vencedor: **`der_carga_carbo_curta` = 717** (15h UTC, 25 shares, saves/r 0,018) — família carga de carbo reconfirmada pela 4ª vez; hook contrarian que inverte a própria família. 6x o feed recente.
+- Fracasso enforçado: **`vs_*` commodity** (n=16, mediana 138, 11 zeros) — travado em código.
+- Fracasso sob observação: **`card_*`** (n=9, mediana 98) — tendência negativa clara, mas dentro da janela do dono (≥4 semanas, fecha ~24/11): reportado, não re-pausado.
+
+### Reconfirmações (sem dado novo de audiência própria)
+Hook contrarian (374, n=20) > myth (312, n=16). Slot 15h UTC (546/5d) e 14h (300/11d) são o motor; 19–20h mortos (157/166). Token do Mac segue expirado (8ª rodada de demografia/comentários bloqueada). Claim-check: 0 publicados 2 semanas após a diretriz — reescalado.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-11-15 | **EXECUTADO: trava `VERSUS_COMMODITY_BLOCKED` no quality_gate.py** — gate reprova versus sem marca mainstream e sem `distinct_formulas` | Enforce em código da aposentadoria decidida em 01/11 e nunca aplicada pela rotina diária (vs_011..019 diários no fundo) | vs_* n=16 mediana 138, 11/16 com 0 share; testado: vs_019/018/016 reprovados, vs_009 aprovado |
+| 2026-11-15 | **Diagnóstico migra de "blackout/consistência" para "curadoria/diluição do feed"** | Publicação contínua desde 10/11, mas carrossel 301→173→118; feed 65% `vs_`+`card_` (mediana 138/98) vs técnico 406 | posts_db fresco (bootstrap 15/11), timeline por dia |
+| 2026-11-15 | +1 vencedor (carga_carbo_curta 717); failure vs_commodity atualizado e enforçado | Winner/failure system | winner_library / failure_log |
+| 2026-11-15 | **Reescalado: claim-check (0 publicados em 2 semanas) e horário dos dispatches** seguem fora do alcance do loop — dependem da rotina diária | Diretriz de 31/10 nunca renderizada; `vs_*` ainda saem 19–20h | posts_db: nenhum claim_*, vs_* em 19–20h UTC |

@@ -10,6 +10,22 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from config import CAROUSEL_DIMENSIONS, REEL_DIMENSIONS
 
+# --- Curadoria de versus: nicho/commodity BLOQUEADO -------------------
+# Decisao de 2026-11-01 (estrategia), enforce em codigo 2026-11-15.
+# vs_* entre duas marcas de nicho do mesmo produto commodity nao gera
+# alcance nem compartilhamento: mediana 138, 11/16 com 0 shares, todos
+# no fundo do feed, e diluem o baseline do carrossel enquanto a conta
+# perde seguidores. Versus so se sustenta com gap de curiosidade: uma
+# marca mainstream (todo mundo conhece) OU formulas de fato distintas
+# (campo "distinct_formulas": true, ex. hidrogel x gel comum).
+# Reversivel: VERSUS_COMMODITY_BLOCKED = False reativa o formato.
+VERSUS_COMMODITY_BLOCKED = True
+MAINSTREAM_BRANDS = (
+    "gatorade", "powerade", "coca-cola", "coca cola", "red bull", "redbull",
+    "maurten", "gu energy", "gu ", "sis", "science in sport", "clif",
+    "honey stinger", "monster", "nestle", "nestlé",
+)
+
 
 def check_carousel(post: dict) -> tuple[bool, list]:
     """Valida um rascunho de carrossel."""
@@ -107,6 +123,18 @@ def check_carousel(post: dict) -> tuple[bool, list]:
             failures.append("VERSUS: nenhum slide 'metric' (o lado a lado)")
         if slides and slides[-1].get("type") != "fact":
             failures.append("VERSUS: o ultimo slide precisa ser type 'fact' com 'source'")
+
+        # CURADORIA — nicho/commodity bloqueado (ver flag no topo)
+        if VERSUS_COMMODITY_BLOCKED and not post.get("distinct_formulas"):
+            brands = [str((pr.get("brand") or pr.get("name") or "")).lower() for pr in prods]
+            has_mainstream = any(any(mb in b for mb in MAINSTREAM_BRANDS) for b in brands)
+            if not has_mainstream:
+                failures.append(
+                    "VERSUS: comparacao de nicho/commodity bloqueada pela estrategia "
+                    "(2026-11-01). Use marca mainstream OU marque \"distinct_formulas\": true "
+                    "para formulas de fato distintas (ex. hidrogel x gel comum). "
+                    f"Marcas vistas: {brands}"
+                )
 
     # CLAIM CHECK — promessa de marca x evidencia (diretriz do Victor, 31/10/2026)
     if post.get("template") == "claim_check":

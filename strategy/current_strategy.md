@@ -1,76 +1,73 @@
 # Estratégia Atual — @sofatosnutricao
 
-> **Decisão do Victor (31/10/2026) — claim check semanal.** 1x/semana o slot técnico das 12h BRT vira `claim_NNN` (`series:claim-check`, playbook seção 6): uma promessa de marketing de um gel real confrontada com a evidência, em rodízio fixo **Maurten → Dobro BT Nitrato → Xtratus H2Gel**. Veredito só com estudo citado, evidência mista declarada como mista, sem insulto, **Z2 nunca aparece**, preço em R$/g de carbo com fonte+data. Cadência é diretriz do dono: a revisão mede (shares/reach, saves/reach, comentários) e ajusta hook/ângulo, **não suspende**. _Status 01/11: 0 claim_* publicados ainda — a rotina diária precisa renderizar o 1º (claim_001, Maurten)._
+> **Decisão do Victor (31/10/2026) — claim check semanal.** 1x/semana o slot técnico das 12h BRT vira `claim_NNN` (`series:claim-check`, playbook seção 6): uma promessa de marketing de um gel real confrontada com a evidência, rodízio fixo **Maurten → Dobro BT Nitrato → Xtratus H2Gel**. Veredito só com estudo citado, evidência mista declarada como mista, sem insulto, **Z2 nunca aparece**, preço em R$/g de carbo com fonte+data. Cadência é diretriz do dono: a revisão mede e ajusta hook/ângulo, **não suspende**. _Status 15/11: **ainda 0 claim_* publicados** — 2 semanas após a diretriz, a rotina diária nunca renderizou o 1º (claim_001, Maurten). Reescalado._
 
-> **Decisão do Victor (27/10/2026) — card informativo como 3º post diário.** Série `card_NNN` (`series:card-informativo`, estático, ~19h30 BRT; playbook seção 5). A revisão mede separado e **não re-pausa automaticamente** — só reporta e deixa a decisão com o Victor após ≥4 semanas. _Status 01/11: n=4, mediana 110 (fundo) — tendência fraca reportada, dentro da janela de observação._
+> **Decisão do Victor (27/10/2026) — card informativo como 3º post diário.** Série `card_NNN` (`series:card-informativo`, estático, ~19h30–22h BRT; playbook seção 5). A revisão mede separado e **não re-pausa automaticamente** — só reporta e deixa a decisão com o Victor após ≥4 semanas (janela fecha ~24/11). _Status 15/11: n=9, mediana **98** (fundo do feed) — tendência fortemente negativa, mas **dentro da janela de observação do dono**: reportado, não re-pausado._
 
-_Atualizado: 2026-11-01, revisão estratégica semanal_
-_Base: **9.086 seguidores** (−430 na semana — 1ª queda grande) | 195 publicações com métricas reais (Graph API, coletadas 01/11)_
+_Atualizado: 2026-11-15, revisão estratégica semanal_
+_Base: **8.850 seguidores** (−236 na semana; 2ª queda seguida) | 219 publicações com métricas reais (Graph API, bootstrap 15/11)_
 
-## O alerta da semana: seguidores caíram 430
+## O quadro da semana: a publicação voltou, mas o alcance está em queda livre
 
-Primeira queda grande da conta (−430: 9.516 → 9.086). Histórico recente: +137 / +152 / +111 / −13 / **−430**. Dois drivers prováveis, ambos de **execução**, não de ciência:
+**Boa notícia: o blackout acabou.** A publicação está contínua desde 10/11 (2–3 posts/dia). Os únicos buracos recentes foram **10–25/out (14 dias, o grande)** e **07–09/nov (3 dias)**. A consistência — prioridade nº 1 dos últimos ciclos — está, por ora, restabelecida.
 
-1. **Blackout de 14 dias (11/10 → 26/10).** A conta ficou sem publicar duas semanas. Depois voltou com um **burst de 15 posts em 6 dias** (26–31/10). Sumir e reaparecer em rajada é o padrão clássico que derruba alcance e seguidores. **Escalado ao Victor: descobrir por que a rotina diária parou e blindar contra novos blackouts** — esta é a prioridade nº 1 do ciclo.
-2. **Feed recente diluído.** Boa parte do burst foram `vs_*` de commodity e `card_*` estáticos de baixo alcance (ver abaixo), que ensinam o algoritmo que a conta virou volume fraco.
+**Má notícia: seguidores continuam caindo e o alcance do carrossel despencou.** Trajetória: +137 / +152 / +111 / −13 / −430 / **−236**. E a mediana de alcance do carrossel está em queda acelerada:
 
-A ciência e os formatos fortes continuam funcionando — o problema é **consistência e curadoria do que entra no feed**.
+| janela | mediana carrossel |
+|---|---|
+| baseline all-time (n=109) | 301 |
+| últimos 14 dias (n=19) | **173** |
+| últimos 7 dias (n=8) | **118,5** |
 
-## O que os dados dizem agora
+Com a publicação restaurada, o furo deixou de ser **consistência** e passou a ser **curadoria**: o feed está ~65% preenchido por dois formatos que a estratégia já condenou e que não entregam alcance nem seguidores.
 
-### Medianas por formato (amostra completa, normalizado)
-| formato | n | alcance mediano | p90 | p75 | p25 |
-|---|---|---|---|---|---|
-| **carrossel** | 91 | **366** | 1.180 | 748 | 195 |
-| reel | 77 | 256 | 515 | 381 | 168 |
-| estático | 27 | 212 | 342 | 295 | 150 |
+## O diagnóstico central: o feed está diluído por lixo diário
 
-Carrossel segue o formato dominante. Reel só como experimento controlado de conteúdo intrinsecamente visual. Estático (inclui a série `card_*` nova) segue no fundo.
+### Performance por fluxo de conteúdo (últimos 30d, por prefixo de `local_id`)
+| fluxo | n | mediana alcance | shares totais | posts com 0 share |
+|---|---|---|---|---|
+| **`der_` técnico (derivado de vencedor)** | 9 | **406** | 72 | 1 |
+| `draft_` técnico | 4 | 261 | 16 | 0 |
+| **`vs_` versus de commodity de nicho** | 16 | **138** | 15 | **11** |
+| **`card_` estático** | 9 | **98** | 5 | 4 |
+| `claim_` claim-check | 0 | — | — | — |
 
-### Janela recente (burst 26–31/10)
-Carrossel mediana **185** (7d) — muito abaixo do baseline 366. O burst pós-blackout foi fraco na média porque metade foram versus de commodity. Mas o **topo** segue alto quando a receita é respeitada (lactato 947).
+**Leitura dura:** de cada ~29 slots recentes de carrossel+estático, **25 são `vs_` de nicho (16) + `card_` (9)** — conteúdo que a plataforma lê como "volume fraco". Só **13 técnicos** (`der_`+`draft_`) seguram o alcance. O motor (técnico, mediana 406) está sendo afogado pelo lastro (versus 138 + card 98). É a mesma mecânica que derrubou a série estática em set/out — agora com os `vs_*`.
 
 ### Horário — carrossel por DIAS DISTINTOS (últimos 45d)
-| janela | dias distintos | alcance mediano | leitura |
+| janela | dias distintos | mediana | leitura |
 |---|---|---|---|
-| **15h UTC** | 3 | **511** | slot técnico forte |
-| **14h UTC** | 5 | **436** | slot técnico forte (mais limpo) |
-| 18h UTC | 1 | 495 | forte, amostra fina |
-| 11h UTC | 12 | 282 | fraca |
-| **19h UTC** | 5 | **188** | **morto** (onde saem os vs_*) |
-| **20h UTC** | 5 | **185** | **morto** (onde saem os vs_*) |
+| **15h UTC** | 5 | **546** | slot técnico — o motor |
+| 14h UTC | 11 | 300 | slot técnico (mais limpo) |
+| 11h UTC | 5 | 264 | fraca |
+| **19h UTC** | 8 | **157** | **morto** (onde saem os `vs_*`) |
+| **20h UTC** | 12 | **166** | **morto** (onde saem os `vs_*`) |
 
-**Leitura dura:** a rotina diária está jogando o conteúdo que importa (versus, cards) nos **piores horários da conta** (19–20h, 22h). O único motor é o slot técnico **14–15h UTC**.
+Reconfirmado: o único motor é **14–15h UTC**. Os `vs_*` saem em **19–20h** (os piores horários) — dobro de penalidade: formato errado no horário errado.
 
 ### Hook (tag `hook:`)
-**Contrarian vence myth, reconfirmado e mais forte:** contrarian (n=12) mediana **430**, saves/reach **0,0166**; myth (n=16) mediana 312, saves/reach 0,0113. Enquadrar como "o protocolo que quase todo mundo faz errado + número" rende mais que "esse mito diz X".
+**Contrarian segue vencendo:** contrarian (n=20) mediana **374**, myth (n=16) **312**. Hook contrarian+numérico é o padrão de produção. Reconfirmado pelos campeões.
 
-## Vencedores do ciclo (famílias para explorar)
-- **Lactato (der_lactato_pratico = 947, vencedor do ciclo)** — hook contrarian ("o lactato não te cansa, ele te diz o ritmo") + reframe prático. Família campeã all-time (lactato 2450). Derivado novo na fila: `der_lactato_limiar`.
-- **Versus MAINSTREAM (Gatorade×Powerade = 699)** — junto com Maurten×GU (495), o único versus que funciona: marcas que todo mundo conhece / fórmulas de fato distintas.
-- **Cafeína (der_cafeina_dose_timing = 511)** — família vencedora recorrente, reconfirmada.
-- **Cãibra (der_caibra_mitos = 436, saves/reach 0,025)** — mito prático universal, alto salvamento.
-- Padrão estável: **derrubar uma crença (contrarian) + número + protocolo acionável, no slot 14–15h, com foto.**
+## Vencedor do ciclo
+- **`der_carga_carbo_curta` = 717** (15:55 UTC, 25 shares, 13 saves, shares/reach 0,035). **Família carga de carboidrato reconfirmada pela 4ª vez** (passo 1.840/1.661, carga 918). Hook contrarian que vira a própria família do avesso ("quando carregar carbo é DESPERDÍCIO"). **6x o alcance do feed recente.** É a receita padrão: família campeã + hook contrarian + slot 15h + foto.
 
 ## Fracassos do ciclo (diagnóstico)
-- **Versus de commodity de nicho (ENCERRAR):** 6 no fundo (vs_008 whey=80, vs_005 beta-alanina=124, vs_007 tabs=159, vs_002 creatina=167, vs_004 whey=182, vs_006 cafeína cápsula=185). Falha repetida (n=6), não ruído. Marcas de nicho (Growth/Max Titanium/Probiótica/Atlhetica) não têm reconhecimento nem gap de curiosidade, e saem no slot morto das 20h.
-- **der_carga_carbo_erros (122):** família campeã, hook de LISTA fraco. Boa ideia, hook errado → reteste com hook contrarian+numérico (`der_carga_carbo_erros_v2` na fila).
-- **Série card_* (estático, med 110):** padrão do antigo estático. **Sob observação por diretriz do Victor** — não re-pausar antes de ≥4 semanas.
+- **`vs_*` versus de commodity de nicho (ENFORCE EM CÓDIGO):** padrão reincidente e agravado, n=16, mediana 138, 11/16 com 0 share, todos no fundo (vs_018 creatina Max Titanium×Dux=46, o pior do mês). Decisão de 01/11 (aposentar) nunca aplicada pela rotina diária. **Ação deste ciclo: trava `VERSUS_COMMODITY_BLOCKED` no `quality_gate.py`** — o gate reprova versus sem marca mainstream (allowlist) e sem `distinct_formulas:true`. Testado nos arquivos reais (vs_019/018/016 reprovados; vs_009 Gatorade×Powerade aprovado).
+- **Série `card_*` (estático, mediana 98):** mesmo padrão do antigo estático. **Sob observação por diretriz do Victor** — não re-pausar antes de ~24/11; reportado.
 
 ## Decisões para o próximo ciclo
-1. **Consistência acima de tudo.** Nenhum blackout. Escalado ao Victor: investigar a parada de 14d da rotina diária e garantir publicação diária contínua. Esta é a alavanca nº 1 para reverter a queda de seguidores.
-2. **Versus:** aposentar commodity de nicho. Só marcas **mainstream** (Gatorade/Powerade/Red Bull/Coca) ou **fórmulas de fato distintas** (hidrogel × gel comum). E mover para o **slot 14h**, nunca 20h.
-3. **Horário:** tudo que importa no slot **14–15h UTC**. Parar de jogar conteúdo relevante em 19–22h (mortos). Nunca carrossel na sexta sem necessidade.
-4. **Hook:** contrarian+numérico como padrão de produção.
-5. **Fila `der_*`:** consumir antes de criar tema novo (restam `der_mouth_rinse`, `der_carga_carbo_curta` + os 2 novos). Aplicar foto + hook numérico.
-6. **Claim-check:** publicar o 1º (`claim_001`, Maurten) no slot técnico — pendência da rotina diária.
-7. **Meta do ciclo:** voltar o crescimento de seguidores ao positivo via consistência + curadoria; recuperar a mediana de carrossel para 350+ concentrando a publicação em 14–15h e cortando o lixo de 20h.
+1. **Curadoria > volume (a alavanca nº 1 agora).** Com a publicação restaurada, o que trava a conta é o feed diluído. A trava de versus-commodity (em código) remove ~metade do lastro sem tocar no motor técnico nem arriscar blackout (só afeta o template `versus`).
+2. **Alimentar o motor técnico.** `der_*` (carga de carbo, lactato, cafeína, cãibra) no slot **14–15h UTC**, com foto e hook contrarian+numérico. É o único fluxo que entrega alcance e shares.
+3. **Horário:** conteúdo relevante só em 14–15h. Parar de jogar qualquer coisa em 19–20h (mortos).
+4. **Claim-check:** 2 semanas sem o 1º post. **Reescalado ao Victor** — depende da rotina diária renderizar `claim_001` (Maurten). O gate `claim_check` já está pronto.
+5. **Card informativo:** respeitar a janela de observação do dono (≥4 semanas, fecha ~24/11); no próximo ciclo a decisão de manter/pausar terá base completa (hoje mediana 98, tendência clara).
+6. **Meta do ciclo:** estancar a queda de seguidores via curadoria; recuperar a mediana de carrossel de 118 → 250+ cortando o lastro de versus/card e concentrando em técnico 14–15h.
 
 ## Pendências de dados / execução
-- **Blackout de publicação (CRÍTICO):** a rotina diária ficou 14d sem rodar. Causa desconhecida (token do Mac? cron? Actions?). Maior suspeito da queda de seguidores. Escalado.
-- **Token do Mac expirado (26/08):** `INSTAGRAM_ACCESS_TOKEN` em `SFN/Instagram Agent/.env` expirado — bloqueia demografia + texto de comentários para análise local. O token de Página vive só como Secret do Actions (bootstrap funciona por lá). Regerar destrava o banco de perguntas da audiência.
-- **follows/reach por post:** segue cego na Graph API — conversão não otimizável no nível do post.
-- **Demografia/comentários:** falta instrumentar passo no Actions que commite `data/audience_demographics.json` e `data/comments_recent.json`.
+- **Rotina diária publica o que a estratégia aposentou.** O loop semanal só controla o repo (publisher/gate). A trava de versus foi o passo possível; **horário dos dispatches e a série card seguem fora do alcance do loop** — dependem da rotina diária. Reescalado.
+- **Claim-check nunca renderizado** (diretriz de 31/10). Lever exclusivo da rotina diária.
+- **Token do Mac expirado (26/08):** `INSTAGRAM_ACCESS_TOKEN` no `.env` expirado — bloqueia demografia + texto de comentários para análise local. 8ª rodada bloqueada. Desbloqueio: regerar token longo (`instagram_manage_insights` + `instagram_manage_comments`) OU passo no Actions que commite `data/audience_demographics.json` + `data/comments_recent.json`.
+- **follows/reach por post:** segue cego na Graph API.
 
 ## Regras imutáveis
-Integridade científica, sem engajamento falso, sem gasto sem aprovação, rastreabilidade completa: ideia → pesquisa → criativo → publicação → métricas → aprendizado.
+Integridade científica, sem engajamento falso, sem gasto sem aprovação, sem alterar credenciais, rastreabilidade completa: ideia → pesquisa → criativo → publicação → métricas → aprendizado.

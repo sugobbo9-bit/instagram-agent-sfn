@@ -200,7 +200,24 @@
       ],
       "content_family": "comparação de produto (marcas mainstream/diferenciadas)",
       "derivatives_created": []
+    },
+    {
+      "post_id": "der_carga_carbo_curta_717",
+      "permalink_hint": "Quando a carga de carboidrato é desperdício — carrossel técnico (2026-11-13, 15:55 UTC)",
+      "format": "carousel",
+      "reach": 717,
+      "shares_per_reach": 0.035,
+      "saves_per_reach": 0.018,
+      "tier": "top10_recent",
+      "why_it_worked": [
+        "Família campeã CARGA DE CARBOIDRATO reconfirmada pela 4ª vez (der_carga_carbo_passo 1.840/1.661, carga_carbo_918) — a família mais consistente da conta",
+        "Hook CONTRARIAN+prático ('quando a carga de carboidrato é DESPERDÍCIO') — derruba a crença de que carregar carbo serve para toda prova; vira a própria família do avesso",
+        "Slot técnico forte 15h UTC (mediana limpa 546/5 dias) — o único motor de alcance da conta",
+        "25 shares / 13 saves: shares/reach 0,035 e saves/reach 0,018, muito acima da mediana recente (maioria dos posts recentes com 0 share). 6x o alcance do feed recente (mediana 118)"
+      ],
+      "content_family": "carga de carboidrato (campeã) + hook contrarian + slot 15h",
+      "derivatives_created": []
     }
   ],
-  "_last_review": "2026-11-01"
+  "_last_review": "2026-11-15"
 }
