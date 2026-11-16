@@ -1,0 +1,182 @@
+{
+  "local_id": "draft_028",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-16T00:00:00Z",
+  "topic": "hiponatremia associada ao exercício: beber demais em prova longa",
+  "content_pillar": "hydration",
+  "hook": "13% dos corredores de Boston terminaram com sódio baixo por beber demais.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:hidratacao",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "O erro não é beber pouco. É beber demais.",
+      "body": null,
+      "label": null,
+      "kicker": "O erro",
+      "image": {
+        "path": "/tmp/img/draft_028/water_bottle_spo/cand_04.jpg",
+        "focus": "center"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "\"Hidrate antes de sentir sede\"",
+      "body": "A regra que todo corredor ouviu: se você já está com sede, é tarde demais — então beba o tempo todo, no horário, goste ou não.\n\nEm prova longa, essa regra tem um lado perigoso. O risco mais grave não é faltar água. É sobrar.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Água a mais dilui o sódio do sangue",
+      "body": "Beba mais do que perde no suor e na urina e o sódio do plasma cai abaixo de 135 mmol/L — é a hiponatremia do exercício.\n\nNão é falta de sal: é volume de líquido. O sinal de alerta é ganhar peso durante a prova. E isotônico não protege: tem sódio diluído demais pra impedir.",
+      "image": {
+        "path": "/tmp/img/draft_028/water_bottle_spo/cand_01.jpg",
+        "focus": "center 40%"
+      },
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "13% de Boston. E não era falta de água.",
+      "body": "Maratona de Boston (Almond, NEJM 2005): 13% dos corredores terminaram com sódio ≤135; 0,6% em nível crítico (<120). O maior preditor foi GANHAR peso na prova — ou seja, beber demais.\n\nEm ultramaratona, revisões relatam até ~20%. O consenso internacional de 2015 é claro: o excesso de líquido é o principal fator de risco que dá pra controlar.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Beba pela sede — ela funciona",
+      "body": "O consenso recomenda beber conforme a sede (ad libitum), não por um cronograma fixo de ml.\n\nA sede é um guia confiável: avisa na hora certa.\n\nSe você termina uma prova longa mais pesado do que começou, bebeu demais. Sal na mão não é licença pra encher o tanque.",
+      "image": {
+        "path": "/tmp/img/draft_028/water_bottle_spo/cand_03.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Hidratar bem é beber o que você perde. Nem mais, nem menos.",
+      "body": "Salva e manda pro parceiro que carrega mochila d'água só pra 'garantir'.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Todo corredor ouviu que precisa \"se hidratar antes de sentir sede\". Em provas longas, essa regra tem um lado que quase ninguém conta: o risco mais grave não é faltar água — é beber demais.\n\nQuando a ingestão de líquido supera o que você perde no suor e na urina, o sódio do sangue se dilui e cai abaixo de 135 mmol/L. É a hiponatremia associada ao exercício. Não é falta de sal: é excesso de volume. Por isso o sinal de alerta é GANHAR peso durante a prova, e por isso o isotônico não resolve — o sódio dele é diluído demais para impedir a queda.\n\nOs números: na Maratona de Boston, 13% dos corredores terminaram com sódio ≤135 mmol/L e 0,6% em nível crítico (<120); o maior preditor foi ganhar peso ao longo da prova (Almond, NEJM 2005). Em ultramaratonas, revisões relatam prevalência de até ~20%. O 3º Consenso Internacional (2015) aponta o excesso de líquido como o principal fator de risco modificável.\n\nNa prática: beba conforme a sede (ad libitum), não por um cronograma fixo. A sede é um guia confiável. Se você termina uma prova longa mais pesado do que começou, bebeu demais.\n\nFontes: Almond CS et al. N Engl J Med. 2005;352(15):1550-6. | Hew-Butler T et al. 3rd International EAH Consensus. Br J Sports Med. 2015;49(22):1432-46. | Klingert M et al. J Clin Med. 2022;11(22):6775 (revisão).",
+  "cta": "Salva e manda pra quem bebe por cronograma e acha que sede é sinal de fracasso.",
+  "scientific_sources": [
+    {
+      "title": "Hyponatremia among runners in the Boston Marathon",
+      "authors": "Almond CS, Shin AY, Fortescue EB, Mannix RC, Wypij D, Binstadt BA, Duncan CN, Olson DP, Salerno AE, Newburger JW, Greenes DS",
+      "journal": "New England Journal of Medicine",
+      "year": 2005,
+      "volume": "352",
+      "issue": "15",
+      "pages": "1550-1556",
+      "doi": "10.1056/NEJMoa043901",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa043901",
+      "level": "A"
+    },
+    {
+      "title": "Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015",
+      "authors": "Hew-Butler T, Rosner MH, Fowkes-Godek S, Dugas JP, Hoffman MD, Lewis DP, Maughan RJ, Miller KC, Montain SJ, Rehrer NJ, Roberts WO, Rogers IR, Siegel AJ, Stuempfle KJ, Winger JM, Verbalis JG",
+      "journal": "British Journal of Sports Medicine",
+      "year": 2015,
+      "volume": "49",
+      "issue": "22",
+      "pages": "1432-1446",
+      "doi": "10.1136/bjsports-2015-095004",
+      "url": "https://bjsm.bmj.com/content/49/22/1432.long",
+      "level": "A"
+    },
+    {
+      "title": "Exercise-Associated Hyponatremia in Marathon Runners",
+      "authors": "Klingert M, Nikolaidis PT, Weiss K, Thuany M, Chlíbková D, Knechtle B",
+      "journal": "Journal of Clinical Medicine",
+      "year": 2022,
+      "volume": "11",
+      "issue": "22",
+      "pages": "6775",
+      "doi": "10.3390/jcm11226775",
+      "url": "https://www.mdpi.com/2077-0383/11/22/6775",
+      "level": "B"
+    }
+  ],
+  "article": {
+    "title": "Beber demais: o risco de hidratação que ninguém conta ao corredor",
+    "slug": "hiponatremia-exercicio-beber-demais-endurance",
+    "excerpt": "Em provas longas, o perigo maior não é a desidratação — é a hiponatremia por excesso de líquido. Entenda o mecanismo, os números reais (13% em Boston) e por que beber pela sede é a recomendação do consenso internacional.",
+    "meta_title": "Hiponatremia no exercício: por que beber demais é perigoso",
+    "tags": [
+      "Hidratação",
+      "Hiponatremia",
+      "Endurance",
+      "Maratona"
+    ],
+    "html": "<p>Todo corredor ouviu a mesma regra: \"hidrate-se antes de sentir sede, porque quando a sede chega já é tarde\". A intenção é boa — ninguém quer desidratar no meio de uma prova. Mas, em esforços longos, essa regra carrega um lado perigoso que quase nunca é contado: <strong>o risco mais grave não é faltar água. É sobrar.</strong></p>\n\n<h2>O que é a hiponatremia do exercício</h2>\n\n<p>A hiponatremia associada ao exercício (EAH, na sigla em inglês) é a queda do sódio no sangue para <strong>abaixo de 135 mmol/L</strong>, durante ou nas 24 horas seguintes à atividade. Ela acontece quando a quantidade de líquido que você ingere <strong>supera</strong> aquilo que perde pelo suor, pela respiração e pela urina. O excesso de água dilui o sódio do plasma.</p>\n\n<p>O ponto que mais confunde: <strong>não é um problema de falta de sal, e sim de excesso de volume</strong>. É por isso que o sinal de alerta clássico é <strong>ganhar peso ao longo da prova</strong> — sinal de que entrou mais líquido do que saiu. E é por isso que a bebida esportiva (isotônico) não resolve: a concentração de sódio dela é muito menor que a do sangue, baixa demais para impedir a diluição quando alguém bebe em excesso.</p>\n\n<h2>Os números reais</h2>\n\n<p>O estudo mais conhecido sobre o tema acompanhou corredores da <strong>Maratona de Boston</strong> (Almond e colegas, <em>New England Journal of Medicine</em>, 2005): <strong>13% dos participantes</strong> terminaram com sódio igual ou inferior a 135 mmol/L, e <strong>0,6% em nível crítico</strong> (abaixo de 120 mmol/L). O preditor mais forte da hiponatremia não foi beber de menos — foi <strong>ganhar peso durante a corrida</strong>, ou seja, o excesso de líquido.</p>\n\n<p>Em provas ainda mais longas, o quadro se repete e às vezes se agrava: revisões sobre ultramaratonas relatam prevalência de hiponatremia de <strong>até cerca de 20%</strong> dos participantes (Klingert e colegas, <em>Journal of Clinical Medicine</em>, 2022). O <strong>3º Consenso Internacional sobre Hiponatremia Associada ao Exercício</strong> (Hew-Butler e colegas, <em>British Journal of Sports Medicine</em>, 2015) é direto ao nomear o culpado: o <strong>excesso de ingestão de líquido</strong> é o principal fator de risco modificável.</p>\n\n<h2>Por que a sede funciona</h2>\n\n<p>Diante desse risco, a recomendação do consenso de 2015 é mais simples do que a cultura do \"beba sempre\" sugere: <strong>beba conforme a sede</strong> (<em>ad libitum</em>), e não seguindo um cronograma fixo de mililitros por quilômetro. A sede é um mecanismo fisiológico afinado por milhões de anos de evolução — ela avisa na hora certa, antes que a desidratação chegue a níveis que prejudicam o desempenho.</p>\n\n<table>\n<thead><tr><th>Situação</th><th>O que fazer</th></tr></thead>\n<tbody>\n<tr><td>Durante a prova</td><td>Beber quando sentir sede, em vez de forçar um volume fixo</td></tr>\n<tr><td>Sinal de que bebeu demais</td><td>Terminar mais pesado do que começou</td></tr>\n<tr><td>Isotônico</td><td>Útil para repor energia/eletrólitos, mas NÃO licença para beber em excesso</td></tr>\n<tr><td>Provas muito longas</td><td>Sódio na alimentação ajuda, mas o controle do volume continua sendo a chave</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>Hidratar bem não é encher o tanque \"por garantia\". É repor o que você perde — nem mais, nem menos. Em provas longas, beber de forma compulsiva, por medo da desidratação, pode te levar ao problema oposto e mais perigoso. Confie na sede, acompanhe seu peso em treinos longos e lembre: o corpo que ganha peso correndo está bebendo demais, não de menos.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Almond CS, Shin AY, Fortescue EB, et al. Hyponatremia among runners in the Boston Marathon. <em>N Engl J Med</em>. 2005;352(15):1550–1556. doi:10.1056/NEJMoa043901</li>\n<li>Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. <em>Br J Sports Med</em>. 2015;49(22):1432–1446. doi:10.1136/bjsports-2015-095004</li>\n<li>Klingert M, Nikolaidis PT, Weiss K, et al. Exercise-Associated Hyponatremia in Marathon Runners. <em>J Clin Med</em>. 2022;11(22):6775. doi:10.3390/jcm11226775</li>\n</ol>\n",
+    "cover": "content/drafts/draft_028/cover.png",
+    "cover_alt": "Hiponatremia no exercício: por que beber demais é perigoso em provas longas — Somente os Fatos Nutrição"
+  },
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "cover",
+      "title": "Water bottle handoff",
+      "creator": "autor desconhecido (rawpixel)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5946480/free-public-domain-cc0-photo"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "athlete-water",
+      "title": "Athlete Water",
+      "creator": "Healthy Living (StockSnap)",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/athlete-water-IJWJDIWG0Z"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "water-bottle",
+      "title": "Water bottle",
+      "creator": "autor desconhecido (rawpixel)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5943098/free-public-domain-cc0-photo"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/draft_028/slide_01.png",
+    "content/drafts/draft_028/slide_02.png",
+    "content/drafts/draft_028/slide_03.png",
+    "content/drafts/draft_028/slide_04.png",
+    "content/drafts/draft_028/slide_05.png",
+    "content/drafts/draft_028/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17890744278688278",
+  "published_at": "2026-11-16T14:44:47.389989+00:00"
+}
