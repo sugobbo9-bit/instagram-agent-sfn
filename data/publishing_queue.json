@@ -1242,6 +1242,15 @@
       "notes": "card informativo — mode:tema, topic:cetonas-exogenas-ketone-ester",
       "published_at": "2026-11-15T22:39:53.493988+00:00",
       "post_id": "18119852816041968"
+    },
+    {
+      "local_id": "draft_028",
+      "format": "carousel",
+      "topic": "hiponatremia associada ao exercício: beber demais em prova longa",
+      "hook": "13% dos corredores de Boston terminaram com sódio baixo por beber demais.",
+      "status": "approved",
+      "created_at": "2026-11-16",
+      "priority": 1
     }
   ]
 }
