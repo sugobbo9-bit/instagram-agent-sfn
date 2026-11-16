@@ -718,3 +718,9 @@
 {"ts": "2026-11-16T20:03:32.139664+00:00", "level": "INFO", "msg": "PUBLICADO: vs_021 -> media_id 18136413370664859"}
 {"ts": "2026-11-16T20:03:32.154460+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-16T21:38:35.795187+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-16T22:38:59.780325+00:00", "level": "INFO", "msg": "Publicando card_011 (static) \u2014 polimento (taper) pr\u00e9-prova: meta-an\u00e1lise de 27 estudos \u2014 2 semanas cortando 41\u201360% do volume, sem mexer em intensidade nem frequ\u00eancia"}
+{"ts": "2026-11-16T22:38:59.783750+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-16T22:38:59.783819+00:00", "level": "INFO", "msg": "1 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/card_011/card.png"}
+{"ts": "2026-11-16T22:39:00.211199+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-16T22:39:13.906127+00:00", "level": "INFO", "msg": "PUBLICADO: card_011 -> media_id 18235946137325569"}
+{"ts": "2026-11-16T22:39:13.923888+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

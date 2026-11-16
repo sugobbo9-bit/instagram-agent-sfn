@@ -1275,11 +1275,13 @@
       "format": "static",
       "topic": "polimento (taper) pré-prova: meta-análise de 27 estudos — 2 semanas cortando 41–60% do volume, sem mexer em intensidade nem frequência",
       "hook": "Polimento ideal: 2 semanas cortando 41–60% do volume, sem reduzir intensidade nem frequência.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-16T22:30:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "card informativo — mode:tema, topic:taper-polimento-pre-prova"
+      "notes": "card informativo — mode:tema, topic:taper-polimento-pre-prova",
+      "published_at": "2026-11-16T22:39:13.906303+00:00",
+      "post_id": "18235946137325569"
     }
   ]
 }
