@@ -1,0 +1,238 @@
+{
+  "local_id": "vs_021",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "distinct_formulas": true,
+  "status": "published",
+  "created_at": "2026-11-16T00:00:00Z",
+  "topic": "bebida de carboidrato em pó: SiS Beta Fuel 80 vs Maurten Drink Mix 320 (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "SiS Beta Fuel vs. Maurten Drink Mix. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:bebida-carbo-po",
+    "pair:sis-maurten"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "SiS Beta Fuel 80",
+      "brand": "Science in Sport",
+      "image": "content/drafts/vs_021/img/sis_beta_fuel_80.png",
+      "label_source": {
+        "url": "https://www.scienceinsport.com.au/products/beta-fuel-80-15-pack",
+        "consulted": "2026-11-16",
+        "notes": "Painel oficial SiS (sachê 82 g, 320 kcal, 80 g carbo, 45 g açúcares, 10 mg sódio) + página do sachê (ingredientes: maltodextrina do milho 57%, frutose 42%, aroma; proporção 1:0,8 maltodextrina:frutose)."
+      }
+    },
+    {
+      "name": "Maurten Drink Mix 320",
+      "brand": "Maurten",
+      "image": "content/drafts/vs_021/img/maurten_drink_mix_320.png",
+      "label_source": {
+        "url": "https://www.maurten.com/products/drink-mix-320-box-us",
+        "consulted": "2026-11-16",
+        "notes": "Nutrition Facts US (sachê 83 g / 2,93 oz, 320 kcal, 80 g carbo, 2 g fibra, 37 g açúcares, 245 mg sódio) + texto da página (ingredientes: maltodextrina, frutose, alginato de sódio, pectina, sal, bicarbonato de sódio; proporção 0,7:1 frutose:maltodextrina = 1:0,7 maltodextrina:frutose)."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois pós de carboidrato.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_021/img/sis_beta_fuel_80.png",
+          "mode": "multiply",
+          "label": "SiS Beta Fuel 80"
+        },
+        {
+          "image": "content/drafts/vs_021/img/maurten_drink_mix_320.png",
+          "mode": "multiply",
+          "label": "Maurten Drink Mix 320"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Pó por sachê",
+      "values": [
+        {
+          "value": "82 g"
+        },
+        {
+          "value": "83 g"
+        }
+      ],
+      "footnote": "Cada sachê é feito para ~500 ml de água."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por sachê",
+      "values": [
+        {
+          "value": "80 g"
+        },
+        {
+          "value": "80 g"
+        }
+      ],
+      "footnote": "Os dois declaram 320 kcal por sachê."
+    },
+    {
+      "type": "metric",
+      "headline": "Proporção malto : frutose",
+      "values": [
+        {
+          "value": "1 : 0,8"
+        },
+        {
+          "value": "1 : 0,7"
+        }
+      ],
+      "footnote": "Os dois combinam maltodextrina e frutose."
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcares por sachê",
+      "values": [
+        {
+          "value": "45 g"
+        },
+        {
+          "value": "37 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por sachê",
+      "values": [
+        {
+          "value": "10 mg"
+        },
+        {
+          "value": "245 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Só o carbo",
+          "note": "maltodextrina, frutose e aroma"
+        },
+        {
+          "value": "Hidrogel",
+          "note": "alginato de sódio e pectina, mais sal e bicarbonato"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Em prova longa, a recomendação de carboidrato passa de 60 g/h e chega perto de 90 g/h nos mais treinados. Acima de ~60 g/h, misturar fontes com transportadores diferentes no intestino — maltodextrina (ou glicose) e frutose — eleva quanto o corpo oxida. Os dois pós fazem isso: 80 g por sachê.\n\nO sódio é outra conta. No suor saem ~230 a ~2.000 mg por litro, conforme a pessoa e o calor. Com 10 e 245 mg, os dois sachês ficam abaixo disso — repor sódio se planeja à parte.",
+      "source": "Rótulos oficiais SiS (internacional) e Maurten (EUA), 16/11/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nSiS Beta Fuel 80: sachê de 82 g, 80 g de carboidrato (maltodextrina e frutose, 1:0,8), 45 g de açúcares, 10 mg de sódio, 320 kcal, sem cafeína.\n\nMaurten Drink Mix 320: sachê de 83 g, 80 g de carboidrato (maltodextrina e frutose, 1:0,7), 37 g de açúcares, 245 mg de sódio, 320 kcal, sem cafeína. Leva também alginato de sódio e pectina (o hidrogel), sal e bicarbonato de sódio.\n\nOs dois sachês são feitos para ~500 ml de água.\n\nDados dos rótulos oficiais: SiS (versão internacional) e Maurten (versão EUA), consultados em 16/11/2026. São rótulos internacionais; a versão vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Science in Sport e da Maurten.\n\n#nutricaoesportiva #bebidadecarboidrato #corrida #ciclismo #triathlon #maratona #endurance #betafuel",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "SiS Beta Fuel 80",
+      "kind": "packshot",
+      "title": "sis_beta_fuel_80.png",
+      "creator": "Science in Sport",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.scienceinsport.com.au/products/beta-fuel-80-15-pack",
+      "changes": "fundo branco original; sem alteração do rótulo"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Maurten Drink Mix 320",
+      "kind": "packshot",
+      "title": "maurten_drink_mix_320.png",
+      "creator": "Maurten AB",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.maurten.com/products/drink-mix-320-box-us",
+      "changes": "sachê isolado (recorte); fundo aparado; sem alteração do rótulo"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-16 nos sites oficiais (SiS versão internacional; Maurten versão EUA). Fórmulas distintas: SiS traz só maltodextrina + frutose + aroma; Maurten adiciona hidrogel (alginato de sódio + pectina), sal e bicarbonato de sódio. Painel Maurten lido da imagem Nutrition Facts US.",
+  "creative_files": [
+    "content/drafts/vs_021/slide_01.png",
+    "content/drafts/vs_021/slide_02.png",
+    "content/drafts/vs_021/slide_03.png",
+    "content/drafts/vs_021/slide_04.png",
+    "content/drafts/vs_021/slide_05.png",
+    "content/drafts/vs_021/slide_06.png",
+    "content/drafts/vs_021/slide_07.png",
+    "content/drafts/vs_021/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18136413370664859",
+  "published_at": "2026-11-16T20:03:32.139859+00:00"
+}

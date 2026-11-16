@@ -10821,6 +10821,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6afb16e171b1e70001926810",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hiponatremia-exercicio-beber-demais-endurance/"
+    },
+    {
+      "post_id": "18136413370664859",
+      "local_id": "vs_021",
+      "publication_date": "2026-11-16T20:03:32.139859+00:00",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: SiS Beta Fuel 80 vs Maurten Drink Mix 320 (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "SiS Beta Fuel vs. Maurten Drink Mix. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nSiS Beta Fuel 80: sachê de 82 g, 80 g de carboidrato (maltodextrina e frutose, 1:0,8), 45 g de açúcares, 10 mg de sódio, 320 kcal, sem cafeína.\n\nMaurten Drink Mix 320: sachê de 83 g, 80 g de carboidrato (maltodextrina e frutose, 1:0,7), 37 g de açúcares, 245 mg de sódio, 320 kcal, sem cafeína. Leva também alginato de sódio e pectina (o hidrogel), sal e bicarbonato de sódio.\n\nOs dois sachês são feitos para ~500 ml de água.\n\nDados dos rótulos oficiais: SiS (versão internacional) e Maurten (versão EUA), consultados em 16/11/2026. São rótulos internacionais; a versão vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Science in Sport e da Maurten.\n\n#nutricaoesportiva #bebidadecarboidrato #corrida #ciclismo #triathlon #maratona #endurance #betafuel",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_021/slide_01.png",
+        "content/drafts/vs_021/slide_02.png",
+        "content/drafts/vs_021/slide_03.png",
+        "content/drafts/vs_021/slide_04.png",
+        "content/drafts/vs_021/slide_05.png",
+        "content/drafts/vs_021/slide_06.png",
+        "content/drafts/vs_021/slide_07.png",
+        "content/drafts/vs_021/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:bebida-carbo-po",
+        "pair:sis-maurten"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }
