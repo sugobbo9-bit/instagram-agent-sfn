@@ -1,0 +1,44 @@
+{
+  "local_id": "card_011",
+  "format": "static",
+  "status": "approved",
+  "created_at": "2026-11-16T22:30:00Z",
+  "topic": "polimento (taper) pré-prova: meta-análise de 27 estudos — 2 semanas cortando 41–60% do volume, sem mexer em intensidade nem frequência",
+  "content_pillar": "treino-protocolo",
+  "hook": "Polimento ideal: 2 semanas cortando 41–60% do volume, sem reduzir intensidade nem frequência.",
+  "subtext": "Meta-análise de 27 estudos com atletas competitivos: cortar volume rende; cortar intensidade ou dias de treino joga o ganho fora.",
+  "source_line": "Bosquet, Montpetit, Arvisais & Mujika, Med Sci Sports Exerc, 2007 (meta-análise, 27 estudos).",
+  "badge": "Técnica",
+  "experiment_tags": [
+    "format:static",
+    "series:card-informativo",
+    "mode:tema",
+    "topic:taper-polimento-pre-prova"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#D4FF00",
+    "text_color": "#0A0A0A",
+    "ink2": "#2E4B00",
+    "padding": 80
+  },
+  "caption": "Semana da prova chegando e bate a dúvida: treinar menos ou 'manter o ritmo'? A meta-análise de Bosquet et al. (2007) juntou 27 estudos com atletas competitivos e comparou os ingredientes do taper (polimento). 📉🏁\n\nA combinação de maior efeito: ~2 semanas de polimento, com o volume caindo de forma progressiva em 41–60%, mantendo a intensidade das sessões-chave e o número de treinos na semana. Reduzir intensidade ou frequência rendeu bem menos: o corpo precisa de carga baixa para supercompensar, mas de estímulo intenso para não perder o ritmo de prova.\n\nNa prática: mantenha os tiros e os dias, encurte cada treino. Com menos volume o gasto cai — ajuste a comida sem cortar carboidrato na véspera.\n\nFonte: Bosquet L et al. Med Sci Sports Exerc 2007;39(8):1358-65. DOI 10.1249/mss.0b013e31806010e0.\n\n#taper #polimento #maratona #ciclismo #triatlo #nutricaoesportiva #endurance",
+  "cta": "Salva pra planejar as duas últimas semanas antes da prova.",
+  "scientific_sources": [
+    {
+      "title": "Effects of tapering on performance: a meta-analysis",
+      "authors": "Bosquet L, Montpetit J, Arvisais D, Mujika I",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2007,
+      "volume": "39",
+      "issue": "8",
+      "pages": "1358-1365",
+      "doi": "10.1249/mss.0b013e31806010e0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17762369",
+      "level": "A"
+    }
+  ],
+  "creative_files": [
+    "content/drafts/card_011/card.png"
+  ]
+}
