@@ -1256,6 +1256,17 @@
       "ghost_post_id": "6afb16e171b1e70001926810",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/hiponatremia-exercicio-beber-demais-endurance/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_021",
+      "format": "carousel",
+      "topic": "bebida de carboidrato em pó: SiS Beta Fuel 80 vs Maurten Drink Mix 320 (rótulo lado a lado)",
+      "hook": "SiS Beta Fuel vs. Maurten Drink Mix. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-16T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:bebida-carbo-po, pair:sis-maurten"
     }
   ]
 }
