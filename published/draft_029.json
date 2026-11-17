@@ -1,0 +1,218 @@
+{
+  "local_id": "draft_029",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-17T00:00:00Z",
+  "topic": "nitrato dietético / suco de beterraba e desempenho de endurance",
+  "content_pillar": "supplements",
+  "hook": "O suco de beterraba funciona. Só que cada vez menos quanto mais você treina.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:nitrato-beterraba",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "A ressalva",
+      "headline": "A beterraba funciona.\nMenos em quem treina mais.",
+      "image": {
+        "path": "/tmp/img/draft_029/cover/cand_04.jpg",
+        "focus": "center 45%"
+      },
+      "body": null,
+      "label": null,
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "Virou 'turbo natural' pra qualquer prova",
+      "body": "A promessa dos shots de beterraba e do nitrato: mais resistência e menos esforço no mesmo ritmo — pra todo mundo.\n\nMetade está certa. O nitrato realmente funciona. O problema é a outra metade: o efeito não é igual pra todos, e encolhe justo em quem mais treina.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Menos oxigênio pro mesmo trabalho",
+      "body": "O nitrato da beterraba vira nitrito e depois óxido nítrico no corpo. O efeito medido: o músculo gasta menos oxigênio no mesmo ritmo.\n\nNum estudo clássico, o custo de O₂ caiu ~5% e a eficiência subiu de 19,7% para 21,1%. Em outro, o tempo até a exaustão aumentou ~16%.\n\nO efeito é real. A pergunta é: em quem?",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "O ganho some em quem é bem treinado",
+      "image": {
+        "path": "/tmp/img/draft_029/run/cand_02.jpg",
+        "focus": "center 55%"
+      },
+      "body": "Revisão guarda-chuva de 20 meta-análises (2025): o ganho é maior em recreativos do que em atletas muito treinados.\n\nEm corredores de elite de 1500 m (VO₂ de 80), nem o custo de O₂ nem a prova melhoraram — só 2 de 8 responderam.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Pra quem vale, e como usar",
+      "image": {
+        "path": "/tmp/img/draft_029/veg/cand_01.jpg",
+        "focus": "center 50%"
+      },
+      "body": "Melhor retorno: quem treina menos e em esforços curtos e intensos (~10 a 17 min).\n\nDose: 300 a 600 mg de nitrato (~2 shots ou 250 a 500 g de folhosas e raízes), 2 a 3 h antes — não no meio da prova.\n\nE não use enxaguante bucal: ele mata as bactérias que ativam o nitrato.",
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Beterraba ajuda — só que menos quanto mais rápido você já é.",
+      "body": "Salva pra lembrar da dose e do timing. E manda pro parceiro que toma shot de beterraba achando que vira foguete.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "O suco de beterraba é um dos poucos suplementos com evidência de verdade — mas o efeito não é igual pra todo mundo, e encolhe justo em quem mais treina.\n\nO mecanismo é real: o nitrato vira óxido nítrico e reduz o oxigênio que o músculo gasta no mesmo ritmo. Estudos clássicos mostraram ~5% menos custo de O₂, eficiência subindo de 19,7% para 21,1% e ~16% mais tempo até a exaustão.\n\nO porém aparece quando se olha QUEM foi testado. Uma revisão guarda-chuva de 20 meta-análises (2025) concluiu que o ganho é mais pronunciado em não-atletas e pessoas recreativas do que em atletas muito treinados. Em corredores de elite de 1500 m (VO₂ ~80), não houve melhora nem no custo de O₂ nem na prova — só 2 de 8 responderam. Uma meta-análise de 2026 restrita a atletas também não achou efeito médio significativo.\n\nNa prática: o melhor retorno é em quem treina menos e em esforços curtos e intensos (~10 a 17 min). Dose de ~300 a 600 mg de nitrato (cerca de 2 shots concentrados ou 250 a 500 g de folhosas e raízes), 2 a 3 h antes do esforço — não no meio da prova, porque o pico de nitrito leva horas. E evite enxaguante bucal antibacteriano: ele elimina as bactérias da boca que convertem o nitrato em nitrito.\n\nNão é que a beterraba 'não funciona'. É que, quanto mais treinado você já é, menor tende a ser o ganho.\n\nFontes: Poon et al. Sports Med. 2025 (revisão guarda-chuva de 20 meta-análises). | Macuh & Knap. Nutrients. 2021 (revisão). | Larsen et al. Acta Physiol. 2007. | Bailey et al. J Appl Physiol. 2009. | Boorsma et al. Med Sci Sports Exerc. 2014.",
+  "cta": "Salva pra ter a dose e o timing na mão — e manda pro parceiro que confia no shot de beterraba.",
+  "scientific_sources": [
+    {
+      "title": "Dietary Nitrate Supplementation and Exercise Performance: An Umbrella Review of 20 Published Systematic Reviews with Meta-analyses",
+      "authors": "Poon ETC, Iu JCK, Sum WMK, et al.",
+      "journal": "Sports Medicine",
+      "year": 2025,
+      "volume": "55",
+      "pages": "1213-1231",
+      "doi": "10.1007/s40279-025-02194-6",
+      "url": "https://doi.org/10.1007/s40279-025-02194-6",
+      "level": "A"
+    },
+    {
+      "title": "Dietary Nitrate Supplementation and Exercise Performance in Athletes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+      "authors": "Xie Y, Han Y, Du Q, Xu K",
+      "journal": "Sports (Basel)",
+      "year": 2026,
+      "volume": "14",
+      "issue": "10",
+      "pages": "466",
+      "doi": "10.3390/sports14100466",
+      "url": "https://doi.org/10.3390/sports14100466",
+      "level": "A"
+    },
+    {
+      "title": "Effects of Nitrate Supplementation on Exercise Performance in Humans: A Narrative Review",
+      "authors": "Macuh M, Knap B",
+      "journal": "Nutrients",
+      "year": 2021,
+      "volume": "13",
+      "issue": "9",
+      "pages": "3183",
+      "doi": "10.3390/nu13093183",
+      "url": "https://doi.org/10.3390/nu13093183",
+      "level": "B"
+    },
+    {
+      "title": "Effects of dietary nitrate on oxygen cost during exercise",
+      "authors": "Larsen FJ, Weitzberg E, Lundberg JO, Ekblom B",
+      "journal": "Acta Physiologica (Oxford)",
+      "year": 2007,
+      "volume": "191",
+      "issue": "1",
+      "pages": "59-66",
+      "doi": "10.1111/j.1748-1716.2007.01713.x",
+      "url": "https://doi.org/10.1111/j.1748-1716.2007.01713.x",
+      "level": "B"
+    },
+    {
+      "title": "Dietary nitrate supplementation reduces the O2 cost of low-intensity exercise and enhances tolerance to high-intensity exercise in humans",
+      "authors": "Bailey SJ, Winyard P, Vanhatalo A, et al.",
+      "journal": "Journal of Applied Physiology",
+      "year": 2009,
+      "volume": "107",
+      "issue": "4",
+      "pages": "1144-1155",
+      "doi": "10.1152/japplphysiol.00722.2009",
+      "url": "https://doi.org/10.1152/japplphysiol.00722.2009",
+      "level": "B"
+    },
+    {
+      "title": "Beetroot juice supplementation does not improve performance of elite 1500-m runners",
+      "authors": "Boorsma RK, Whitfield J, Spriet LL",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2014,
+      "volume": "46",
+      "issue": "12",
+      "pages": "2326-2334",
+      "doi": "10.1249/MSS.0000000000000364",
+      "url": "https://doi.org/10.1249/MSS.0000000000000364",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa — beterrabas frescas",
+      "title": "A pile of fresh, earthy beetroots with dirt-covered skin and vibrant red stems",
+      "creator": "Vishnu Chandra",
+      "license": "CC0 1.0",
+      "source_url": "https://wordpress.org/photos/photo/1626a0c909/"
+    },
+    {
+      "slides": [
+        4
+      ],
+      "label": "pista de atletismo",
+      "title": "Running track",
+      "creator": "rawpixel",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5914045/image-public-domain-tree-line"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "folhosas verdes",
+      "title": "Green vegetables background",
+      "creator": "rawpixel",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5915676/photo-image-background-public-domain-leaf"
+    }
+  ],
+  "article": {
+    "title": "Beterraba e nitrato no endurance: funciona — mas menos em quem treina mais",
+    "slug": "nitrato-beterraba-endurance-pra-quem-funciona",
+    "excerpt": "O nitrato do suco de beterraba reduz o oxigênio que o músculo gasta e melhora a resistência. Mas o efeito é mais fraco justamente em atletas bem treinados. Veja o que a evidência mostra, a dose e o timing.",
+    "meta_title": "Nitrato (beterraba) no endurance: pra quem funciona, dose e timing",
+    "tags": [
+      "Nitrato",
+      "Beterraba",
+      "Endurance",
+      "Suplementação",
+      "Desempenho"
+    ],
+    "html": "<p>O suco de beterraba virou sinônimo de <strong>combustível natural de resistência</strong>. A promessa é sedutora: mais fôlego, menos esforço no mesmo ritmo, para qualquer atleta. A boa notícia é que, diferente de muito suplemento, aqui existe ciência de verdade. A notícia inconveniente é que o efeito <strong>encolhe justamente em quem mais treina</strong>.</p>\n\n<h2>O que o nitrato faz no corpo</h2>\n\n<p>A beterraba é rica em nitrato inorgânico (NO₃⁻). No organismo, ele é reduzido a nitrito (NO₂⁻) e, depois, a óxido nítrico (NO) — uma molécula que regula fluxo sanguíneo, contração muscular e a eficiência das mitocôndrias. O resultado prático já foi medido: <strong>o músculo passa a gastar menos oxigênio para produzir a mesma potência</strong>.</p>\n\n<p>No estudo que abriu essa linha de pesquisa (Larsen e colegas, <em>Acta Physiologica</em>, 2007), três dias de nitrato reduziram o custo de O₂ no exercício submáximo e aumentaram a eficiência bruta de <strong>19,7% para 21,1%</strong> — sem aumento de lactato, indicando produção de energia mais econômica. Dois anos depois, com suco de beterraba, Bailey e colegas (<em>J Appl Physiol</em>, 2009) confirmaram a queda no custo de oxigênio e um <strong>aumento de ~16%</strong> no tempo até a exaustão em esforço intenso.</p>\n\n<h2>O detalhe que o marketing não conta: depende de quem toma</h2>\n\n<p>Quando se junta toda a literatura, o efeito médio continua existindo — mas pequeno e dependente do contexto. Uma <strong>revisão guarda-chuva de 20 revisões sistemáticas com meta-análise</strong> (Poon e colegas, <em>Sports Medicine</em>, 2025) encontrou melhora em tempo até a exaustão, resistência muscular e potência de pico, e foi explícita sobre a ressalva: os benefícios são <strong>mais pronunciados em não-atletas e pessoas recreativas do que em atletas muito treinados</strong>, provavelmente por um efeito de teto.</p>\n\n<p>O exemplo mais claro vem dos extremos de treinamento. Em <strong>corredores de elite de 1500 m</strong> (VO₂ de pico ~80 mL·kg⁻¹·min⁻¹), Boorsma e colegas (<em>MSSE</em>, 2014) deram 19,5 mmol de nitrato e não encontraram melhora nem no custo de O₂ nem no contrarrelógio de 1500 m — apenas <strong>2 dos 8 corredores</strong> responderam. E uma meta-análise de 2026 restrita a atletas de nível competitivo (Xie e colegas, <em>Sports</em>) também não achou efeito médio significativo sobre a potência.</p>\n\n<h2>Para quem vale — e como usar</h2>\n\n<p>Uma revisão da literatura (Macuh &amp; Knap, <em>Nutrients</em>, 2021) resume a janela em que o nitrato tende a funcionar: dose de <strong>~5 a 16,8 mmol (≈300 a 1.041 mg)</strong>, tomada <strong>2 a 3 horas antes</strong> do esforço, com efeito mais claro em <strong>esforços de ~10 a 17 minutos</strong> e em pessoas menos treinadas (VO₂máx &lt; 65 mL·kg⁻¹·min⁻¹).</p>\n\n<table>\n<thead><tr><th>Variável</th><th>O que a evidência sugere</th></tr></thead>\n<tbody>\n<tr><td>Quem mais responde</td><td>Menos treinados; esforços curtos e intensos (~10 a 17 min)</td></tr>\n<tr><td>Dose</td><td>~300 a 1.000 mg de nitrato (cerca de 2 shots concentrados ou 250 a 500 g de folhosas e raízes)</td></tr>\n<tr><td>Timing</td><td>2 a 3 h antes — o pico de nitrito no sangue leva horas, então tomar no meio da prova não adianta</td></tr>\n<tr><td>Erro comum</td><td>Enxaguante bucal antibacteriano: ele mata as bactérias da boca que convertem nitrato em nitrito e anula o efeito</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>O nitrato da beterraba é um dos poucos suplementos com mecanismo e evidência sólidos: ele reduz o oxigênio que você gasta no mesmo ritmo. Mas não é um bônus igual para todos. Quanto mais treinado você já é, menor tende a ser o ganho — e, no topo do esporte, ele pode simplesmente desaparecer. Para o corredor recreativo que respeita a dose e o timing, vale o teste; para o atleta de elite esperando um salto, a expectativa precisa ser menor.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Poon ETC, Iu JCK, Sum WMK, et al. Dietary Nitrate Supplementation and Exercise Performance: An Umbrella Review of 20 Published Systematic Reviews with Meta-analyses. <em>Sports Med</em>. 2025;55:1213–1231. doi:10.1007/s40279-025-02194-6</li>\n<li>Xie Y, Han Y, Du Q, Xu K. Dietary Nitrate Supplementation and Exercise Performance in Athletes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. <em>Sports (Basel)</em>. 2026;14(10):466. doi:10.3390/sports14100466</li>\n<li>Macuh M, Knap B. Effects of Nitrate Supplementation on Exercise Performance in Humans: A Narrative Review. <em>Nutrients</em>. 2021;13(9):3183. doi:10.3390/nu13093183</li>\n<li>Larsen FJ, Weitzberg E, Lundberg JO, Ekblom B. Effects of dietary nitrate on oxygen cost during exercise. <em>Acta Physiol (Oxf)</em>. 2007;191(1):59–66. doi:10.1111/j.1748-1716.2007.01713.x</li>\n<li>Bailey SJ, Winyard P, Vanhatalo A, et al. Dietary nitrate supplementation reduces the O2 cost of low-intensity exercise and enhances tolerance to high-intensity exercise in humans. <em>J Appl Physiol</em>. 2009;107(4):1144–1155. doi:10.1152/japplphysiol.00722.2009</li>\n<li>Boorsma RK, Whitfield J, Spriet LL. Beetroot juice supplementation does not improve performance of elite 1500-m runners. <em>Med Sci Sports Exerc</em>. 2014;46(12):2326–2334. doi:10.1249/MSS.0000000000000364</li>\n</ol>\n",
+    "cover": "content/drafts/draft_029/cover.png",
+    "cover_alt": "Nitrato e suco de beterraba no endurance: o que a ciência mostra — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_029/slide_01.png",
+    "content/drafts/draft_029/slide_02.png",
+    "content/drafts/draft_029/slide_03.png",
+    "content/drafts/draft_029/slide_04.png",
+    "content/drafts/draft_029/slide_05.png",
+    "content/drafts/draft_029/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17918288157510133",
+  "published_at": "2026-11-17T14:50:22.231421+00:00"
+}

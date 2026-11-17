@@ -724,3 +724,10 @@
 {"ts": "2026-11-16T22:39:00.211199+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
 {"ts": "2026-11-16T22:39:13.906127+00:00", "level": "INFO", "msg": "PUBLICADO: card_011 -> media_id 18235946137325569"}
 {"ts": "2026-11-16T22:39:13.923888+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-17T14:49:43.837952+00:00", "level": "INFO", "msg": "Publicando draft_029 (carousel) \u2014 nitrato diet\u00e9tico / suco de beterraba e desempenho de endurance"}
+{"ts": "2026-11-17T14:49:43.841991+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-17T14:49:43.842080+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_029/slide_01.png"}
+{"ts": "2026-11-17T14:49:45.023234+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-17T14:50:13.490990+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-17T14:50:22.231210+00:00", "level": "INFO", "msg": "PUBLICADO: draft_029 -> media_id 17918288157510133"}
+{"ts": "2026-11-17T14:50:22.250367+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
