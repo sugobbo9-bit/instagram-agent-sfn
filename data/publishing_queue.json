@@ -1298,6 +1298,17 @@
       "ghost_post_id": "6afc69b188676000011daba0",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/nitrato-beterraba-endurance-pra-quem-funciona/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_022",
+      "format": "carousel",
+      "topic": "waffle de endurance: Honey Stinger Energy Waffle vs GU Energy Waffle (rótulo lado a lado)",
+      "hook": "Honey Stinger vs. GU Energy. Dois waffles, só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-17T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:barra-endurance, pair:honeystinger-gu"
     }
   ]
 }

@@ -1,0 +1,238 @@
+{
+  "local_id": "vs_022",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-11-17T00:00:00Z",
+  "topic": "waffle de endurance: Honey Stinger Energy Waffle vs GU Energy Waffle (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Honey Stinger vs. GU Energy. Dois waffles, só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:barra-endurance",
+    "pair:honeystinger-gu"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Honey Stinger\nEnergy Waffle",
+      "brand": "Honey Stinger",
+      "image": "content/drafts/vs_022/img/honeystinger_waffle.jpg",
+      "label_source": {
+        "url": "https://honeystinger.com/products/honey",
+        "consulted": "2026-11-17",
+        "notes": "Nutrition Facts do Honey Organic Energy Waffle (porção 1 waffle/30 g): 140 kcal, 19 g carbo, 9 g açúcares, 80 mg sódio, 6 g gordura, 2 g proteína. Ingredientes: farinha de trigo, óleo de palma, xarope de arroz, açúcar e mel (todos orgânicos). USDA Organic. Sem cafeína."
+      }
+    },
+    {
+      "name": "GU\nEnergy Waffle",
+      "brand": "GU Energy Labs",
+      "image": "content/drafts/vs_022/img/gu_waffle.jpg",
+      "label_source": {
+        "url": "https://guenergy.com/products/gu-energy-stroopwafel",
+        "consulted": "2026-11-17",
+        "notes": "Página oficial (texto): 130 kcal, 19–20 g carbo, 70–170 mg sódio conforme o sabor, +20 mg de cafeína só em sabores selecionados (ex.: Coffee Caramel); aminoácidos removidos na reformulação. Painel Salted Caramel (1 waffle/30 g): 130 kcal, 19 g carbo, 10 g açúcares, 140 mg sódio, 6 g gordura, 1 g proteína. Ingredientes: xarope de arroz, farinha de trigo, óleo de palma, açúcar, farinha de soja (todos orgânicos). USDA Organic. Contém trigo e soja; pode conter leite e ovo."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois waffles.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_022/img/honeystinger_waffle.jpg",
+          "mode": "multiply",
+          "label": "Honey Stinger"
+        },
+        {
+          "image": "content/drafts/vs_022/img/gu_waffle.jpg",
+          "mode": "multiply",
+          "label": "GU Energy"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Peso por unidade",
+      "values": [
+        {
+          "value": "30 g",
+          "note": "140 kcal"
+        },
+        {
+          "value": "30 g",
+          "note": "130 kcal"
+        }
+      ],
+      "footnote": "Um waffle, uma porção, nos dois."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por waffle",
+      "values": [
+        {
+          "value": "19 g"
+        },
+        {
+          "value": "19–20 g",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcares por waffle",
+      "values": [
+        {
+          "value": "9 g"
+        },
+        {
+          "value": "10 g",
+          "note": "no sabor Salted Caramel"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por waffle",
+      "values": [
+        {
+          "value": "80 mg"
+        },
+        {
+          "value": "70–170 mg",
+          "note": "varia com o sabor"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Mel + xarope de arroz"
+        },
+        {
+          "value": "Xarope de arroz"
+        }
+      ],
+      "footnote": "Os dois levam também açúcar e farinha de trigo e são orgânicos (USDA). A GU traz farinha de soja; a Honey Stinger, mel."
+    },
+    {
+      "type": "metric",
+      "headline": "Cafeína",
+      "values": [
+        {
+          "value": "0 mg"
+        },
+        {
+          "value": "0 ou 20 mg",
+          "note": "só em alguns sabores"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Em prova longa, a faixa mais citada é de 30 a 60 g de carboidrato por hora, chegando a até ~90 g/h em esforços acima de ~2h30 quando se combinam glicose e frutose. Um waffle de 19 g é uma fração disso: a conta que importa é quantos por hora, somados a géis, bebidas e o que mais você levar.\n\nO sódio de um waffle é pequeno perto do que sai no suor: de ~230 a mais de 2.000 mg por litro, conforme a pessoa e o calor. Repor sódio é uma conta à parte. E a cafeína, quando o sabor traz, entra na sua dose do dia.",
+      "source": "Rótulos e sites oficiais Honey Stinger e GU Energy (versões EUA), consultados em 17/11/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu paladar.\n\nHoney Stinger Energy Waffle (Honey): waffle de 30 g, 140 kcal, 19 g de carboidrato (9 g de açúcares), 80 mg de sódio, 6 g de gordura e 2 g de proteína. Carboidrato de mel, xarope de arroz e açúcar. Orgânico, sem cafeína.\n\nGU Energy Waffle: waffle de 30 g, 130 kcal, 19 a 20 g de carboidrato (cerca de 10 g de açúcares), 70 a 170 mg de sódio conforme o sabor, 6 g de gordura e 1 g de proteína. Carboidrato de xarope de arroz e açúcar, com farinha de soja. Orgânico; alguns sabores têm 20 mg de cafeína.\n\nDados dos rótulos e sites oficiais das duas marcas, consultados em 17/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Honey Stinger e da GU Energy.\n\n#nutricaoesportiva #corrida #ciclismo #triathlon #endurance #maratona #waffle",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Honey Stinger Energy Waffle",
+      "kind": "packshot",
+      "title": "honey-classic-energy-waffle-honey.png",
+      "creator": "Honey Stinger",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://honeystinger.com/products/honey",
+      "changes": "recorte de uma unidade, fundo em branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "GU Energy Waffle",
+      "kind": "packshot",
+      "title": "GU_Energy_Waffle_Single_Maple_Cinnamon.png",
+      "creator": "GU Energy Labs",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://guenergy.com/products/gu-energy-stroopwafel",
+      "changes": "fundo composto em branco, aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-17 nas páginas oficiais (versões EUA). Honey Stinger Honey Organic Energy Waffle: 1 waffle/30 g, 140 kcal, 19 g carbo, 9 g açúcares, 80 mg sódio, 6 g gordura, 2 g proteína; carbo de mel, xarope de arroz e açúcar; orgânico; sem cafeína. GU Energy Waffle: 1 waffle/30 g, 130 kcal, 19–20 g carbo (painel Salted Caramel 19 g/10 g açúcares), 70–170 mg sódio conforme sabor, 6 g gordura, 1 g proteína; carbo de xarope de arroz, açúcar e farinha de soja; orgânico; 0 ou +20 mg cafeína conforme sabor; aminoácidos removidos na reformulação. Ambas mainstream (passa a curadoria de versus). Packshot GU no sabor Maple Cinnamon (sem cafeína), usado como representação da linha.",
+  "creative_files": [
+    "content/drafts/vs_022/slide_01.png",
+    "content/drafts/vs_022/slide_02.png",
+    "content/drafts/vs_022/slide_03.png",
+    "content/drafts/vs_022/slide_04.png",
+    "content/drafts/vs_022/slide_05.png",
+    "content/drafts/vs_022/slide_06.png",
+    "content/drafts/vs_022/slide_07.png",
+    "content/drafts/vs_022/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}
