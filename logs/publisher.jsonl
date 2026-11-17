@@ -731,3 +731,10 @@
 {"ts": "2026-11-17T14:50:13.490990+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
 {"ts": "2026-11-17T14:50:22.231210+00:00", "level": "INFO", "msg": "PUBLICADO: draft_029 -> media_id 17918288157510133"}
 {"ts": "2026-11-17T14:50:22.250367+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-17T20:09:41.361768+00:00", "level": "INFO", "msg": "Publicando vs_022 (carousel) \u2014 waffle de endurance: Honey Stinger Energy Waffle vs GU Energy Waffle (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-17T20:09:41.365643+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-17T20:09:41.365723+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_022/slide_01.png"}
+{"ts": "2026-11-17T20:09:43.514519+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-17T20:10:29.977930+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-17T20:10:42.294765+00:00", "level": "INFO", "msg": "PUBLICADO: vs_022 -> media_id 18098514890538670"}
+{"ts": "2026-11-17T20:10:42.313049+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

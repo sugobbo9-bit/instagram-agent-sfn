@@ -1304,11 +1304,13 @@
       "format": "carousel",
       "topic": "waffle de endurance: Honey Stinger Energy Waffle vs GU Energy Waffle (rótulo lado a lado)",
       "hook": "Honey Stinger vs. GU Energy. Dois waffles, só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-17T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:barra-endurance, pair:honeystinger-gu"
+      "notes": "marca x marca — category:barra-endurance, pair:honeystinger-gu",
+      "published_at": "2026-11-17T20:10:42.294941+00:00",
+      "post_id": "18098514890538670"
     }
   ]
 }
