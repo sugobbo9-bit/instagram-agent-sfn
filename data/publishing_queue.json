@@ -1282,6 +1282,17 @@
       "notes": "card informativo — mode:tema, topic:taper-polimento-pre-prova",
       "published_at": "2026-11-16T22:39:13.906303+00:00",
       "post_id": "18235946137325569"
+    },
+    {
+      "local_id": "draft_029",
+      "format": "carousel",
+      "topic": "nitrato dietético / suco de beterraba e desempenho de endurance",
+      "hook": "O suco de beterraba funciona. Só que cada vez menos quanto mais você treina.",
+      "status": "approved",
+      "created_at": "2026-11-17T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Tema novo (Step 3c): nitrato/beterraba como carrossel tecnico (so havia card estatico + Reel ranking). Hook contrarian+numerico. Fonte principal: revisao guarda-chuva de 20 meta-analises (Poon 2025) + Macuh&Knap 2021 + elite 1500m Boorsma 2014. Tecnico com foto, slot ~12h BRT."
     }
   ]
 }
