@@ -1311,6 +1311,17 @@
       "notes": "marca x marca — category:barra-endurance, pair:honeystinger-gu",
       "published_at": "2026-11-17T20:10:42.294941+00:00",
       "post_id": "18098514890538670"
+    },
+    {
+      "local_id": "draft_030",
+      "format": "carousel",
+      "topic": "taxa de ingestão de carboidrato durante o exercício de endurance (subingestão)",
+      "hook": "Em prova longa, 1 gel por hora é metade do combustível. O alvo: 60 a 90 g.",
+      "status": "approved",
+      "created_at": "2026-11-18T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Tema novo (Step 3c): taxa de ingestao de carbo DURANTE o esforco (distinto de carga de carbo, que e antes da prova). Hook contrarian+numerico (padrao vencedor). Fontes nivel A: Jeukendrup 2014 (Sports Med, 60/90 g/h por duracao) + Stellingwerff & Cox 2014 (APNM, revisao sistematica 61 estudos, dose-resposta com duracao, p=0.004) + ACSM/AND/DC Position Stand 2016. Tecnico com 3 fotos CC0, slot ~12h BRT/15h UTC."
     }
   ]
 }
