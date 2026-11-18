@@ -1,0 +1,182 @@
+{
+  "local_id": "draft_030",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-18T00:00:00Z",
+  "topic": "taxa de ingestão de carboidrato durante o exercício de endurance (subingestão)",
+  "content_pillar": "fueling",
+  "hook": "Em prova longa, 1 gel por hora é metade do combustível. O alvo: 60 a 90 g.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:carboidrato-durante",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "headline": "1 gel por hora não é abastecer",
+      "body": null,
+      "label": null,
+      "kicker": "O ERRO",
+      "image": {
+        "path": "/tmp/img/draft_030/running_shoes_asphal/cand_01.jpg",
+        "focus": "center 55%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "A CONTA",
+      "headline": "Faça a conta do seu gel",
+      "body": "Um gel de carboidrato tem cerca de 22 a 30 g. Tomar um por hora dá uns 25 g/h.\n\nEm provas acima de 2 a 3 horas, o alvo com evidência é 60 a 90 g/h. Ou seja: 'um gel por hora' costuma ser metade (ou menos) do que o corpo consegue usar.",
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "POR QUE IMPORTA",
+      "headline": "Não é só fome. É rendimento.",
+      "body": "Carboidrato no esforço longo poupa o glicogênio e segura a glicose no sangue — e o ganho cresce quanto mais longa é a prova.\n\nO teto não é a boca: é o intestino. Uma fonte só (glicose) satura a absorção perto de 60 g/h.",
+      "image": {
+        "path": "/tmp/img/draft_030/running_shoes_asphal/cand_05.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Quanto mais longa a prova, maior o ganho",
+      "body": "Revisão sistemática de 61 estudos (679 pessoas): 82% mostraram melhora de desempenho com carboidrato, e o ganho aumentou junto com a duração do esforço (p = 0,004).\n\nPara passar de ~60 g/h sem pesar no estômago, é preciso misturar glicose + frutose (transportadores diferentes) — o que leva a absorção a ~90 g/h.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "Quanto comer — por duração",
+      "body": "Até 1 h: carbo quase não muda nada (água ou bochecho).\n1 a 2,5 h: 30 a 60 g/h.\nAcima de 2,5 a 3 h: até 90 g/h, com glicose + frutose.\n\nComece cedo, não quando já apagou. E treine o intestino antes da prova.",
+      "image": {
+        "path": "/tmp/img/draft_030/triathlon_cycling/cand_01.jpg",
+        "focus": "center 45%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Talvez não falte preparo. Falte combustível.",
+      "body": "Salva e manda pro parceiro que sempre 'morre' no fim da prova longa.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "Na prova longa, o erro mais comum não é falta de preparo — é subingestão de carboidrato. Um gel tem cerca de 22 a 30 g. Tomar 'um por hora' dá uns 25 g/h, bem abaixo do que o corpo consegue usar num esforço longo.\n\nPor quê? Carboidrato durante o exercício prolongado poupa o glicogênio e sustenta a glicose no sangue, e o ganho de desempenho cresce conforme a prova fica mais longa. O limite não é a boca: é a absorção intestinal. Uma fonte única (glicose) satura perto de 60 g/h — por isso, para chegar a ~90 g/h sem peso no estômago, é preciso combinar glicose + frutose, que usam transportadores diferentes.\n\nO que a evidência sustenta:\n• Até ~1 h: a quantidade de carbo quase não importa (até o bochecho ajuda).\n• 1 a 2,5 h: 30 a 60 g/h.\n• Acima de 2,5 a 3 h: até 90 g/h, com glicose + frutose.\n\nComece a abastecer cedo (não quando já 'apagou') e treine o intestino nas semanas anteriores para tolerar taxas mais altas sem desconforto.\n\nFontes: Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014. | Stellingwerff T, Cox GR. Systematic review: carbohydrate supplementation on exercise performance. Appl Physiol Nutr Metab. 2014 (61 estudos). | Thomas DT, Erdman KA, Burke LM. ACSM/AND/DC Joint Position Statement: Nutrition and Athletic Performance. Med Sci Sports Exerc. 2016.",
+  "cta": "Salva e manda pra quem subingere carbo e culpa as pernas na prova longa.",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-S33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "A"
+    },
+    {
+      "title": "Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations",
+      "authors": "Stellingwerff T, Cox GR",
+      "journal": "Applied Physiology, Nutrition, and Metabolism",
+      "year": 2014,
+      "volume": "39",
+      "issue": "9",
+      "pages": "998-1011",
+      "doi": "10.1139/apnm-2014-0027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24951297/",
+      "level": "A"
+    },
+    {
+      "title": "American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 2016,
+      "volume": "48",
+      "issue": "3",
+      "pages": "543-568",
+      "doi": "10.1249/MSS.0000000000000852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "corredor na estrada",
+      "title": "People Running",
+      "creator": "kinkate",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/people-running-2USDVKPSWS"
+    },
+    {
+      "slides": [
+        3
+      ],
+      "label": "tênis no asfalto",
+      "title": "Running Shoes",
+      "creator": "rawpixel (domínio público)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5970152/running-shoes"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "troca de garrafa na prova",
+      "title": "Hidratação em prova",
+      "creator": "rawpixel (domínio público)",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5946480/free-public-domain-cc0-photo"
+    }
+  ],
+  "article": {
+    "title": "Subingestão de carboidrato: por que '1 gel por hora' sabota a prova longa",
+    "slug": "subingestao-carboidrato-prova-longa-quanto-comer",
+    "excerpt": "Na prova longa, o limitante costuma não ser o preparo — é comer carboidrato de menos. Entenda a dose-resposta, o teto do intestino e quanto ingerir por hora segundo a evidência.",
+    "meta_title": "Carboidrato na prova longa: quanto comer por hora (com evidência)",
+    "tags": [
+      "Carboidrato",
+      "Endurance",
+      "Abastecimento",
+      "Desempenho"
+    ],
+    "html": "<p>Entre atletas de endurance, um dos erros mais caros e mais invisíveis não é treino de menos — é <strong>carboidrato de menos durante a prova</strong>. A cena é conhecida: o atleta \"morre\" nos últimos quilômetros, culpa as pernas, o preparo ou a cabeça, e sai convencido de que precisa treinar mais. Em muitos casos, o que faltou foi combustível.</p>\n\n<h2>Faça a conta do seu gel</h2>\n\n<p>Um gel de carboidrato típico entrega entre <strong>22 e 30 g</strong>. Tomar \"um por hora\" — a regra prática que quase todo mundo segue — resulta em algo próximo de <strong>25 g por hora</strong>. O problema é que, para esforços realmente longos, isso é cerca de <em>metade</em> do que o corpo consegue absorver e usar.</p>\n\n<h2>Não é fome: é rendimento</h2>\n\n<p>Ingerir carboidrato durante o exercício prolongado cumpre duas funções: <strong>poupa o glicogênio muscular</strong> e <strong>sustenta a glicose sanguínea</strong>, mantendo a potência quando os estoques começam a baixar. E aqui está o ponto que mais surpreende: o benefício <strong>cresce com a duração</strong> do esforço. Quanto mais longa a prova, maior o ganho de ingerir carboidrato de forma adequada.</p>\n\n<p>O limite não está na boca, e sim no <strong>intestino</strong>. Uma fonte única de carboidrato — glicose (ou maltodextrina, que vira glicose) — satura os transportadores intestinais perto de <strong>60 g por hora</strong>. Forçar mais do que isso com um único tipo de açúcar não aumenta a oxidação; só sobra carboidrato no estômago, gerando o famoso desconforto gastrointestinal.</p>\n\n<h2>O que a evidência mostra</h2>\n\n<p>A revisão sistemática de Stellingwerff e Cox (<em>Applied Physiology, Nutrition, and Metabolism</em>, 2014) reuniu <strong>61 estudos de desempenho</strong> (679 participantes). <strong>82%</strong> mostraram melhora significativa com carboidrato em relação ao placebo, e — o dado prático mais importante — houve relação significativa entre o <strong>aumento da duração do exercício e o aumento percentual no desempenho</strong> (p = 0,004). Para esforços acima de 2 horas, o mecanismo principal passa a ser a <strong>alta taxa de entrega de carboidrato</strong> (acima de 90 g/h), sustentada por fontes múltiplas.</p>\n\n<p>A revisão de Jeukendrup (<em>Sports Medicine</em>, 2014) traduziu isso em diretrizes por duração. Para chegar perto de <strong>90 g/h</strong> sem encher o intestino, é preciso combinar <strong>glicose + frutose</strong>: como usam transportadores diferentes (SGLT1 e GLUT5), a absorção somada supera o teto de uma fonte só.</p>\n\n<h2>Quanto comer — por duração</h2>\n\n<table>\n<thead><tr><th>Duração do esforço</th><th>Carboidrato por hora</th><th>Tipo</th></tr></thead>\n<tbody>\n<tr><td>Até ~1 h</td><td>Quase irrelevante (até bochecho ajuda)</td><td>Qualquer / nenhum</td></tr>\n<tr><td>1 a 2,5 h</td><td>30 a 60 g/h</td><td>Fonte única já basta</td></tr>\n<tr><td>Acima de 2,5 a 3 h</td><td>Até ~90 g/h</td><td>Glicose + frutose (múltiplos transportadores)</td></tr>\n</tbody>\n</table>\n\n<p>Essas faixas estão alinhadas ao <em>position stand</em> conjunto da ACSM, Academy of Nutrition and Dietetics e Dietitians of Canada (Thomas, Erdman e Burke, <em>Medicine &amp; Science in Sports &amp; Exercise</em>, 2016).</p>\n\n<h2>Como aplicar na prática</h2>\n\n<p><strong>Comece cedo.</strong> Abastecer só quando já \"apagou\" é tarde: a reposição não acompanha o buraco já aberto. Distribua a ingestão desde o início.</p>\n\n<p><strong>Treine o intestino.</strong> Tolerar 80–90 g/h não é automático — é uma adaptação. Nas semanas que antecedem a prova, pratique o abastecimento nos treinos longos, subindo a dose aos poucos. A capacidade de absorver carboidrato responde ao treinamento.</p>\n\n<p><strong>Ajuste pela intensidade.</strong> Em intensidades muito baixas, a oxidação de carboidrato é menor e a recomendação pode cair. As faixas acima valem para esforços de intensidade moderada a alta.</p>\n\n<h2>Resumo</h2>\n\n<p>\"Um gel por hora\" é um bom começo para uma prova de 1 hora — e subingestão para uma de 3. Em esforços longos, o alvo com evidência é <strong>60 a 90 g/h</strong>, com glicose + frutose acima de ~60 g/h. Antes de concluir que faltou preparo na última prova longa, faça a conta do que você comeu. Muitas vezes, o problema estava na garrafa, não nas pernas.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. <em>Sports Med</em>. 2014;44(Suppl 1):S25–S33. doi:10.1007/s40279-014-0148-z</li>\n<li>Stellingwerff T, Cox GR. Systematic review: carbohydrate supplementation on exercise performance or capacity of varying durations. <em>Appl Physiol Nutr Metab</em>. 2014;39(9):998–1011. doi:10.1139/apnm-2014-0027</li>\n<li>Thomas DT, Erdman KA, Burke LM. American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance. <em>Med Sci Sports Exerc</em>. 2016;48(3):543–568. doi:10.1249/MSS.0000000000000852</li>\n</ol>\n",
+    "cover": "content/drafts/draft_030/cover.png",
+    "cover_alt": "Carboidrato na prova longa: quanto comer por hora segundo a ciência — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_030/slide_01.png",
+    "content/drafts/draft_030/slide_02.png",
+    "content/drafts/draft_030/slide_03.png",
+    "content/drafts/draft_030/slide_04.png",
+    "content/drafts/draft_030/slide_05.png",
+    "content/drafts/draft_030/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17914462602665259",
+  "published_at": "2026-11-18T14:49:10.065787+00:00"
+}

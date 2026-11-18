@@ -1317,11 +1317,16 @@
       "format": "carousel",
       "topic": "taxa de ingestão de carboidrato durante o exercício de endurance (subingestão)",
       "hook": "Em prova longa, 1 gel por hora é metade do combustível. O alvo: 60 a 90 g.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-18T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Tema novo (Step 3c): taxa de ingestao de carbo DURANTE o esforco (distinto de carga de carbo, que e antes da prova). Hook contrarian+numerico (padrao vencedor). Fontes nivel A: Jeukendrup 2014 (Sports Med, 60/90 g/h por duracao) + Stellingwerff & Cox 2014 (APNM, revisao sistematica 61 estudos, dose-resposta com duracao, p=0.004) + ACSM/AND/DC Position Stand 2016. Tecnico com 3 fotos CC0, slot ~12h BRT/15h UTC."
+      "notes": "Tema novo (Step 3c): taxa de ingestao de carbo DURANTE o esforco (distinto de carga de carbo, que e antes da prova). Hook contrarian+numerico (padrao vencedor). Fontes nivel A: Jeukendrup 2014 (Sports Med, 60/90 g/h por duracao) + Stellingwerff & Cox 2014 (APNM, revisao sistematica 61 estudos, dose-resposta com duracao, p=0.004) + ACSM/AND/DC Position Stand 2016. Tecnico com 3 fotos CC0, slot ~12h BRT/15h UTC.",
+      "published_at": "2026-11-18T14:49:10.065787+00:00",
+      "post_id": "17914462602665259",
+      "ghost_post_id": "6afdbae763577b0001835cab",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/subingestao-carboidrato-prova-longa-quanto-comer/",
+      "ghost_status": "published"
     }
   ]
 }

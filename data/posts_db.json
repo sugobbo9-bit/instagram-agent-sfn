@@ -11076,6 +11076,75 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "17914462602665259",
+      "local_id": "draft_030",
+      "publication_date": "2026-11-18T14:49:10.065787+00:00",
+      "format": "carousel",
+      "topic": "taxa de ingestão de carboidrato durante o exercício de endurance (subingestão)",
+      "content_pillar": "fueling",
+      "hook": "Em prova longa, 1 gel por hora é metade do combustível. O alvo: 60 a 90 g.",
+      "caption": "Na prova longa, o erro mais comum não é falta de preparo — é subingestão de carboidrato. Um gel tem cerca de 22 a 30 g. Tomar 'um por hora' dá uns 25 g/h, bem abaixo do que o corpo consegue usar num esforço longo.\n\nPor quê? Carboidrato durante o exercício prolongado poupa o glicogênio e sustenta a glicose no sangue, e o ganho de desempenho cresce conforme a prova fica mais longa. O limite não é a boca: é a absorção intestinal. Uma fonte única (glicose) satura perto de 60 g/h — por isso, para chegar a ~90 g/h sem peso no estômago, é preciso combinar glicose + frutose, que usam transportadores diferentes.\n\nO que a evidência sustenta:\n• Até ~1 h: a quantidade de carbo quase não importa (até o bochecho ajuda).\n• 1 a 2,5 h: 30 a 60 g/h.\n• Acima de 2,5 a 3 h: até 90 g/h, com glicose + frutose.\n\nComece a abastecer cedo (não quando já 'apagou') e treine o intestino nas semanas anteriores para tolerar taxas mais altas sem desconforto.\n\nFontes: Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014. | Stellingwerff T, Cox GR. Systematic review: carbohydrate supplementation on exercise performance. Appl Physiol Nutr Metab. 2014 (61 estudos). | Thomas DT, Erdman KA, Burke LM. ACSM/AND/DC Joint Position Statement: Nutrition and Athletic Performance. Med Sci Sports Exerc. 2016.",
+      "cta": "Salva e manda pra quem subingere carbo e culpa as pernas na prova longa.",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-S33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "A"
+        },
+        {
+          "title": "Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations",
+          "authors": "Stellingwerff T, Cox GR",
+          "journal": "Applied Physiology, Nutrition, and Metabolism",
+          "year": 2014,
+          "volume": "39",
+          "issue": "9",
+          "pages": "998-1011",
+          "doi": "10.1139/apnm-2014-0027",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24951297/",
+          "level": "A"
+        },
+        {
+          "title": "American College of Sports Medicine Joint Position Statement. Nutrition and Athletic Performance",
+          "authors": "Thomas DT, Erdman KA, Burke LM",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 2016,
+          "volume": "48",
+          "issue": "3",
+          "pages": "543-568",
+          "doi": "10.1249/MSS.0000000000000852",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_030/slide_01.png",
+        "content/drafts/draft_030/slide_02.png",
+        "content/drafts/draft_030/slide_03.png",
+        "content/drafts/draft_030/slide_04.png",
+        "content/drafts/draft_030/slide_05.png",
+        "content/drafts/draft_030/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:carboidrato-durante",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6afdbae763577b0001835cab",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/subingestao-carboidrato-prova-longa-quanto-comer/"
     }
   ]
 }
