@@ -1333,11 +1333,13 @@
       "format": "carousel",
       "topic": "goma de energia: Honey Stinger Energy Chews vs Clif Bloks (rótulo lado a lado)",
       "hook": "Honey Stinger vs. Clif Bloks. Só o rótulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-18T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:goma-carbo, pair:honeystinger-clif"
+      "notes": "marca x marca — category:goma-carbo, pair:honeystinger-clif",
+      "published_at": "2026-11-18T20:25:26.004477+00:00",
+      "post_id": "18498574756110840"
     }
   ]
 }

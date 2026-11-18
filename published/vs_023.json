@@ -1,0 +1,241 @@
+{
+  "local_id": "vs_023",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "published",
+  "created_at": "2026-11-18T00:00:00Z",
+  "topic": "goma de energia: Honey Stinger Energy Chews vs Clif Bloks (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Honey Stinger vs. Clif Bloks. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:goma-carbo",
+    "pair:honeystinger-clif"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Honey Stinger Energy Chews",
+      "brand": "Honey Stinger",
+      "image": "content/drafts/vs_023/img/honeystinger_chews.jpg",
+      "label_source": {
+        "url": "https://honeystinger.com/products/fruit-smoothie-energy-chews",
+        "consulted": "2026-11-18",
+        "notes": "Nutrition Facts oficial (Organic Energy Chews, sabor Fruit Smoothie, versão EUA): porção 6 chews (30 g); 100 kcal; 23 g carboidrato; 16 g açúcar (16 g adicionado); 40 mg sódio; 24 mg potássio; 36 mg vitamina C (40% VD); 0 g proteína; 0 g gordura. Carboidrato de mel, xarope de tapioca, açúcar e suco de uva. USDA Organic."
+      }
+    },
+    {
+      "name": "Clif Bloks Energy Chews",
+      "brand": "Clif",
+      "image": "content/drafts/vs_023/img/clif_bloks.jpg",
+      "label_source": {
+        "url": "https://www.clifbar.com/products/clif-bloks-energy-chews-mountain-berry",
+        "consulted": "2026-11-18",
+        "notes": "Nutrition Facts oficial (Bloks Energy Chews, sabor Mountain Berry, versão EUA): porção 3 bloks (30 g); 2 porções por pacote (60 g); 100 kcal; 24 g carboidrato; 12 g açúcar (12 g adicionado); 50 mg sódio; 18 mg potássio; vitamina C não consta na tabela; 0 g proteína; 0 g gordura. USDA Organic. A marca tem sabores com 2x e 3x de sódio e versões com cafeína."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas gomas de energia.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_023/img/honeystinger_chews.jpg",
+          "mode": "multiply",
+          "label": "Honey Stinger"
+        },
+        {
+          "image": "content/drafts/vs_023/img/clif_bloks.jpg",
+          "mode": "multiply",
+          "label": "Clif Bloks"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "A porção do rótulo",
+      "values": [
+        {
+          "value": "6 chews",
+          "note": "30 g"
+        },
+        {
+          "value": "3 bloks",
+          "note": "30 g"
+        }
+      ],
+      "footnote": "A base da comparação é a porção de 30 g que os dois rótulos declaram."
+    },
+    {
+      "type": "metric",
+      "headline": "Calorias por porção (30 g)",
+      "values": [
+        {
+          "value": "100 kcal"
+        },
+        {
+          "value": "100 kcal"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção (30 g)",
+      "values": [
+        {
+          "value": "23 g"
+        },
+        {
+          "value": "24 g"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Açúcar por porção (30 g)",
+      "values": [
+        {
+          "value": "16 g",
+          "note": "declarado como adicionado"
+        },
+        {
+          "value": "12 g",
+          "note": "declarado como adicionado"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção (30 g)",
+      "values": [
+        {
+          "value": "40 mg"
+        },
+        {
+          "value": "50 mg"
+        }
+      ],
+      "footnote": "A Clif tem sabores com 2x e 3x de sódio (ex.: Salted Watermelon, Margarita); este é o padrão. Os dois têm versões com cafeína."
+    },
+    {
+      "type": "metric",
+      "headline": "Vitamina C no rótulo",
+      "values": [
+        {
+          "value": "36 mg",
+          "note": "40% do VD"
+        },
+        {
+          "value": "0 mg",
+          "note": "não consta na tabela"
+        }
+      ],
+      "footnote": "Os dois têm selo USDA Organic."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Durante o exercício, a recomendação de carboidrato é cerca de 30 a 60 g por hora, e pode chegar a ~90 g/h em provas longas, misturando glicose e frutose. Uma porção de 30 g traz de 23 a 24 g: para 60 g/h, seriam quase 3 porções por hora.\n\nO sódio de uma porção (40 a 50 mg) é pequeno perto do que sai no suor: de ~230 a ~2.000 mg por litro, conforme a pessoa e o calor. Repor sódio é uma conta à parte — é por isso que existem versões com 2x e 3x de sódio.",
+      "source": "Rótulos e sites oficiais Honey Stinger (Fruit Smoothie) e Clif (Bloks, Mountain Berry), versões EUA, consultados em 18/11/2026.\nJeukendrup A. Sports Med. 2014;44(S1):S25‑33. Baker LB. Sports Med. 2017;47(S1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nHoney Stinger Energy Chews (Fruit Smoothie): porção de 6 balinhas (30 g), 100 kcal, 23 g de carboidrato, 16 g de açúcar, 40 mg de sódio e 36 mg de vitamina C. O carboidrato vem de mel, tapioca, açúcar e suco de uva. Selo orgânico.\n\nClif Bloks (Mountain Berry): porção de 3 blocos (30 g), 100 kcal, 24 g de carboidrato, 12 g de açúcar, 50 mg de sódio e sem vitamina C no rótulo. O pacote de 60 g traz 2 porções. Selo orgânico.\n\nOs dois têm sabores com cafeína e, no caso da Clif, versões com 2x e 3x de sódio.\n\nDados dos rótulos e sites oficiais, consultados em 18/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Honey Stinger e da Clif.\n\n#nutricaoesportiva #corrida #ciclismo #triathlon #maratona #endurance #gomadeenergia #carboidrato",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Honey Stinger Energy Chews",
+      "kind": "packshot",
+      "title": "fruit-smoothie-classic-energy-chews.png",
+      "creator": "Honey Stinger",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://honeystinger.com/products/fruit-smoothie-energy-chews",
+      "changes": "fundo removido e recortado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "label": "Clif Bloks Energy Chews",
+      "kind": "packshot",
+      "title": "MB_carousel_PDP.png",
+      "creator": "Clif Bar & Company",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.clifbar.com/products/clif-bloks-energy-chews-mountain-berry",
+      "changes": "fundo recortado"
+    }
+  ],
+  "notes": "marca x marca — category:goma-carbo, pair:honeystinger-clif. Dados de rótulo das versões EUA conferidos em 2026-11-18 (Honey Stinger Fruit Smoothie: Nutrition Facts da honeystinger.com; Clif Bloks Mountain Berry: Nutrition Facts da clifbar.com, lida da imagem oficial do rótulo). Porção comparada: 30 g dos dois. Ambas marcas mainstream (passa o gate de curadoria).",
+  "creative_files": [
+    "content/drafts/vs_023/slide_01.png",
+    "content/drafts/vs_023/slide_02.png",
+    "content/drafts/vs_023/slide_03.png",
+    "content/drafts/vs_023/slide_04.png",
+    "content/drafts/vs_023/slide_05.png",
+    "content/drafts/vs_023/slide_06.png",
+    "content/drafts/vs_023/slide_07.png",
+    "content/drafts/vs_023/slide_08.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18498574756110840",
+  "published_at": "2026-11-18T20:25:26.004477+00:00"
+}

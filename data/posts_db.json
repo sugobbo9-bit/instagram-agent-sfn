@@ -11145,6 +11145,63 @@
       "derivatives_created": [],
       "ghost_post_id": "6afdbae763577b0001835cab",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/subingestao-carboidrato-prova-longa-quanto-comer/"
+    },
+    {
+      "post_id": "18498574756110840",
+      "local_id": "vs_023",
+      "publication_date": "2026-11-18T20:25:26.004477+00:00",
+      "format": "carousel",
+      "topic": "goma de energia: Honey Stinger Energy Chews vs Clif Bloks (rótulo lado a lado)",
+      "content_pillar": "products",
+      "hook": "Honey Stinger vs. Clif Bloks. Só o rótulo.",
+      "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nHoney Stinger Energy Chews (Fruit Smoothie): porção de 6 balinhas (30 g), 100 kcal, 23 g de carboidrato, 16 g de açúcar, 40 mg de sódio e 36 mg de vitamina C. O carboidrato vem de mel, tapioca, açúcar e suco de uva. Selo orgânico.\n\nClif Bloks (Mountain Berry): porção de 3 blocos (30 g), 100 kcal, 24 g de carboidrato, 12 g de açúcar, 50 mg de sódio e sem vitamina C no rótulo. O pacote de 60 g traz 2 porções. Selo orgânico.\n\nOs dois têm sabores com cafeína e, no caso da Clif, versões com 2x e 3x de sódio.\n\nDados dos rótulos e sites oficiais, consultados em 18/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil pode ter diferenças, então confira o rótulo do produto que você tem em mãos.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jeukendrup A. A step towards personalized sports nutrition: carbohydrate intake during exercise. Sports Med. 2014;44(Suppl 1):S25–33.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Honey Stinger e da Clif.\n\n#nutricaoesportiva #corrida #ciclismo #triathlon #maratona #endurance #gomadeenergia #carboidrato",
+      "cta": "Que dupla você quer ver lado a lado?",
+      "scientific_sources": [
+        {
+          "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+          "authors": "Jeukendrup A",
+          "journal": "Sports Medicine",
+          "year": 2014,
+          "volume": "44",
+          "issue": "Suppl 1",
+          "pages": "S25-33",
+          "doi": "10.1007/s40279-014-0148-z",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+          "level": "B"
+        },
+        {
+          "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+          "authors": "Baker LB",
+          "journal": "Sports Medicine",
+          "year": 2017,
+          "volume": "47",
+          "issue": "Suppl 1",
+          "pages": "111-128",
+          "doi": "10.1007/s40279-017-0691-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+          "level": "B"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/vs_023/slide_01.png",
+        "content/drafts/vs_023/slide_02.png",
+        "content/drafts/vs_023/slide_03.png",
+        "content/drafts/vs_023/slide_04.png",
+        "content/drafts/vs_023/slide_05.png",
+        "content/drafts/vs_023/slide_06.png",
+        "content/drafts/vs_023/slide_07.png",
+        "content/drafts/vs_023/slide_08.png"
+      ],
+      "experiment_tags": [
+        "format:carousel",
+        "template:versus",
+        "series:marca-vs-marca",
+        "category:goma-carbo",
+        "pair:honeystinger-clif"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": []
     }
   ]
 }

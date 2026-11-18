@@ -747,3 +747,10 @@
 {"ts": "2026-11-18T14:49:10.065597+00:00", "level": "INFO", "msg": "PUBLICADO: draft_030 -> media_id 17914462602665259"}
 {"ts": "2026-11-18T14:49:10.088849+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-18T19:58:23.224369+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-18T20:24:23.997996+00:00", "level": "INFO", "msg": "Publicando vs_023 (carousel) \u2014 goma de energia: Honey Stinger Energy Chews vs Clif Bloks (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-18T20:24:24.002627+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-18T20:24:24.002735+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_023/slide_01.png"}
+{"ts": "2026-11-18T20:24:24.719199+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-18T20:25:10.499022+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-18T20:25:26.004285+00:00", "level": "INFO", "msg": "PUBLICADO: vs_023 -> media_id 18498574756110840"}
+{"ts": "2026-11-18T20:25:26.027599+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
