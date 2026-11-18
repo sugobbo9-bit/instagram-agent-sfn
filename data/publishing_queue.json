@@ -1327,6 +1327,17 @@
       "ghost_post_id": "6afdbae763577b0001835cab",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/subingestao-carboidrato-prova-longa-quanto-comer/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_023",
+      "format": "carousel",
+      "topic": "goma de energia: Honey Stinger Energy Chews vs Clif Bloks (rótulo lado a lado)",
+      "hook": "Honey Stinger vs. Clif Bloks. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-18T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:goma-carbo, pair:honeystinger-clif"
     }
   ]
 }
