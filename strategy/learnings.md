@@ -1,5 +1,5 @@
 # Learnings Acumulados — Instagram Agent
-_Última atualização: 2026-11-11_
+_Última atualização: 2026-11-18_
 
 ## Sobre a Conta
 9.266 seguidores (snapshot 20/09/2026; +137 desde 09/09). Token da Página revalidado no bootstrap de 20/09 (não expira) — demografia a puxar no próximo ciclo.
@@ -235,3 +235,14 @@ Hook contrarian (374, n=20) > myth (312, n=16). Slot 15h UTC (546/5d) e 14h (300
 | 2026-11-15 | **Diagnóstico migra de "blackout/consistência" para "curadoria/diluição do feed"** | Publicação contínua desde 10/11, mas carrossel 301→173→118; feed 65% `vs_`+`card_` (mediana 138/98) vs técnico 406 | posts_db fresco (bootstrap 15/11), timeline por dia |
 | 2026-11-15 | +1 vencedor (carga_carbo_curta 717); failure vs_commodity atualizado e enforçado | Winner/failure system | winner_library / failure_log |
 | 2026-11-15 | **Reescalado: claim-check (0 publicados em 2 semanas) e horário dos dispatches** seguem fora do alcance do loop — dependem da rotina diária | Diretriz de 31/10 nunca renderizada; `vs_*` ainda saem 19–20h | posts_db: nenhum claim_*, vs_* em 19–20h UTC |
+
+
+## Estudo de Audiência — 2026-11-18 (rotina de análise, coleta NOVA 15/11)
+- **Dado fresco confirma o diagnóstico de curadoria (forte e repetido, agora com coleta independente).** 1ª coleta nova desde 01/11: bootstrap de 15/11, **219 posts medidos** (eram 195). A base all-time do carrossel **caiu 366→301**, e por recência o quadro é de **queda livre**: carrossel 30d=181, 14d=165, **7d=118,5** (estático 7d=89,5). Não é o formato que piorou — é a safra recente fraca (`vs_`/`card_`) entrando no conjunto. Corrobora, com dado de audiência próprio, a tese de que o gargalo é **composição do feed**, não volume.
+- **Seguidores: 8.850 (−236), 2ª queda seguida** (…9.516→9.086 (−430)→8.850 (−236)). A sangria desacelerou (−430→−236) mas não estancou.
+- **Hook contrarian > myth reconfirmado com n maior:** contrarian n=12→**20** (alcance 374,5; saves/r 0,0149) vs myth n=16 (312; 0,0113). Padrão de produção mais robusto.
+- **Versus bimodal com n=19:** Gatorade×Powerade 1.061 (10 shares) no topo; commodity de nicho no fundo, **maioria com 0 share** (pior maxtitanium-dux 46). Reforça a trava `VERSUS_COMMODITY_BLOCKED`.
+- **Fluxo 30d:** motor técnico `der_` 406/72 shares vs lastro `vs_` 138,5 (11/16 zero-share) + `card_` 98. **Janelas:** 15h UTC 546 / 14h 300 (motor, limpo); 19–20h 157/166 (mortos, onde o lastro sai).
+- **Comentários:** 94/219, 41 com ≥1, mediana 0; Reel de nitrato (16) outlier. Padrão idêntico há 8 coletas. **Texto segue bloqueado** (token expirado + falta `instagram_manage_comments`) — banco de respostas parado.
+- **Lacuna crítica reiterada:** `follows/reach` ausente em **0/219** registros — com −236 seguidores, não dá para atribuir perda/ganho de seguidor a conteúdo específico. Instrumentar no Actions ou renovar token do Mac.
+- **Token do Mac:** 9ª rodada bloqueada — re-testado 18/11, ainda expirado 26/08 (OAuthException 190), `.env` inalterado.
