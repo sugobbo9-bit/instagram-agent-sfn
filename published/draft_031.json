@@ -1,0 +1,206 @@
+{
+  "local_id": "draft_031",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-19T00:00:00Z",
+  "topic": "janela de 30 minutos para repor glicogênio (timing de carboidrato pós-treino)",
+  "content_pillar": "recovery",
+  "hook": "A janela de 30 min pra repor glicogênio só importa se você treina de novo hoje.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:timing-glicogenio",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:timing-fueling"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O MITO",
+      "headline": "Repor o carbo em 30 min pós-treino?",
+      "body": null,
+      "label": null,
+      "divider": false,
+      "image": {
+        "path": "/tmp/img/draft_031/stopwatch/cand_01.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "problem",
+      "label": "O MITO",
+      "headline": "A tal 'janela' do glicogênio",
+      "body": "A crença: se você não mandar carboidrato nos 30 minutos após o treino, perde a janela e não repõe o glicogênio.\n\nA pressa só é real num cenário: quando você treina forte de novo em poucas horas. Pra quem vai treinar só amanhã, ela não existe.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/draft_031/spaghetti/cand_03.jpg",
+        "focus": "center 45%"
+      }
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Quem repõe o glicogênio é o total do dia",
+      "body": "O músculo esvaziado já puxa a própria reposição: a maquinaria que estoca glicogênio fica mais ativa quando o estoque está baixo.\n\nNas primeiras horas, carbo rápido (~1 g/kg) acelera o enchimento. Mas de 4 a 24 h, o que decide é quanto carboidrato você come no total — não a hora, nem o formato.",
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "Atrasar o carbo em 2 h não mudou nada",
+      "body": "Em ciclistas que esvaziaram o glicogênio, atrasar a 1ª refeição em 2 horas não alterou o glicogênio em 8 h nem em 24 h — desde que o total de carbo do dia fosse suficiente (Parkin, 1997).\n\nRevisão da área (Burke, 2017): a pressa só pesa na recuperação rápida; passou disso, vale o total.",
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "A regra das 8 horas",
+      "body": "Treina forte de novo em menos de ~8 h? Reponha rápido: ~1 a 1,2 g/kg de carbo por hora nas primeiras horas.\n\nSó treina amanhã (a maioria)? Esqueça o cronômetro. Garanta o carbo do dia (~5 a 10 g/kg conforme o volume) numa refeição normal. Em ~24 h o estoque volta.",
+      "divider": true,
+      "image": {
+        "path": "/tmp/img/draft_031/white_rice/cand_03.jpg",
+        "focus": "center 50%"
+      }
+    },
+    {
+      "type": "cta",
+      "headline": "Reabastecer é o total do dia, não o cronômetro.",
+      "body": "Salva pra lembrar e manda pro parceiro que corre atrás de gel no minuto 29.",
+      "label": null,
+      "divider": false
+    }
+  ],
+  "caption": "A \"janela de 30 minutos\" pra repor glicogênio virou regra — mas ela só vale num cenário específico: quando você vai treinar forte de novo em poucas horas.\n\nO músculo esvaziado já puxa a própria reposição. Nas primeiras horas, carbo rápido (~1 g/kg) acelera o enchimento; mas de 4 a 24 h o que decide é o TOTAL de carboidrato do dia, não a hora da primeira refeição. Num estudo clássico, atrasar a comida em 2 horas não mudou o glicogênio em 8 h nem em 24 h — desde que o total fosse suficiente (Parkin, 1997).\n\nNa prática: vai treinar de novo em menos de ~8 h? Reponha rápido (~1 a 1,2 g/kg por hora). Só treina amanhã? Esqueça o cronômetro e garanta o carbo do dia (~5 a 10 g/kg conforme o volume) — em ~24 h o estoque volta.\n\n(Isso é sobre glicogênio/carboidrato — diferente da \"janela anabólica\" de proteína.)\n\nFontes: Parkin et al., Med Sci Sports Exerc, 1997. | Burke, van Loon & Hawley, J Appl Physiol, 2017 (revisão). | Jentjens & Jeukendrup, Sports Med, 2003 (revisão). | Kerksick et al., ISSN Position Stand, J Int Soc Sports Nutr, 2017.",
+  "cta": "Salva e manda pra quem corre atrás de gel no minuto 29 achando que perdeu a janela.",
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Stopwatch Time",
+      "creator": "James Sutton",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/stopwatch-time-BS8YSPFEGT"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o mito",
+      "title": "Spaghetti Tomato",
+      "creator": "Lisa Fotios",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/spaghetti-tomato-2HEQC6X2DF"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "White rice, Japanese food image",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/6032946/photo-image-public-domain-food-free"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Muscle glycogen storage following prolonged exercise: effect of timing of ingestion of high glycemic index food",
+      "authors": "Parkin JA, Carey MF, Martin IK, Stojanovska L, Febbraio MA",
+      "journal": "Medicine & Science in Sports & Exercise",
+      "year": 1997,
+      "volume": "29",
+      "issue": "2",
+      "pages": "220-224",
+      "doi": "10.1097/00005768-199702000-00009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9044226/",
+      "level": "B"
+    },
+    {
+      "title": "Postexercise muscle glycogen resynthesis in humans",
+      "authors": "Burke LM, van Loon LJC, Hawley JA",
+      "journal": "Journal of Applied Physiology",
+      "year": 2017,
+      "volume": "122",
+      "issue": "5",
+      "pages": "1055-1067",
+      "doi": "10.1152/japplphysiol.00860.2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27789774/",
+      "level": "A"
+    },
+    {
+      "title": "Determinants of post-exercise glycogen synthesis during short-term recovery",
+      "authors": "Jentjens R, Jeukendrup AE",
+      "journal": "Sports Medicine",
+      "year": 2003,
+      "volume": "33",
+      "issue": "2",
+      "pages": "117-144",
+      "doi": "10.2165/00007256-200333020-00004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12617691/",
+      "level": "A"
+    },
+    {
+      "title": "International Society of Sports Nutrition position stand: nutrient timing",
+      "authors": "Kerksick CM, Arent S, Schoenfeld BJ, et al.",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "year": 2017,
+      "volume": "14",
+      "pages": "33",
+      "doi": "10.1186/s12970-017-0189-4",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4",
+      "level": "A"
+    },
+    {
+      "title": "Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion",
+      "authors": "Alghannam AF, Gonzalez JT, Betts JA",
+      "journal": "Nutrients",
+      "year": 2018,
+      "volume": "10",
+      "issue": "2",
+      "pages": "253",
+      "doi": "10.3390/nu10020253",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29473893/",
+      "level": "A"
+    }
+  ],
+  "article": {
+    "title": "A janela de 30 minutos para repor glicogênio: o que a ciência mostra",
+    "slug": "janela-30-minutos-glicogenio-o-que-a-ciencia-mostra",
+    "excerpt": "A pressa de repor carboidrato nos 30 minutos após o treino só faz diferença num cenário: quando você vai treinar forte de novo em poucas horas. Entenda a 'regra das 8 horas' e por que, para a maioria, o que importa é o total de carbo do dia.",
+    "meta_title": "Janela de 30 minutos do glicogênio: mito e evidência",
+    "tags": [
+      "Recuperação",
+      "Carboidrato",
+      "Glicogênio",
+      "Endurance"
+    ],
+    "html": "<p>\"Mande carboidrato nos 30 minutos após o treino ou você perde a janela.\" A frase virou regra de bolso — e, para a maioria dos atletas amadores, está errada. A urgência de repor glicogênio na hora só muda alguma coisa num cenário específico: quando você precisa treinar forte de novo em poucas horas.</p>\n\n<h2>O que repõe o glicogênio</h2>\n\n<p>Depois de um treino longo, o músculo fica com os estoques de glicogênio baixos — e essa própria depleção acelera a reposição: a enzima que monta glicogênio (a glicogênio sintase) fica mais ativa quando o estoque está baixo, e o transporte de glicose para dentro da célula aumenta. Em outras palavras, o corpo já está \"preparado\" para reabastecer.</p>\n\n<p>A revisão de Burke, van Loon e Hawley (<em>Journal of Applied Physiology</em>, 2017) resume bem as duas fases da recuperação. Nas primeiras 0–4 horas, oferecer carboidrato (cerca de 1 g/kg de peso) otimiza a fase rápida de reposição. Já entre 4 e 24 horas, segundo os autores, \"o tipo, a forma e o padrão de ingestão são menos importantes do que a quantidade total\". Ou seja: passada a janela rápida, o que decide é quanto carboidrato você come no dia — não o relógio.</p>\n\n<h2>A evidência contra a pressa</h2>\n\n<p>O teste mais direto dessa ideia é antigo e continua de pé. Parkin e colegas (<em>Medicine &amp; Science in Sports &amp; Exercise</em>, 1997) depletaram o glicogênio de ciclistas treinados e, na recuperação, deram as primeiras refeições de alto índice glicêmico ou <strong>imediatamente</strong> ou com <strong>2 horas de atraso</strong>. Resultado: nenhuma diferença no glicogênio muscular às 8 h nem às 24 h, \"desde que carboidrato suficiente seja ingerido durante o período de recuperação\".</p>\n\n<p>A quantidade importa muito mais do que a hora. Jentjens e Jeukendrup (<em>Sports Medicine</em>, 2003) mostram que as maiores taxas de ressíntese só aparecem quando se ingere muito carboidrato (1,0–1,85 g/kg por hora) logo após o esforço e em intervalos de 15 a 60 minutos — um protocolo agressivo que faz sentido apenas quando o tempo até o próximo esforço é curto. E Alghannam, González e Betts (<em>Nutrients</em>, 2018) reforçam: na recuperação limitada, é a quantidade de carboidrato que determina a reposição; adicionar proteína só ajuda quando o carboidrato está abaixo do ideal (≤ 0,8 g/kg/h).</p>\n\n<h2>A regra prática das 8 horas</h2>\n\n<p>Junte tudo e sobra uma regra simples, que depende de uma única pergunta: <strong>quando é o seu próximo treino forte?</strong></p>\n\n<table>\n<thead><tr><th>Cenário</th><th>O que fazer</th></tr></thead>\n<tbody>\n<tr><td>Vai treinar forte de novo em menos de ~8 horas (dois treinos no dia, etapa de prova por etapas, torneio)</td><td>Reponha rápido: ~1 a 1,2 g/kg de carboidrato por hora nas primeiras horas, de preferência com alimentos de rápida digestão.</td></tr>\n<tr><td>Só treina no dia seguinte (a maioria dos amadores)</td><td>Esqueça o cronômetro. Garanta o carboidrato do dia — algo como 5 a 10 g/kg conforme o volume de treino — em refeições normais. Em torno de 24 horas o estoque volta ao normal.</td></tr>\n</tbody>\n</table>\n\n<p>Isso não é desculpa para comer de menos: quem treina pesado precisa de bastante carboidrato ao longo do dia. A mudança é de foco — do <em>relógio</em> para o <em>total</em>.</p>\n\n<h2>Um detalhe importante</h2>\n\n<p>Essa conversa é sobre <strong>glicogênio</strong> (reposição de carboidrato) e não deve ser confundida com a chamada \"janela anabólica\" de proteína, que trata de síntese muscular. São processos diferentes, com evidências próprias. Aqui, o ponto é um só: para a maioria, repor carboidrato não é uma corrida contra o cronômetro de 30 minutos.</p>\n\n<h2>Resumo</h2>\n\n<p>A janela de 30 minutos para o glicogênio existe de verdade apenas quando a recuperação precisa ser rápida (menos de ~8 horas até o próximo esforço). Para quem treina de novo só no dia seguinte, o que enche os estoques é o total de carboidrato do dia, não a velocidade da primeira refeição. Coma o suficiente — e deixe o gel do minuto 29 para quem realmente vai correr de novo à tarde.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Parkin JA, Carey MF, Martin IK, Stojanovska L, Febbraio MA. Muscle glycogen storage following prolonged exercise: effect of timing of ingestion of high glycemic index food. <em>Med Sci Sports Exerc</em>. 1997;29(2):220–224. doi:10.1097/00005768-199702000-00009</li>\n<li>Burke LM, van Loon LJC, Hawley JA. Postexercise muscle glycogen resynthesis in humans. <em>J Appl Physiol</em>. 2017;122(5):1055–1067. doi:10.1152/japplphysiol.00860.2016</li>\n<li>Jentjens R, Jeukendrup AE. Determinants of post-exercise glycogen synthesis during short-term recovery. <em>Sports Med</em>. 2003;33(2):117–144. doi:10.2165/00007256-200333020-00004</li>\n<li>Kerksick CM, Arent S, Schoenfeld BJ, et al. International Society of Sports Nutrition position stand: nutrient timing. <em>J Int Soc Sports Nutr</em>. 2017;14:33. doi:10.1186/s12970-017-0189-4</li>\n<li>Alghannam AF, Gonzalez JT, Betts JA. Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion. <em>Nutrients</em>. 2018;10(2):253. doi:10.3390/nu10020253</li>\n</ol>\n",
+    "cover": "content/drafts/draft_031/cover.png",
+    "cover_alt": "A janela de 30 minutos para repor glicogênio: o que a ciência mostra — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_031/slide_01.png",
+    "content/drafts/draft_031/slide_02.png",
+    "content/drafts/draft_031/slide_03.png",
+    "content/drafts/draft_031/slide_04.png",
+    "content/drafts/draft_031/slide_05.png",
+    "content/drafts/draft_031/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "18147022945614232",
+  "published_at": "2026-11-19T14:56:07.534123+00:00"
+}

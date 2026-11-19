@@ -11202,6 +11202,99 @@
       "metrics": {},
       "performance_tier": null,
       "derivatives_created": []
+    },
+    {
+      "post_id": "18147022945614232",
+      "local_id": "draft_031",
+      "publication_date": "2026-11-19T14:56:07.534123+00:00",
+      "format": "carousel",
+      "topic": "janela de 30 minutos para repor glicogênio (timing de carboidrato pós-treino)",
+      "content_pillar": "recovery",
+      "hook": "A janela de 30 min pra repor glicogênio só importa se você treina de novo hoje.",
+      "caption": "A \"janela de 30 minutos\" pra repor glicogênio virou regra — mas ela só vale num cenário específico: quando você vai treinar forte de novo em poucas horas.\n\nO músculo esvaziado já puxa a própria reposição. Nas primeiras horas, carbo rápido (~1 g/kg) acelera o enchimento; mas de 4 a 24 h o que decide é o TOTAL de carboidrato do dia, não a hora da primeira refeição. Num estudo clássico, atrasar a comida em 2 horas não mudou o glicogênio em 8 h nem em 24 h — desde que o total fosse suficiente (Parkin, 1997).\n\nNa prática: vai treinar de novo em menos de ~8 h? Reponha rápido (~1 a 1,2 g/kg por hora). Só treina amanhã? Esqueça o cronômetro e garanta o carbo do dia (~5 a 10 g/kg conforme o volume) — em ~24 h o estoque volta.\n\n(Isso é sobre glicogênio/carboidrato — diferente da \"janela anabólica\" de proteína.)\n\nFontes: Parkin et al., Med Sci Sports Exerc, 1997. | Burke, van Loon & Hawley, J Appl Physiol, 2017 (revisão). | Jentjens & Jeukendrup, Sports Med, 2003 (revisão). | Kerksick et al., ISSN Position Stand, J Int Soc Sports Nutr, 2017.",
+      "cta": "Salva e manda pra quem corre atrás de gel no minuto 29 achando que perdeu a janela.",
+      "scientific_sources": [
+        {
+          "title": "Muscle glycogen storage following prolonged exercise: effect of timing of ingestion of high glycemic index food",
+          "authors": "Parkin JA, Carey MF, Martin IK, Stojanovska L, Febbraio MA",
+          "journal": "Medicine & Science in Sports & Exercise",
+          "year": 1997,
+          "volume": "29",
+          "issue": "2",
+          "pages": "220-224",
+          "doi": "10.1097/00005768-199702000-00009",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9044226/",
+          "level": "B"
+        },
+        {
+          "title": "Postexercise muscle glycogen resynthesis in humans",
+          "authors": "Burke LM, van Loon LJC, Hawley JA",
+          "journal": "Journal of Applied Physiology",
+          "year": 2017,
+          "volume": "122",
+          "issue": "5",
+          "pages": "1055-1067",
+          "doi": "10.1152/japplphysiol.00860.2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27789774/",
+          "level": "A"
+        },
+        {
+          "title": "Determinants of post-exercise glycogen synthesis during short-term recovery",
+          "authors": "Jentjens R, Jeukendrup AE",
+          "journal": "Sports Medicine",
+          "year": 2003,
+          "volume": "33",
+          "issue": "2",
+          "pages": "117-144",
+          "doi": "10.2165/00007256-200333020-00004",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12617691/",
+          "level": "A"
+        },
+        {
+          "title": "International Society of Sports Nutrition position stand: nutrient timing",
+          "authors": "Kerksick CM, Arent S, Schoenfeld BJ, et al.",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "volume": "14",
+          "pages": "33",
+          "doi": "10.1186/s12970-017-0189-4",
+          "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4",
+          "level": "A"
+        },
+        {
+          "title": "Restoration of Muscle Glycogen and Functional Capacity: Role of Post-Exercise Carbohydrate and Protein Co-Ingestion",
+          "authors": "Alghannam AF, Gonzalez JT, Betts JA",
+          "journal": "Nutrients",
+          "year": 2018,
+          "volume": "10",
+          "issue": "2",
+          "pages": "253",
+          "doi": "10.3390/nu10020253",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29473893/",
+          "level": "A"
+        }
+      ],
+      "creative_files": [
+        "content/drafts/draft_031/slide_01.png",
+        "content/drafts/draft_031/slide_02.png",
+        "content/drafts/draft_031/slide_03.png",
+        "content/drafts/draft_031/slide_04.png",
+        "content/drafts/draft_031/slide_05.png",
+        "content/drafts/draft_031/slide_06.png"
+      ],
+      "experiment_tags": [
+        "hook:contrarian",
+        "topic:timing-glicogenio",
+        "format:carousel",
+        "visual:foto",
+        "time:12brt",
+        "family:timing-fueling"
+      ],
+      "metrics": {},
+      "performance_tier": null,
+      "derivatives_created": [],
+      "ghost_post_id": "6aff0e0919c6850001bad058",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-30-minutos-glicogenio-o-que-a-ciencia-mostra/"
     }
   ]
 }

@@ -754,3 +754,10 @@
 {"ts": "2026-11-18T20:25:10.499022+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
 {"ts": "2026-11-18T20:25:26.004285+00:00", "level": "INFO", "msg": "PUBLICADO: vs_023 -> media_id 18498574756110840"}
 {"ts": "2026-11-18T20:25:26.027599+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
+{"ts": "2026-11-19T14:55:24.939131+00:00", "level": "INFO", "msg": "Publicando draft_031 (carousel) \u2014 janela de 30 minutos para repor glicog\u00eanio (timing de carboidrato p\u00f3s-treino)"}
+{"ts": "2026-11-19T14:55:24.943162+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-19T14:55:24.943242+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_031/slide_01.png"}
+{"ts": "2026-11-19T14:55:26.024538+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-19T14:55:54.342221+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-19T14:56:07.533910+00:00", "level": "INFO", "msg": "PUBLICADO: draft_031 -> media_id 18147022945614232"}
+{"ts": "2026-11-19T14:56:07.552890+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

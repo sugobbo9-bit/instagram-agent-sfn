@@ -1346,11 +1346,16 @@
       "format": "carousel",
       "topic": "janela de 30 minutos para repor glicogênio (timing de carboidrato pós-treino)",
       "hook": "A janela de 30 min pra repor glicogênio só importa se você treina de novo hoje.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-19T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "Tema novo (mito da janela de 30 min do glicogenio). Contrarian+numerico, foto, slot 12h BRT. Fontes nivel A/B: Parkin 1997, Burke 2017, Jentjens/Jeukendrup 2003, ISSN 2017, Alghannam 2018."
+      "notes": "Tema novo (mito da janela de 30 min do glicogenio). Contrarian+numerico, foto, slot 12h BRT. Fontes nivel A/B: Parkin 1997, Burke 2017, Jentjens/Jeukendrup 2003, ISSN 2017, Alghannam 2018.",
+      "published_at": "2026-11-19T14:56:07.534123+00:00",
+      "post_id": "18147022945614232",
+      "ghost_post_id": "6aff0e0919c6850001bad058",
+      "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-30-minutos-glicogenio-o-que-a-ciencia-mostra/",
+      "ghost_status": "published"
     }
   ]
 }
