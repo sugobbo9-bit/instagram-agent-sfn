@@ -1340,6 +1340,17 @@
       "notes": "marca x marca — category:goma-carbo, pair:honeystinger-clif",
       "published_at": "2026-11-18T20:25:26.004477+00:00",
       "post_id": "18498574756110840"
+    },
+    {
+      "local_id": "draft_031",
+      "format": "carousel",
+      "topic": "janela de 30 minutos para repor glicogênio (timing de carboidrato pós-treino)",
+      "hook": "A janela de 30 min pra repor glicogênio só importa se você treina de novo hoje.",
+      "status": "approved",
+      "created_at": "2026-11-19T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Tema novo (mito da janela de 30 min do glicogenio). Contrarian+numerico, foto, slot 12h BRT. Fontes nivel A/B: Parkin 1997, Burke 2017, Jentjens/Jeukendrup 2003, ISSN 2017, Alghannam 2018."
     }
   ]
 }
