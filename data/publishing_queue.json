@@ -1356,6 +1356,17 @@
       "ghost_post_id": "6aff0e0919c6850001bad058",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/janela-30-minutos-glicogenio-o-que-a-ciencia-mostra/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "draft_032",
+      "format": "carousel",
+      "topic": "habituacao a cafeina e o efeito ergogenico (cortar o cafe antes da prova nao aumenta o efeito)",
+      "hook": "Tomar cafe todo dia nao anula o efeito da cafeina na prova. 60 estudos.",
+      "status": "approved",
+      "created_at": "2026-11-20T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Tema novo (Step 3c): habituacao a cafeina — cortar o cafe antes da prova nao potencializa o efeito ergogenico. Hook contrarian+numerico, foto, slot 12h BRT. Fontes nivel A: Carvalho 2022 (meta-analise 60 estudos, consumo habitual p=0.59, abstinencia <24h/24-48h/>48h sem bonus) + Southward 2018 (meta 44 estudos, ~2-3% no contrarrelogio de endurance, dose 3-6 mg/kg). Familia cafeina (vencedora)."
     }
   ]
 }
