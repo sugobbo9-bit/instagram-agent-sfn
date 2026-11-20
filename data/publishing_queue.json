@@ -1372,6 +1372,17 @@
       "ghost_post_id": "6b005edf80e27c0001d4f8c3",
       "ghost_url": "https://somente-os-fatos-nutricao.ghost.io/cafeina-habituacao-nao-precisa-cortar-cafe-antes-da-prova/",
       "ghost_status": "published"
+    },
+    {
+      "local_id": "vs_024",
+      "format": "carousel",
+      "topic": "gel de carboidrato: GU Energy Gel vs Energy Gel VO2 C30 (Integralmedica)",
+      "hook": "GU Energy Gel vs. Integralmedica C30. So o rotulo.",
+      "status": "approved",
+      "created_at": "2026-11-20T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:gel-carbo, pair:gu-integralmedica"
     }
   ]
 }
