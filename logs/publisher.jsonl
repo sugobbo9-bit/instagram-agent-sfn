@@ -770,3 +770,10 @@
 {"ts": "2026-11-20T14:53:17.459333+00:00", "level": "INFO", "msg": "PUBLICADO: draft_032 -> media_id 17918095008518806"}
 {"ts": "2026-11-20T14:53:17.474957+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-20T19:36:55.467816+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-20T20:16:45.330746+00:00", "level": "INFO", "msg": "Publicando vs_024 (carousel) \u2014 gel de carboidrato: GU Energy Gel vs Energy Gel VO2 C30 (Integralmedica)"}
+{"ts": "2026-11-20T20:16:45.335297+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-20T20:16:45.335394+00:00", "level": "INFO", "msg": "8 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_024/slide_01.png"}
+{"ts": "2026-11-20T20:16:46.657108+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-20T20:17:25.454740+00:00", "level": "INFO", "msg": "8 containers filhos criados."}
+{"ts": "2026-11-20T20:17:39.741647+00:00", "level": "INFO", "msg": "PUBLICADO: vs_024 -> media_id 18105303593361139"}
+{"ts": "2026-11-20T20:17:39.764934+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}

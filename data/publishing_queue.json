@@ -1378,11 +1378,13 @@
       "format": "carousel",
       "topic": "gel de carboidrato: GU Energy Gel vs Energy Gel VO2 C30 (Integralmedica)",
       "hook": "GU Energy Gel vs. Integralmedica C30. So o rotulo.",
-      "status": "approved",
+      "status": "published",
       "created_at": "2026-11-20T00:00:00Z",
       "scheduled_for": null,
       "priority": 1,
-      "notes": "marca x marca — category:gel-carbo, pair:gu-integralmedica"
+      "notes": "marca x marca — category:gel-carbo, pair:gu-integralmedica",
+      "published_at": "2026-11-20T20:17:39.741879+00:00",
+      "post_id": "18105303593361139"
     }
   ]
 }
