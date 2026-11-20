@@ -1,0 +1,174 @@
+{
+  "local_id": "draft_032",
+  "format": "carousel",
+  "status": "published",
+  "created_at": "2026-11-20T00:00:00Z",
+  "topic": "habituação à cafeína e o efeito ergogênico (cortar o café antes da prova não aumenta o efeito)",
+  "content_pillar": "supplements",
+  "hook": "Tomar café todo dia não anula o efeito da cafeína na prova. 60 estudos.",
+  "experiment_tags": [
+    "hook:contrarian",
+    "topic:cafeina",
+    "format:carousel",
+    "visual:foto",
+    "time:12brt",
+    "family:cafeina"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#0A0A0A",
+    "text_color": "#F5F5F0",
+    "accent": "#D4FF00",
+    "padding": 80
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "kicker": "O MITO",
+      "headline": "Café todo dia não 'mata'\na cafeína da prova.",
+      "body": null,
+      "label": null,
+      "image": {
+        "path": "/tmp/img/draft_032/cover/cand_04.jpg",
+        "focus": "center 50%"
+      },
+      "divider": false
+    },
+    {
+      "type": "problem",
+      "label": "O RITUAL",
+      "headline": "O 'detox' de cafeína pré-prova",
+      "body": "A crença: parar o café dias antes da prova 'zera a tolerância' e faz a cafeína bater mais forte no dia.\n\nParece lógico. É o contrário do que 60 estudos mostram.",
+      "image": {
+        "path": "/tmp/img/draft_032/s2/cand_05.jpg",
+        "focus": "center 45%"
+      },
+      "divider": true
+    },
+    {
+      "type": "insight",
+      "label": "COMO FUNCIONA",
+      "headline": "Tolerância não apaga o efeito",
+      "body": "Tomar cafeína todo dia gera tolerância a parte dos efeitos — o soninho some, a pressão sobe menos.\n\nMas o efeito que conta na prova (mais potência, menos percepção de esforço) não desaparece com o hábito. O corpo não 'deixa de responder'.",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "evidence",
+      "label": "A EVIDÊNCIA",
+      "headline": "60 estudos: o hábito não pesa",
+      "body": "Meta-análise de Carvalho (2022) juntou 60 estudos: a cafeína melhorou o desempenho, e o consumo habitual não influenciou o efeito (p = 0,59).\n\nE o tempo sem cafeína antes do teste — menos de 24h, 24–48h ou mais de 48h — também não mudou o resultado. Abster-se não deu bônus.",
+      "image": null,
+      "divider": true
+    },
+    {
+      "type": "practical",
+      "label": "NA PRÁTICA",
+      "headline": "O que move o ponteiro de verdade",
+      "body": "Dose: 3 a 6 mg/kg, ~60 min antes. Passar de 6 mg/kg não rende mais — só aumenta o efeito colateral.\n\nNo endurance isso vale ~2–3% mais rápido no contrarrelógio (Southward, 2018). Sem cortar o café da rotina.",
+      "image": {
+        "path": "/tmp/img/draft_032/s5b/cand_07.jpg",
+        "focus": "center 50%"
+      },
+      "divider": true
+    },
+    {
+      "type": "cta",
+      "headline": "Guarde o café. Acerte a dose.",
+      "body": "Salva e manda pro parceiro que 'fica sem café' na semana da prova.",
+      "label": null,
+      "image": null,
+      "divider": false
+    }
+  ],
+  "caption": "Existe um ritual comum antes de prova: cortar o café por dias para 'recuperar a sensibilidade' e fazer a cafeína bater mais forte. A ideia é intuitiva — e não se sustenta nos dados.\n\nMeta-análise de Carvalho e colegas (2022), reunindo 60 estudos, mostrou que a cafeína melhora o desempenho (potência, resistência e força) e que o consumo habitual NÃO influencia esse efeito (p = 0,59). O efeito apareceu tanto em quem tomou uma dose maior quanto menor que a habitual, e independentemente do tempo de abstinência antes do teste — menos de 24h, 24–48h ou mais de 48h. Ou seja: parar o café antes da prova não 'potencializa' a cafeína.\n\nO que de fato importa: dose de 3 a 6 mg/kg cerca de 60 minutos antes. Acima de 6 mg/kg o ganho não aumenta — só os efeitos colaterais. Em provas de endurance, a cafeína rende em média ~2–3% de melhora no contrarrelógio (Southward et al., 2018).\n\nTolerância existe para alguns efeitos (sono, pressão), mas o efeito ergogênico se mantém. Tome seu café de sempre; acerte a dose e o timing no dia da prova.\n\nFontes: Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B. Sports Med. 2022;52(9):2209-2220. doi:10.1007/s40279-022-01685-0. | Southward K, Rutherfurd-Markwick KJ, Ali A. Sports Med. 2018;48(8):1913-1928. doi:10.1007/s40279-018-0939-8.\n\nFotos: jordanfischer (CC BY 2.0); demais CC0.",
+  "cta": "Salva e manda pro parceiro que corta o café na semana da prova achando que a cafeína vai render mais.",
+  "scientific_sources": [
+    {
+      "title": "Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine",
+      "authors": "Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B",
+      "journal": "Sports Medicine",
+      "year": 2022,
+      "volume": "52",
+      "issue": "9",
+      "pages": "2209-2220",
+      "doi": "10.1007/s40279-022-01685-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35536449/",
+      "level": "A"
+    },
+    {
+      "title": "The Effect of Acute Caffeine Ingestion on Endurance Performance: A Systematic Review and Meta-Analysis",
+      "authors": "Southward K, Rutherfurd-Markwick KJ, Ali A",
+      "journal": "Sports Medicine",
+      "year": 2018,
+      "volume": "48",
+      "issue": "8",
+      "pages": "1913-1928",
+      "doi": "10.1007/s40279-018-0939-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29876876/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1
+      ],
+      "label": "capa",
+      "title": "Espresso Coffee",
+      "creator": "Jakub Kapusnak",
+      "license": "CC0 1.0",
+      "source_url": "https://stocksnap.io/photo/espresso-coffee-FWJUQILGVG"
+    },
+    {
+      "slides": [
+        2
+      ],
+      "label": "o ritual",
+      "title": "Free coffee cup wooden table",
+      "creator": "autor desconhecido",
+      "license": "CC0 1.0",
+      "source_url": "https://www.rawpixel.com/image/5906521/photo-image-public-domain-shape-wooden"
+    },
+    {
+      "slides": [
+        5
+      ],
+      "label": "na pratica",
+      "title": "Corredores em prova de rua",
+      "creator": "jordanfischer",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/28851385@N00/51077050"
+    }
+  ],
+  "article": {
+    "title": "Cortar o café antes da prova não deixa a cafeína mais forte",
+    "slug": "cafeina-habituacao-nao-precisa-cortar-cafe-antes-da-prova",
+    "excerpt": "Existe a crença de que abster-se de cafeína por dias antes da competição 'restaura a sensibilidade' e potencializa o efeito. Uma meta-análise de 60 estudos mostra que o consumo habitual não muda o efeito ergogênico — e o que realmente importa é dose e timing.",
+    "meta_title": "Habituação à cafeína: precisa cortar o café antes da prova?",
+    "tags": [
+      "Cafeína",
+      "Suplementação",
+      "Endurance",
+      "Desempenho"
+    ],
+    "html": "<p>Entre atletas de endurance, existe um ritual quase sagrado: <strong>cortar a cafeína por alguns dias antes de uma prova importante</strong>, na crença de que isso \"zera a tolerância\" e faz a cafeína bater mais forte no dia. A lógica parece boa — tolerância existe, afinal. Mas quando se olha para os dados, o ritual não se sustenta.</p>\n\n<h2>Tolerância não é a mesma coisa que perder o efeito</h2>\n\n<p>Quem consome cafeína diariamente de fato desenvolve <strong>tolerância a parte dos efeitos</strong>: o estímulo sobre o sono e sobre a pressão arterial tende a diminuir com o uso habitual. O erro é assumir que isso vale também para o <strong>efeito ergogênico</strong> — o aumento de potência e a redução da percepção de esforço que ajudam na prova. Esses não desaparecem com o hábito.</p>\n\n<h2>60 estudos, uma conclusão clara</h2>\n\n<p>A meta-análise de Carvalho e colegas (<em>Sports Medicine</em>, 2022) reuniu <strong>60 estudos</strong> com informação sobre o consumo habitual de cafeína dos participantes. O resultado: a cafeína teve um efeito ergogênico consistente em comparação ao placebo (diferença média padronizada de 0,25), e o <strong>consumo habitual não influenciou esse efeito</strong> (p = 0,59).</p>\n\n<p>Mais importante para quem acredita no ritual do \"detox\": os autores analisaram separadamente o <strong>tempo de abstinência</strong> antes do teste — menos de 24 horas, 24 a 48 horas e mais de 48 horas. A cafeína foi ergogênica <strong>em todos os cenários</strong>. O efeito também apareceu tanto quando a dose do dia foi maior quanto menor que a dose habitual do participante. Em outras palavras: <strong>passar dias sem café não dá bônus nenhum</strong>.</p>\n\n<h2>O que realmente move o ponteiro: dose e timing</h2>\n\n<p>A alavanca não é a abstinência — é usar a cafeína direito no dia. A faixa com melhor evidência é de <strong>3 a 6 mg por kg de peso</strong>, tomada cerca de <strong>60 minutos antes</strong> do esforço. Doses acima de 6 mg/kg <strong>não aumentam o ganho</strong> e só elevam os efeitos colaterais (taquicardia, agitação, problemas gastrointestinais).</p>\n\n<p>E o tamanho do efeito? A meta-análise de Southward e colegas (<em>Sports Medicine</em>, 2018), com 44 estudos, encontrou melhora média de cerca de <strong>2 a 3% no contrarrelógio</strong> de endurance (tempo de prova e potência média). Pode parecer pouco, mas em provas longas é a diferença entre posições.</p>\n\n<table>\n<thead><tr><th>Variável</th><th>Recomendação baseada em evidência</th></tr></thead>\n<tbody>\n<tr><td>Dose</td><td>3 a 6 mg/kg de peso corporal</td></tr>\n<tr><td>Timing</td><td>~60 minutos antes do esforço</td></tr>\n<tr><td>Teto útil</td><td>Acima de 6 mg/kg não rende mais — só efeito colateral</td></tr>\n<tr><td>Abstinência prévia</td><td>Desnecessária: o hábito não reduz o efeito</td></tr>\n<tr><td>Ganho esperado (endurance)</td><td>~2 a 3% no contrarrelógio</td></tr>\n</tbody>\n</table>\n\n<h2>Resumo</h2>\n\n<p>Tolerância à cafeína existe — para o sono e a pressão, não para o desempenho. Cortar o café na semana da prova não \"potencializa\" nada; apenas te deixa com dor de cabeça e sonolência no pior momento. Mantenha sua rotina de café e foque no que tem evidência: <strong>3 a 6 mg/kg, cerca de 1 hora antes</strong>.</p>\n\n<h2>Referências</h2>\n\n<ol>\n<li>Carvalho A, Marticorena FM, Grecco BH, Barreto G, Saunders B. Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine. <em>Sports Med</em>. 2022;52(9):2209–2220. doi:10.1007/s40279-022-01685-0</li>\n<li>Southward K, Rutherfurd-Markwick KJ, Ali A. The Effect of Acute Caffeine Ingestion on Endurance Performance: A Systematic Review and Meta-Analysis. <em>Sports Med</em>. 2018;48(8):1913–1928. doi:10.1007/s40279-018-0939-8</li>\n</ol>\n",
+    "cover": "content/drafts/draft_032/cover.png",
+    "cover_alt": "Cortar o café antes da prova não deixa a cafeína mais forte — Somente os Fatos Nutrição"
+  },
+  "creative_files": [
+    "content/drafts/draft_032/slide_01.png",
+    "content/drafts/draft_032/slide_02.png",
+    "content/drafts/draft_032/slide_03.png",
+    "content/drafts/draft_032/slide_04.png",
+    "content/drafts/draft_032/slide_05.png",
+    "content/drafts/draft_032/slide_06.png"
+  ],
+  "face_check": {
+    "checked": 3,
+    "unverified": [],
+    "with_faces": []
+  },
+  "post_id": "17918095008518806",
+  "published_at": "2026-11-20T14:53:17.459519+00:00"
+}

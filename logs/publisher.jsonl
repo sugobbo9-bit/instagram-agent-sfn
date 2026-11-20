@@ -762,3 +762,10 @@
 {"ts": "2026-11-19T14:56:07.533910+00:00", "level": "INFO", "msg": "PUBLICADO: draft_031 -> media_id 18147022945614232"}
 {"ts": "2026-11-19T14:56:07.552890+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-19T19:56:49.025136+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-20T14:52:27.379932+00:00", "level": "INFO", "msg": "Publicando draft_032 (carousel) \u2014 habituacao a cafeina e o efeito ergogenico (cortar o cafe antes da prova nao aumenta o efeito)"}
+{"ts": "2026-11-20T14:52:27.382994+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-20T14:52:27.383058+00:00", "level": "INFO", "msg": "6 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/draft_032/slide_01.png"}
+{"ts": "2026-11-20T14:52:28.905732+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-20T14:53:02.676940+00:00", "level": "INFO", "msg": "6 containers filhos criados."}
+{"ts": "2026-11-20T14:53:17.459333+00:00", "level": "INFO", "msg": "PUBLICADO: draft_032 -> media_id 17918095008518806"}
+{"ts": "2026-11-20T14:53:17.474957+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
