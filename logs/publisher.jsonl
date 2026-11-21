@@ -778,3 +778,10 @@
 {"ts": "2026-11-20T20:17:39.741647+00:00", "level": "INFO", "msg": "PUBLICADO: vs_024 -> media_id 18105303593361139"}
 {"ts": "2026-11-20T20:17:39.764934+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-21T18:41:52.970790+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-21T20:24:57.855071+00:00", "level": "INFO", "msg": "Publicando vs_025 (carousel) \u2014 isot\u00f4nico pronto: Gatorade Thirst Quencher vs Powerade (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-21T20:24:57.859914+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-21T20:24:57.860035+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_025/slide_01.png"}
+{"ts": "2026-11-21T20:24:58.924892+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-21T20:25:29.795381+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-11-21T20:25:42.281853+00:00", "level": "INFO", "msg": "PUBLICADO: vs_025 -> media_id 18086441240343005"}
+{"ts": "2026-11-21T20:25:42.305310+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
