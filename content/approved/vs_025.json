@@ -1,0 +1,231 @@
+{
+  "local_id": "vs_025",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-11-21T00:00:00Z",
+  "topic": "isotônico pronto: Gatorade Thirst Quencher vs Powerade (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Gatorade vs. Powerade. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:isotonico-pronto",
+    "pair:gatorade-powerade"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Gatorade Thirst Quencher",
+      "brand": "Gatorade",
+      "image": "content/drafts/vs_025/img/gatorade_lemonlime.jpg",
+      "label_source": {
+        "url": "https://www.pepsicoproductfacts.com/Home/Product?gtin=00052000124859",
+        "consulted": "2026-11-21",
+        "notes": "Nutrition Facts oficiais PepsiCo (Gatorade Thirst Quencher Lemon-Lime, garrafa de 12 fl oz / 360 mL): 80 kcal, 22 g carboidrato, 21 g açúcares (21 g adicionados), 160 mg sódio, 50 mg potássio, 0 mg cafeína. Ingredientes: água, açúcar, dextrose, ácido cítrico, sal, citrato de sódio, fosfato monopotássico, goma arábica, éster de glicerol de resina, aroma natural, corante Amarelo 5. Versão EUA."
+      }
+    },
+    {
+      "name": "Powerade",
+      "brand": "Powerade",
+      "image": "content/drafts/vs_025/img/powerade_mbb.jpg",
+      "label_source": {
+        "url": "https://www.powerade.com/products/powerade",
+        "consulted": "2026-11-21",
+        "notes": "Nutrition Facts oficiais Powerade (sabor Mountain Berry Blast, porção de 12 fl oz / 355 mL): 80 kcal, 21 g carboidrato, 21 g açúcares (21 g adicionados), 240 mg sódio, 80 mg potássio. Base de xarope de milho de alta frutose; adiciona vitaminas B12 e C, cálcio e magnésio. Versão EUA."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Dois isotônicos.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_025/img/gatorade_lemonlime.jpg",
+          "mode": "multiply",
+          "label": "Gatorade Thirst Quencher"
+        },
+        {
+          "image": "content/drafts/vs_025/img/powerade_mbb.jpg",
+          "mode": "multiply",
+          "label": "Powerade"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Calorias por porção",
+      "values": [
+        {
+          "value": "80"
+        },
+        {
+          "value": "80"
+        }
+      ],
+      "footnote": "Porção de 12 fl oz: 360 mL (Gatorade) e 355 mL (Powerade)."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por porção",
+      "values": [
+        {
+          "value": "22 g"
+        },
+        {
+          "value": "21 g"
+        }
+      ],
+      "footnote": "Nos dois, praticamente todo o carboidrato é açúcar."
+    },
+    {
+      "type": "metric",
+      "headline": "De onde vem o carbo",
+      "values": [
+        {
+          "value": "Açúcar e dextrose",
+          "note": "sacarose + dextrose"
+        },
+        {
+          "value": "Xarope de milho",
+          "note": "de alta frutose"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por porção",
+      "values": [
+        {
+          "value": "160 mg"
+        },
+        {
+          "value": "240 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "Potássio por porção",
+      "values": [
+        {
+          "value": "50 mg"
+        },
+        {
+          "value": "80 mg"
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler esses números.",
+      "body": "Os dois têm cerca de 6% de carboidrato — perto de 6 g a cada 100 mL. É a concentração clássica de um isotônico: esvazia rápido do estômago e repõe carbo sem pesar. Para esforços acima de ~1 h, a recomendação é 30 a 60 g de carbo por hora, mais do que cabe em uma garrafa.\n\nO sódio de uma garrafa é pequeno perto do que sai no suor: de ~230 a ~2.000 mg por litro, conforme a pessoa e o calor. Em provas longas, repor sódio é uma conta à parte.",
+      "source": "Rótulos e sites oficiais Gatorade e Powerade (versões dos EUA), consultados em 21/11/2026.\nThomas DT et al. J Acad Nutr Diet. 2016;116:501‑528. Baker LB. Sports Med. 2017;47(Supl 1):111‑128.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do calor e do seu gosto.\n\nGatorade Thirst Quencher (Lemon-Lime): porção de 12 fl oz (360 mL), 80 kcal, 22 g de carboidrato (açúcar e dextrose), 160 mg de sódio, 50 mg de potássio, sem cafeína.\n\nPowerade (Mountain Berry Blast): porção de 12 fl oz (355 mL), 80 kcal, 21 g de carboidrato (xarope de milho de alta frutose), 240 mg de sódio, 80 mg de potássio, com vitaminas B12 e C.\n\nNos dois, praticamente todo o carboidrato é açúcar.\n\nDados dos rótulos e sites oficiais, consultados em 21/11/2026. São as versões vendidas nos EUA; a embalagem vendida no Brasil (garrafa de 500 mL) pode ter números diferentes, então confira o rótulo do produto que você tem em mãos.\n\nO que o rótulo não diz: os dois têm cerca de 6% de carboidrato (~6 g/100 mL), a faixa clássica de um isotônico. Acima de 1 h de esforço, a recomendação é 30 a 60 g de carbo por hora — mais do que uma garrafa.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Thomas DT, Erdman KA, Burke LM. Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. J Acad Nutr Diet. 2016;116(3):501–528.\n• Baker LB. Sweating rate and sweat sodium concentration in athletes. Sports Med. 2017;47(Suppl 1):111–128.\n\nImagens: fotos de produto dos sites oficiais da Gatorade e da Powerade.\n\n#nutricaoesportiva #isotonico #hidratacao #corrida #ciclismo #triathlon #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "authors": "Thomas DT, Erdman KA, Burke LM",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "year": 2016,
+      "volume": "116",
+      "issue": "3",
+      "pages": "501-528",
+      "doi": "10.1016/j.jand.2015.12.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26920240/",
+      "level": "A"
+    },
+    {
+      "title": "Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability",
+      "authors": "Baker LB",
+      "journal": "Sports Medicine",
+      "year": 2017,
+      "volume": "47",
+      "issue": "Suppl 1",
+      "pages": "111-128",
+      "doi": "10.1007/s40279-017-0691-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28332116/",
+      "level": "B"
+    },
+    {
+      "title": "A step towards personalized sports nutrition: carbohydrate intake during exercise",
+      "authors": "Jeukendrup A",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S25-33",
+      "doi": "10.1007/s40279-014-0148-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791914/",
+      "level": "B"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Gatorade Thirst Quencher",
+      "kind": "packshot",
+      "title": "G_LemonLime_12oz.png",
+      "creator": "Gatorade (PepsiCo)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.gatorade.com/sports-drinks/gatorade-thirst-quencher/lemon-lime",
+      "changes": "fundo aparado e deixado branco"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Powerade",
+      "kind": "packshot",
+      "title": "Powerade-Desktop-MountainBerryBlast.jpg",
+      "creator": "Powerade (The Coca-Cola Company)",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.powerade.com/products/powerade",
+      "changes": "recorte do fundo (produto isolado em branco)"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-21 nas páginas oficiais (versões EUA). Gatorade Thirst Quencher Lemon-Lime via PepsiCo Product Facts (GTIN 00052000124859): garrafa 12 fl oz/360 mL, 80 kcal, 22 g carbo, 21 g açúcares, 160 mg Na, 50 mg K, açúcar+dextrose, 0 cafeína. Powerade Mountain Berry Blast via powerade.com: porção 12 fl oz/355 mL, 80 kcal, 21 g carbo, 21 g açúcares, 240 mg Na, 80 mg K, base de HFCS + vitaminas B12/C. Imagem Gatorade capturada da página oficial no navegador (PNG oficial da PepsiCo); imagem Powerade recortada do packshot oficial (produto isolado). Ressalva de versão Brasil (500 mL) na legenda e no slide final. Ciência: posição ACSM/AND/DC 2016 (6% carbo, 30–60 g/h) e Baker 2017 (sódio no suor), DOIs conferidos no PubMed.",
+  "creative_files": [
+    "content/drafts/vs_025/slide_01.png",
+    "content/drafts/vs_025/slide_02.png",
+    "content/drafts/vs_025/slide_03.png",
+    "content/drafts/vs_025/slide_04.png",
+    "content/drafts/vs_025/slide_05.png",
+    "content/drafts/vs_025/slide_06.png",
+    "content/drafts/vs_025/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  }
+}
