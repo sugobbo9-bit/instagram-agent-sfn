@@ -1,0 +1,226 @@
+{
+  "local_id": "vs_026",
+  "format": "carousel",
+  "template": "versus",
+  "series": "marca-vs-marca",
+  "comparativo": true,
+  "status": "approved",
+  "created_at": "2026-11-22T00:00:00Z",
+  "topic": "nitrato/beterraba em pó: Dux Nitra Beet 400 vs Dobro BTNIT400 (rótulo lado a lado)",
+  "content_pillar": "products",
+  "hook": "Dux Nitra Beet 400 vs. Dobro BTNIT400. Só o rótulo.",
+  "experiment_tags": [
+    "format:carousel",
+    "template:versus",
+    "series:marca-vs-marca",
+    "category:nitrato-beterraba",
+    "pair:dux-dobro"
+  ],
+  "username": "@sofatosnutricao",
+  "design": {
+    "bg": "#F1ECE4",
+    "text_color": "#1F1E1B",
+    "ink2": "#6B665C",
+    "accent": "#4F6B2A"
+  },
+  "products": [
+    {
+      "name": "Dux Nitra Beet 400",
+      "brand": "Dux Human Health",
+      "image": "content/drafts/vs_026/img/dux_nitrabeet400_laranja.jpg",
+      "label_source": {
+        "url": "https://duxhumanhealth.com/produtos/nitra-beet-400-pote-405g/",
+        "consulted": "2026-11-22",
+        "notes": "Sabor Laranja e Beterraba, pote 405g. Tabela nutricional por porção de 27g (1 dosador) lida do JSON da página oficial: 82 kcal, 20g carbo, 2,8g açúcares totais, 0,5g proteína, 0,6g fibras, 100mg sódio, 1000mg taurina, 430mg cálcio, 100mg magnésio, vit. D 10µg e complexo B. Nitrato: não declarado em mg (texto diz 'beterraba em pó, fonte de nitrato inorgânico'). Sem cafeína."
+      }
+    },
+    {
+      "name": "Dobro BTNIT400",
+      "brand": "Dobro",
+      "image": "content/drafts/vs_026/img/dobro_btnit400_laranja.jpg",
+      "label_source": {
+        "url": "https://www.soudobro.com.br/produto/btnit400-sabor-laranja-com-morango-450g-150151",
+        "consulted": "2026-11-22",
+        "notes": "Sabor Laranja com Morango, pote 450g (15 doses). Tabela por porção de 30g (2 scoops) lida da página oficial: 100 kcal, 25g carbo, 1,3g açúcares totais, 0,6g adicionados, 3,5g fibras, 79mg sódio, 4mg cálcio, 20mg magnésio, 180mg potássio. Nitrato: texto da página declara '400 mg de nitrato proveniente da beterraba' por dose (fora da tabela nutricional). Sem cafeína nesta versão; a marca tem versões com cafeína."
+      }
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "vs": true,
+      "headline": "Duas beterrabas\nem pó.\nSó o rótulo.",
+      "items": [
+        {
+          "image": "content/drafts/vs_026/img/dux_nitrabeet400_laranja.jpg",
+          "mode": "multiply",
+          "label": "Dux Nitra Beet 400\nLaranja e Beterraba"
+        },
+        {
+          "image": "content/drafts/vs_026/img/dobro_btnit400_laranja.jpg",
+          "mode": "multiply",
+          "label": "Dobro BTNIT400\nLaranja com Morango"
+        }
+      ],
+      "tagline": "Sem nota. Sem vencedor."
+    },
+    {
+      "type": "metric",
+      "headline": "Tamanho da dose",
+      "values": [
+        {
+          "value": "27 g",
+          "note": "1 dosador"
+        },
+        {
+          "value": "30 g",
+          "note": "2 scoops"
+        }
+      ],
+      "footnote": "Comparação feita por dose, como cada marca indica no preparo."
+    },
+    {
+      "type": "metric",
+      "headline": "Nitrato por dose",
+      "values": [
+        {
+          "value": "Não informado",
+          "note": "o site não traz o número"
+        },
+        {
+          "value": "400 mg",
+          "note": "declarado no texto do site"
+        }
+      ],
+      "footnote": "Nenhum dos dois traz o nitrato na tabela nutricional — não é item obrigatório no rótulo no Brasil. A Dobro informa 400 mg no texto do site; a Dux não informa a quantidade."
+    },
+    {
+      "type": "metric",
+      "headline": "Carboidrato por dose",
+      "values": [
+        {
+          "value": "20 g"
+        },
+        {
+          "value": "25 g"
+        }
+      ],
+      "footnote": "Valor energético: 82 kcal (Dux) e 100 kcal (Dobro). Os dois usam maltodextrina como base de carboidrato."
+    },
+    {
+      "type": "metric",
+      "headline": "Sódio por dose",
+      "values": [
+        {
+          "value": "100 mg"
+        },
+        {
+          "value": "79 mg"
+        }
+      ]
+    },
+    {
+      "type": "metric",
+      "headline": "O que mais vem dentro",
+      "values": [
+        {
+          "value": "Taurina 1000 mg",
+          "note": "+ cálcio 430 mg, vitamina D e complexo B"
+        },
+        {
+          "value": "Potássio 180 mg",
+          "note": "+ magnésio 20 mg"
+        }
+      ],
+      "footnote": "Nenhuma das duas versões comparadas tem cafeína. A Dobro também vende versões com cafeína."
+    },
+    {
+      "type": "fact",
+      "label": "O que o rótulo não diz",
+      "headline": "Como ler o \"400\".",
+      "body": "A evidência para nitrato da beterraba em endurance usa doses de cerca de 5 a 9 mmol por tomada — mais ou menos 310 a 560 mg de nitrato —, tomadas 2 a 3 horas antes do esforço, quando o nitrito no sangue chega ao pico. O \"400\" no nome dos dois cai nessa faixa (400 mg equivalem a cerca de 6,5 mmol); a diferença é que só uma das marcas coloca o número no site.\n\nO efeito costuma aparecer mais em quem é recreativo ou sub-elite e é menos consistente em atletas muito treinados. O carboidrato e os eletrólitos que vêm junto têm outro papel: energia e reposição.",
+      "source": "Rótulos e sites oficiais Dux Human Health e Dobro, consultados em 22/11/2026.\nJones AM. Sports Med. 2014;44(Supl 1):S35-45. Senefeld JW et al. Med Sci Sports Exerc. 2020;52(10):2250-2261.",
+      "cta": "Que dupla você quer ver lado a lado?"
+    }
+  ],
+  "caption": "Lado a lado, só com o que está no rótulo. Sem nota e sem vencedor: a escolha depende da sua prova, do seu estômago e do seu bolso.\n\nDux Nitra Beet 400 (Laranja e Beterraba): dose de 27 g (1 dosador), 82 kcal, 20 g de carboidrato, 100 mg de sódio, 1000 mg de taurina, cálcio, vitamina D e complexo B. Sem cafeína. O site não informa a quantidade de nitrato.\n\nDobro BTNIT400 (Laranja com Morango): dose de 30 g (2 scoops), 100 kcal, 25 g de carboidrato, 79 mg de sódio, 180 mg de potássio, 20 mg de magnésio. Sem cafeína nesta versão. O site informa 400 mg de nitrato da beterraba por dose, no texto (fora da tabela nutricional).\n\nNenhum dos dois traz o nitrato na tabela nutricional — não é um item obrigatório no rótulo no Brasil.\n\nDados dos rótulos e sites oficiais, consultados em 22/11/2026. A Dobro vende outras versões (com cafeína e citrulina); a Dux, também em limão e beterraba.\n\nQue dupla você quer ver lado a lado? 👇\n\nReferências:\n• Jones AM. Dietary nitrate supplementation and exercise performance. Sports Med. 2014;44(Suppl 1):S35–45.\n• Senefeld JW, Wiggins CC, Regimbal RJ, Dominelli PB. Ergogenic effect of nitrate supplementation: a systematic review and meta-analysis. Med Sci Sports Exerc. 2020;52(10):2250–2261.\n\nImagens: fotos de produto dos sites oficiais da Dux Human Health e da Dobro.\n\n#nutricaoesportiva #beterraba #nitrato #corrida #ciclismo #triathlon #endurance",
+  "cta": "Que dupla você quer ver lado a lado?",
+  "scientific_sources": [
+    {
+      "title": "Dietary Nitrate Supplementation and Exercise Performance",
+      "authors": "Jones AM",
+      "journal": "Sports Medicine",
+      "year": 2014,
+      "volume": "44",
+      "issue": "Suppl 1",
+      "pages": "S35-45",
+      "doi": "10.1007/s40279-014-0149-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791915/",
+      "level": "B"
+    },
+    {
+      "title": "Ergogenic Effect of Nitrate Supplementation: A Systematic Review and Meta-analysis",
+      "authors": "Senefeld JW, Wiggins CC, Regimbal RJ, Dominelli PB",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": 2020,
+      "volume": "52",
+      "issue": "10",
+      "pages": "2250-2261",
+      "doi": "10.1249/MSS.0000000000002363",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32936597/",
+      "level": "A"
+    }
+  ],
+  "image_credits": [
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Dux Nitra Beet 400",
+      "kind": "packshot",
+      "title": "dux_nitra-beet-400_laranja_pote.png",
+      "creator": "Dux Human Health",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://duxhumanhealth.com/produtos/nitra-beet-400-pote-405g/",
+      "changes": "composta sobre branco e fundo aparado"
+    },
+    {
+      "slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "label": "Dobro BTNIT400",
+      "kind": "packshot",
+      "title": "btnit400-sabor-laranja-com-morango-450g.jpg",
+      "creator": "Dobro",
+      "license": "foto oficial do produto (uso editorial)",
+      "source_url": "https://www.soudobro.com.br/produto/btnit400-sabor-laranja-com-morango-450g-150151",
+      "changes": "fundo aparado"
+    }
+  ],
+  "notes": "Dados de rótulo conferidos em 2026-11-22 nas páginas oficiais. Dux Nitra Beet 400 (Laranja e Beterraba, 405g): tabela por 27g extraída do JSON da página (duxhumanhealth.com) — 82 kcal, 20g carbo, 100mg sódio, 1000mg taurina, 430mg cálcio, 100mg magnésio, vit. D e complexo B; nitrato não quantificado no site. Dobro BTNIT400 (Laranja com Morango, 450g, 15 doses): tabela por 30g da página oficial (soudobro.com.br) — 100 kcal, 25g carbo, 79mg sódio, 180mg potássio, 20mg magnésio; site declara 400mg de nitrato por dose no texto, fora da tabela. Comparadas as versões laranja/sem cafeína das duas marcas. Categoria nitrato-beterraba (inédita na série). Ciência do slide final: Jones AM 2014 (dose 5-9 mmol ≈310-560mg, 2-3h antes) e Senefeld 2020 (meta-análise).",
+  "creative_files": [
+    "content/drafts/vs_026/slide_01.png",
+    "content/drafts/vs_026/slide_02.png",
+    "content/drafts/vs_026/slide_03.png",
+    "content/drafts/vs_026/slide_04.png",
+    "content/drafts/vs_026/slide_05.png",
+    "content/drafts/vs_026/slide_06.png",
+    "content/drafts/vs_026/slide_07.png"
+  ],
+  "face_check": {
+    "checked": 2,
+    "unverified": [],
+    "with_faces": []
+  },
+  "distinct_formulas": true
+}

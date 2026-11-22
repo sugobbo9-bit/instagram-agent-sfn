@@ -1420,6 +1420,17 @@
       "scheduled_for": null,
       "priority": 2,
       "notes": "2º derivado da família nitrato. Ângulo contraintuitivo forte (o eixo nitrato→nitrito→NO depende de bactérias bucais; antisséptico corta o efeito). Reforça o insight do vencedor (atleta treinado responde menos). Slot 14-15h UTC, foto. CONFERIR fontes (Govoni/boca+nitrato; status de treino) no PubMed antes de render."
+    },
+    {
+      "local_id": "vs_026",
+      "format": "carousel",
+      "topic": "nitrato/beterraba em pó: Dux Nitra Beet 400 vs Dobro BTNIT400 (rótulo lado a lado)",
+      "hook": "Dux Nitra Beet 400 vs. Dobro BTNIT400. Só o rótulo.",
+      "status": "approved",
+      "created_at": "2026-11-22T00:00:00Z",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "marca x marca — category:nitrato-beterraba, pair:dux-dobro"
     }
   ]
 }
