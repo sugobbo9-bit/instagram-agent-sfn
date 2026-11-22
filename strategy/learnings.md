@@ -246,3 +246,30 @@ Hook contrarian (374, n=20) > myth (312, n=16). Slot 15h UTC (546/5d) e 14h (300
 - **Comentários:** 94/219, 41 com ≥1, mediana 0; Reel de nitrato (16) outlier. Padrão idêntico há 8 coletas. **Texto segue bloqueado** (token expirado + falta `instagram_manage_comments`) — banco de respostas parado.
 - **Lacuna crítica reiterada:** `follows/reach` ausente em **0/219** registros — com −236 seguidores, não dá para atribuir perda/ganho de seguidor a conteúdo específico. Instrumentar no Actions ou renovar token do Mac.
 - **Token do Mac:** 9ª rodada bloqueada — re-testado 18/11, ainda expirado 26/08 (OAuthException 190), `.env` inalterado.
+
+
+## Ciclo 2026-11-22
+
+### Sobre a Conta (VIRADA POSITIVA)
+8.845 seguidores (**−5 na semana** — a sangria praticamente PAROU). Trajetória: +137/+152/+111/−13/−430/−236/**−5**. Depois de 2 quedas grandes, a conta estabilizou. A desaceleração −430→−236→−5 é consistente com a tese dos últimos ciclos: o conteúdo forte nunca foi o problema; era o lastro diluindo o feed. 232 posts com métricas frescas (bootstrap 22/11).
+
+### A causa-raiz do lastro de versus: a trava de 11/15 estava VAZANDO (achado forte)
+A trava `VERSUS_COMMODITY_BLOCKED` (11/15) **não travou nada por 1 semana**: vs_020..025 saíram diários depois dela (reach 48–163, maioria 0 share). Causa: a allowlist `MAINSTREAM_BRANDS` incluía as **próprias marcas de nicho de endurance** (maurten, gu, sis, clif, honey stinger) — logo todo versus de gel/goma/bebida de nicho passava como "mainstream". **Ação:** allowlist reduzida a marcas de massa (Gatorade/Powerade/Coca/Red Bull/Monster/Nestlé); endurance só via `distinct_formulas:true`. Testado nos 25 arquivos vs_ reais: 21 reprovam, só mainstream (vs_009/025) e distinct (vs_021) passam. **Lição (4ª repetição e refinada): enforce em código não basta — a REGRA precisa ser testada contra os arquivos reais. Allowlist mal calibrada é pior que trava nenhuma: dá falsa sensação de controle e some do radar.**
+
+### Vencedor / Fracassos
+- Vencedor: **`draft_029` nitrato/beterraba = 779** (21 shares, shares/r 0,027, 14:50 UTC, foto, contrarian). **NOVA família (nitrato/beterraba)** estreia vencedora — hook que vira a expectativa ("funciona, mas cada vez menos quanto mais você treina"). 2 derivados enfileirados (dose eficaz; quem responde + enxaguante bucal).
+- Reconfirmado: **`der_carga_carbo_curta` = 764** (era 717; família carga de carbo pela 4ª vez, shares/r 0,033).
+- Fracasso (root cause em código): **vs_* nicho** — vazamento da allowlist, corrigido e testado.
+- Fracasso sob observação: **`card_*`** (n=11, mediana 118) — janela do dono fecha ~24/11; recomendação por dados = pausar/retrabalhar; decisão do Victor.
+
+### Reconfirmações (sem dado novo de audiência própria)
+Hook contrarian (343, n=25) > myth (312, n=16). Fluxo técnico der_ 406 / draft_ 290 (motor) vs vs_ 123,5 (16/22 zero-share) / card_ 118 (lastro). Slots 14h (307/16d) e 15h (546/5d) são o motor; 19–20h mortos (158/147,5) — onde o lastro sai. Token do Mac segue expirado (10ª rodada de demografia/comentários bloqueada). Claim-check: 0 publicados 3+ semanas após a diretriz — reescalado.
+
+## Mudanças Estratégicas (continuação)
+| Data | O que mudou | Por quê | Evidência |
+|------|-------------|---------|-----------|
+| 2026-11-22 | **EXECUTADO: corrigida a allowlist `MAINSTREAM_BRANDS` no quality_gate.py** (removidas maurten/gu/sis/clif/honey stinger; só marcas de massa) | A trava de 11/15 vazava: a allowlist incluía as marcas de nicho que deveria barrar; vs_020..025 saíram diários no fundo | 25 arquivos vs_ testados: 21 reprovam; só mainstream (vs_009/025) e distinct_formulas (vs_021) passam |
+| 2026-11-22 | **Diagnóstico de seguidores: estabilização** (−5 vs −236/−430) | 2ª derivada positiva; publicação contínua + motor técnico entregando; lastro era o driver da queda | performance_history; posts_db fresco (bootstrap 22/11) |
+| 2026-11-22 | +1 vencedor (draft_029 nitrato 779) — NOVA família nitrato/beterraba; +2 derivados na fila | Winner/recycling system; estreia de família com hook contrarian | winner_library / publishing_queue |
+| 2026-11-22 | failure_log atualizado com a root cause do vazamento de versus | Rastreabilidade do erro de curadoria | failure_log (vs_commodity_allowlist_leak) |
+| 2026-11-22 | **Reescalado: horário dos dispatches (19–20h mortos), claim-check (0 em 3+ semanas) e token do Mac** seguem fora do alcance do loop | Dependem da rotina diária / ação humana | posts_db: vs_ em 20h, nenhum claim_*, follows/reach 0/232 |

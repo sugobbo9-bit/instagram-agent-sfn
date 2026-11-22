@@ -217,7 +217,27 @@
       ],
       "content_family": "carga de carboidrato (campeã) + hook contrarian + slot 15h",
       "derivatives_created": []
+    },
+    {
+      "post_id": "draft_029_nitrato_779",
+      "permalink_hint": "beterraba funciona menos quanto mais você treina (2026-11-17, 14:50 UTC)",
+      "format": "carousel",
+      "reach": 779,
+      "shares_per_reach": 0.027,
+      "saves_per_reach": 0.013,
+      "tier": "top10_recent",
+      "why_it_worked": [
+        "NOVA família de conteúdo (nitrato/beterraba) estreia como vencedora — 779 de alcance, 6x o feed recente (mediana 144 em 14d)",
+        "Hook CONTRARIAN que vira a expectativa ('funciona, mas cada vez MENOS quanto mais você treina') — mesmo padrão dos campeões (lactato, carga de carbo)",
+        "21 shares, shares/reach 0,027 — muito acima da mediana recente (maioria dos posts com 0 share); nitrato é tema de compra/suplemento com dúvida real",
+        "Convergência da receita padrão: slot técnico 14-15h UTC + foto + hook contrarian numérico/contraintuitivo"
+      ],
+      "content_family": "nitrato / beterraba (NOVA) — resposta ao treino",
+      "derivatives_created": [
+        "der_nitrato_dose (fila)",
+        "der_nitrato_quem_responde (fila)"
+      ]
     }
   ],
-  "_last_review": "2026-11-15"
+  "_last_review": "2026-11-22"
 }

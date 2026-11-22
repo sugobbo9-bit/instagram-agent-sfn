@@ -228,6 +228,46 @@
         "+2 derivados na fila p/ 14h: der_lactato_limiar e der_carga_carbo_erros_v2 (reteste de hook).",
         "ESCALADO ao Victor: investigar e evitar novos blackouts de publicação (a rotina diária ficou 14d sem rodar/publicar) — maior suspeito da queda de seguidores."
       ]
+    },
+    {
+      "week_ending": "2026-11-22",
+      "followers_count": 8845,
+      "followers_delta_week": -5,
+      "note_followers": "Sangria PAROU: -5 (vs -236/-430). Trajetória +137/+152/+111/-13/-430/-236/-5. Estabilização consistente com a tese de que o driver da queda era o lastro (vs_/card_), não o conteúdo forte.",
+      "medians_last_7d": {
+        "carousel_reach": 163
+      },
+      "medians_last_14d": {
+        "carousel_reach": 144
+      },
+      "medians_last_30d": {
+        "carousel_reach": 178.5
+      },
+      "baseline_full": {
+        "carousel_reach": 292,
+        "reel_reach": 256,
+        "static_reach": 197
+      },
+      "flow_30d": {
+        "der": 406,
+        "draft": 290,
+        "vs": 123.5,
+        "card": 118
+      },
+      "key_findings": [
+        "Seguidores ESTABILIZARAM: 8.845 (-5). 2ª derivada positiva após -430 e -236.",
+        "ROOT CAUSE do lastro de versus: a trava de 11/15 vazava — a allowlist MAINSTREAM_BRANDS incluía as marcas de nicho (maurten/gu/sis/clif/honey stinger) que deveria barrar. vs_020..025 saíram diários no fundo (48-163, maioria 0 share).",
+        "Vencedor: draft_029 nitrato/beterraba 779 (21 shares, contrarian, 14:50 UTC) — NOVA família. der_carga_carbo_curta reconfirmado 764.",
+        "Motor técnico der_ 406 / draft_ 290 vs lastro vs_ 123,5 (16/22 zero) / card_ 118. Slots 14-15h motor, 19-20h mortos.",
+        "Hook contrarian (343, n=25) > myth (312, n=16) reconfirmado.",
+        "card_* (n=11, med 118): janela do dono fecha ~24/11; recomendação por dados = pausar/retrabalhar."
+      ],
+      "key_decisions": [
+        "EXECUTADO (fix de código): corrigida a allowlist MAINSTREAM_BRANDS no quality_gate.py — só marcas de massa; endurance só via distinct_formulas:true. Testado nos 25 vs_ reais (21 reprovam).",
+        "+1 vencedor (draft_029 nitrato 779) + nova família nitrato/beterraba; +2 derivados na fila.",
+        "failure_log atualizado com a root cause do vazamento.",
+        "REESCALADO ao Victor: horário dos dispatches (19-20h mortos), claim-check (0 em 3+ semanas) e token do Mac expirado — fora do alcance do loop."
+      ]
     }
   ],
   "account": {

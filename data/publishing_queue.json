@@ -1398,6 +1398,28 @@
       "notes": "marca x marca — category:isotonico-pronto, pair:gatorade-powerade",
       "published_at": "2026-11-21T20:25:42.282031+00:00",
       "post_id": "18086441240343005"
+    },
+    {
+      "local_id": "der_nitrato_dose",
+      "format": "carousel",
+      "topic": "nitrato/beterraba: dose que realmente funciona (6,4–12,8 mmol) e timing (2–3h antes)",
+      "hook": "A dose de beterraba que funciona não é a do rótulo do suco.",
+      "status": "draft",
+      "created_at": "2026-11-22",
+      "scheduled_for": null,
+      "priority": 1,
+      "notes": "Derivado do vencedor draft_029 (nitrato 779, contrarian, 21 shares). NOVA família nitrato/beterraba. Ângulo prático-acionável: dose eficaz em mmol de NO3-, janela 2-3h pré-prova, forma (suco concentrado vs shot). Hook contrarian+numérico. Slot técnico 14-15h UTC, com foto. Fontes: Jones et al. (nitrato e desempenho), reviews de dose-resposta — CONFERIR no PubMed antes de render."
+    },
+    {
+      "local_id": "der_nitrato_quem_responde",
+      "format": "carousel",
+      "topic": "quem responde (e quem não) ao nitrato: nível de treino, tipo de fibra, uso de antisséptico bucal",
+      "hook": "Enxaguante bucal pode anular o seu suco de beterraba.",
+      "status": "draft",
+      "created_at": "2026-11-22",
+      "scheduled_for": null,
+      "priority": 2,
+      "notes": "2º derivado da família nitrato. Ângulo contraintuitivo forte (o eixo nitrato→nitrito→NO depende de bactérias bucais; antisséptico corta o efeito). Reforça o insight do vencedor (atleta treinado responde menos). Slot 14-15h UTC, foto. CONFERIR fontes (Govoni/boca+nitrato; status de treino) no PubMed antes de render."
     }
   ]
 }

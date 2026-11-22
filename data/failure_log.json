@@ -166,7 +166,15 @@
       "diagnosis": "formato + horário (SOB OBSERVAÇÃO — decisão do dono)",
       "detail": "Série card_* (volta do estático, diretriz do Victor 27/10) nos primeiros 4 posts: card_001=89, card_003=86, card_004=131, card_002=175 — mediana 110, todos no fundo, mesmo padrão da antiga série estática 'você sabia'. Saem ~22h UTC (fora de qualquer janela). AMOSTRA PEQUENA (n=4, ~1 semana). Por diretriz do Victor a série NÃO é re-pausada automaticamente: medir separadamente, reportar, decidir com o Victor após ≥4 semanas.",
       "idea_verdict": "manter por diretriz do dono; reportar tendência fraca; reavaliar com o Victor em ≥4 semanas; ideias (ciência) são boas — se a série for encerrada, reaproveitar como carrossel"
+    },
+    {
+      "local_id": "vs_commodity_allowlist_leak_2026-11",
+      "post_id": "vs_020..vs_024",
+      "diagnosis": "formato+curadoria (ROOT CAUSE em código)",
+      "reach_median": 101,
+      "detail": "A trava VERSUS_COMMODITY_BLOCKED (11/15) VAZOU por 1 semana: a allowlist MAINSTREAM_BRANDS incluía as próprias marcas de nicho de endurance (maurten, gu, sis, clif, honey stinger), então todo versus de gel/goma/bebida de nicho passava como 'mainstream'. Resultado: vs_020 (GU×Clif 163), vs_021 (SiS×Maurten 93), vs_022 (Honey Stinger×GU 65), vs_023 (Honey Stinger×Clif 48), vs_024 (GU×Integralmédica 107) saíram diários no slot morto 20h UTC, maioria 0 share. CORRIGIDO 11/22: allowlist reduzida a marcas de massa (Gatorade/Powerade/Coca/Red Bull/Monster/Nestlé); endurance só via distinct_formulas:true. Testado nos 25 arquivos vs_ reais: 21 reprovam, só mainstream (vs_009/025) e distinct (vs_021) passam.",
+      "lesson": "4ª repetição da mesma lição: decisão de curadoria que importa tem de ser enforçada em código E a regra precisa ser testada contra os arquivos reais — uma allowlist mal calibrada é pior que nenhuma, porque dá falsa sensação de trava."
     }
   ],
-  "_last_review": "2026-11-15"
+  "_last_review": "2026-11-22"
 }

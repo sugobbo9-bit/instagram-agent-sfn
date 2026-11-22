@@ -20,10 +20,16 @@ from config import CAROUSEL_DIMENSIONS, REEL_DIMENSIONS
 # (campo "distinct_formulas": true, ex. hidrogel x gel comum).
 # Reversivel: VERSUS_COMMODITY_BLOCKED = False reativa o formato.
 VERSUS_COMMODITY_BLOCKED = True
+# 2026-11-22 — allowlist CORRIGIDA. A versao anterior incluia marcas de
+# NICHO de endurance (maurten, gu, sis, clif, honey stinger), o que anulava
+# a trava: todo versus de gel/goma/bebida de nicho passava como "mainstream"
+# e vs_020..025 saiam diarios no fundo do feed (reach 48-163, maioria 0 share).
+# Mainstream = marca de MASSA que qualquer pessoa conhece. Marca de endurance
+# so entra no versus via "distinct_formulas": true (gap real de formula,
+# ex. hidrogel Maurten x gel comum) — nunca nicho-vs-nicho do mesmo produto.
 MAINSTREAM_BRANDS = (
     "gatorade", "powerade", "coca-cola", "coca cola", "red bull", "redbull",
-    "maurten", "gu energy", "gu ", "sis", "science in sport", "clif",
-    "honey stinger", "monster", "nestle", "nestlé",
+    "monster", "nestle", "nestlé",
 )
 
 
