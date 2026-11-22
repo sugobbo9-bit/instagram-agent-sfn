@@ -786,3 +786,10 @@
 {"ts": "2026-11-21T20:25:42.281853+00:00", "level": "INFO", "msg": "PUBLICADO: vs_025 -> media_id 18086441240343005"}
 {"ts": "2026-11-21T20:25:42.305310+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
 {"ts": "2026-11-22T19:01:38.001489+00:00", "level": "INFO", "msg": "Fila sem itens aprovados. Nada a publicar."}
+{"ts": "2026-11-22T19:58:00.903308+00:00", "level": "INFO", "msg": "Publicando vs_026 (carousel) \u2014 nitrato/beterraba em p\u00f3: Dux Nitra Beet 400 vs Dobro BTNIT400 (r\u00f3tulo lado a lado)"}
+{"ts": "2026-11-22T19:58:00.908012+00:00", "level": "INFO", "msg": "Quality gate aprovado."}
+{"ts": "2026-11-22T19:58:00.908112+00:00", "level": "INFO", "msg": "7 imagens: https://raw.githubusercontent.com/sugobbo9-bit/instagram-agent-sfn/main/content/drafts/vs_026/slide_01.png"}
+{"ts": "2026-11-22T19:58:02.239544+00:00", "level": "INFO", "msg": "Todas as imagens acessiveis publicamente."}
+{"ts": "2026-11-22T19:58:38.728061+00:00", "level": "INFO", "msg": "7 containers filhos criados."}
+{"ts": "2026-11-22T19:58:52.367753+00:00", "level": "INFO", "msg": "PUBLICADO: vs_026 -> media_id 17965628274208304"}
+{"ts": "2026-11-22T19:58:52.391335+00:00", "level": "INFO", "msg": "Banco de dados atualizado."}
